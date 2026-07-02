@@ -1,29 +1,33 @@
 ---
 title: "Bilancio libico"
 tags: ["#geopolitica", "#influenza"]
-date: 2026-07-02
+date: 2026-07-03
 status: "draft"
 depth: "standard"
-sources: "1"
+sources: "3"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-11-18)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-11-18, 2026-04-11; BBC Monitoring 2026-04-20)"
 ---
 
 # Bilancio libico
 
 Processo di ricomposizione finanziaria tra le due amministrazioni rivali della [[Libia]],
-leva centrale della stabilizzazione sostenuta dalla [[Mediazione statunitense]].
+leva centrale della stabilizzazione sostenuta dalla [[Mediazione statunitense]] e custodito dalla
+[[Banca centrale libica]].
 
-## Fatti verificati [HIGH confidence]
-- **18 novembre 2025**: le due camere — Camera dei Rappresentanti (HoR, est/Bengasi) e Alto
-  Consiglio di Stato (Tripoli) — firmano un accordo per un **"programma di sviluppo unificato"**,
-  primo passo verso l'unificazione delle finanze. `[verificato: Reuters]`
-- La Libia non ha un bilancio unificato **da oltre un decennio**; la spesa per lo sviluppo è
-  storicamente il canale per contendersi i miliardi di proventi petroliferi. `[verificato: Reuters]`
-- Contesto: il GNU di Dbeibah (installato via processo ONU nel 2021) non è più riconosciuto
-  dall'HoR (eletto nel 2014).
+## Tappe verificate [HIGH confidence]
+- **18 nov 2025**: HoR (est) e Alto Consiglio di Stato (ovest) firmano un "programma di sviluppo
+  unificato", primo passo verso l'unificazione delle finanze. `[verificato: Reuters]`
+- **11 apr 2026**: approvato il **primo bilancio statale unificato in 13 anni** — 190 mld di dinari
+  (~29,95 mld $), 12 mld alla NOC. `[verificato: Reuters]`
+- Accolto con favore da Qatar, Arabia Saudita, Egitto, USA, Turchia, UE, UAE, UK, Italia. `[verificato: BBC Monitoring]`
+
+## Sotto la superficie [MEDIUM confidence]
+Analisti (Chatham House) avvertono: il bilancio "legittima" di fatto [[Haftar]], che mantiene vendite
+di petrolio off-book e il controllo delle infrastrutture energetiche a est.
 
 ## Fonti
-- [Reuters — Rival Libya parliaments agree unified development programme](https://www.reuters.com/world/africa/rival-libya-parliaments-agree-unified-development-programme-central-bank-says-2025-11-18/) (accesso 2026-07-02)
+- [Reuters — Libya signs first unified state budget](https://www.reuters.com/) (accesso 2026-07-03)
+- [BBC Monitoring — Several countries welcome unified budget](https://monitoring.bbc.co.uk/product/b0005s0l) (accesso 2026-07-03)

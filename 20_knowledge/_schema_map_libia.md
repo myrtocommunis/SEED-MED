@@ -71,3 +71,11 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 |---------------------|---------|-------|
 | `Opec` | Uscita UAE dall'OPEC (apr 2026); Libia +1 mln bpd; quote e prezzi | **draft** ✓ |
 | `Emirati` (arricchita) | Aggiunta dimensione energetica: exit OPEC, frizioni con Riyadh | **draft** ✓ |
+
+## Estensione — Finanza & istituzioni economiche (6 PDF, 2026-07-03)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Libyan investment authority` | Fondo sovrano ~68 mld $ congelato; Kirkoswald; causa Al-Kharafi | **draft** ✓ |
+| `Banca centrale libica` | Naji Issa; bilancio 190 mld dinari; ispezione K2; banca parallela est | **draft** ✓ |
+| `Bilancio libico` (arricchito) | Firma 11/4 (190 mld dinari, ~30 mld $); legittima Haftar | **draft** ✓ |
+> Lead (Italia): raffineria Fezzan — impresa italiana Progetti Europa & Global subentra a Petrofac (da estrarre in futuro).
