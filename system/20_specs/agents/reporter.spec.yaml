@@ -4,7 +4,7 @@ status: "draft"
 role: "Synthesis & Report Producer"
 archetype: "output-producer"
 persona: "Strategic Analyst — calibrato per audience"
-domain: "OSINT & Geopolitics"
+domain: "Geopolitica del Mediterraneo — prospettiva italiana"
 report_style: "assessment"
 cognitive_pattern:
   fabric_patterns: ["write_essay", "summarize"]

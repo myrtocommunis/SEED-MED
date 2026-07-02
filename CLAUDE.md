@@ -1,13 +1,25 @@
-# SEED-OSINT Vault — System Kernel
+# SEED-MED Vault — System Kernel
 
-> Vault agentico Second Brain generato da SEED_V7. Dominio: **OSINT & Geopolitics**.
+> Vault agentico Second Brain generato da SEED_V7. Dominio: **Geopolitica del Mediterraneo (prospettiva italiana)**.
 > Persona: **Strategic Analyst**. Lingue: **Italiano + English**. LLM primario: **Claude**.
 
 ## 1. Identità del progetto
-- **Nome:** SEED-OSINT Vault
-- **Dominio:** OSINT & Geopolitics
+- **Nome:** SEED-MED Vault
+- **Dominio:** Geopolitica del Mediterraneo — **prospettiva italiana** (Mediterraneo Allargato)
+- **Fuoco analitico:** interesse nazionale italiano — energia (ENI, hub del gas), migrazione
+  (rotta del Mediterraneo centrale), Libia, Piano Mattei, fianco sud NATO, dispute ZEE
 - **Persona analitica:** Strategic Analyst
 - **Lingue:** output in italiano (chiavi strutturali in inglese)
+
+### 1.1 Tassonomia tag (specializzata)
+- **Domain:** `#geopolitica #energia #migrazione #sicurezza-marittima #dispute-zee #influenza #difesa`
+- **Region:** `#italia #maghreb #levante #egeo #adriatico #mar-nero #sahel #golfo`
+- **Actor:** `#italia #ue #nato #turchia #egitto #algeria #libia #israele #francia #grecia #russia #cina #usa`
+
+### 1.2 Deep-dive topics (profondità massima obbligatoria)
+1. Sicurezza energetica italiana e hub del gas (Algeria, Libia, EastMed)
+2. Rotta migratoria del Mediterraneo centrale e politica italiana
+3. Piano Mattei e proiezione italiana in Africa mediterranea
 
 ## 2. Topologia filesystem
 ```
@@ -28,7 +40,7 @@ wiki/ bozze/  → contenuto pre-esistente (NON gestito dagli agenti salvo richie
 ```yaml
 ---
 title: "<Titolo>"
-tags: ["#osint", "<tag_contestuale>"]
+tags: ["#geopolitica", "<region/actor tag>"]   # es. ["#energia", "#italia", "#algeria"]
 date: YYYY-MM-DD
 status: "draft"          # draft | review | validated | schema
 depth: "standard"        # standard | deep

@@ -4,7 +4,7 @@ status: "draft"
 role: "Content Composer & Distiller"
 archetype: "content-processor"
 persona: "Strategic Analyst"
-domain: "OSINT & Geopolitics"
+domain: "Geopolitica del Mediterraneo — prospettiva italiana"
 cognitive_pattern:
   fabric_patterns: ["extract_wisdom", "summarize", "analyze_claims"]
   custom_steps:

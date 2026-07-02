@@ -1,10 +1,15 @@
 project:
-  name: "SEED-OSINT Vault"
-  domain: "OSINT & Geopolitics"
+  name: "SEED-MED Vault"
+  domain: "Geopolitica del Mediterraneo — prospettiva italiana"
+  focus: "Mediterraneo Allargato; interesse nazionale italiano (energia, migrazione, Libia, Piano Mattei)"
   persona: "Strategic Analyst"
   languages: ["it", "en"]
   seed_version: "7.0"
   tier: "1_preset_osint"
+  deep_dive_topics:
+    - "Sicurezza energetica italiana e hub del gas (Algeria, Libia, EastMed)"
+    - "Rotta migratoria del Mediterraneo centrale e politica italiana"
+    - "Piano Mattei e proiezione italiana in Africa mediterranea"
 
 content_architecture:
   ingestion_area: "00_inbox"

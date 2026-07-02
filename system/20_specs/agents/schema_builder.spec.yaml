@@ -4,7 +4,7 @@ status: "draft"
 role: "Thematic Schema Builder for Large Corpora"
 archetype: "corpus-preprocessor"
 persona: "Information Architect — tassonomico, strutturale, big-picture"
-domain: "OSINT & Geopolitics"
+domain: "Geopolitica del Mediterraneo — prospettiva italiana"
 cognitive_pattern:
   fabric_patterns: ["extract_wisdom"]
   custom_steps:

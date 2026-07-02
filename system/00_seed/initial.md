@@ -7,7 +7,8 @@ architecture_tier: "1_preset_osint"
 # Vault Initial Configuration
 
 ## Domain
-domain: "OSINT & Geopolitics"
+domain: "Geopolitica del Mediterraneo — prospettiva italiana"
+focus: "Mediterraneo Allargato, interesse nazionale italiano"
 languages: ["en", "it"]
 persona: "Strategic Analyst"
 
@@ -19,11 +20,25 @@ has_local_inference: "false"
 deferred_agents: "false"
 local_models: []
 
-## Domain Parameters (OSINT Preset — prepackaged)
-key_terms: []
+## Domain Parameters (Specializzazione: Geopolitica del Mediterraneo, Italia-centrica)
+key_terms:
+  - "Mediterraneo Allargato"
+  - "Piano Mattei"
+  - "hub del gas / diversificazione energetica (Algeria, Libia, EastMed)"
+  - "ENI"
+  - "rotta del Mediterraneo centrale"
+  - "Memorandum Italia-Libia 2017"
+  - "Blue Homeland (Mavi Vatan)"
+  - "dispute ZEE"
+  - "fianco sud NATO / presenza navale italiana"
+  - "Processo di Barcellona / Unione per il Mediterraneo"
 tag_taxonomy:
-  domain: ["#osint", "#geopolitics", "#intelligence", "#threat", "#sourcing"]
-  context: ["#region", "#actor", "#event", "#timeline"]
-deep_dive_topics: []
+  domain: ["#geopolitica", "#energia", "#migrazione", "#sicurezza-marittima", "#dispute-zee", "#influenza", "#difesa"]
+  region: ["#italia", "#maghreb", "#levante", "#egeo", "#adriatico", "#mar-nero", "#sahel", "#golfo"]
+  actor: ["#italia", "#ue", "#nato", "#turchia", "#egitto", "#algeria", "#libia", "#israele", "#francia", "#grecia", "#russia", "#cina", "#usa"]
+deep_dive_topics:
+  - "Sicurezza energetica italiana e hub del gas (Algeria, Libia, EastMed)"
+  - "Rotta migratoria del Mediterraneo centrale e politica italiana"
+  - "Piano Mattei e proiezione italiana in Africa mediterranea"
 report_style: "assessment"
 custom_directory_mapping: ""
