@@ -14,7 +14,13 @@
 | `Blue homeland` | dispute_zee_egeo.md | draft (curator) |
 
 ## Entità atomiche (region/actor)
-`Italia` · `Algeria` · `Libia` · `Eni` · `Turchia` · `Grecia` · `Cipro` · `Migrazione`
+`Italia` · `Algeria` · `Grecia` · `Cipro` · `Migrazione`
+
+### ⭐ Hub centrali (note complete, elevate da stub)
+Selezionate per centralità misurata + strutturale. Framing: **arena · strumento · rivale**.
+- **`Libia`** — *arena*: unico attore sui 3 assi (energia/migrazione/sicurezza).
+- **`Eni`** — *strumento*: massima connettività; proiezione operativa italiana.
+- **`Turchia`** — *rivale*: system-shaper dell'asse sicurezza/ZEE (Blue Homeland).
 
 ## Regole di collocazione (splitting MECE rilevato)
 - "Diversificazione energetica **e** gasdotti" → `Diversificazione energetica` + `Gasdotti`
