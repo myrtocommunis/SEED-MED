@@ -17,3 +17,4 @@
 ## [2026-07-03] curator | Estensione finanza: LIA + CBL (nuove) + Bilancio arricchito, 6 PDF
 ## [2026-07-03] curator | Estensione Sahel/Sudan: Sudan + Ciad + Sahel (nuove), 11 PDF
 ## [2026-07-03] curator | Aggiunta nota Niger (corridoio migratorio, uranio, confine), collegata da Sahel, 3 PDF
+## [2026-07-03] curator | Full ingest Batch 1/4 (25 PDF): +Regno unito, Tunisia, Saif al-islam; Turchia/Milizie arricchite
