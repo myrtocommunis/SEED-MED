@@ -18,7 +18,7 @@ alimenta la [[Migrazione]] verso l'Europa e la penetrazione russa.
 
 ## Fezzan, crocevia di traffici [HIGH confidence]
 - Regione arida sotto fragile controllo di [[Haftar]], attraversata da traffici di oro, droghe ed esseri
-  umani; l'abrogazione (2023) della legge anti-smuggling in Niger ha riattivato il **corridoio Niger-Libia**. `[verificato: BBC/Mali Actu]`
+  umani; l'abrogazione (2023) della legge anti-smuggling in Niger ha riattivato il **corridoio [[Niger]]-Libia**. `[verificato: BBC/Mali Actu]`
 - **31 gen 2026**: attacco al confine col Niger (3 soldati LNA uccisi); i "rivoluzionari del sud" accusano
   Haftar di marginalizzare il Fezzan. `[verificato: BBC Monitoring]`
 

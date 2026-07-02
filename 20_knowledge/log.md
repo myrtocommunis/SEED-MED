@@ -16,3 +16,4 @@
 ## [2026-07-03] curator | Aggiunta OPEC: nota Opec (uscita UAE) + arricchimento Emirati (dimensione energetica), 5 PDF
 ## [2026-07-03] curator | Estensione finanza: LIA + CBL (nuove) + Bilancio arricchito, 6 PDF
 ## [2026-07-03] curator | Estensione Sahel/Sudan: Sudan + Ciad + Sahel (nuove), 11 PDF
+## [2026-07-03] curator | Aggiunta nota Niger (corridoio migratorio, uranio, confine), collegata da Sahel, 3 PDF

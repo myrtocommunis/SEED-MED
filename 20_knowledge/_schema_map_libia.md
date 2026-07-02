@@ -86,3 +86,8 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | `Sudan` | Haftar arma l'RSF (addestrato in Libia); Egitto colpisce convogli; triangolo di confine | **draft** ✓ |
 | `Ciad` | CCMSR nel Fezzan poi espulso; forza congiunta di confine; dimensione Toubou | **draft** ✓ |
 | `Sahel` | Fezzan crocevia traffici; corridoio Niger-Libia; uranio russo Niamey-Bengasi | **draft** ✓ |
+
+## Aggiunta — Niger-Libia (3 PDF, 2026-07-03)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Niger` | Porta d'ingresso migratoria; deportazioni da Barak al-Shatt; uranio Orano→Bengasi | **draft** ✓ |
