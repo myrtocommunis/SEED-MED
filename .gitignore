@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Personal / local
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Obsidian workspace state (personal UI state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

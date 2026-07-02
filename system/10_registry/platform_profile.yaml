@@ -1,0 +1,35 @@
+platform:
+  name: "claude_code"
+  version: "detected_runtime"
+
+  agent_primitive:
+    name: "subagent"
+    file_format: "yaml_frontmatter_md"
+    file_path_template: ".claude/agents/{agent_id}.md"
+
+  system_prompt:
+    file_path: "CLAUDE.md"
+    format: "markdown"
+
+  detected_runtimes:
+    python_path: "/usr/local/bin/python3"
+    node_path: null
+    curl_path: "/usr/local/bin/curl"
+    powershell_available: false
+    os_flavor: "darwin"
+    os_version: "macOS 12.7.6"
+    hardware: "MacBookPro11,4 · i7-4770HQ · 16GB RAM · Intel Iris Pro"
+
+  llm_resource_pool:
+    strategy: "single_endpoint"
+    endpoints:
+      - id: "primary_provider"
+        url: null
+        type: "web_provider"
+        status: "online"
+
+  discovery_provenance:
+    docs_verified:
+      - "https://code.claude.com/docs/en/sub-agents"
+      - "https://code.claude.com/docs/en/memory"
+    verified_on: "2026-07-02"

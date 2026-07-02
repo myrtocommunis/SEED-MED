@@ -1,0 +1,1866 @@
+{
+  "Dashboarding con ai": [
+    "grezzi/bozze/estratti/Dashboarding con AI e Tecnologie Web — Plotly Studio, Lovable e Applicazioni No-Code per OSINT.md"
+  ],
+  "Tecnologie web": [
+    "grezzi/bozze/estratti/Dashboarding con AI e Tecnologie Web — Plotly Studio, Lovable e Applicazioni No-Code per OSINT.md"
+  ],
+  "Plotly studio": [
+    "grezzi/bozze/estratti/Dashboarding con AI e Tecnologie Web — Plotly Studio, Lovable e Applicazioni No-Code per OSINT.md"
+  ],
+  "Lovable": [
+    "grezzi/bozze/estratti/Dashboarding con AI e Tecnologie Web — Plotly Studio, Lovable e Applicazioni No-Code per OSINT.md"
+  ],
+  "Applicazioni no-code per osint": [
+    "grezzi/bozze/estratti/Dashboarding con AI e Tecnologie Web — Plotly Studio, Lovable e Applicazioni No-Code per OSINT.md"
+  ],
+  "Context window": [
+    "grezzi/bozze/estratti/Context Window — Limiti Computazionali LLM.md"
+  ],
+  "Limiti computazionali llm": [
+    "grezzi/bozze/estratti/Context Window — Limiti Computazionali LLM.md"
+  ],
+  "Power Automate": [
+    "grezzi/bozze/estratti/Power Automate Flows — fondamenti per automazione OSINT — estratto.md",
+    "grezzi/bozze/estratti/Business Intelligence Moderna e Strumenti Analytics — Ciclo BI, Power BI, DAX e Power Automate.md",
+    "grezzi/bozze/estratti/Power Automate e Data Driven Intelligence — Automazione Workflow e BI.md",
+    "grezzi/bozze/analisi/Da Power Automate ad Agentic AI — architettura agentica e ciclo P-D-A.md"
+  ],
+  "Fondamenti per automazione osint": [
+    "grezzi/bozze/estratti/Power Automate Flows — fondamenti per automazione OSINT — estratto.md"
+  ],
+  "Cyber": [
+    "grezzi/bozze/estratti/Cyber ed AI Generativa — Vulnerabilità LLM, Automazione ed Architettura OSINT.md",
+    "grezzi/bozze/estratti/OSINT, Cyber e AI Generativa — Vulnerabilita' LLM e Automazione OSINT (n8n).md",
+    "grezzi/bozze/analisi/OSINT, Cyber e AI Generativa — Vulnerabilità LLM e Automazione.md"
+  ],
+  "Intelligenza artificiale generativa": [
+    "grezzi/bozze/estratti/Cyber ed AI Generativa — Vulnerabilità LLM, Automazione ed Architettura OSINT.md",
+    "grezzi/bozze/estratti/AI Generativa, LLM, Embedding e Trasformatori.md",
+    "grezzi/bozze/estratti/OSINT, Cyber e AI Generativa — Vulnerabilita' LLM e Automazione OSINT (n8n).md",
+    "grezzi/bozze/analisi/AI Generativa, Large Language Models e Prompt Engineering.md",
+    "grezzi/bozze/analisi/OSINT, Cyber e AI Generativa — Vulnerabilità LLM e Automazione.md"
+  ],
+  "Vulnerabilità llm": [
+    "grezzi/bozze/estratti/Cyber ed AI Generativa — Vulnerabilità LLM, Automazione ed Architettura OSINT.md",
+    "grezzi/bozze/analisi/OSINT, Cyber e AI Generativa — Vulnerabilità LLM e Automazione.md"
+  ],
+  "Automazione": [
+    "grezzi/bozze/estratti/Cyber ed AI Generativa — Vulnerabilità LLM, Automazione ed Architettura OSINT.md",
+    "grezzi/bozze/analisi/OSINT, Cyber e AI Generativa — Vulnerabilità LLM e Automazione.md"
+  ],
+  "Architettura osint": [
+    "grezzi/bozze/estratti/Cyber ed AI Generativa — Vulnerabilità LLM, Automazione ed Architettura OSINT.md"
+  ],
+  "Regressione": [
+    "grezzi/bozze/estratti/Regressione e Classificazione in KNIME — Applicazioni di Intelligence OSINT.md",
+    "grezzi/bozze/estratti/Machine Learning Supervisionato e Non Supervisionato — Regressione, Classificazione e Clustering K-Means.md"
+  ],
+  "KNIME": [
+    "grezzi/bozze/estratti/Regressione e Classificazione in KNIME — Applicazioni di Intelligence OSINT.md",
+    "grezzi/bozze/estratti/Metodologia Machine Learning e Operatività Piattaforma KNIME.md",
+    "grezzi/bozze/estratti/Regressione Lineare, Logistica, Classificazione e KNIME Pipeline per OSINT.md",
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 2 — Piattaforma KNIME per Machine Learning No-Code.md"
+  ],
+  "Applicazioni di intelligence osint": [
+    "grezzi/bozze/estratti/Regressione e Classificazione in KNIME — Applicazioni di Intelligence OSINT.md"
+  ],
+  "Prompt engineering": [
+    "grezzi/bozze/estratti/Prompt Engineering, Jailbreaking e Security LLM.md",
+    "grezzi/bozze/estratti/Impatto del Prompt Engineering sul Mercato del Lavoro.md",
+    "grezzi/bozze/estratti/Prompt Engineering, Reasoning Patterns e Agentic AI per OSINT.md",
+    "grezzi/bozze/estratti/Prompt Engineering e Prompt Patterns per l'OSINT — Persona, Template e Pipeline di Analisi.md",
+    "grezzi/bozze/estratti/Prompt Engineering e CoT.md",
+    "grezzi/bozze/analisi/AI Generativa, Large Language Models e Prompt Engineering.md"
+  ],
+  "Jailbreaking": [
+    "grezzi/bozze/estratti/Prompt Engineering, Jailbreaking e Security LLM.md",
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Jailbreaking, Allucinazioni, OSINT 3.0.md"
+  ],
+  "Security llm": [
+    "grezzi/bozze/estratti/Prompt Engineering, Jailbreaking e Security LLM.md"
+  ],
+  "n8n": [
+    "grezzi/bozze/estratti/Workflow Automation n8n — AI Agent, Gmail e Telegram.md",
+    "grezzi/bozze/estratti/Scraping & Automazione OSINT — HTTP, REST API, JSON, Apify e n8n.md",
+    "grezzi/bozze/estratti/Low-code e no-code per raccolta dati OSINT — Make, n8n, Apify, Octoparse.md",
+    "grezzi/bozze/estratti/OSINT, Cyber e AI Generativa — Vulnerabilita' LLM e Automazione OSINT (n8n).md",
+    "grezzi/bozze/analisi/LLM-GenAI-Agent Patterns — Da ChatGPT ad Agenti OSINT con Langflow e n8n.md"
+  ],
+  "Ai agent": [
+    "grezzi/bozze/estratti/Workflow Automation n8n — AI Agent, Gmail e Telegram.md"
+  ],
+  "Gmail": [
+    "grezzi/bozze/estratti/Workflow Automation n8n — AI Agent, Gmail e Telegram.md"
+  ],
+  "Telegram": [
+    "grezzi/bozze/estratti/Workflow Automation n8n — AI Agent, Gmail e Telegram.md"
+  ],
+  "Teoria strategica della decisione": [
+    "grezzi/bozze/estratti/Teoria Strategica della Decisione — John Boyd, Incertezza e Ciclo OODA.md"
+  ],
+  "John boyd": [
+    "grezzi/bozze/estratti/Teoria Strategica della Decisione — John Boyd, Incertezza e Ciclo OODA.md"
+  ],
+  "Incertezza": [
+    "grezzi/bozze/estratti/Teoria Strategica della Decisione — John Boyd, Incertezza e Ciclo OODA.md"
+  ],
+  "Ciclo OODA": [
+    "grezzi/bozze/estratti/Teoria Strategica della Decisione — John Boyd, Incertezza e Ciclo OODA.md",
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed OSINT — Ciclo OODA, SISR e Tecniche di Analisi Strutturata.md",
+    "grezzi/bozze/estratti/Pensiero Strategico e Ciclo Intelligence — Il Loop OODA di Boyd, Decision-Making e Bias Cognitivi.md",
+    "grezzi/bozze/estratti/Il Ciclo OODA e la Velocità Decisionale.md",
+    "grezzi/bozze/analisi/OSINT nella Sicurezza Nazionale, OODA, SISR, SAT.md",
+    "grezzi/bozze/analisi/Intelligence Strategica e Geopolitica — Ciclo OODA, Framework SISR e All-Source Intelligence.md"
+  ],
+  "Shodan (motore di ricerca)": [
+    "grezzi/bozze/estratti/Shodan e IoT Scanning per OSINT.md",
+    "grezzi/bozze/estratti/Shodan — Motore di Ricerca per IoT e Infrastrutture.md"
+  ],
+  "Iot scanning per osint": [
+    "grezzi/bozze/estratti/Shodan e IoT Scanning per OSINT.md"
+  ],
+  "Algoritmi": [
+    "grezzi/bozze/estratti/Algoritmi e Disinformazione — Platform Capitalism.md",
+    "grezzi/bozze/estratti/Algoritmi, Potere e Architettura delle Piattaforme.md",
+    "grezzi/bozze/analisi/Algoritmi e Disinformazione.md"
+  ],
+  "Disinformazione": [
+    "grezzi/bozze/estratti/Algoritmi e Disinformazione — Platform Capitalism.md",
+    "grezzi/bozze/estratti/Gestione di uno Scenario Complesso di Disinformazione.md",
+    "grezzi/bozze/estratti/Framework DISARM — Contrasto alla Disinformazione.md",
+    "grezzi/bozze/estratti/Strategie di Disinformazione e Information Warfare.md",
+    "grezzi/bozze/estratti/Lista Strumenti per l'Analisi della Disinformazione — Dottrina e Strumenti Operativi.md",
+    "grezzi/bozze/estratti/Casi Studio Comparati — Operazioni di Disinformazione Documentate.md",
+    "grezzi/bozze/estratti/Modulo 4 Overview – Algoritmi e Disinformazione — Approccio Critico per Analisti.md",
+    "grezzi/bozze/analisi/Gestione scenario complesso disinformazione — Framework FIMI, DISARM, ABCDE, 5D-6D+1F.md",
+    "grezzi/bozze/analisi/Algoritmi e Disinformazione.md",
+    "grezzi/bozze/analisi/Tassonomia della Disinformazione e Regimi di Verità.md"
+  ],
+  "Capitalismo delle piattaforme": [
+    "grezzi/bozze/estratti/Algoritmi e Disinformazione — Platform Capitalism.md",
+    "grezzi/bozze/estratti/Infosfera, Platform Capitalism e Surveillance Capitalism per l'OSINT.md",
+    "grezzi/bozze/estratti/Piattaforme, Manipolazione Informativa e Platform Capitalism.md",
+    "grezzi/bozze/estratti/Teoria dell'Infosfera e Platform Capitalism.md"
+  ],
+  "Fonti osint": [
+    "grezzi/bozze/estratti/Fonti OSINT — Catalogo Strutturato.md",
+    "grezzi/bozze/analisi/Fonti OSINT.md"
+  ],
+  "Catalogo strutturato": [
+    "grezzi/bozze/estratti/Fonti OSINT — Catalogo Strutturato.md"
+  ],
+  "Maskirovka": [
+    "grezzi/bozze/estratti/Maskirovka.md"
+  ],
+  "Network intelligence": [
+    "grezzi/bozze/estratti/Digital Network Intelligence e Cyber Surveillance — Leaky Documents, XKEYSCORE e Rivelazioni Snowden.md"
+  ],
+  "Cyber surveillance": [
+    "grezzi/bozze/estratti/Digital Network Intelligence e Cyber Surveillance — Leaky Documents, XKEYSCORE e Rivelazioni Snowden.md"
+  ],
+  "Leaky documents": [
+    "grezzi/bozze/estratti/Digital Network Intelligence e Cyber Surveillance — Leaky Documents, XKEYSCORE e Rivelazioni Snowden.md"
+  ],
+  "Xkeyscore": [
+    "grezzi/bozze/estratti/Digital Network Intelligence e Cyber Surveillance — Leaky Documents, XKEYSCORE e Rivelazioni Snowden.md"
+  ],
+  "Rivelazioni snowden": [
+    "grezzi/bozze/estratti/Digital Network Intelligence e Cyber Surveillance — Leaky Documents, XKEYSCORE e Rivelazioni Snowden.md"
+  ],
+  "Dinamiche di piattaformizzazione": [
+    "grezzi/bozze/estratti/Dinamiche di Piattaformizzazione ed Economia Digitale.md"
+  ],
+  "Economia digitale": [
+    "grezzi/bozze/estratti/Dinamiche di Piattaformizzazione ed Economia Digitale.md"
+  ],
+  "Organizzare": [
+    "grezzi/bozze/estratti/Organizzare e Diffondere la Conoscenza — Chain of Custody e Reporting.md"
+  ],
+  "Diffondere la conoscenza": [
+    "grezzi/bozze/estratti/Organizzare e Diffondere la Conoscenza — Chain of Custody e Reporting.md"
+  ],
+  "Catena di custodia": [
+    "grezzi/bozze/estratti/Organizzare e Diffondere la Conoscenza — Chain of Custody e Reporting.md",
+    "grezzi/bozze/estratti/Chain of Custody.md"
+  ],
+  "Reporting": [
+    "grezzi/bozze/estratti/Organizzare e Diffondere la Conoscenza — Chain of Custody e Reporting.md"
+  ],
+  "La bussola osint": [
+    "grezzi/bozze/estratti/La Bussola OSINT e l'Orientamento Metodologico.md"
+  ],
+  "L'orientamento metodologico": [
+    "grezzi/bozze/estratti/La Bussola OSINT e l'Orientamento Metodologico.md"
+  ],
+  "Definizione": [
+    "grezzi/bozze/estratti/Definizione e Ambito della Computer Vision.md"
+  ],
+  "Visione artificiale": [
+    "grezzi/bozze/estratti/Definizione e Ambito della Computer Vision.md",
+    "grezzi/bozze/analisi/Valutazione Epistemologica — Computer Vision applicata all'OSINT.md"
+  ],
+  "Bias cognitivo": [
+    "grezzi/bozze/estratti/Metodologie Strutturate per la Riduzione dei Bias Cognitivi.md",
+    "grezzi/bozze/estratti/Pensiero Strategico e Ciclo Intelligence — Il Loop OODA di Boyd, Decision-Making e Bias Cognitivi.md",
+    "grezzi/bozze/estratti/Bias Cognitivi nell'Analisi Intelligence.md",
+    "grezzi/bozze/estratti/Neuroscienze e Tecniche Analitiche Strutturate — Sistema 1 e 2, Bias Cognitivi e Metodi di Forecasting.md"
+  ],
+  "Elaborazione big data": [
+    "grezzi/bozze/estratti/Elaborazione Big Data e Trattamento dell'Output.md"
+  ],
+  "Trattamento dell'output": [
+    "grezzi/bozze/estratti/Elaborazione Big Data e Trattamento dell'Output.md"
+  ],
+  "Apprendimento automatico": [
+    "grezzi/bozze/estratti/Fondamenti di Machine Learning e Deep Learning – Introduzione.md",
+    "grezzi/bozze/estratti/Metodologia Machine Learning e Operatività Piattaforma KNIME.md",
+    "grezzi/bozze/estratti/Machine Learning Supervisionato e Non Supervisionato — Regressione, Classificazione e Clustering K-Means.md",
+    "grezzi/bozze/estratti/Case Study EDA e Machine Learning — Previsione Impatto Incidenti Cyber.md",
+    "grezzi/bozze/analisi/Analisi Didattica — Fondamenti di AI e Machine Learning per l'Intelligence.md"
+  ],
+  "Deep learning": [
+    "grezzi/bozze/estratti/Fondamenti di Machine Learning e Deep Learning – Introduzione.md",
+    "grezzi/bozze/estratti/Modulo ML-DL Deep Learning — Unsupervised Learning, NLP, Reti Neurali e Transformer.md",
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md",
+    "grezzi/bozze/estratti/Reti Neurali e Deep Learning.md",
+    "grezzi/bozze/estratti/Deep Learning, NLP e Reti Neurali Convoluzionali.md"
+  ],
+  "Sicurezza nazionale": [
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed OSINT — Ciclo OODA, SISR e Tecniche di Analisi Strutturata.md",
+    "grezzi/bozze/estratti/Evoluzione Tecnico-Operativa dell'OSINT e Sicurezza Nazionale.md",
+    "grezzi/bozze/estratti/Framework SISR e Sicurezza Nazionale — Legislazione ed Intelligence Istituzionale.md",
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed Intelligence Istituzionale — Lezioni DIS-Mithrandir 2025.md",
+    "grezzi/bozze/analisi/Analisi Critica DIS-Mithrandir — Sicurezza Nazionale ed OSINT.md",
+    "grezzi/bozze/analisi/OSINT e sicurezza nazionale — fondamenti, tecniche e futuro.md"
+  ],
+  "Osint": [
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed OSINT — Ciclo OODA, SISR e Tecniche di Analisi Strutturata.md",
+    "grezzi/bozze/estratti/Funzionamento dei Motori di Ricerca e OSINT.md",
+    "grezzi/bozze/estratti/OSINT, Cyber e AI Generativa — Vulnerabilita' LLM e Automazione OSINT (n8n).md",
+    "grezzi/bozze/estratti/SNA ed OSINT — Community Detection.md",
+    "grezzi/bozze/analisi/Analisi Critica DIS-Mithrandir — Sicurezza Nazionale ed OSINT.md",
+    "grezzi/bozze/analisi/OSINT, intelligence digitale, quadro giuridico e analisi strutturata.md",
+    "grezzi/bozze/analisi/OSINT, Cyber e AI Generativa — Vulnerabilità LLM e Automazione.md",
+    "grezzi/bozze/analisi/OSINT e sicurezza nazionale — fondamenti, tecniche e futuro.md"
+  ],
+  "Sistema di informazione per la sicurezza della Repubblica": [
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed OSINT — Ciclo OODA, SISR e Tecniche di Analisi Strutturata.md",
+    "grezzi/bozze/estratti/Framework SISR e Sicurezza Nazionale — Legislazione ed Intelligence Istituzionale.md",
+    "grezzi/bozze/estratti/Il Sistema di Intelligence Italiano — SISR, Legge 124-2007 e Vantaggio Decisionale.md",
+    "grezzi/bozze/analisi/OSINT nella Sicurezza Nazionale, OODA, SISR, SAT.md",
+    "grezzi/bozze/analisi/Intelligence Strategica e Geopolitica — Ciclo OODA, Framework SISR e All-Source Intelligence.md",
+    "grezzi/bozze/analisi/SISR, ICS 206-01 e Berkeley Protocol — Quadro istituzionale e normativo dell'OSINT.md"
+  ],
+  "Tecniche di analisi strutturata": [
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed OSINT — Ciclo OODA, SISR e Tecniche di Analisi Strutturata.md",
+    "grezzi/bozze/estratti/Tecniche di analisi strutturata, pensiero strategico a tre colori, All-Source Intelligence.md",
+    "grezzi/bozze/analisi/Tecniche di analisi strutturata, pensiero strategico a tre colori.md"
+  ],
+  "Neuroscienze cognitive": [
+    "grezzi/bozze/estratti/Neuroscienze Cognitive ed Intelligence Operativa.md",
+    "grezzi/bozze/analisi/Neuroscienze Cognitive e Bias.md"
+  ],
+  "Intelligence operativa": [
+    "grezzi/bozze/estratti/Neuroscienze Cognitive ed Intelligence Operativa.md"
+  ],
+  "Raccolta dati": [
+    "grezzi/bozze/estratti/Raccolta Dati e Analisi dei Metadati — Dati Primari, Struttura EXIF, Network Headers e E-mail Forensics.md",
+    "grezzi/bozze/estratti/Automazione OSINT – Big Data, ETL, Raccolta Dati e Data Mining.md"
+  ],
+  "Analisi dei metadati": [
+    "grezzi/bozze/estratti/Raccolta Dati e Analisi dei Metadati — Dati Primari, Struttura EXIF, Network Headers e E-mail Forensics.md"
+  ],
+  "Dati primari": [
+    "grezzi/bozze/estratti/Raccolta Dati e Analisi dei Metadati — Dati Primari, Struttura EXIF, Network Headers e E-mail Forensics.md"
+  ],
+  "Struttura exif": [
+    "grezzi/bozze/estratti/Raccolta Dati e Analisi dei Metadati — Dati Primari, Struttura EXIF, Network Headers e E-mail Forensics.md"
+  ],
+  "Network headers": [
+    "grezzi/bozze/estratti/Raccolta Dati e Analisi dei Metadati — Dati Primari, Struttura EXIF, Network Headers e E-mail Forensics.md"
+  ],
+  "E-mail forensics": [
+    "grezzi/bozze/estratti/Raccolta Dati e Analisi dei Metadati — Dati Primari, Struttura EXIF, Network Headers e E-mail Forensics.md"
+  ],
+  "Osint operativo": [
+    "grezzi/bozze/estratti/OSINT Operativo — Targeting Digitale e Corporate Intelligence (BI-CI).md"
+  ],
+  "Targeting digitale": [
+    "grezzi/bozze/estratti/OSINT Operativo — Targeting Digitale e Corporate Intelligence (BI-CI).md"
+  ],
+  "Corporate intelligence": [
+    "grezzi/bozze/estratti/OSINT Operativo — Targeting Digitale e Corporate Intelligence (BI-CI).md",
+    "grezzi/bozze/analisi/Tool OSINT — Blockchain, Corporate Intelligence e Workflow Automation.md"
+  ],
+  "Infosfera": [
+    "grezzi/bozze/estratti/L'Infosfera di Floridi e il Surveillance Capitalism — Layer Informativi e Infrastrutture Estrattive.md",
+    "grezzi/bozze/estratti/Infosfera, Platform Capitalism e Surveillance Capitalism per l'OSINT.md",
+    "grezzi/bozze/estratti/Teoria dell'Infosfera e Platform Capitalism.md",
+    "grezzi/bozze/analisi/Infosfera, Platform e Surveillance Capitalism — gap teorico-operativi.md"
+  ],
+  "Capitalismo della sorveglianza": [
+    "grezzi/bozze/estratti/L'Infosfera di Floridi e il Surveillance Capitalism — Layer Informativi e Infrastrutture Estrattive.md",
+    "grezzi/bozze/estratti/Infosfera, Platform Capitalism e Surveillance Capitalism per l'OSINT.md",
+    "grezzi/bozze/analisi/Infosfera, Platform e Surveillance Capitalism — gap teorico-operativi.md"
+  ],
+  "Layer informativi": [
+    "grezzi/bozze/estratti/L'Infosfera di Floridi e il Surveillance Capitalism — Layer Informativi e Infrastrutture Estrattive.md"
+  ],
+  "Infrastrutture estrattive": [
+    "grezzi/bozze/estratti/L'Infosfera di Floridi e il Surveillance Capitalism — Layer Informativi e Infrastrutture Estrattive.md"
+  ],
+  "Scraping & automazione osint": [
+    "grezzi/bozze/estratti/Scraping & Automazione OSINT — HTTP, REST API, JSON, Apify e n8n.md"
+  ],
+  "Http": [
+    "grezzi/bozze/estratti/Scraping & Automazione OSINT — HTTP, REST API, JSON, Apify e n8n.md"
+  ],
+  "Rest api": [
+    "grezzi/bozze/estratti/Scraping & Automazione OSINT — HTTP, REST API, JSON, Apify e n8n.md"
+  ],
+  "Json": [
+    "grezzi/bozze/estratti/Scraping & Automazione OSINT — HTTP, REST API, JSON, Apify e n8n.md"
+  ],
+  "Apify": [
+    "grezzi/bozze/estratti/Scraping & Automazione OSINT — HTTP, REST API, JSON, Apify e n8n.md",
+    "grezzi/bozze/estratti/Low-code e no-code per raccolta dati OSINT — Make, n8n, Apify, Octoparse.md"
+  ],
+  "Waymore": [
+    "grezzi/bozze/estratti/Waymore e archiviazione forense.md"
+  ],
+  "Archiviazione forense": [
+    "grezzi/bozze/estratti/Waymore e archiviazione forense.md"
+  ],
+  "Modelli generativi": [
+    "grezzi/bozze/estratti/Modelli Generativi — Autoencoder, VAE, GAN e Deepfake.md"
+  ],
+  "Autoencoder": [
+    "grezzi/bozze/estratti/Modelli Generativi — Autoencoder, VAE, GAN e Deepfake.md"
+  ],
+  "Vae": [
+    "grezzi/bozze/estratti/Modelli Generativi — Autoencoder, VAE, GAN e Deepfake.md"
+  ],
+  "Gan": [
+    "grezzi/bozze/estratti/Modelli Generativi — Autoencoder, VAE, GAN e Deepfake.md"
+  ],
+  "Deepfake": [
+    "grezzi/bozze/estratti/Modelli Generativi — Autoencoder, VAE, GAN e Deepfake.md",
+    "grezzi/bozze/estratti/Deepfake — Media Sintetici e Minaccia OSINT.md",
+    "grezzi/bozze/estratti/GEO-OSINT Satellitare e Tecniche di Deepfake Detection.md",
+    "grezzi/bozze/estratti/Deepfake e Media Sintetici.md",
+    "grezzi/bozze/estratti/Diffusion Models e Deepfake — Generazione AI per Immagini, Audio e Video.md",
+    "grezzi/bozze/analisi/AI Security, Deepfake e Crittografia — Minacce e difese nell'era OSINT.md"
+  ],
+  "Pensiero strategico": [
+    "grezzi/bozze/estratti/Pensiero Strategico e Ciclo Intelligence — Il Loop OODA di Boyd, Decision-Making e Bias Cognitivi.md"
+  ],
+  "Ciclo intelligence": [
+    "grezzi/bozze/estratti/Pensiero Strategico e Ciclo Intelligence — Il Loop OODA di Boyd, Decision-Making e Bias Cognitivi.md",
+    "grezzi/bozze/analisi/Ciclo intelligence, SAT, bias, AI-assisted foresight (Fase A).md"
+  ],
+  "Decision-making": [
+    "grezzi/bozze/estratti/Pensiero Strategico e Ciclo Intelligence — Il Loop OODA di Boyd, Decision-Making e Bias Cognitivi.md"
+  ],
+  "Evoluzione tecnico-operativa dell'osint": [
+    "grezzi/bozze/estratti/Evoluzione Tecnico-Operativa dell'OSINT e Sicurezza Nazionale.md"
+  ],
+  "Struttura didattica": [
+    "grezzi/bozze/estratti/Struttura Didattica e Programma Strategico — Il Master OSINT, Security Studies e Collaborazione Istituzionale DIS.md"
+  ],
+  "Programma strategico": [
+    "grezzi/bozze/estratti/Struttura Didattica e Programma Strategico — Il Master OSINT, Security Studies e Collaborazione Istituzionale DIS.md"
+  ],
+  "Il master osint": [
+    "grezzi/bozze/estratti/Struttura Didattica e Programma Strategico — Il Master OSINT, Security Studies e Collaborazione Istituzionale DIS.md"
+  ],
+  "Security studies": [
+    "grezzi/bozze/estratti/Struttura Didattica e Programma Strategico — Il Master OSINT, Security Studies e Collaborazione Istituzionale DIS.md"
+  ],
+  "Collaborazione istituzionale dis": [
+    "grezzi/bozze/estratti/Struttura Didattica e Programma Strategico — Il Master OSINT, Security Studies e Collaborazione Istituzionale DIS.md"
+  ],
+  "Osint basics": [
+    "grezzi/bozze/estratti/OSINT Basics — Fondamenti, Motori di Ricerca, Dorks, AML-CFT.md"
+  ],
+  "Fondamenti": [
+    "grezzi/bozze/estratti/OSINT Basics — Fondamenti, Motori di Ricerca, Dorks, AML-CFT.md",
+    "grezzi/bozze/analisi/LLM — Fondamenti, Architettura e Rischi per OSINT.md",
+    "grezzi/bozze/analisi/OSINT e sicurezza nazionale — fondamenti, tecniche e futuro.md"
+  ],
+  "Motori di ricerca": [
+    "grezzi/bozze/estratti/OSINT Basics — Fondamenti, Motori di Ricerca, Dorks, AML-CFT.md",
+    "grezzi/bozze/estratti/Motori di Ricerca e Algoritmi di Retrieval.md"
+  ],
+  "Dorks": [
+    "grezzi/bozze/estratti/OSINT Basics — Fondamenti, Motori di Ricerca, Dorks, AML-CFT.md"
+  ],
+  "Aml-cft": [
+    "grezzi/bozze/estratti/OSINT Basics — Fondamenti, Motori di Ricerca, Dorks, AML-CFT.md"
+  ],
+  "Lab caso cutro": [
+    "grezzi/bozze/estratti/LAB Caso Cutro — Frame Analysis Applicata al Naufragio 2023.md"
+  ],
+  "Frame analysis applicata al naufragio 2023": [
+    "grezzi/bozze/estratti/LAB Caso Cutro — Frame Analysis Applicata al Naufragio 2023.md"
+  ],
+  "Microsoft Power BI": [
+    "grezzi/bozze/estratti/Power BI per OSINT.md",
+    "grezzi/bozze/estratti/Data-Driven Intelligence — DAX, Power BI, EWS e OPSEC.md",
+    "grezzi/bozze/estratti/Dashboarding OSINT — Power BI e AI-Driven Approach (Plotly Studio - Lovable).md",
+    "grezzi/bozze/estratti/Business Intelligence Moderna e Strumenti Analytics — Ciclo BI, Power BI, DAX e Power Automate.md",
+    "grezzi/bozze/estratti/Architettura Power BI e Analisi ACLED — Modellazione Star Schema, Calcoli DAX e Dashboarding.md",
+    "grezzi/bozze/estratti/Power BI Avanzato, Network Analysis con Gephi e Dashboarding AI.md"
+  ],
+  "Modulo ml-dl lezione 3": [
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 3 — Regressione Lineare per Predictive Analysis.md"
+  ],
+  "Regressione lineare": [
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 3 — Regressione Lineare per Predictive Analysis.md",
+    "grezzi/bozze/estratti/Regressione Lineare, Logistica, Classificazione e KNIME Pipeline per OSINT.md",
+    "grezzi/bozze/estratti/Regressione Lineare per l'Intelligence — Lezioni Finocchi LUISS 2026.md"
+  ],
+  "Crewai": [
+    "grezzi/bozze/estratti/CrewAI — Framework Multi-Agente per OSINT.md"
+  ],
+  "Framework multi-agente per osint": [
+    "grezzi/bozze/estratti/CrewAI — Framework Multi-Agente per OSINT.md"
+  ],
+  "Investigazione digitale": [
+    "grezzi/bozze/estratti/Investigazione Digitale, Cybersecurity ed OSINT con AI.md"
+  ],
+  "Cybersecurity": [
+    "grezzi/bozze/estratti/Investigazione Digitale, Cybersecurity ed OSINT con AI.md"
+  ],
+  "Osint con ai": [
+    "grezzi/bozze/estratti/Investigazione Digitale, Cybersecurity ed OSINT con AI.md"
+  ],
+  "Embedding": [
+    "grezzi/bozze/estratti/Embedding e Vector Store.md",
+    "grezzi/bozze/estratti/AI Generativa, LLM, Embedding e Trasformatori.md",
+    "grezzi/bozze/estratti/NLP, Tokenizzazione, Embedding e Transformer — estratto.md"
+  ],
+  "Database vettoriale": [
+    "grezzi/bozze/estratti/Embedding e Vector Store.md"
+  ],
+  "Feed rss": [
+    "grezzi/bozze/estratti/Feed RSS e Sitemap XML — raccolta automatizzata pulita, leggera, anonima.md",
+    "grezzi/bozze/analisi/Feed RSS e Sitemap XML — analisi strutturata monitoraggio OSINT pulito.md"
+  ],
+  "Sitemap xml": [
+    "grezzi/bozze/estratti/Feed RSS e Sitemap XML — raccolta automatizzata pulita, leggera, anonima.md",
+    "grezzi/bozze/analisi/Feed RSS e Sitemap XML — analisi strutturata monitoraggio OSINT pulito.md"
+  ],
+  "Raccolta automatizzata pulita": [
+    "grezzi/bozze/estratti/Feed RSS e Sitemap XML — raccolta automatizzata pulita, leggera, anonima.md"
+  ],
+  "Leggera": [
+    "grezzi/bozze/estratti/Feed RSS e Sitemap XML — raccolta automatizzata pulita, leggera, anonima.md"
+  ],
+  "Anonima": [
+    "grezzi/bozze/estratti/Feed RSS e Sitemap XML — raccolta automatizzata pulita, leggera, anonima.md"
+  ],
+  "Schede di riferimento operativo": [
+    "grezzi/bozze/estratti/Schede di Riferimento Operativo — Framework Teorici e Checklist.md"
+  ],
+  "Framework teorici": [
+    "grezzi/bozze/estratti/Schede di Riferimento Operativo — Framework Teorici e Checklist.md"
+  ],
+  "Checklist": [
+    "grezzi/bozze/estratti/Schede di Riferimento Operativo — Framework Teorici e Checklist.md"
+  ],
+  "Automazione osint": [
+    "grezzi/bozze/estratti/Automazione OSINT — Big Data, API, Scraping e Workflow AI.md",
+    "grezzi/bozze/estratti/Moduli 5–6 — Social Network Analysis e Automazione OSINT.md"
+  ],
+  "Big data": [
+    "grezzi/bozze/estratti/Automazione OSINT — Big Data, API, Scraping e Workflow AI.md"
+  ],
+  "Api": [
+    "grezzi/bozze/estratti/Automazione OSINT — Big Data, API, Scraping e Workflow AI.md"
+  ],
+  "Scraping": [
+    "grezzi/bozze/estratti/Automazione OSINT — Big Data, API, Scraping e Workflow AI.md"
+  ],
+  "Workflow ai": [
+    "grezzi/bozze/estratti/Automazione OSINT — Big Data, API, Scraping e Workflow AI.md"
+  ],
+  "Metodologia visual-first osint": [
+    "grezzi/bozze/estratti/Metodologia Visual-First OSINT e Object Detection.md"
+  ],
+  "Riconoscimento di oggetti": [
+    "grezzi/bozze/estratti/Metodologia Visual-First OSINT e Object Detection.md"
+  ],
+  "Letture consigliate di intelligence": [
+    "grezzi/bozze/estratti/Letture Consigliate di Intelligence.md"
+  ],
+  "Metodologie dell'analisi": [
+    "grezzi/bozze/estratti/Metodologie dell'Analisi e Limiti Cognitivi — Gap Informative, Bias e Poisoning.md"
+  ],
+  "Limiti cognitivi": [
+    "grezzi/bozze/estratti/Metodologie dell'Analisi e Limiti Cognitivi — Gap Informative, Bias e Poisoning.md"
+  ],
+  "Gap informative": [
+    "grezzi/bozze/estratti/Metodologie dell'Analisi e Limiti Cognitivi — Gap Informative, Bias e Poisoning.md"
+  ],
+  "Bias": [
+    "grezzi/bozze/estratti/Metodologie dell'Analisi e Limiti Cognitivi — Gap Informative, Bias e Poisoning.md",
+    "grezzi/bozze/estratti/Ciclo dell'analisi d'intelligence, previsione, bias, SAT e AI-assisted foresight.md",
+    "grezzi/bozze/analisi/Ciclo intelligence, SAT, bias, AI-assisted foresight (Fase A).md",
+    "grezzi/bozze/analisi/Ciclo intelligence fusion — SAT, bias, superforecasting e AI-assisted analysis.md",
+    "grezzi/bozze/analisi/Neuroscienze Cognitive e Bias.md"
+  ],
+  "Poisoning": [
+    "grezzi/bozze/estratti/Metodologie dell'Analisi e Limiti Cognitivi — Gap Informative, Bias e Poisoning.md"
+  ],
+  "Media sintetici": [
+    "grezzi/bozze/estratti/Deepfake — Media Sintetici e Minaccia OSINT.md",
+    "grezzi/bozze/estratti/Deepfake e Media Sintetici.md"
+  ],
+  "Minaccia osint": [
+    "grezzi/bozze/estratti/Deepfake — Media Sintetici e Minaccia OSINT.md"
+  ],
+  "Sicurezza dell'agentic ai": [
+    "grezzi/bozze/estratti/Sicurezza dell'Agentic AI e Threat Intelligence — Goal Hijacking, Incidenti GTG-1002 e Circuit Breakers.md"
+  ],
+  "Threat intelligence": [
+    "grezzi/bozze/estratti/Sicurezza dell'Agentic AI e Threat Intelligence — Goal Hijacking, Incidenti GTG-1002 e Circuit Breakers.md"
+  ],
+  "Goal hijacking": [
+    "grezzi/bozze/estratti/Sicurezza dell'Agentic AI e Threat Intelligence — Goal Hijacking, Incidenti GTG-1002 e Circuit Breakers.md"
+  ],
+  "Incidenti gtg-1002": [
+    "grezzi/bozze/estratti/Sicurezza dell'Agentic AI e Threat Intelligence — Goal Hijacking, Incidenti GTG-1002 e Circuit Breakers.md"
+  ],
+  "Circuit breakers": [
+    "grezzi/bozze/estratti/Sicurezza dell'Agentic AI e Threat Intelligence — Goal Hijacking, Incidenti GTG-1002 e Circuit Breakers.md"
+  ],
+  "Legislazione": [
+    "grezzi/bozze/estratti/Framework SISR e Sicurezza Nazionale — Legislazione ed Intelligence Istituzionale.md"
+  ],
+  "Intelligence istituzionale": [
+    "grezzi/bozze/estratti/Framework SISR e Sicurezza Nazionale — Legislazione ed Intelligence Istituzionale.md",
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed Intelligence Istituzionale — Lezioni DIS-Mithrandir 2025.md"
+  ],
+  "Pensiero strategico a tre colori": [
+    "grezzi/bozze/estratti/Tecniche di analisi strutturata, pensiero strategico a tre colori, All-Source Intelligence.md",
+    "grezzi/bozze/analisi/Tecniche di analisi strutturata, pensiero strategico a tre colori.md"
+  ],
+  "All-source intelligence": [
+    "grezzi/bozze/estratti/Tecniche di analisi strutturata, pensiero strategico a tre colori, All-Source Intelligence.md",
+    "grezzi/bozze/analisi/Intelligence Strategica e Geopolitica — Ciclo OODA, Framework SISR e All-Source Intelligence.md"
+  ],
+  "Xai": [
+    "grezzi/bozze/estratti/XAI — Explainable AI.md"
+  ],
+  "Explainable ai": [
+    "grezzi/bozze/estratti/XAI — Explainable AI.md"
+  ],
+  "Ach": [
+    "grezzi/bozze/estratti/ACH — Analysis of Competing Hypotheses.md"
+  ],
+  "Analysis of competing hypotheses": [
+    "grezzi/bozze/estratti/ACH — Analysis of Competing Hypotheses.md"
+  ],
+  "Trends and challenges in global politics": [
+    "grezzi/bozze/estratti/Trends and Challenges in Global Politics — Sfide e Tendenze della Politica Globale.md",
+    "grezzi/bozze/estratti/Trends and Challenges in Global Politics — Lezione Prof. Marchetti 21 novembre 2025.md",
+    "grezzi/bozze/analisi/Trends and Challenges in Global Politics — Analisi critica.md"
+  ],
+  "Sfide": [
+    "grezzi/bozze/estratti/Trends and Challenges in Global Politics — Sfide e Tendenze della Politica Globale.md"
+  ],
+  "Tendenze della politica globale": [
+    "grezzi/bozze/estratti/Trends and Challenges in Global Politics — Sfide e Tendenze della Politica Globale.md"
+  ],
+  "Piattaforme": [
+    "grezzi/bozze/estratti/Piattaforme, Manipolazione Informativa e Platform Capitalism.md",
+    "grezzi/bozze/estratti/Quadro Normativo OSINT — Privacy, Piattaforme e Diritto Digitale.md",
+    "grezzi/bozze/analisi/Il quadro normativo dell'OSINT — privacy, piattaforme e diritto digitale.md"
+  ],
+  "Manipolazione informativa": [
+    "grezzi/bozze/estratti/Piattaforme, Manipolazione Informativa e Platform Capitalism.md"
+  ],
+  "Blockchain intelligence": [
+    "grezzi/bozze/estratti/BlockINT — intelligence sui registri distribuiti.md"
+  ],
+  "Intelligence sui registri distribuiti": [
+    "grezzi/bozze/estratti/BlockINT — intelligence sui registri distribuiti.md"
+  ],
+  "Data-driven intelligence": [
+    "grezzi/bozze/estratti/Data-Driven Intelligence — DAX, Power BI, EWS e OPSEC.md",
+    "grezzi/bozze/estratti/Social Network Analysis e Data-Driven Intelligence.md"
+  ],
+  "Dax": [
+    "grezzi/bozze/estratti/Data-Driven Intelligence — DAX, Power BI, EWS e OPSEC.md",
+    "grezzi/bozze/estratti/Business Intelligence Moderna e Strumenti Analytics — Ciclo BI, Power BI, DAX e Power Automate.md"
+  ],
+  "Ews": [
+    "grezzi/bozze/estratti/Data-Driven Intelligence — DAX, Power BI, EWS e OPSEC.md"
+  ],
+  "Operations Security": [
+    "grezzi/bozze/estratti/Data-Driven Intelligence — DAX, Power BI, EWS e OPSEC.md",
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC, VM e Sock Puppet.md",
+    "grezzi/bozze/estratti/Pilastri dell'OSINT — IP-DNS Intelligence, Image-Video OSINT e OPSEC.md",
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC e Sock Puppet.md",
+    "grezzi/bozze/estratti/Must Have OSINT — Metodologia ed OPSEC.md",
+    "grezzi/bozze/estratti/Sicurezza Digitale e OPSEC — Checklist Lapi, Letture Consigliate, Geopolitica.md"
+  ],
+  "La velocità decisionale": [
+    "grezzi/bozze/estratti/Il Ciclo OODA e la Velocità Decisionale.md"
+  ],
+  "Rivoluzione informativa": [
+    "grezzi/bozze/estratti/Rivoluzione Informativa e Democratizzazione dell'OSINT.md"
+  ],
+  "Democratizzazione dell'osint": [
+    "grezzi/bozze/estratti/Rivoluzione Informativa e Democratizzazione dell'OSINT.md"
+  ],
+  "Google hacking": [
+    "grezzi/bozze/estratti/Google Dorks.md"
+  ],
+  "Propaganda": [
+    "grezzi/bozze/estratti/Propaganda e Funzioni dei Media — Modelli McQuail e Tripartizione Bianca, Grigia e Nera.md"
+  ],
+  "Funzioni dei media": [
+    "grezzi/bozze/estratti/Propaganda e Funzioni dei Media — Modelli McQuail e Tripartizione Bianca, Grigia e Nera.md"
+  ],
+  "Modelli mcquail": [
+    "grezzi/bozze/estratti/Propaganda e Funzioni dei Media — Modelli McQuail e Tripartizione Bianca, Grigia e Nera.md"
+  ],
+  "Tripartizione bianca": [
+    "grezzi/bozze/estratti/Propaganda e Funzioni dei Media — Modelli McQuail e Tripartizione Bianca, Grigia e Nera.md"
+  ],
+  "Grigia": [
+    "grezzi/bozze/estratti/Propaganda e Funzioni dei Media — Modelli McQuail e Tripartizione Bianca, Grigia e Nera.md"
+  ],
+  "Nera": [
+    "grezzi/bozze/estratti/Propaganda e Funzioni dei Media — Modelli McQuail e Tripartizione Bianca, Grigia e Nera.md"
+  ],
+  "Pipeline osint": [
+    "grezzi/bozze/estratti/Pipeline OSINT — Pianificazione, Geografia delle Fonti, Raccolta e Analisi.md"
+  ],
+  "Pianificazione": [
+    "grezzi/bozze/estratti/Pipeline OSINT — Pianificazione, Geografia delle Fonti, Raccolta e Analisi.md"
+  ],
+  "Geografia delle fonti": [
+    "grezzi/bozze/estratti/Pipeline OSINT — Pianificazione, Geografia delle Fonti, Raccolta e Analisi.md"
+  ],
+  "Raccolta": [
+    "grezzi/bozze/estratti/Pipeline OSINT — Pianificazione, Geografia delle Fonti, Raccolta e Analisi.md"
+  ],
+  "Analisi": [
+    "grezzi/bozze/estratti/Pipeline OSINT — Pianificazione, Geografia delle Fonti, Raccolta e Analisi.md"
+  ],
+  "Piattaformizzazione": [
+    "grezzi/bozze/estratti/Piattaformizzazione e Datificazione — Società Sensorizzata, IoT e Conflitti Infrastrutturali.md"
+  ],
+  "Datificazione": [
+    "grezzi/bozze/estratti/Piattaformizzazione e Datificazione — Società Sensorizzata, IoT e Conflitti Infrastrutturali.md"
+  ],
+  "Società sensorizzata": [
+    "grezzi/bozze/estratti/Piattaformizzazione e Datificazione — Società Sensorizzata, IoT e Conflitti Infrastrutturali.md"
+  ],
+  "Iot": [
+    "grezzi/bozze/estratti/Piattaformizzazione e Datificazione — Società Sensorizzata, IoT e Conflitti Infrastrutturali.md"
+  ],
+  "Conflitti infrastrutturali": [
+    "grezzi/bozze/estratti/Piattaformizzazione e Datificazione — Società Sensorizzata, IoT e Conflitti Infrastrutturali.md"
+  ],
+  "Social network analysis": [
+    "grezzi/bozze/estratti/Centralità nelle Reti – Social Network Analysis.md",
+    "grezzi/bozze/estratti/Social Network Analysis e Data-Driven Intelligence.md",
+    "grezzi/bozze/estratti/Moduli 5–6 — Social Network Analysis e Automazione OSINT.md",
+    "grezzi/bozze/analisi/Analisi Data Science, Visualizzazione Dati e Social Network Analysis (SNA).md",
+    "grezzi/bozze/analisi/Social Network Analysis per OSINT — fondamenti matematici, metriche e laboratorio.md"
+  ],
+  "Evoluzione del newsmaking": [
+    "grezzi/bozze/estratti/Evoluzione del Newsmaking — Dal Gatekeeping al Gatewatching e i 12 News Values.md"
+  ],
+  "Dal gatekeeping al gatewatching": [
+    "grezzi/bozze/estratti/Evoluzione del Newsmaking — Dal Gatekeeping al Gatewatching e i 12 News Values.md"
+  ],
+  "I 12 news values": [
+    "grezzi/bozze/estratti/Evoluzione del Newsmaking — Dal Gatekeeping al Gatewatching e i 12 News Values.md"
+  ],
+  "Postazione di lavoro osint": [
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC, VM e Sock Puppet.md",
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC e Sock Puppet.md"
+  ],
+  "Hardware": [
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC, VM e Sock Puppet.md",
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC e Sock Puppet.md"
+  ],
+  "Sock puppet": [
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC, VM e Sock Puppet.md",
+    "grezzi/bozze/estratti/Postazione di Lavoro OSINT — Hardware, OPSEC e Sock Puppet.md"
+  ],
+  "Geo-osint satellitare": [
+    "grezzi/bozze/estratti/GEO-OSINT Satellitare e Tecniche di Deepfake Detection.md"
+  ],
+  "Logistica": [
+    "grezzi/bozze/estratti/Regressione Lineare, Logistica, Classificazione e KNIME Pipeline per OSINT.md"
+  ],
+  "Classificazione": [
+    "grezzi/bozze/estratti/Regressione Lineare, Logistica, Classificazione e KNIME Pipeline per OSINT.md",
+    "grezzi/bozze/estratti/Regressione Logistica, Classificazione e Pipeline ML per OSINT.md",
+    "grezzi/bozze/estratti/Machine Learning Supervisionato e Non Supervisionato — Regressione, Classificazione e Clustering K-Means.md",
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 5 — Classificazione, Decision Trees e Random Forests.md"
+  ],
+  "Dashboarding osint": [
+    "grezzi/bozze/estratti/Dashboarding OSINT — Power BI e AI-Driven Approach (Plotly Studio - Lovable).md"
+  ],
+  "Ai-driven approach (plotly studio": [
+    "grezzi/bozze/estratti/Dashboarding OSINT — Power BI e AI-Driven Approach (Plotly Studio - Lovable).md"
+  ],
+  "Lovable": [
+    "grezzi/bozze/estratti/Dashboarding OSINT — Power BI e AI-Driven Approach (Plotly Studio - Lovable).md"
+  ],
+  "Funzionamento dei motori di ricerca": [
+    "grezzi/bozze/estratti/Funzionamento dei Motori di Ricerca e OSINT.md"
+  ],
+  "Llm": [
+    "grezzi/bozze/estratti/AI Generativa, LLM, Embedding e Trasformatori.md",
+    "grezzi/bozze/estratti/Generative AI, LLM e applicazioni OSINT — estratto.md",
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Jailbreaking, Allucinazioni, OSINT 3.0.md",
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Langflow, RAG ed Agenti AI.md",
+    "grezzi/bozze/analisi/GenAI e Agenti OSINT — LLM, Langflow, RAG e Architetture Agentic.md",
+    "grezzi/bozze/analisi/LLM — Fondamenti, Architettura e Rischi per OSINT.md"
+  ],
+  "Trasformatori": [
+    "grezzi/bozze/estratti/AI Generativa, LLM, Embedding e Trasformatori.md"
+  ],
+  "Intelligence digitale": [
+    "grezzi/bozze/estratti/Intelligence Digitale, Quadro Giuridico ed Analisi Strutturata (Sintesi).md",
+    "grezzi/bozze/estratti/Intelligence Digitale, Diritto ed Analisi Strutturata — Estratto.md",
+    "grezzi/bozze/analisi/OSINT, intelligence digitale, quadro giuridico e analisi strutturata.md",
+    "grezzi/bozze/analisi/Intelligence Digitale, Diritto ed Analisi Strutturata.md"
+  ],
+  "Quadro giuridico": [
+    "grezzi/bozze/estratti/Intelligence Digitale, Quadro Giuridico ed Analisi Strutturata (Sintesi).md",
+    "grezzi/bozze/estratti/Quadro Giuridico e Limiti della Sicurezza Nazionale — CEDU, Legge 124-2007, AI Act e Standard ICS 206-01.md",
+    "grezzi/bozze/analisi/OSINT, intelligence digitale, quadro giuridico e analisi strutturata.md"
+  ],
+  "Analisi strutturata": [
+    "grezzi/bozze/estratti/Intelligence Digitale, Quadro Giuridico ed Analisi Strutturata (Sintesi).md",
+    "grezzi/bozze/estratti/Intelligence Digitale, Diritto ed Analisi Strutturata — Estratto.md",
+    "grezzi/bozze/analisi/OSINT, intelligence digitale, quadro giuridico e analisi strutturata.md",
+    "grezzi/bozze/analisi/Intelligence Digitale, Diritto ed Analisi Strutturata.md"
+  ],
+  "Llm osint": [
+    "grezzi/bozze/estratti/LLM OSINT — Pipeline e Agenti AI.md"
+  ],
+  "Pipeline": [
+    "grezzi/bozze/estratti/LLM OSINT — Pipeline e Agenti AI.md"
+  ],
+  "Agenti ai": [
+    "grezzi/bozze/estratti/LLM OSINT — Pipeline e Agenti AI.md",
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Langflow, RAG ed Agenti AI.md"
+  ],
+  "Automazione osint – big data": [
+    "grezzi/bozze/estratti/Automazione OSINT – Big Data, ETL, Raccolta Dati e Data Mining.md"
+  ],
+  "Etl": [
+    "grezzi/bozze/estratti/Automazione OSINT – Big Data, ETL, Raccolta Dati e Data Mining.md"
+  ],
+  "Data mining": [
+    "grezzi/bozze/estratti/Automazione OSINT – Big Data, ETL, Raccolta Dati e Data Mining.md"
+  ],
+  "Regressione logistica": [
+    "grezzi/bozze/estratti/Regressione Logistica, Classificazione e Pipeline ML per OSINT.md"
+  ],
+  "Pipeline ml per osint": [
+    "grezzi/bozze/estratti/Regressione Logistica, Classificazione e Pipeline ML per OSINT.md"
+  ],
+  "Architetture generali large language models": [
+    "grezzi/bozze/estratti/Architetture Generali Large Language Models.md"
+  ],
+  "Ciclo dell'analisi d'intelligence": [
+    "grezzi/bozze/estratti/Ciclo dell'analisi d'intelligence, previsione, bias, SAT e AI-assisted foresight.md"
+  ],
+  "Previsione": [
+    "grezzi/bozze/estratti/Ciclo dell'analisi d'intelligence, previsione, bias, SAT e AI-assisted foresight.md"
+  ],
+  "Sat": [
+    "grezzi/bozze/estratti/Ciclo dell'analisi d'intelligence, previsione, bias, SAT e AI-assisted foresight.md",
+    "grezzi/bozze/analisi/OSINT nella Sicurezza Nazionale, OODA, SISR, SAT.md",
+    "grezzi/bozze/analisi/Ciclo intelligence, SAT, bias, AI-assisted foresight (Fase A).md",
+    "grezzi/bozze/analisi/Ciclo intelligence fusion — SAT, bias, superforecasting e AI-assisted analysis.md"
+  ],
+  "Ai-assisted foresight": [
+    "grezzi/bozze/estratti/Ciclo dell'analisi d'intelligence, previsione, bias, SAT e AI-assisted foresight.md",
+    "grezzi/bozze/analisi/Ciclo intelligence, SAT, bias, AI-assisted foresight (Fase A).md"
+  ],
+  "Reasoning patterns": [
+    "grezzi/bozze/estratti/Prompt Engineering, Reasoning Patterns e Agentic AI per OSINT.md"
+  ],
+  "Agentic ai per osint": [
+    "grezzi/bozze/estratti/Prompt Engineering, Reasoning Patterns e Agentic AI per OSINT.md",
+    "grezzi/bozze/estratti/Agentic AI per OSINT — agenti, multi-agent systems e sicurezza cognitiva — estratto.md"
+  ],
+  "Produzione dell'output": [
+    "grezzi/bozze/estratti/Produzione dell'Output e Disseminazione dell'Intelligence.md"
+  ],
+  "Disseminazione dell'intelligence": [
+    "grezzi/bozze/estratti/Produzione dell'Output e Disseminazione dell'Intelligence.md"
+  ],
+  "La sicurezza nazionale nei sistemi aperti": [
+    "grezzi/bozze/estratti/La Sicurezza Nazionale nei Sistemi Aperti — Difesa, Resilienza, Fragilità e Persuasione.md"
+  ],
+  "Difesa": [
+    "grezzi/bozze/estratti/La Sicurezza Nazionale nei Sistemi Aperti — Difesa, Resilienza, Fragilità e Persuasione.md"
+  ],
+  "Resilienza": [
+    "grezzi/bozze/estratti/La Sicurezza Nazionale nei Sistemi Aperti — Difesa, Resilienza, Fragilità e Persuasione.md"
+  ],
+  "Fragilità": [
+    "grezzi/bozze/estratti/La Sicurezza Nazionale nei Sistemi Aperti — Difesa, Resilienza, Fragilità e Persuasione.md"
+  ],
+  "Persuasione": [
+    "grezzi/bozze/estratti/La Sicurezza Nazionale nei Sistemi Aperti — Difesa, Resilienza, Fragilità e Persuasione.md"
+  ],
+  "Strumenti di ricerca": [
+    "grezzi/bozze/estratti/Strumenti di Ricerca e Dark Web per l'Intelligence.md"
+  ],
+  "Dark web": [
+    "grezzi/bozze/estratti/Strumenti di Ricerca e Dark Web per l'Intelligence.md",
+    "grezzi/bozze/analisi/Strumenti di Ricerca OSINT e Dark Web.md"
+  ],
+  "Coordinated sharing behavior": [
+    "grezzi/bozze/estratti/Coordinated Sharing Detection — coortweet e Reti Bipartite per OSINT.md",
+    "grezzi/bozze/estratti/Reti Sociali, Community Detection, Reti Bipartite e Coordinated Sharing.md",
+    "grezzi/bozze/analisi/Reti Sociali, Community Detection e Coordinated Sharing.md",
+    "grezzi/bozze/analisi/Coordinated Sharing Detection — coortweet e reti bipartite.md"
+  ],
+  "Coortweet": [
+    "grezzi/bozze/estratti/Coordinated Sharing Detection — coortweet e Reti Bipartite per OSINT.md",
+    "grezzi/bozze/analisi/Coordinated Sharing Detection — coortweet e reti bipartite.md"
+  ],
+  "Reti bipartite per osint": [
+    "grezzi/bozze/estratti/Coordinated Sharing Detection — coortweet e Reti Bipartite per OSINT.md"
+  ],
+  "Generative ai": [
+    "grezzi/bozze/estratti/Generative AI, LLM e applicazioni OSINT — estratto.md"
+  ],
+  "Applicazioni osint": [
+    "grezzi/bozze/estratti/Generative AI, LLM e applicazioni OSINT — estratto.md"
+  ],
+  "Verifica delle fonti": [
+    "grezzi/bozze/estratti/Verifica delle Fonti e Counter-Intelligence OSINT — Triangolazione, Fact-Checking e Analisi delle Teorie del Complotto.md"
+  ],
+  "Counter-intelligence osint": [
+    "grezzi/bozze/estratti/Verifica delle Fonti e Counter-Intelligence OSINT — Triangolazione, Fact-Checking e Analisi delle Teorie del Complotto.md"
+  ],
+  "Triangolazione": [
+    "grezzi/bozze/estratti/Verifica delle Fonti e Counter-Intelligence OSINT — Triangolazione, Fact-Checking e Analisi delle Teorie del Complotto.md"
+  ],
+  "Fact-checking": [
+    "grezzi/bozze/estratti/Verifica delle Fonti e Counter-Intelligence OSINT — Triangolazione, Fact-Checking e Analisi delle Teorie del Complotto.md",
+    "grezzi/bozze/analisi/Ricerca avanzata, metadati, affidabilità, fact-checking.md"
+  ],
+  "Analisi delle teorie del complotto": [
+    "grezzi/bozze/estratti/Verifica delle Fonti e Counter-Intelligence OSINT — Triangolazione, Fact-Checking e Analisi delle Teorie del Complotto.md"
+  ],
+  "Inferenza logica": [
+    "grezzi/bozze/estratti/Inferenza Logica e Ragionamento Analitico.md",
+    "grezzi/bozze/estratti/Inferenza Logica e Metodi di Ragionamento Analitico nell'Intelligence.md"
+  ],
+  "Ragionamento analitico": [
+    "grezzi/bozze/estratti/Inferenza Logica e Ragionamento Analitico.md"
+  ],
+  "Unsupervised learning": [
+    "grezzi/bozze/estratti/Modulo ML-DL Deep Learning — Unsupervised Learning, NLP, Reti Neurali e Transformer.md",
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md"
+  ],
+  "Nlp": [
+    "grezzi/bozze/estratti/Modulo ML-DL Deep Learning — Unsupervised Learning, NLP, Reti Neurali e Transformer.md",
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md",
+    "grezzi/bozze/estratti/NLP, Tokenizzazione, Embedding e Transformer — estratto.md",
+    "grezzi/bozze/estratti/Deep Learning, NLP e Reti Neurali Convoluzionali.md"
+  ],
+  "Reti neurali": [
+    "grezzi/bozze/estratti/Modulo ML-DL Deep Learning — Unsupervised Learning, NLP, Reti Neurali e Transformer.md",
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md",
+    "grezzi/bozze/estratti/Reti Neurali e Deep Learning.md"
+  ],
+  "Trasformatore (architettura deep learning)": [
+    "grezzi/bozze/estratti/Modulo ML-DL Deep Learning — Unsupervised Learning, NLP, Reti Neurali e Transformer.md",
+    "grezzi/bozze/estratti/NLP, Tokenizzazione, Embedding e Transformer — estratto.md",
+    "grezzi/bozze/estratti/Architettura Transformer e Meccanismo di Self-Attention.md"
+  ],
+  "Osint crypto": [
+    "grezzi/bozze/estratti/OSINT Crypto — Blockchain Explorers, Attribution e Crypto Dusting.md"
+  ],
+  "Blockchain explorers": [
+    "grezzi/bozze/estratti/OSINT Crypto — Blockchain Explorers, Attribution e Crypto Dusting.md",
+    "grezzi/bozze/estratti/Investigazione Indirizzi Crypto — Blockchain Explorers, Attribution e Reporting Investigativo.md"
+  ],
+  "Attribution": [
+    "grezzi/bozze/estratti/OSINT Crypto — Blockchain Explorers, Attribution e Crypto Dusting.md",
+    "grezzi/bozze/estratti/Investigazione Indirizzi Crypto — Blockchain Explorers, Attribution e Reporting Investigativo.md"
+  ],
+  "Crypto dusting": [
+    "grezzi/bozze/estratti/OSINT Crypto — Blockchain Explorers, Attribution e Crypto Dusting.md"
+  ],
+  "Clustering": [
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md"
+  ],
+  "Bag of words": [
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md"
+  ],
+  "Cnn": [
+    "grezzi/bozze/estratti/Unsupervised Learning, NLP e Deep Learning — Clustering, Bag of Words, Reti Neurali e CNN.md"
+  ],
+  "Lezioni finocchi luiss 2026": [
+    "grezzi/bozze/estratti/Regressione Lineare per l'Intelligence — Lezioni Finocchi LUISS 2026.md"
+  ],
+  "Framework disarm": [
+    "grezzi/bozze/estratti/Framework DISARM — Contrasto alla Disinformazione.md"
+  ],
+  "Non supervisionato": [
+    "grezzi/bozze/estratti/Machine Learning Supervisionato e Non Supervisionato — Regressione, Classificazione e Clustering K-Means.md"
+  ],
+  "Clustering k-means": [
+    "grezzi/bozze/estratti/Machine Learning Supervisionato e Non Supervisionato — Regressione, Classificazione e Clustering K-Means.md"
+  ],
+  "Panoramica strutturale del processo analitico": [
+    "grezzi/bozze/estratti/Panoramica Strutturale del Processo Analitico.md"
+  ],
+  "Tracciamento blockchain": [
+    "grezzi/bozze/estratti/Tracciamento Blockchain e Flussi di Business Intelligence.md"
+  ],
+  "Business intelligence": [
+    "grezzi/bozze/estratti/Tracciamento Blockchain e Flussi di Business Intelligence.md",
+    "grezzi/bozze/estratti/Business Intelligence Moderna e Strumenti Analytics — Ciclo BI, Power BI, DAX e Power Automate.md",
+    "grezzi/bozze/estratti/Data Driven Intelligence — Business Intelligence e Data Visualization.md",
+    "grezzi/bozze/analisi/Analisi Comparata — Business Intelligence ed Inchieste Blockchain Cross-Domain.md"
+  ],
+  "Must have osint": [
+    "grezzi/bozze/estratti/Must Have OSINT.md",
+    "grezzi/bozze/estratti/Must Have OSINT — Scenario Informativo, Pilastri e Criticità Cognitive.md",
+    "grezzi/bozze/estratti/Must Have OSINT — Metodologia ed OPSEC.md",
+    "grezzi/bozze/analisi/Must Have OSINT — Mappatura Integrata.md"
+  ],
+  "Ip-dns": [
+    "grezzi/bozze/estratti/IP-DNS e Network Analysis per OSINT.md",
+    "grezzi/bozze/analisi/IP-DNS + Intelligence Cycle — valutazione integrativa gap analysis.md"
+  ],
+  "Network analysis per osint": [
+    "grezzi/bozze/estratti/IP-DNS e Network Analysis per OSINT.md"
+  ],
+  "Generative ai per osint": [
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Jailbreaking, Allucinazioni, OSINT 3.0.md",
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Langflow, RAG ed Agenti AI.md"
+  ],
+  "Allucinazioni": [
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Jailbreaking, Allucinazioni, OSINT 3.0.md"
+  ],
+  "Osint 3.0": [
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Jailbreaking, Allucinazioni, OSINT 3.0.md"
+  ],
+  "Storia dell'intelligence": [
+    "grezzi/bozze/estratti/Storia dell'Intelligence — Tecnologie e Cyber Infrastructure.md",
+    "grezzi/bozze/analisi/Storia dell'Intelligence e Tecnologie.md"
+  ],
+  "Tecnologie": [
+    "grezzi/bozze/estratti/Storia dell'Intelligence — Tecnologie e Cyber Infrastructure.md",
+    "grezzi/bozze/analisi/Storia dell'Intelligence e Tecnologie.md"
+  ],
+  "Cyber infrastructure": [
+    "grezzi/bozze/estratti/Storia dell'Intelligence — Tecnologie e Cyber Infrastructure.md"
+  ],
+  "Algoritmi di retrieval": [
+    "grezzi/bozze/estratti/Motori di Ricerca e Algoritmi di Retrieval.md"
+  ],
+  "Postazione di lavoro operativa osint": [
+    "grezzi/bozze/estratti/Postazione di lavoro Operativa OSINT.md"
+  ],
+  "Potere": [
+    "grezzi/bozze/estratti/Algoritmi, Potere e Architettura delle Piattaforme.md"
+  ],
+  "Architettura delle piattaforme": [
+    "grezzi/bozze/estratti/Algoritmi, Potere e Architettura delle Piattaforme.md"
+  ],
+  "Data preparation": [
+    "grezzi/bozze/estratti/Data Preparation e Big Data 5V.md"
+  ],
+  "Big data 5v": [
+    "grezzi/bozze/estratti/Data Preparation e Big Data 5V.md"
+  ],
+  "Due diligence corporate": [
+    "grezzi/bozze/estratti/Due Diligence Corporate e Investigazione Avanzata in Criptovaluta.md"
+  ],
+  "Criptovaluta": [
+    "grezzi/bozze/estratti/Due Diligence Corporate e Investigazione Avanzata in Criptovaluta.md"
+  ],
+  "Information warfare": [
+    "grezzi/bozze/estratti/Strategie di Disinformazione e Information Warfare.md"
+  ],
+  "Analisi dei conflitti": [
+    "grezzi/bozze/estratti/Analisi dei Conflitti e Network Analysis — Piattaforma ACLED, Visualizzazione dei Grafi e Dashboarding.md"
+  ],
+  "Network analysis": [
+    "grezzi/bozze/estratti/Analisi dei Conflitti e Network Analysis — Piattaforma ACLED, Visualizzazione dei Grafi e Dashboarding.md"
+  ],
+  "Piattaforma acled": [
+    "grezzi/bozze/estratti/Analisi dei Conflitti e Network Analysis — Piattaforma ACLED, Visualizzazione dei Grafi e Dashboarding.md"
+  ],
+  "Visualizzazione dei grafi": [
+    "grezzi/bozze/estratti/Analisi dei Conflitti e Network Analysis — Piattaforma ACLED, Visualizzazione dei Grafi e Dashboarding.md"
+  ],
+  "Dashboarding": [
+    "grezzi/bozze/estratti/Analisi dei Conflitti e Network Analysis — Piattaforma ACLED, Visualizzazione dei Grafi e Dashboarding.md",
+    "grezzi/bozze/estratti/Architettura Power BI e Analisi ACLED — Modellazione Star Schema, Calcoli DAX e Dashboarding.md"
+  ],
+  "Gestione automatizzata della conoscenza": [
+    "grezzi/bozze/estratti/IA e Gestione Automatizzata della Conoscenza.md"
+  ],
+  "Pilastri dell'osint": [
+    "grezzi/bozze/estratti/Pilastri dell'OSINT — IP-DNS Intelligence, Image-Video OSINT e OPSEC.md"
+  ],
+  "Ip-dns intelligence": [
+    "grezzi/bozze/estratti/Pilastri dell'OSINT — IP-DNS Intelligence, Image-Video OSINT e OPSEC.md"
+  ],
+  "Image-video osint": [
+    "grezzi/bozze/estratti/Pilastri dell'OSINT — IP-DNS Intelligence, Image-Video OSINT e OPSEC.md"
+  ],
+  "Vantaggio decisionale nell'intelligence": [
+    "grezzi/bozze/estratti/Vantaggio Decisionale nell'Intelligence.md"
+  ],
+  "Agenti": [
+    "grezzi/bozze/estratti/Agentic AI per OSINT — agenti, multi-agent systems e sicurezza cognitiva — estratto.md"
+  ],
+  "Multi-agent systems": [
+    "grezzi/bozze/estratti/Agentic AI per OSINT — agenti, multi-agent systems e sicurezza cognitiva — estratto.md"
+  ],
+  "Sicurezza cognitiva": [
+    "grezzi/bozze/estratti/Agentic AI per OSINT — agenti, multi-agent systems e sicurezza cognitiva — estratto.md"
+  ],
+  "Rappresentazioni dei grafi – blocco 1 lezione 1": [
+    "grezzi/bozze/estratti/Rappresentazioni dei Grafi – Blocco 1 Lezione 1 (Giglietto).md"
+  ],
+  "Citazione delle fonti": [
+    "grezzi/bozze/estratti/Citazione delle Fonti e Standard Analitici — ICS 206-01, PAI, CAI e Trasparenza AI nella Intelligence Community.md"
+  ],
+  "Standard analitici": [
+    "grezzi/bozze/estratti/Citazione delle Fonti e Standard Analitici — ICS 206-01, PAI, CAI e Trasparenza AI nella Intelligence Community.md"
+  ],
+  "Ics 206-01": [
+    "grezzi/bozze/estratti/Citazione delle Fonti e Standard Analitici — ICS 206-01, PAI, CAI e Trasparenza AI nella Intelligence Community.md",
+    "grezzi/bozze/analisi/SISR, ICS 206-01 e Berkeley Protocol — Quadro istituzionale e normativo dell'OSINT.md"
+  ],
+  "Pai": [
+    "grezzi/bozze/estratti/Citazione delle Fonti e Standard Analitici — ICS 206-01, PAI, CAI e Trasparenza AI nella Intelligence Community.md"
+  ],
+  "Cai": [
+    "grezzi/bozze/estratti/Citazione delle Fonti e Standard Analitici — ICS 206-01, PAI, CAI e Trasparenza AI nella Intelligence Community.md"
+  ],
+  "Trasparenza ai nella intelligence community": [
+    "grezzi/bozze/estratti/Citazione delle Fonti e Standard Analitici — ICS 206-01, PAI, CAI e Trasparenza AI nella Intelligence Community.md"
+  ],
+  "Sistema di sicurezza nazionale": [
+    "grezzi/bozze/estratti/Sistema di Sicurezza Nazionale — DIS, Contributo OSINT.md"
+  ],
+  "Dis": [
+    "grezzi/bozze/estratti/Sistema di Sicurezza Nazionale — DIS, Contributo OSINT.md"
+  ],
+  "Contributo osint": [
+    "grezzi/bozze/estratti/Sistema di Sicurezza Nazionale — DIS, Contributo OSINT.md"
+  ],
+  "Architetture neurali per la visione artificiale": [
+    "grezzi/bozze/estratti/Architetture Neurali per la Visione Artificiale — Lezione 20-03.md"
+  ],
+  "Geopolitica": [
+    "grezzi/bozze/estratti/Geopolitica e Ordine Mondiale — Dalla Fine del Bipolarismo alla Divergenza Globale.md",
+    "grezzi/bozze/estratti/Timeline IA — AI Act, Corsa Geopolitica e Privacy Modell.md",
+    "grezzi/bozze/estratti/Geopolitica, Intelligence Economica e Architettura All-Source.md",
+    "grezzi/bozze/estratti/Sicurezza Digitale e OPSEC — Checklist Lapi, Letture Consigliate, Geopolitica.md",
+    "grezzi/bozze/analisi/Intelligence Strategica e Geopolitica — Ciclo OODA, Framework SISR e All-Source Intelligence.md",
+    "grezzi/bozze/analisi/Geopolitica Strategica ed AI — Dall'Economia dei Semiconduttori al Web of Agents.md"
+  ],
+  "Ordine mondiale": [
+    "grezzi/bozze/estratti/Geopolitica e Ordine Mondiale — Dalla Fine del Bipolarismo alla Divergenza Globale.md"
+  ],
+  "Dalla fine del bipolarismo alla divergenza globale": [
+    "grezzi/bozze/estratti/Geopolitica e Ordine Mondiale — Dalla Fine del Bipolarismo alla Divergenza Globale.md"
+  ],
+  "Natural language processing": [
+    "grezzi/bozze/estratti/Natural Language Processing e Reti Neurali Convolutive per l'Intelligence.md"
+  ],
+  "Reti neurali convolutive per l'intelligence": [
+    "grezzi/bozze/estratti/Natural Language Processing e Reti Neurali Convolutive per l'Intelligence.md"
+  ],
+  "Scenario planning": [
+    "grezzi/bozze/estratti/Scenario Informativo Pilastri Informativi OSINT.md",
+    "grezzi/bozze/estratti/Must Have OSINT — Scenario Informativo, Pilastri e Criticità Cognitive.md",
+    "grezzi/bozze/estratti/Scenari e Futures Literacy.md",
+    "grezzi/bozze/analisi/Scenario Informativo e Pilastri OSINT.md"
+  ],
+  "Vantaggio decisionale": [
+    "grezzi/bozze/estratti/Vantaggio Decisionale e Superiorità Informativa.md",
+    "grezzi/bozze/estratti/Il Sistema di Intelligence Italiano — SISR, Legge 124-2007 e Vantaggio Decisionale.md"
+  ],
+  "Superiorità informativa": [
+    "grezzi/bozze/estratti/Vantaggio Decisionale e Superiorità Informativa.md"
+  ],
+  "Tokenizzazione": [
+    "grezzi/bozze/estratti/NLP, Tokenizzazione, Embedding e Transformer — estratto.md"
+  ],
+  "Neuroscienze": [
+    "grezzi/bozze/estratti/Neuroscienze e Tecniche Analitiche Strutturate — Sistema 1 e 2, Bias Cognitivi e Metodi di Forecasting.md"
+  ],
+  "Tecniche analitiche strutturate": [
+    "grezzi/bozze/estratti/Neuroscienze e Tecniche Analitiche Strutturate — Sistema 1 e 2, Bias Cognitivi e Metodi di Forecasting.md"
+  ],
+  "Sistema 1": [
+    "grezzi/bozze/estratti/Neuroscienze e Tecniche Analitiche Strutturate — Sistema 1 e 2, Bias Cognitivi e Metodi di Forecasting.md"
+  ],
+  "Metodi di forecasting": [
+    "grezzi/bozze/estratti/Neuroscienze e Tecniche Analitiche Strutturate — Sistema 1 e 2, Bias Cognitivi e Metodi di Forecasting.md"
+  ],
+  "Socmint": [
+    "grezzi/bozze/estratti/SOCMINT e Online Communities — Fringe Platforms, Analisi delle Eco-Chambers e il Discord Leak 2023.md"
+  ],
+  "Online communities": [
+    "grezzi/bozze/estratti/SOCMINT e Online Communities — Fringe Platforms, Analisi delle Eco-Chambers e il Discord Leak 2023.md"
+  ],
+  "Fringe platforms": [
+    "grezzi/bozze/estratti/SOCMINT e Online Communities — Fringe Platforms, Analisi delle Eco-Chambers e il Discord Leak 2023.md"
+  ],
+  "Analisi delle eco-chambers": [
+    "grezzi/bozze/estratti/SOCMINT e Online Communities — Fringe Platforms, Analisi delle Eco-Chambers e il Discord Leak 2023.md"
+  ],
+  "Il discord leak 2023": [
+    "grezzi/bozze/estratti/SOCMINT e Online Communities — Fringe Platforms, Analisi delle Eco-Chambers e il Discord Leak 2023.md"
+  ],
+  "Sna": [
+    "grezzi/bozze/estratti/SNA e Teoria dei Grafi Applicata all'Intelligence OSINT.md",
+    "grezzi/bozze/estratti/SNA ed OSINT — Community Detection.md"
+  ],
+  "Teoria dei grafi": [
+    "grezzi/bozze/estratti/SNA e Teoria dei Grafi Applicata all'Intelligence OSINT.md",
+    "grezzi/bozze/analisi/Analisi SNA — Fondamenti di Teoria dei Grafi per Intelligence.md"
+  ],
+  "Low-code": [
+    "grezzi/bozze/estratti/Low-code e no-code per raccolta dati OSINT — Make, n8n, Apify, Octoparse.md",
+    "grezzi/bozze/analisi/Low-code e no-code — analisi strutturata Make, n8n, Apify, Octoparse.md"
+  ],
+  "No-code per raccolta dati osint": [
+    "grezzi/bozze/estratti/Low-code e no-code per raccolta dati OSINT — Make, n8n, Apify, Octoparse.md"
+  ],
+  "Make": [
+    "grezzi/bozze/estratti/Low-code e no-code per raccolta dati OSINT — Make, n8n, Apify, Octoparse.md"
+  ],
+  "Octoparse": [
+    "grezzi/bozze/estratti/Low-code e no-code per raccolta dati OSINT — Make, n8n, Apify, Octoparse.md"
+  ],
+  "Pilastri": [
+    "grezzi/bozze/estratti/Must Have OSINT — Scenario Informativo, Pilastri e Criticità Cognitive.md"
+  ],
+  "Criticità cognitive": [
+    "grezzi/bozze/estratti/Must Have OSINT — Scenario Informativo, Pilastri e Criticità Cognitive.md"
+  ],
+  "Reti neurali convoluzionali": [
+    "grezzi/bozze/estratti/Deep Learning, NLP e Reti Neurali Convoluzionali.md"
+  ],
+  "Etica": [
+    "grezzi/bozze/estratti/Etica e Quadro Giuridico nell'Intelligence.md"
+  ],
+  "Quadro giuridico nell'intelligence": [
+    "grezzi/bozze/estratti/Etica e Quadro Giuridico nell'Intelligence.md"
+  ],
+  "Rag": [
+    "grezzi/bozze/estratti/RAG — Retrieval-Augmented Generation.md",
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Langflow, RAG ed Agenti AI.md",
+    "grezzi/bozze/analisi/GenAI e Agenti OSINT — LLM, Langflow, RAG e Architetture Agentic.md"
+  ],
+  "Retrieval-augmented generation": [
+    "grezzi/bozze/estratti/RAG — Retrieval-Augmented Generation.md"
+  ],
+  "Diffusion models": [
+    "grezzi/bozze/estratti/Diffusion Models e Deepfake — Generazione AI per Immagini, Audio e Video.md"
+  ],
+  "Generazione ai per immagini": [
+    "grezzi/bozze/estratti/Diffusion Models e Deepfake — Generazione AI per Immagini, Audio e Video.md"
+  ],
+  "Audio": [
+    "grezzi/bozze/estratti/Diffusion Models e Deepfake — Generazione AI per Immagini, Audio e Video.md"
+  ],
+  "Video": [
+    "grezzi/bozze/estratti/Diffusion Models e Deepfake — Generazione AI per Immagini, Audio e Video.md"
+  ],
+  "Quadro normativo osint": [
+    "grezzi/bozze/estratti/Quadro Normativo OSINT — Privacy, Piattaforme e Diritto Digitale.md"
+  ],
+  "Privacy": [
+    "grezzi/bozze/estratti/Quadro Normativo OSINT — Privacy, Piattaforme e Diritto Digitale.md",
+    "grezzi/bozze/analisi/Il quadro normativo dell'OSINT — privacy, piattaforme e diritto digitale.md"
+  ],
+  "Diritto digitale": [
+    "grezzi/bozze/estratti/Quadro Normativo OSINT — Privacy, Piattaforme e Diritto Digitale.md",
+    "grezzi/bozze/analisi/Il quadro normativo dell'OSINT — privacy, piattaforme e diritto digitale.md"
+  ],
+  "Dottrina": [
+    "grezzi/bozze/estratti/Lista Strumenti per l'Analisi della Disinformazione — Dottrina e Strumenti Operativi.md"
+  ],
+  "Strumenti operativi": [
+    "grezzi/bozze/estratti/Lista Strumenti per l'Analisi della Disinformazione — Dottrina e Strumenti Operativi.md"
+  ],
+  "Langflow": [
+    "grezzi/bozze/estratti/Generative AI per OSINT — LLM, Langflow, RAG ed Agenti AI.md",
+    "grezzi/bozze/analisi/GenAI e Agenti OSINT — LLM, Langflow, RAG e Architetture Agentic.md"
+  ],
+  "Strumenti analytics": [
+    "grezzi/bozze/estratti/Business Intelligence Moderna e Strumenti Analytics — Ciclo BI, Power BI, DAX e Power Automate.md"
+  ],
+  "Ciclo bi": [
+    "grezzi/bozze/estratti/Business Intelligence Moderna e Strumenti Analytics — Ciclo BI, Power BI, DAX e Power Automate.md"
+  ],
+  "Case study eda": [
+    "grezzi/bozze/estratti/Case Study EDA e Machine Learning — Previsione Impatto Incidenti Cyber.md"
+  ],
+  "Previsione impatto incidenti cyber": [
+    "grezzi/bozze/estratti/Case Study EDA e Machine Learning — Previsione Impatto Incidenti Cyber.md"
+  ],
+  "Architettura dei modelli ai": [
+    "grezzi/bozze/estratti/Architettura dei Modelli AI e Large Language Model.md"
+  ],
+  "Large language model": [
+    "grezzi/bozze/estratti/Architettura dei Modelli AI e Large Language Model.md"
+  ],
+  "Centralità nelle reti sociali": [
+    "grezzi/bozze/estratti/Centralità nelle Reti Sociali — Quattro Metriche per l'Analisi OSINT.md"
+  ],
+  "Quattro metriche per l'analisi osint": [
+    "grezzi/bozze/estratti/Centralità nelle Reti Sociali — Quattro Metriche per l'Analisi OSINT.md"
+  ],
+  "Metodologia": [
+    "grezzi/bozze/estratti/Must Have OSINT — Metodologia ed OPSEC.md"
+  ],
+  "Fase di elaborazione": [
+    "grezzi/bozze/estratti/Fase di Elaborazione e Trattamento Informativo.md"
+  ],
+  "Trattamento informativo": [
+    "grezzi/bozze/estratti/Fase di Elaborazione e Trattamento Informativo.md"
+  ],
+  "Master in osint": [
+    "grezzi/bozze/estratti/Master in OSINT — Programma Didattico e Struttura Completa (A.A. 2025-2026).md"
+  ],
+  "Programma didattico": [
+    "grezzi/bozze/estratti/Master in OSINT — Programma Didattico e Struttura Completa (A.A. 2025-2026).md"
+  ],
+  "Struttura completa": [
+    "grezzi/bozze/estratti/Master in OSINT — Programma Didattico e Struttura Completa (A.A. 2025-2026).md"
+  ],
+  "Timeline ia": [
+    "grezzi/bozze/estratti/Timeline IA — AI Act, Corsa Geopolitica e Privacy Modell.md"
+  ],
+  "Ai act": [
+    "grezzi/bozze/estratti/Timeline IA — AI Act, Corsa Geopolitica e Privacy Modell.md",
+    "grezzi/bozze/estratti/Quadro Giuridico e Limiti della Sicurezza Nazionale — CEDU, Legge 124-2007, AI Act e Standard ICS 206-01.md"
+  ],
+  "Privacy modell": [
+    "grezzi/bozze/estratti/Timeline IA — AI Act, Corsa Geopolitica e Privacy Modell.md"
+  ],
+  "Analisi acled": [
+    "grezzi/bozze/estratti/Architettura Power BI e Analisi ACLED — Modellazione Star Schema, Calcoli DAX e Dashboarding.md"
+  ],
+  "Modellazione star schema": [
+    "grezzi/bozze/estratti/Architettura Power BI e Analisi ACLED — Modellazione Star Schema, Calcoli DAX e Dashboarding.md"
+  ],
+  "Calcoli dax": [
+    "grezzi/bozze/estratti/Architettura Power BI e Analisi ACLED — Modellazione Star Schema, Calcoli DAX e Dashboarding.md"
+  ],
+  "Network analysis con gephi": [
+    "grezzi/bozze/estratti/Power BI Avanzato, Network Analysis con Gephi e Dashboarding AI.md"
+  ],
+  "Dashboarding ai": [
+    "grezzi/bozze/estratti/Power BI Avanzato, Network Analysis con Gephi e Dashboarding AI.md"
+  ],
+  "Lezioni dis-mithrandir 2025": [
+    "grezzi/bozze/estratti/Sicurezza Nazionale ed Intelligence Istituzionale — Lezioni DIS-Mithrandir 2025.md"
+  ],
+  "Tassonomia dei tools": [
+    "grezzi/bozze/estratti/Tassonomia dei Tools e Strumenti OSINT.md"
+  ],
+  "Strumenti osint": [
+    "grezzi/bozze/estratti/Tassonomia dei Tools e Strumenti OSINT.md"
+  ],
+  "Meccanismo di self-attention": [
+    "grezzi/bozze/estratti/Architettura Transformer e Meccanismo di Self-Attention.md"
+  ],
+  "Letture consigliate – prof. mirko lapi": [
+    "grezzi/bozze/estratti/Letture Consigliate – Prof. Mirko Lapi.md"
+  ],
+  "Prompt patterns per l'osint": [
+    "grezzi/bozze/estratti/Prompt Engineering e Prompt Patterns per l'OSINT — Persona, Template e Pipeline di Analisi.md"
+  ],
+  "Persona": [
+    "grezzi/bozze/estratti/Prompt Engineering e Prompt Patterns per l'OSINT — Persona, Template e Pipeline di Analisi.md"
+  ],
+  "Template": [
+    "grezzi/bozze/estratti/Prompt Engineering e Prompt Patterns per l'OSINT — Persona, Template e Pipeline di Analisi.md"
+  ],
+  "Pipeline di analisi": [
+    "grezzi/bozze/estratti/Prompt Engineering e Prompt Patterns per l'OSINT — Persona, Template e Pipeline di Analisi.md"
+  ],
+  "Data driven intelligence": [
+    "grezzi/bozze/estratti/Data Driven Intelligence — Business Intelligence e Data Visualization.md",
+    "grezzi/bozze/estratti/Power Automate e Data Driven Intelligence — Automazione Workflow e BI.md"
+  ],
+  "Data visualization": [
+    "grezzi/bozze/estratti/Data Driven Intelligence — Business Intelligence e Data Visualization.md"
+  ],
+  "Reti sociali": [
+    "grezzi/bozze/estratti/Reti Sociali, Community Detection, Reti Bipartite e Coordinated Sharing.md",
+    "grezzi/bozze/analisi/Reti Sociali, Community Detection e Coordinated Sharing.md"
+  ],
+  "Community detection": [
+    "grezzi/bozze/estratti/Reti Sociali, Community Detection, Reti Bipartite e Coordinated Sharing.md",
+    "grezzi/bozze/estratti/SNA ed OSINT — Community Detection.md",
+    "grezzi/bozze/analisi/Reti Sociali, Community Detection e Coordinated Sharing.md"
+  ],
+  "Reti bipartite": [
+    "grezzi/bozze/estratti/Reti Sociali, Community Detection, Reti Bipartite e Coordinated Sharing.md",
+    "grezzi/bozze/analisi/Coordinated Sharing Detection — coortweet e reti bipartite.md"
+  ],
+  "Diritto": [
+    "grezzi/bozze/estratti/Intelligence Digitale, Diritto ed Analisi Strutturata — Estratto.md",
+    "grezzi/bozze/analisi/Intelligence Digitale, Diritto ed Analisi Strutturata.md"
+  ],
+  "Il sistema di intelligence italiano": [
+    "grezzi/bozze/estratti/Il Sistema di Intelligence Italiano — SISR, Legge 124-2007 e Vantaggio Decisionale.md"
+  ],
+  "Legge 124/2007": [
+    "grezzi/bozze/estratti/Il Sistema di Intelligence Italiano — SISR, Legge 124-2007 e Vantaggio Decisionale.md",
+    "grezzi/bozze/estratti/Quadro Giuridico e Limiti della Sicurezza Nazionale — CEDU, Legge 124-2007, AI Act e Standard ICS 206-01.md"
+  ],
+  "Metodi di ragionamento avanzato": [
+    "grezzi/bozze/estratti/Metodi di Ragionamento Avanzato e Architetture LLM — CoT, Self-Consistency, Tree of Thoughts e Chaining.md"
+  ],
+  "Architetture llm": [
+    "grezzi/bozze/estratti/Metodi di Ragionamento Avanzato e Architetture LLM — CoT, Self-Consistency, Tree of Thoughts e Chaining.md"
+  ],
+  "Cot": [
+    "grezzi/bozze/estratti/Metodi di Ragionamento Avanzato e Architetture LLM — CoT, Self-Consistency, Tree of Thoughts e Chaining.md",
+    "grezzi/bozze/estratti/Prompt Engineering e CoT.md"
+  ],
+  "Self-consistency": [
+    "grezzi/bozze/estratti/Metodi di Ragionamento Avanzato e Architetture LLM — CoT, Self-Consistency, Tree of Thoughts e Chaining.md"
+  ],
+  "Tree of thoughts": [
+    "grezzi/bozze/estratti/Metodi di Ragionamento Avanzato e Architetture LLM — CoT, Self-Consistency, Tree of Thoughts e Chaining.md"
+  ],
+  "Chaining": [
+    "grezzi/bozze/estratti/Metodi di Ragionamento Avanzato e Architetture LLM — CoT, Self-Consistency, Tree of Thoughts e Chaining.md"
+  ],
+  "Ml workflow": [
+    "grezzi/bozze/estratti/ML Workflow.md"
+  ],
+  "Web scraping": [
+    "grezzi/bozze/estratti/Web Scraping — statico vs dinamico, strumenti e limiti anti-bot.md",
+    "grezzi/bozze/analisi/Web Scraping — analisi strutturata statico vs dinamico, strumenti e limiti.md"
+  ],
+  "Statico vs dinamico": [
+    "grezzi/bozze/estratti/Web Scraping — statico vs dinamico, strumenti e limiti anti-bot.md"
+  ],
+  "Strumenti": [
+    "grezzi/bozze/estratti/Web Scraping — statico vs dinamico, strumenti e limiti anti-bot.md"
+  ],
+  "Limiti anti-bot": [
+    "grezzi/bozze/estratti/Web Scraping — statico vs dinamico, strumenti e limiti anti-bot.md"
+  ],
+  "Casi studio comparati": [
+    "grezzi/bozze/estratti/Casi Studio Comparati — Operazioni di Disinformazione Documentate.md"
+  ],
+  "Intelligence economica": [
+    "grezzi/bozze/estratti/Geopolitica, Intelligence Economica e Architettura All-Source.md"
+  ],
+  "Architettura all-source": [
+    "grezzi/bozze/estratti/Geopolitica, Intelligence Economica e Architettura All-Source.md"
+  ],
+  "Tassonomia degli strumenti osint": [
+    "grezzi/bozze/estratti/Tassonomia degli Strumenti OSINT.md"
+  ],
+  "Vulnerabilita' llm": [
+    "grezzi/bozze/estratti/OSINT, Cyber e AI Generativa — Vulnerabilita' LLM e Automazione OSINT (n8n).md"
+  ],
+  "Limiti della sicurezza nazionale": [
+    "grezzi/bozze/estratti/Quadro Giuridico e Limiti della Sicurezza Nazionale — CEDU, Legge 124-2007, AI Act e Standard ICS 206-01.md"
+  ],
+  "Cedu": [
+    "grezzi/bozze/estratti/Quadro Giuridico e Limiti della Sicurezza Nazionale — CEDU, Legge 124-2007, AI Act e Standard ICS 206-01.md"
+  ],
+  "Standard ics 206-01": [
+    "grezzi/bozze/estratti/Quadro Giuridico e Limiti della Sicurezza Nazionale — CEDU, Legge 124-2007, AI Act e Standard ICS 206-01.md"
+  ],
+  "Paradigma human-in-the-loop": [
+    "grezzi/bozze/estratti/Paradigma Human-in-the-Loop.md"
+  ],
+  "Output": [
+    "grezzi/bozze/estratti/Output e disseminazione.md"
+  ],
+  "Disseminazione": [
+    "grezzi/bozze/estratti/Output e disseminazione.md"
+  ],
+  "Moduli 1-2 pdc": [
+    "grezzi/bozze/estratti/Moduli 1-2 PdC — OSINT nella Sicurezza Nazionale e Introduzione all'OSINT.md"
+  ],
+  "Osint nella sicurezza nazionale": [
+    "grezzi/bozze/estratti/Moduli 1-2 PdC — OSINT nella Sicurezza Nazionale e Introduzione all'OSINT.md",
+    "grezzi/bozze/analisi/OSINT nella Sicurezza Nazionale, OODA, SISR, SAT.md"
+  ],
+  "Introduzione all'osint": [
+    "grezzi/bozze/estratti/Moduli 1-2 PdC — OSINT nella Sicurezza Nazionale e Introduzione all'OSINT.md"
+  ],
+  "Networking osint": [
+    "grezzi/bozze/estratti/Networking OSINT e Profilazione Target — IP, ASN Tracking, DNS Intelligence e Wigle WiFi Mapping.md"
+  ],
+  "Profilazione target": [
+    "grezzi/bozze/estratti/Networking OSINT e Profilazione Target — IP, ASN Tracking, DNS Intelligence e Wigle WiFi Mapping.md"
+  ],
+  "Asn tracking": [
+    "grezzi/bozze/estratti/Networking OSINT e Profilazione Target — IP, ASN Tracking, DNS Intelligence e Wigle WiFi Mapping.md"
+  ],
+  "Dns intelligence": [
+    "grezzi/bozze/estratti/Networking OSINT e Profilazione Target — IP, ASN Tracking, DNS Intelligence e Wigle WiFi Mapping.md"
+  ],
+  "Wigle wifi mapping": [
+    "grezzi/bozze/estratti/Networking OSINT e Profilazione Target — IP, ASN Tracking, DNS Intelligence e Wigle WiFi Mapping.md"
+  ],
+  "Algoritmi di clustering": [
+    "grezzi/bozze/estratti/Algoritmi di Clustering e Fondamenti Unsupervised Learning.md"
+  ],
+  "Fondamenti unsupervised learning": [
+    "grezzi/bozze/estratti/Algoritmi di Clustering e Fondamenti Unsupervised Learning.md"
+  ],
+  "Context engineering": [
+    "grezzi/bozze/estratti/Context Engineering e Context Rot.md"
+  ],
+  "Context rot": [
+    "grezzi/bozze/estratti/Context Engineering e Context Rot.md"
+  ],
+  "Automazione workflow": [
+    "grezzi/bozze/estratti/Power Automate e Data Driven Intelligence — Automazione Workflow e BI.md"
+  ],
+  "Modulo ml-dl lezione 2": [
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 2 — Piattaforma KNIME per Machine Learning No-Code.md"
+  ],
+  "Framing strategico": [
+    "grezzi/bozze/estratti/Framing Strategico e Risonanza Social — Analisi delle Crisi, Delegittimazione e il Caso Cutro.md"
+  ],
+  "Risonanza social": [
+    "grezzi/bozze/estratti/Framing Strategico e Risonanza Social — Analisi delle Crisi, Delegittimazione e il Caso Cutro.md"
+  ],
+  "Data-driven intelligence con ai": [
+    "grezzi/bozze/estratti/Data-Driven Intelligence con AI.md"
+  ],
+  "Architettura degli strumenti di raccolta dati": [
+    "grezzi/bozze/estratti/Architettura degli Strumenti di Raccolta Dati.md"
+  ],
+  "Modulo 4 overview – algoritmi": [
+    "grezzi/bozze/estratti/Modulo 4 Overview – Algoritmi e Disinformazione — Approccio Critico per Analisti.md"
+  ],
+  "Approccio critico per analisti": [
+    "grezzi/bozze/estratti/Modulo 4 Overview – Algoritmi e Disinformazione — Approccio Critico per Analisti.md"
+  ],
+  "Investigazione indirizzi crypto": [
+    "grezzi/bozze/estratti/Investigazione Indirizzi Crypto — Blockchain Explorers, Attribution e Reporting Investigativo.md"
+  ],
+  "Reporting investigativo": [
+    "grezzi/bozze/estratti/Investigazione Indirizzi Crypto — Blockchain Explorers, Attribution e Reporting Investigativo.md"
+  ],
+  "Teorie cospirative": [
+    "grezzi/bozze/estratti/Teorie Cospirative, Fringe e Radicalizzazione.md"
+  ],
+  "Fringe": [
+    "grezzi/bozze/estratti/Teorie Cospirative, Fringe e Radicalizzazione.md"
+  ],
+  "Radicalizzazione": [
+    "grezzi/bozze/estratti/Teorie Cospirative, Fringe e Radicalizzazione.md"
+  ],
+  "Modulo ml-dl lezione 5": [
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 5 — Classificazione, Decision Trees e Random Forests.md"
+  ],
+  "Decision trees": [
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 5 — Classificazione, Decision Trees e Random Forests.md"
+  ],
+  "Random forests": [
+    "grezzi/bozze/estratti/Modulo ML-DL Lezione 5 — Classificazione, Decision Trees e Random Forests.md"
+  ],
+  "Sicurezza digitale": [
+    "grezzi/bozze/estratti/Sicurezza Digitale e OPSEC — Checklist Lapi, Letture Consigliate, Geopolitica.md"
+  ],
+  "Checklist lapi": [
+    "grezzi/bozze/estratti/Sicurezza Digitale e OPSEC — Checklist Lapi, Letture Consigliate, Geopolitica.md"
+  ],
+  "Letture consigliate": [
+    "grezzi/bozze/estratti/Sicurezza Digitale e OPSEC — Checklist Lapi, Letture Consigliate, Geopolitica.md"
+  ],
+  "Motore di ricerca per iot": [
+    "grezzi/bozze/estratti/Shodan — Motore di Ricerca per IoT e Infrastrutture.md"
+  ],
+  "Infrastrutture": [
+    "grezzi/bozze/estratti/Shodan — Motore di Ricerca per IoT e Infrastrutture.md"
+  ],
+  "Modulo ml-dl case study": [
+    "grezzi/bozze/estratti/Modulo ML-DL Case Study — EDA e Previsione dei Costi degli Incidenti Cyber.md"
+  ],
+  "Eda": [
+    "grezzi/bozze/estratti/Modulo ML-DL Case Study — EDA e Previsione dei Costi degli Incidenti Cyber.md"
+  ],
+  "Previsione dei costi degli incidenti cyber": [
+    "grezzi/bozze/estratti/Modulo ML-DL Case Study — EDA e Previsione dei Costi degli Incidenti Cyber.md"
+  ],
+  "Metodi di ragionamento analitico nell'intelligence": [
+    "grezzi/bozze/estratti/Inferenza Logica e Metodi di Ragionamento Analitico nell'Intelligence.md"
+  ],
+  "Human-in-the-loop": [
+    "grezzi/bozze/estratti/Human-in-the-Loop — Framework HITL.md"
+  ],
+  "Framework hitl": [
+    "grezzi/bozze/estratti/Human-in-the-Loop — Framework HITL.md"
+  ],
+  "Moduli 5–6": [
+    "grezzi/bozze/estratti/Moduli 5–6 — Social Network Analysis e Automazione OSINT.md"
+  ],
+  "Attori statali": [
+    "grezzi/bozze/estratti/Attori Statali e Non-Statali — TTPs, Capacità e Threat Assessment.md"
+  ],
+  "Non-statali": [
+    "grezzi/bozze/estratti/Attori Statali e Non-Statali — TTPs, Capacità e Threat Assessment.md"
+  ],
+  "Ttps": [
+    "grezzi/bozze/estratti/Attori Statali e Non-Statali — TTPs, Capacità e Threat Assessment.md"
+  ],
+  "Capacità": [
+    "grezzi/bozze/estratti/Attori Statali e Non-Statali — TTPs, Capacità e Threat Assessment.md"
+  ],
+  "Threat assessment": [
+    "grezzi/bozze/estratti/Attori Statali e Non-Statali — TTPs, Capacità e Threat Assessment.md"
+  ],
+  "Bias algoritmici": [
+    "grezzi/bozze/estratti/Bias Algoritmici e Analisi delle Ombre nell'OSINT Visiva.md"
+  ],
+  "Analisi delle ombre nell'osint visiva": [
+    "grezzi/bozze/estratti/Bias Algoritmici e Analisi delle Ombre nell'OSINT Visiva.md"
+  ],
+  "Strumenti di ricerca osint": [
+    "grezzi/bozze/analisi/Strumenti di Ricerca OSINT e Dark Web.md"
+  ],
+  "Integrazione della visione artificiale nella mappa osint": [
+    "grezzi/bozze/analisi/Integrazione della Visione Artificiale nella Mappa OSINT.md"
+  ],
+  "Large language models": [
+    "grezzi/bozze/analisi/AI Generativa, Large Language Models e Prompt Engineering.md"
+  ],
+  "Foreign Information Manipulation and Interference": [
+    "grezzi/bozze/analisi/Gestione scenario complesso disinformazione — Framework FIMI, DISARM, ABCDE, 5D-6D+1F.md",
+    "grezzi/bozze/analisi/FIMI e Cognitive Warfare — l'ecosistema della manipolazione informativa.md"
+  ],
+  "Disarm": [
+    "grezzi/bozze/analisi/Gestione scenario complesso disinformazione — Framework FIMI, DISARM, ABCDE, 5D-6D+1F.md"
+  ],
+  "Abcde": [
+    "grezzi/bozze/analisi/Gestione scenario complesso disinformazione — Framework FIMI, DISARM, ABCDE, 5D-6D+1F.md"
+  ],
+  "5d-6d": [
+    "grezzi/bozze/analisi/Gestione scenario complesso disinformazione — Framework FIMI, DISARM, ABCDE, 5D-6D+1F.md"
+  ],
+  "Pilastri osint": [
+    "grezzi/bozze/analisi/Scenario Informativo e Pilastri OSINT.md"
+  ],
+  "Intelligence cycle": [
+    "grezzi/bozze/analisi/IP-DNS + Intelligence Cycle — valutazione integrativa gap analysis.md"
+  ],
+  "Valutazione integrativa gap analysis": [
+    "grezzi/bozze/analisi/IP-DNS + Intelligence Cycle — valutazione integrativa gap analysis.md"
+  ],
+  "Analisi critica dis-mithrandir": [
+    "grezzi/bozze/analisi/Analisi Critica DIS-Mithrandir — Sicurezza Nazionale ed OSINT.md"
+  ],
+  "Architettura agentica": [
+    "grezzi/bozze/analisi/Da Power Automate ad Agentic AI — architettura agentica e ciclo P-D-A.md"
+  ],
+  "Ciclo p-d-a": [
+    "grezzi/bozze/analisi/Da Power Automate ad Agentic AI — architettura agentica e ciclo P-D-A.md"
+  ],
+  "Data science": [
+    "grezzi/bozze/analisi/Analisi Data Science, Visualizzazione Dati e Social Network Analysis (SNA).md"
+  ],
+  "Visualizzazione dei dati": [
+    "grezzi/bozze/analisi/Analisi Data Science, Visualizzazione Dati e Social Network Analysis (SNA).md"
+  ],
+  "Ai security": [
+    "grezzi/bozze/analisi/AI Security, Deepfake e Crittografia — Minacce e difese nell'era OSINT.md"
+  ],
+  "Crittografia": [
+    "grezzi/bozze/analisi/AI Security, Deepfake e Crittografia — Minacce e difese nell'era OSINT.md"
+  ],
+  "Minacce": [
+    "grezzi/bozze/analisi/AI Security, Deepfake e Crittografia — Minacce e difese nell'era OSINT.md"
+  ],
+  "Difese nell'era osint": [
+    "grezzi/bozze/analisi/AI Security, Deepfake e Crittografia — Minacce e difese nell'era OSINT.md"
+  ],
+  "Intelligence strategica": [
+    "grezzi/bozze/analisi/Intelligence Strategica e Geopolitica — Ciclo OODA, Framework SISR e All-Source Intelligence.md"
+  ],
+  "Guerra cognitiva": [
+    "grezzi/bozze/analisi/FIMI e Cognitive Warfare — l'ecosistema della manipolazione informativa.md",
+    "grezzi/bozze/analisi/Manipolazione delle informazioni, guerra cognitiva.md",
+    "grezzi/bozze/analisi/Manipolazione delle informazioni, guerra cognitiva, protezione e controllo delle informazioni.md"
+  ],
+  "L'ecosistema della manipolazione informativa": [
+    "grezzi/bozze/analisi/FIMI e Cognitive Warfare — l'ecosistema della manipolazione informativa.md"
+  ],
+  "Nota metodologica": [
+    "grezzi/bozze/analisi/Nota Metodologica e IA Wiki Knowledge.md"
+  ],
+  "Ia wiki knowledge": [
+    "grezzi/bozze/analisi/Nota Metodologica e IA Wiki Knowledge.md"
+  ],
+  "Prompt injection": [
+    "grezzi/bozze/analisi/Prompt Injection, Foresight e Backcasting.md"
+  ],
+  "Foresight": [
+    "grezzi/bozze/analisi/Prompt Injection, Foresight e Backcasting.md"
+  ],
+  "Backcasting": [
+    "grezzi/bozze/analisi/Prompt Injection, Foresight e Backcasting.md"
+  ],
+  "Analisi comparata": [
+    "grezzi/bozze/analisi/Analisi Comparata — Business Intelligence ed Inchieste Blockchain Cross-Domain.md"
+  ],
+  "Inchieste blockchain cross-domain": [
+    "grezzi/bozze/analisi/Analisi Comparata — Business Intelligence ed Inchieste Blockchain Cross-Domain.md"
+  ],
+  "Mappatura integrata": [
+    "grezzi/bozze/analisi/Must Have OSINT — Mappatura Integrata.md"
+  ],
+  "Valutazione epistemologica": [
+    "grezzi/bozze/analisi/Valutazione Epistemologica — Computer Vision applicata all'OSINT.md"
+  ],
+  "No-code": [
+    "grezzi/bozze/analisi/Low-code e no-code — analisi strutturata Make, n8n, Apify, Octoparse.md"
+  ],
+  "Analisi sna": [
+    "grezzi/bozze/analisi/Analisi SNA — Fondamenti di Teoria dei Grafi per Intelligence.md"
+  ],
+  "Tecniche osint per frame analysis": [
+    "grezzi/bozze/analisi/Tecniche OSINT per Frame Analysis e Verifica dei Contenuti.md"
+  ],
+  "Verifica dei contenuti": [
+    "grezzi/bozze/analisi/Tecniche OSINT per Frame Analysis e Verifica dei Contenuti.md"
+  ],
+  "Analisi didattica": [
+    "grezzi/bozze/analisi/Analisi Didattica — Fondamenti di AI e Machine Learning per l'Intelligence.md"
+  ],
+  "Fondamenti di ai": [
+    "grezzi/bozze/analisi/Analisi Didattica — Fondamenti di AI e Machine Learning per l'Intelligence.md"
+  ],
+  "Ecosistema disinformativo italiano": [
+    "grezzi/bozze/analisi/Ecosistema Disinformativo Italiano — Tier Structure e Attori.md"
+  ],
+  "Tier structure": [
+    "grezzi/bozze/analisi/Ecosistema Disinformativo Italiano — Tier Structure e Attori.md"
+  ],
+  "Attori": [
+    "grezzi/bozze/analisi/Ecosistema Disinformativo Italiano — Tier Structure e Attori.md"
+  ],
+  "Tool osint": [
+    "grezzi/bozze/analisi/Tool OSINT — Blockchain, Corporate Intelligence e Workflow Automation.md"
+  ],
+  "Blockchain": [
+    "grezzi/bozze/analisi/Tool OSINT — Blockchain, Corporate Intelligence e Workflow Automation.md"
+  ],
+  "Workflow automation": [
+    "grezzi/bozze/analisi/Tool OSINT — Blockchain, Corporate Intelligence e Workflow Automation.md"
+  ],
+  "Challenges and trends in global politics": [
+    "grezzi/bozze/analisi/Challenges and Trends in Global Politics — Framework geopolitico per OSINT.md"
+  ],
+  "Framework geopolitico per osint": [
+    "grezzi/bozze/analisi/Challenges and Trends in Global Politics — Framework geopolitico per OSINT.md"
+  ],
+  "Osint nel sistema di sicurezza nazionale – dis": [
+    "grezzi/bozze/analisi/OSINT nel sistema di sicurezza nazionale – DIS.md"
+  ],
+  "Llm-genai-agent patterns": [
+    "grezzi/bozze/analisi/LLM-GenAI-Agent Patterns — Da ChatGPT ad Agenti OSINT con Langflow e n8n.md"
+  ],
+  "Da chatgpt ad agenti osint con langflow": [
+    "grezzi/bozze/analisi/LLM-GenAI-Agent Patterns — Da ChatGPT ad Agenti OSINT con Langflow e n8n.md"
+  ],
+  "Lista tool osint": [
+    "grezzi/bozze/analisi/Lista Tool OSINT — Analisi critica del catalogo 107 strumenti.md"
+  ],
+  "Ciclo intelligence fusion": [
+    "grezzi/bozze/analisi/Ciclo intelligence fusion — SAT, bias, superforecasting e AI-assisted analysis.md"
+  ],
+  "Superforecasting": [
+    "grezzi/bozze/analisi/Ciclo intelligence fusion — SAT, bias, superforecasting e AI-assisted analysis.md"
+  ],
+  "Ai-assisted analysis": [
+    "grezzi/bozze/analisi/Ciclo intelligence fusion — SAT, bias, superforecasting e AI-assisted analysis.md"
+  ],
+  "Ricerca avanzata": [
+    "grezzi/bozze/analisi/Ricerca avanzata, metadati, affidabilità, fact-checking.md"
+  ],
+  "Metadati": [
+    "grezzi/bozze/analisi/Ricerca avanzata, metadati, affidabilità, fact-checking.md"
+  ],
+  "Affidabilità": [
+    "grezzi/bozze/analisi/Ricerca avanzata, metadati, affidabilità, fact-checking.md"
+  ],
+  "Tassonomia": [
+    "grezzi/bozze/analisi/Tassonomia e Metodologia OSINT — Ciclo e Metodi Fondamentali.md"
+  ],
+  "Metodologia osint": [
+    "grezzi/bozze/analisi/Tassonomia e Metodologia OSINT — Ciclo e Metodi Fondamentali.md"
+  ],
+  "Ciclo": [
+    "grezzi/bozze/analisi/Tassonomia e Metodologia OSINT — Ciclo e Metodi Fondamentali.md"
+  ],
+  "Metodi fondamentali": [
+    "grezzi/bozze/analisi/Tassonomia e Metodologia OSINT — Ciclo e Metodi Fondamentali.md"
+  ],
+  "Raccolta osint": [
+    "grezzi/bozze/analisi/Raccolta OSINT — dalla pianificazione al targeting.md"
+  ],
+  "Dalla pianificazione al targeting": [
+    "grezzi/bozze/analisi/Raccolta OSINT — dalla pianificazione al targeting.md"
+  ],
+  "Wiki osint": [
+    "grezzi/bozze/analisi/Wiki OSINT — Analisi critica dell'architettura strutturale.md"
+  ],
+  "Osint investigazione digitale": [
+    "grezzi/bozze/analisi/OSINT investigazione digitale e Cybersecurity con AI.md"
+  ],
+  "Cybersecurity con ai": [
+    "grezzi/bozze/analisi/OSINT investigazione digitale e Cybersecurity con AI.md"
+  ],
+  "Layer di una struttura osint": [
+    "grezzi/bozze/analisi/Layer di una struttura OSINT — gap capacity-building nella catena dell'intelligence.md"
+  ],
+  "Gap capacity-building nella catena dell'intelligence": [
+    "grezzi/bozze/analisi/Layer di una struttura OSINT — gap capacity-building nella catena dell'intelligence.md"
+  ],
+  "Analisi vault health audit": [
+    "grezzi/bozze/analisi/Analisi Vault Health Audit — gruppo 3 — gap strutturali e azioni.md"
+  ],
+  "Gruppo 3": [
+    "grezzi/bozze/analisi/Analisi Vault Health Audit — gruppo 3 — gap strutturali e azioni.md"
+  ],
+  "Gap strutturali": [
+    "grezzi/bozze/analisi/Analisi Vault Health Audit — gruppo 3 — gap strutturali e azioni.md"
+  ],
+  "Azioni": [
+    "grezzi/bozze/analisi/Analisi Vault Health Audit — gruppo 3 — gap strutturali e azioni.md"
+  ],
+  "Ml-dl per osint": [
+    "grezzi/bozze/analisi/ML-DL per OSINT — Dal Supervised al GenAI, Architetture e Patterns.md"
+  ],
+  "Dal supervised al genai": [
+    "grezzi/bozze/analisi/ML-DL per OSINT — Dal Supervised al GenAI, Architetture e Patterns.md"
+  ],
+  "Architetture": [
+    "grezzi/bozze/analisi/ML-DL per OSINT — Dal Supervised al GenAI, Architetture e Patterns.md"
+  ],
+  "Patterns": [
+    "grezzi/bozze/analisi/ML-DL per OSINT — Dal Supervised al GenAI, Architetture e Patterns.md"
+  ],
+  "Genai": [
+    "grezzi/bozze/analisi/GenAI e Agenti OSINT — LLM, Langflow, RAG e Architetture Agentic.md"
+  ],
+  "Agenti osint": [
+    "grezzi/bozze/analisi/GenAI e Agenti OSINT — LLM, Langflow, RAG e Architetture Agentic.md"
+  ],
+  "Architetture agentic": [
+    "grezzi/bozze/analisi/GenAI e Agenti OSINT — LLM, Langflow, RAG e Architetture Agentic.md"
+  ],
+  "Manipolazione delle informazioni": [
+    "grezzi/bozze/analisi/Manipolazione delle informazioni, guerra cognitiva.md",
+    "grezzi/bozze/analisi/Manipolazione delle informazioni, guerra cognitiva, protezione e controllo delle informazioni.md"
+  ],
+  "Token economy": [
+    "grezzi/bozze/analisi/Token Economy e costo-lingua — implicazioni operative OSINT.md"
+  ],
+  "Costo-lingua": [
+    "grezzi/bozze/analisi/Token Economy e costo-lingua — implicazioni operative OSINT.md"
+  ],
+  "Implicazioni operative osint": [
+    "grezzi/bozze/analisi/Token Economy e costo-lingua — implicazioni operative OSINT.md"
+  ],
+  "Regimi di verità": [
+    "grezzi/bozze/analisi/Tassonomia della Disinformazione e Regimi di Verità.md"
+  ],
+  "Osint fundamentals": [
+    "grezzi/bozze/analisi/OSINT Fundamentals.md"
+  ],
+  "Struttura del master": [
+    "grezzi/bozze/analisi/Struttura del Master, Standard ICS e Fondamenti Operativi.md"
+  ],
+  "Standard ics": [
+    "grezzi/bozze/analisi/Struttura del Master, Standard ICS e Fondamenti Operativi.md"
+  ],
+  "Fondamenti operativi": [
+    "grezzi/bozze/analisi/Struttura del Master, Standard ICS e Fondamenti Operativi.md"
+  ],
+  "Protocollo di Berkeley": [
+    "grezzi/bozze/analisi/SISR, ICS 206-01 e Berkeley Protocol — Quadro istituzionale e normativo dell'OSINT.md"
+  ],
+  "Quadro istituzionale": [
+    "grezzi/bozze/analisi/SISR, ICS 206-01 e Berkeley Protocol — Quadro istituzionale e normativo dell'OSINT.md"
+  ],
+  "Normativo dell'osint": [
+    "grezzi/bozze/analisi/SISR, ICS 206-01 e Berkeley Protocol — Quadro istituzionale e normativo dell'OSINT.md"
+  ],
+  "Dall'economia dei semiconduttori al web of agents": [
+    "grezzi/bozze/analisi/Geopolitica Strategica ed AI — Dall'Economia dei Semiconduttori al Web of Agents.md"
+  ],
+  "Protezione": [
+    "grezzi/bozze/analisi/Manipolazione delle informazioni, guerra cognitiva, protezione e controllo delle informazioni.md"
+  ],
+  "Controllo delle informazioni": [
+    "grezzi/bozze/analisi/Manipolazione delle informazioni, guerra cognitiva, protezione e controllo delle informazioni.md"
+  ],
+  "Framework delle minacce cognitive": [
+    "grezzi/bozze/analisi/Framework delle minacce cognitive e cybersecurity stratificata.md"
+  ],
+  "Cybersecurity stratificata": [
+    "grezzi/bozze/analisi/Framework delle minacce cognitive e cybersecurity stratificata.md"
+  ],
+  "Il quadro normativo dell'osint": [
+    "grezzi/bozze/analisi/Il quadro normativo dell'OSINT — privacy, piattaforme e diritto digitale.md"
+  ],
+  "Data driven intelligence con ai": [
+    "grezzi/bozze/analisi/Data Driven Intelligence con AI.md"
+  ],
+  "Fondamenti matematici": [
+    "grezzi/bozze/analisi/Social Network Analysis per OSINT — fondamenti matematici, metriche e laboratorio.md"
+  ],
+  "Metriche": [
+    "grezzi/bozze/analisi/Social Network Analysis per OSINT — fondamenti matematici, metriche e laboratorio.md"
+  ],
+  "Laboratorio": [
+    "grezzi/bozze/analisi/Social Network Analysis per OSINT — fondamenti matematici, metriche e laboratorio.md"
+  ],
+  "Architettura": [
+    "grezzi/bozze/analisi/LLM — Fondamenti, Architettura e Rischi per OSINT.md"
+  ],
+  "Rischi per osint": [
+    "grezzi/bozze/analisi/LLM — Fondamenti, Architettura e Rischi per OSINT.md"
+  ],
+  "Platform": [
+    "grezzi/bozze/analisi/Infosfera, Platform e Surveillance Capitalism — gap teorico-operativi.md"
+  ],
+  "Gap teorico-operativi": [
+    "grezzi/bozze/analisi/Infosfera, Platform e Surveillance Capitalism — gap teorico-operativi.md"
+  ],
+  "Tecniche": [
+    "grezzi/bozze/analisi/OSINT e sicurezza nazionale — fondamenti, tecniche e futuro.md"
+  ],
+  "Futuro": [
+    "grezzi/bozze/analisi/OSINT e sicurezza nazionale — fondamenti, tecniche e futuro.md"
+  ]
+}

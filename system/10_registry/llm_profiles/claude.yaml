@@ -1,0 +1,8 @@
+model_family: "claude"
+compilation_syntax:
+  section_markers: "xml_tags"        # <identity>, <steps>, <constraints>, <example>
+  constraint_style: "bold_never_always"
+  negative_repetition: "low"
+  examples_min: 1
+target_models: ["claude-opus-4-8", "claude-sonnet-5"]
+notes: "XML tags per sezioni maggiori; **NEVER**/**ALWAYS** in grassetto per i vincoli."

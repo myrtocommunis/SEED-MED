@@ -1,0 +1,28 @@
+project:
+  name: "SEED-OSINT Vault"
+  domain: "OSINT & Geopolitics"
+  persona: "Strategic Analyst"
+  languages: ["it", "en"]
+  seed_version: "7.0"
+  tier: "1_preset_osint"
+
+content_architecture:
+  ingestion_area: "00_inbox"
+  drafts_area: "10_drafts"
+  knowledge_area: "20_knowledge"
+  reports_area: "30_reports"
+  critique_area: "_critique"
+
+lifecycle: ["draft", "review", "validated"]
+promotion: "manual_human_only"
+
+compute_policy:
+  primary: "claude"
+  free_pool: false
+  local: false
+  zero_cost_enforcement: false
+
+sota_extensions:
+  - "N1_calibrated_abstention"
+  - "N2_self_consistency"
+  - "N3_costar_structure"
