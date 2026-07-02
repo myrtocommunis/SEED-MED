@@ -8,3 +8,6 @@ CLAUDE.local.md
 # Obsidian workspace state (personal UI state)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Raw source datasets (heavy binaries — kept on disk for agents, not versioned)
+00_inbox/dataset_libia/
