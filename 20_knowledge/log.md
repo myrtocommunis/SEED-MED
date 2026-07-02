@@ -15,3 +15,4 @@
 ## [2026-07-03] curator | Estensione pilota Libia: asse Golfo (9 PDF, scan full-corpus) → 3 note draft (Emirati, Qatar, Arabia saudita)
 ## [2026-07-03] curator | Aggiunta OPEC: nota Opec (uscita UAE) + arricchimento Emirati (dimensione energetica), 5 PDF
 ## [2026-07-03] curator | Estensione finanza: LIA + CBL (nuove) + Bilancio arricchito, 6 PDF
+## [2026-07-03] curator | Estensione Sahel/Sudan: Sudan + Ciad + Sahel (nuove), 11 PDF

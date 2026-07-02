@@ -79,3 +79,10 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | `Banca centrale libica` | Naji Issa; bilancio 190 mld dinari; ispezione K2; banca parallela est | **draft** ✓ |
 | `Bilancio libico` (arricchito) | Firma 11/4 (190 mld dinari, ~30 mld $); legittima Haftar | **draft** ✓ |
 > Lead (Italia): raffineria Fezzan — impresa italiana Progetti Europa & Global subentra a Petrofac (da estrarre in futuro).
+
+## Estensione — Spillover Sahel/Sudan (11 PDF, 2026-07-03)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Sudan` | Haftar arma l'RSF (addestrato in Libia); Egitto colpisce convogli; triangolo di confine | **draft** ✓ |
+| `Ciad` | CCMSR nel Fezzan poi espulso; forza congiunta di confine; dimensione Toubou | **draft** ✓ |
+| `Sahel` | Fezzan crocevia traffici; corridoio Niger-Libia; uranio russo Niamey-Bengasi | **draft** ✓ |
