@@ -12,3 +12,4 @@
 ## [2026-07-02] curator | Estensione pilota Libia: 12 PDF migrazione/regionale → 7 note draft (Frontex, return hubs, DTM, Egitto)
 ## [2026-07-02] curator | Estensione pilota Libia: 12 PDF attori esterni → 6 note draft (Pakistan, Cina, Francia, Ucraina, Russia, embargo ONU)
 ## [2026-07-03] curator | Estensione pilota Libia: 12 PDF frammentazione/elezioni → 4 note draft (istituzioni, road map, milizie, Dbeibah)
+## [2026-07-03] curator | Estensione pilota Libia: asse Golfo (9 PDF, scan full-corpus) → 3 note draft (Emirati, Qatar, Arabia saudita)

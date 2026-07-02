@@ -56,3 +56,12 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | `Elezioni` | Road map 18/6 (voto entro 17/2/2027) vs piano Boulos senza voto | **draft** ✓ |
 | `Milizie` | Scontri Zawiya; Rada vs Dbeibah; mediazione MIT turca | **draft** ✓ |
 | `Dbeibah` | PM GNU conteso; base Misurata; assenza/proteste | **draft** ✓ |
+
+## Estensione pilota — Golfo (9 PDF, 2026-07-03)
+> Nota: asse sottorappresentato nei titoli; contenuto recuperato via scan full-corpus dei termini del Golfo.
+
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Emirati` | Sponsor di Haftar; canale armi UAE→RSF sudanese; rivalità con Riyadh | **draft** ✓ |
+| `Qatar` | Allineato al GNU; co-investimento con l'Italia (Misurata FZ 2,7 mld $) | **draft** ✓ |
+| `Arabia saudita` | Contende Haftar agli Emirati (via Pakistan); patto difesa con Islamabad | **draft** ✓ |
