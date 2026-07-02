@@ -21,3 +21,8 @@ agents:
     deploy_path: ".claude/agents/reporter.md"
     model: "opus"
     role: "Synthesis & Report Producer"
+  - id: "schema_builder"
+    status: "draft"
+    deploy_path: ".claude/agents/schema_builder.md"
+    model: "sonnet"
+    role: "Thematic Schema Builder for Large Corpora"

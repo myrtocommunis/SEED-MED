@@ -64,6 +64,7 @@ Anchoring Mitigation · Scope Discipline · Temporal Awareness.
 | **curator** | "distill", "ingest", "curator" | 00_inbox/ | 10_drafts/ |
 | **adversary** | "critica", "stress-test", "adversary" | nota target | _critique/ |
 | **reporter** | "report", "assessment", "reporter" | 20_knowledge/ | 30_reports/ |
+| **schema_builder** | "build schema", "map themes", "schema_builder" | 00_inbox/ (o wiki/) | 10_drafts/ + _schema_map.md |
 
 ## 8. ⚛️ Atomicità Concettuale (MANDATORIA)
 1. **Nome Atomico Minimo:** titoli brevissimi, universali, radice concettuale singola
@@ -83,7 +84,7 @@ Anchoring Mitigation · Scope Discipline · Temporal Awareness.
 ## 10. 🏃 Comandi di workflow (shorthand)
 - **`fai ingest` / "Run Ingest":**
   1. Trigger Pre-Flight Token Gate.
-  2. (schema_builder non installato in questo preset → salta o proponi installazione.)
+  2. Lancia `schema_builder` (Pioneer) per mappare i macro-temi del corpus in `00_inbox/`.
   3. Loop `curator` su tutti i documenti in `00_inbox/` → note atomiche in `10_drafts/`.
   4. **Human Gate Halt:** "Ingest completo. Eseguo l'Adversary ora o preferisci rivedere i draft?"
 
