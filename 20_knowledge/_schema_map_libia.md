@@ -48,3 +48,11 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | `Ucraina` | Guerra coperta vs Russia; attacco tanker Arctic Metagaz; forze a Misurata | **draft** ✓ |
 | `Presenza russa` (arricchita) | Africa Corps; ritiro da Sirte→Fezzan; consolato Bengasi | **draft** ✓ |
 | `Embargo armi` | UNSC Ris. 2819 (14/4/26); road map Tetteh; 5+5 | **draft** ✓ |
+
+## Estensione pilota — Frammentazione interna & elezioni (12 PDF, 2026-07-02)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Frammentazione interna` | 3 autorità ovest (GNU/PC/HCS); dinaro -14,7%; vuoto di potere | **draft** ✓ |
+| `Elezioni` | Road map 18/6 (voto entro 17/2/2027) vs piano Boulos senza voto | **draft** ✓ |
+| `Milizie` | Scontri Zawiya; Rada vs Dbeibah; mediazione MIT turca | **draft** ✓ |
+| `Dbeibah` | PM GNU conteso; base Misurata; assenza/proteste | **draft** ✓ |
