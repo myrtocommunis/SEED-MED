@@ -27,3 +27,14 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 - Splitting MECE già applicato ai temi ibridi (es. "budget **e** Flintlock" → `Bilancio libico` + `Mediazione statunitense`).
 - I 177 PDF restano da estrarre: il `curator` li processerà in un secondo passo (nuovo Pre-Flight Gate).
 - Naming atomico minimo; wikilink solo a note esistenti.
+
+## Estensione pilota — Migrazione & stabilizzazione regionale (12 PDF, 2026-07-02)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Migrazione` | Patto UE (12/6/26), Frontex -40%, svolta policy | **draft** ✓ |
+| `Rotta del mediterraneo centrale` | ~1/3 ingressi UE; bengalesi 31% verso Italia; ~1.300 morti | **draft** ✓ |
+| `Return hubs` | Return Regulation UE (voto 17/6/26), modello Italia-Albania | **draft** ✓ |
+| `Frontex` | -40% attraversamenti; rotte a confronto | **draft** ✓ |
+| `Ritorni volontari` | Programmi OIM/UE (somali, sudanesi) | **draft** ✓ |
+| `Egitto` | Ritiro forze straniere; meccanismo Algeria-Egitto-Tunisia | **draft** ✓ |
+| `Ricostruzione libica` | 200→570 mld $; DRF est (Belkacem Haftar) | **draft** ✓ |
