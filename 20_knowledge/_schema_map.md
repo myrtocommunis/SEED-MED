@@ -1,22 +1,23 @@
-# Schema Map — Mappa Tematica del Corpus
+# Schema Map — Geopolitica del Mediterraneo (prospettiva italiana)
 
-> Generato da `schema_builder` il 2026-07-02. Definisce quali sorgenti alimentano quali
-> note atomiche. Naming atomico minimo, splitting MECE dei temi composti.
+> Generato da `schema_builder` il 2026-07-02. Batch scan: 3 sorgenti. Splitting MECE applicato.
 
-## Macro-temi rilevati (batch scan: 3 file)
+## Macro-temi rilevati
 
-| Wisdom-note atomica | Sorgenti che la alimentano | Stato |
-|---------------------|----------------------------|-------|
-| `Droni fpv` | report_droni_ucraina.md | draft (curator) |
-| `Guerra elettronica` | report_droni_ucraina.md · osint_metodi.md | draft (curator) |
-| `Deepfake` | nota_deepfake_disinfo.md | schema |
-| `Disinformazione` | nota_deepfake_disinfo.md | schema |
-| `Osint` | osint_metodi.md | schema |
-| `Geoint` | osint_metodi.md | schema |
-| `Admiralty` | osint_metodi.md | schema |
-| `Ucraina` | report_droni_ucraina.md (entità geografica) | pending |
+| Wisdom-note atomica | Sorgente | Stato |
+|---------------------|----------|-------|
+| `Diversificazione energetica` | energia_algeria_libia.md | draft (curator) |
+| `Gasdotti` | energia_algeria_libia.md | schema |
+| `Rotta del mediterraneo centrale` | migrazione_piano_mattei.md | schema |
+| `Piano mattei` | migrazione_piano_mattei.md | draft (curator) |
+| `Dispute zee` | dispute_zee_egeo.md | schema |
+| `Blue homeland` | dispute_zee_egeo.md | draft (curator) |
 
-## Regole di collocazione
-- Temi composti scissi in note parallele: "Droni FPV **e** guerra elettronica" → `Droni fpv` + `Guerra elettronica`.
-- "OSINT, GEOINT **ed** elettronica" → `Osint` + `Geoint` + `Guerra elettronica` (merge sul tema condiviso).
-- Ogni wisdom-note usa Nome Atomico Minimo; i wikilink puntano solo a note esistenti.
+## Entità atomiche (region/actor)
+`Italia` · `Algeria` · `Libia` · `Eni` · `Turchia` · `Grecia` · `Cipro` · `Migrazione`
+
+## Regole di collocazione (splitting MECE rilevato)
+- "Diversificazione energetica **e** gasdotti" → `Diversificazione energetica` + `Gasdotti`
+- "Rotta del Mediterraneo centrale **e** Piano Mattei" → `Rotta del mediterraneo centrale` + `Piano mattei`
+- "Dispute ZEE **e** Blue Homeland" → `Dispute zee` + `Blue homeland`
+- Naming atomico minimo; wikilink solo a note esistenti.
