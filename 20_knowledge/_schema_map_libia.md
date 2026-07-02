@@ -7,11 +7,12 @@
 
 | Wisdom-note atomica | Segnale (headline ricorrenti) | Stato |
 |---------------------|-------------------------------|-------|
-| **`Bilancio libico`** | Cluster dominante: primo bilancio unificato in oltre un decennio (Reuters, US DOS, Boulos) | schema |
-| **`Mediazione statunitense`** | Massad Boulos, "US uniting Libyan rivals", Flintlock 26 | schema |
-| **`Presenza russa`** | WSJ "squeeze out Russia" | schema |
-| **`Petrolio`** | Asta esplorativa dopo 18 anni, +1M barili/giorno, boom da guerra Iran, TotalEnergies Waha | schema |
-| **`Haftar`** | Saddam/Bilgassem/Khalifa Haftar, budget, Flintlock | schema |
+| **`Bilancio libico`** | Cluster dominante: primo bilancio unificato in oltre un decennio (Reuters, US DOS, Boulos) | **draft** ✓ pilota |
+| **`Mediazione statunitense`** | Convergenza USA-Italia-Turchia (Istanbul ago 2025), Boulos | **draft** ✓ pilota |
+| **`Presenza russa`** | Base Al-Khadim (armi verso Sahel), riapertura ambasciata Tripoli | **draft** ✓ pilota |
+| **`Petrolio`** | Asta dopo 18 anni; deal Total/Conoco 25 anni (>20 mld $); ritorno Eni | **draft** ✓ pilota |
+| **`Haftar`** | Clan Haftar; deal Pakistan-LNA 16 JF-17 (Cina) | **draft** ✓ pilota |
+| **`Cina`** | Penetrazione industrial-militare est via Pakistan-LNA | **draft** ✓ pilota |
 | `Migrazione` *(esiste)* | EU return hubs, Return Regulation, Economist | riuso |
 | `Turchia` *(esiste)* | Mandato truppe esteso, capo di SM libico morto in Turchia | riuso |
 | `Libia` *(esiste)* | Nodo-arena; frammentazione politica | riuso |
