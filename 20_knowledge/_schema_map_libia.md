@@ -38,3 +38,13 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | `Ritorni volontari` | Programmi OIM/UE (somali, sudanesi) | **draft** ✓ |
 | `Egitto` | Ritiro forze straniere; meccanismo Algeria-Egitto-Tunisia | **draft** ✓ |
 | `Ricostruzione libica` | 200→570 mld $; DRF est (Belkacem Haftar) | **draft** ✓ |
+
+## Estensione pilota — Attori esterni (12 PDF, 2026-07-02)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Pakistan` | Deal armi >4 mld $ a LNA (16 JF-17), viola embargo | **draft** ✓ |
+| `Cina` (arricchita) | Ritorno FOCAC 2024; diversificazione energetica; via Pakistan | **draft** ✓ |
+| `Francia` | Inviato Soler; MoU Business France; concorrente dell'Italia | **draft** ✓ |
+| `Ucraina` | Guerra coperta vs Russia; attacco tanker Arctic Metagaz; forze a Misurata | **draft** ✓ |
+| `Presenza russa` (arricchita) | Africa Corps; ritiro da Sirte→Fezzan; consolato Bengasi | **draft** ✓ |
+| `Embargo armi` | UNSC Ris. 2819 (14/4/26); road map Tetteh; 5+5 | **draft** ✓ |

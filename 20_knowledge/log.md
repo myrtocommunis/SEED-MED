@@ -10,3 +10,4 @@
 ## [2026-07-02] schema_builder | Dataset Libia: mappati 5 macro-temi + _schema_map_libia (21 MD+CSV letti, 177 PDF da estrarre)
 ## [2026-07-02] curator | Pilota Libia: 10 PDF estratti (pdfplumber) → 6 note draft verificate (Admiralty B2) + nuova nota Cina
 ## [2026-07-02] curator | Estensione pilota Libia: 12 PDF migrazione/regionale → 7 note draft (Frontex, return hubs, DTM, Egitto)
+## [2026-07-02] curator | Estensione pilota Libia: 12 PDF attori esterni → 6 note draft (Pakistan, Cina, Francia, Ucraina, Russia, embargo ONU)

@@ -1,27 +1,35 @@
 ---
 title: "Cina"
-tags: ["#influenza", "#difesa"]
+tags: ["#influenza", "#energia", "#difesa"]
 date: 2026-07-02
 status: "draft"
-depth: "standard"
-sources: "1"
-admiralty: "C3"
+depth: "deep"
+sources: "3"
+admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-29)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-11-13; BBC Monitoring 2026-03-27, 2025-12-29)"
 ---
 
 # Cina
 
-Attore esterno in ascesa in [[Libia]], soprattutto per via industrial-militare nell'est.
+Attore esterno in ascesa in [[Libia]], attivo su tre fronti: investimenti, energia e — per via
+industrial-militare — difesa.
 
-## Penetrazione industrial-militare [MEDIUM confidence]
-- Attraverso l'accordo Pakistan-LNA (16 JF-17 co-sviluppati), Pechino estende la presenza in
-  Nord Africa "dietro il velo delle esportazioni pakistane" (Hudson Institute). `[verificato: BBC Monitoring / SCMP]`
-- Interessa il clan [[Haftar]] e si intreccia con la competizione tra potenze in Libia.
+## Ritorno economico [HIGH confidence]
+- Xi Jinping ha rilanciato il partenariato con la Libia all'incontro con il presidente Menfi al
+  FOCAC di **Pechino (set 2024)**. Investitori cinesi attivi a ovest (GNU) ed est. `[verificato: Africa Intelligence]`
+- Veicolo: Camera Commerciale Congiunta Libico-Cinese (LCJCC), con accesso alla Libyan Foreign Bank.
 
-## Knowledge gap
-- Presenza economica cinese nell'ovest/Tripolitania: **da approfondire** (PDF Africa Intelligence non ancora estratti).
+## Energia e difesa [HIGH confidence]
+- Pechino diversifica le importazioni energetiche (guerra Iran, blocco di Hormuz): colloqui con
+  Turkmenistan, Libia e Canada. Il 13-15% del greggio cinese era iraniano. `[verificato: BBC Monitoring]`
+- Penetrazione militare tramite l'accordo [[Pakistan]]-LNA (16 JF-17), letta come espansione
+  dell'influenza cinese sul clan [[Haftar]]. `[verificato: BBC Monitoring/SCMP]`
+
+## Collegamenti
+Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 
 ## Fonti
-- [BBC Monitoring — Pakistan-east Libya deal expands China's influence](https://monitoring.bbc.co.uk/product/b0005680) (accesso 2026-07-02)
+- [Africa Intelligence — Beijing is back in business in Libya](https://www.africaintelligence.com/north-africa/2025/11/13/from-tripolitania-to-cyrenaica-beijing-is-finally-back-in-business,110558684-eve) (accesso 2026-07-02)
+- [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-02)
