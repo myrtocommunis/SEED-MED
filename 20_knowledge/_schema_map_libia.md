@@ -65,3 +65,9 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | `Emirati` | Sponsor di Haftar; canale armi UAE→RSF sudanese; rivalità con Riyadh | **draft** ✓ |
 | `Qatar` | Allineato al GNU; co-investimento con l'Italia (Misurata FZ 2,7 mld $) | **draft** ✓ |
 | `Arabia saudita` | Contende Haftar agli Emirati (via Pakistan); patto difesa con Islamabad | **draft** ✓ |
+
+## Aggiunta — OPEC & dimensione energetica UAE (5 PDF, 2026-07-03)
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Opec` | Uscita UAE dall'OPEC (apr 2026); Libia +1 mln bpd; quote e prezzi | **draft** ✓ |
+| `Emirati` (arricchita) | Aggiunta dimensione energetica: exit OPEC, frizioni con Riyadh | **draft** ✓ |
