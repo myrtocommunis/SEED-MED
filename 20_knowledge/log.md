@@ -19,3 +19,4 @@
 ## [2026-07-03] curator | Aggiunta nota Niger (corridoio migratorio, uranio, confine), collegata da Sahel, 3 PDF
 ## [2026-07-03] curator | Full ingest Batch 1/4 (25 PDF): +Regno unito, Tunisia, Saif al-islam; Turchia/Milizie arricchite
 ## [2026-07-03] curator | Full ingest Batch 2/4 (25 PDF): arricchite Saif al-islam, Ucraina, Egitto, Dbeibah
+## [2026-07-03] curator | Full ingest Batch 3/4 (25 PDF): arricchite Mediazione statunitense, Presenza russa, Petrolio, Bilancio libico

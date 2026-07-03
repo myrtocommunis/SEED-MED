@@ -1,34 +1,38 @@
 ---
 title: "Mediazione statunitense"
 tags: ["#influenza", "#difesa"]
-date: 2026-07-02
+date: 2026-07-03
 status: "draft"
 depth: "deep"
-sources: "2"
+sources: "5"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2025-10-20)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2025-10-20, 2026-03-13; US DoW 2026-04-15; BBC Monitoring 2026-04-25)"
 ---
 
 # Mediazione statunitense
 
-Iniziativa diplomatica USA per ricomporre le fazioni libiche, con una convergenza inedita
-tra Washington, Roma e Ankara. Rilevante per l'interesse italiano: allinea l'Italia al
-tavolo che ridefinisce gli equilibri in [[Libia]].
+Iniziativa diplomatica USA per ricomporre le fazioni libiche, con una convergenza inedita tra
+Washington, Roma e Ankara, che scavalca di fatto l'ONU sul dossier [[Libia]].
 
-## Convergenza USA-Italia-Turchia [HIGH confidence]
-- Trilaterale **Meloni-Erdoğan-Dbeibah a Istanbul (agosto 2025)**: Italia e Turchia, storici
-  sponsor del GNU di Tripoli, si spostano verso un modello di ingaggio simile a quello USA. `[verificato: Atlantic Council]`
-- Outreach bilanciato anche verso l'est: il ministro **Piantedosi ha incontrato Saddam [[Haftar]]
-  (giugno 2025)**; il capo dell'intelligence turca Kalin a Bengasi (agosto 2025). `[verificato: Atlantic Council]`
-- Obiettivo comune: sostenere l'unificazione istituzionale (cfr. [[Bilancio libico]]).
+## Convergenza e attori [HIGH confidence]
+- Trilaterale **Meloni-Erdoğan-Dbeibah** (Istanbul, ago 2025); outreach italiano anche verso l'est
+  (Piantedosi-Saddam [[Haftar]]). `[verificato: Atlantic Council]`
+- Perno operativo: **Massad Boulos**, Senior Advisor per l'Africa di Trump (figura contestata). `[verificato: Africa Intelligence]`
 
-## Massad Boulos [MEDIUM confidence]
-- Senior Advisor per l'Africa di Trump, perno USA sul dossier Libia (visite a Tripoli e Bengasi). `[verificato: Africa Intelligence]`
-- Figura contestata dentro l'amministrazione: accesso limitato alla Casa Bianca, budget operativo
-  ridotto, sospetti di interessi personali (da lui negati). `[verificato: Africa Intelligence]`
+## Il piano di unificazione [MEDIUM confidence]
+- Boulos propone di **fondere GNU e HoR senza elezioni**: governo con [[Dbeibah]] premier e un Consiglio
+  Presidenziale guidato da Saddam Haftar. Forte **opposizione** interna (mufti Ghariani, "rivoluzionari",
+  raduni a Misurata). `[verificato: Africa Intelligence, BBC Monitoring]`
+- Vista da molti come "traccia rivale" a quella dell'UNSMIL (cfr. [[Elezioni]]).
+
+## Successi e strumenti [HIGH confidence]
+- Facilitazione del [[Bilancio libico]] unificato (11 apr): dichiarazione congiunta di 10 Paesi (USA,
+  [[Italia]], [[Egitto]], [[Francia]], Germania, [[Qatar]], [[Arabia saudita]], Turchia, [[Emirati]], UK). `[verificato: US DoS]`
+- **Flintlock 2026** (AFRICOM, Sirte, 13 apr, ~1.500 militari da 30+ nazioni, **co-ospitato dalle forze
+  speciali italiane**): prima volta che est e ovest si addestrano insieme, via commissione 3+3. `[verificato: US DoW]`
 
 ## Fonti
-- [Atlantic Council — US, Italy, Turkey alignment in Libya](https://www.atlanticcouncil.org/blogs/menasource/us-italy-and-turkey-alignment-could-push-the-needle-in-libya/) (accesso 2026-07-02)
-- Africa Intelligence — Massad Boulos, free agent of Trump's African diplomacy (2025-10-20)
+- [Atlantic Council — US, Italy, Turkey alignment in Libya](https://www.atlanticcouncil.org/blogs/menasource/us-italy-and-turkey-alignment-could-push-the-needle-in-libya/) (accesso 2026-07-03)
+- [US Dept. of War — Africom commences Flintlock 2026](https://www.war.gov/News/News-Stories/Article/Article/4460643/) (accesso 2026-07-03)
