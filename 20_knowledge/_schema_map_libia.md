@@ -91,3 +91,14 @@ Previsioni · Fattori · **Categoria PESTLE-SM**. Riusabile come ground-truth pe
 | Wisdom-note atomica | Segnale | Stato |
 |---------------------|---------|-------|
 | `Niger` | Porta d'ingresso migratoria; deportazioni da Barak al-Shatt; uranio Orano→Bengasi | **draft** ✓ |
+
+## Riequilibrio corpus — Egeo/EastMed/Turchia (web-first, 2026-07-03)
+> Fonte: verifica web del curator (nessun dataset locale su questi temi).
+| Wisdom-note atomica | Segnale | Stato |
+|---------------------|---------|-------|
+| `Egeo` | Dispute isole/ZEE Grecia-Turchia; "metà dell'Egeo"; mappa UNESCO | **draft** ✓ |
+| `EastMed` | Gasdotto in stallo; EMGF (Italia dentro, Turchia esclusa) | **draft** ✓ |
+| `Cipro` (arricchita) | 13 blocchi; Eni primo operatore; Cronos/Aphrodite; frizione turca | **draft** ✓ |
+| `Grecia` (arricchita) | UNCLOS art.121; accordi ZEE con Italia/Egitto | **draft** ✓ |
+| `Turchia` (arricchita) | Elevata a scala di bacino: Egeo+Cipro+Libia | **draft** ✓ |
+| `Dispute zee` (arricchita) | 3 fronti (Egeo/Cipro/Libia) + blocco EMGF | **draft** ✓ |
