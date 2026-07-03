@@ -20,3 +20,4 @@
 ## [2026-07-03] curator | Full ingest Batch 1/4 (25 PDF): +Regno unito, Tunisia, Saif al-islam; Turchia/Milizie arricchite
 ## [2026-07-03] curator | Full ingest Batch 2/4 (25 PDF): arricchite Saif al-islam, Ucraina, Egitto, Dbeibah
 ## [2026-07-03] curator | Full ingest Batch 3/4 (25 PDF): arricchite Mediazione statunitense, Presenza russa, Petrolio, Bilancio libico
+## [2026-07-03] curator | Full ingest Batch 4/4 (24 PDF): arricchite Rotta med. centrale (dati Viminale), Mediazione statunitense (piano FT), Haftar (successione), Petrolio (boom+shale)

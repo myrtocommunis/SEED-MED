@@ -1,14 +1,14 @@
 ---
 title: "Rotta del mediterraneo centrale"
 tags: ["#migrazione", "#italia"]
-date: 2026-07-02
+date: 2026-07-03
 status: "draft"
 depth: "deep"
-sources: "3"
+sources: "4"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Frontex 2026-06-12; MMC 2026-03-05; DTM/Reliefweb 2026-03-10)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Viminale/Cruscotto 2026-06-15; Frontex 2026-06-12; MMC 2026-03-05; DTM 2026-03-10)"
 ---
 
 # Rotta del mediterraneo centrale
@@ -16,15 +16,16 @@ provenance:
 Principale via migratoria che collega la [[Libia]] all'[[Italia]], asse centrale della [[Migrazione]]
 irregolare verso l'Europa.
 
-## Dati verificati [HIGH confidence]
-- Il Mediterraneo centrale e quello orientale sono le rotte più battute, **~1/3 ciascuna** degli
-  ingressi irregolari UE. `[verificato: Frontex]`
-- I **bengalesi** sono la prima nazionalità in arrivo in Italia via questa rotta: **~31%** degli
-  arrivi irregolari via mare nel 2025 (12.000-14.000/anno dal 2022). `[verificato: MMC]`
-- Frontendo la Libia: nel Q1 2026 gli ingressi ai confini libici calano dell'8%, gli outflow del 17%
-  (fattori stagionali, Ramadan). `[verificato: DTM/OIM]`
-- Costo umano: **~1.300 morti** nel Mediterraneo da inizio 2026. `[verificato: OIM via Frontex]`
+## Dati sbarchi in Italia [HIGH confidence]
+- **Fonte Viminale (al 15 giu 2026)**: **12.737 sbarchi** nel 2026, contro 27.059 (2025) e 23.417 (2024)
+  nello stesso periodo — **forte calo**. Migranti in accoglienza in Italia: ~133.105. `[verificato: Dip. Pubblica Sicurezza]`
+- Serie storica: dai picchi 2016 (181.436) e 2023 (157.651) a 66.316 nel 2025. `[verificato: Viminale]`
+
+## Struttura della rotta [HIGH confidence]
+- Med. centrale e orientale: **~1/3 ciascuna** degli ingressi UE; i **bengalesi** sono la 1ª nazionalità
+  verso l'Italia (~31% arrivi via mare 2025). `[verificato: Frontex, MMC]`
+- Costo umano: **~1.300 morti** nel Mediterraneo nel 2026. `[verificato: OIM]`
 
 ## Fonti
-- [MMC — Bangladeshi migration to Italy via Libya](https://mixedmigration.org/articles/how-bangladeshi-migration-to-italy-via-libya-operates/) (accesso 2026-07-02)
-- [ReliefWeb — DTM Libya Migration Trends Q1-2026](https://reliefweb.int/) (accesso 2026-07-02)
+- [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/) (accesso 2026-07-03)
+- [MMC — Bangladeshi migration to Italy via Libya](https://mixedmigration.org/articles/how-bangladeshi-migration-to-italy-via-libya-operates/) (accesso 2026-07-03)

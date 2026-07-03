@@ -4,11 +4,11 @@ tags: ["#energia"]
 date: 2026-07-03
 status: "draft"
 depth: "deep"
-sources: "4"
+sources: "5"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (FT 2025-11-23; Reuters 2026-01-24; JPT 2025-01-09; BBC Monitoring 2026-04-06, 2026-04-17)"
+  - "00_inbox/dataset_libia/dataset_web_libia (FT 2025-11-23, 2026-05-02; Reuters 2026-01-24, 2026-04-28; BBC Monitoring 2026-04-06)"
 ---
 
 # Petrolio
@@ -16,17 +16,17 @@ provenance:
 Settore idrocarburi della [[Libia]] — maggiori riserve dell'Africa — motore del ritorno delle major
 e perno dell'[[Eni]] e della [[Diversificazione energetica]] italiana.
 
-## Peso e limiti strutturali [HIGH confidence]
-- **48 mld di barili** di riserve provate (~3% mondiale); produzione **1,2-1,3 mln bpd** (~1% mondiale);
-  il petrolio è il **97% delle entrate statali**. `[verificato: BBC Monitoring]`
-- Malgrado i prezzi alti da guerra Iran/Hormuz, la Libia beneficia poco: frammentazione, corruzione,
-  raffinazione sottosviluppata, NOC "unica in teoria" ma di fatto divisa (cfr. [[Milizie]] a Zawiya). `[verificato: BBC Monitoring]`
+## Peso, limiti e boom da guerra [HIGH confidence]
+- **48 mld di barili** di riserve (~3% mondiale); il petrolio è il **97% delle entrate statali**. `[verificato: BBC Monitoring]`
+- **Aprile 2026**: produzione a **1,4 mln bpd** (massimo dal 2013), ricavi petroliferi saliti a **2,9 mld $**
+  (da 1 mld a febbraio) grazie alla guerra Iran/Hormuz. Ma corruzione e divisione rischiano di far
+  arricchire fazioni e politici invece dei cittadini (International Crisis Group). `[verificato: FT]`
 
-## Ritorno major e nuovi compratori [HIGH confidence]
-- Asta esplorativa dopo 18 anni (nov 2025); rientro di [[Eni]], BP, Shell, Chevron, Repsol; accordo Waha
-  Total/ConocoPhillips 25 anni (>20 mld $, +850k bpd). `[verificato: FT, Reuters]`
-- Nuovi acquirenti: [[Egitto]] (~1,2 mln barili/mese) e Corea del Sud, per sostituire le forniture del Golfo. `[verificato: BBC Monitoring]`
+## Major, shale e nuovi compratori [HIGH confidence]
+- Asta 2025 e accordo Waha Total/ConocoPhillips (25 anni, >20 mld $); rientro di Eni, BP, Shell, Chevron, Repsol. `[verificato: FT, Reuters]`
+- **28 apr 2026**: MoU Chevron-NOC per valutare **shale** (Sirte, Murzuq, Ghadames): stime ~123 tcf di gas
+  e ~18 mld di barili non convenzionali. Nuovi acquirenti: [[Egitto]] e Corea del Sud. `[verificato: Reuters, NOC]`
 
 ## Fonti
-- [FT — Oil majors return to Libya](https://www.ft.com/content/0ce8d859-50c4-49a0-920e-f9691a3a145e) (accesso 2026-07-03)
-- [BBC Monitoring — Why oil-rich Libya is not benefiting from Iran war](https://monitoring.bbc.co.uk/product/b0005pcw) (accesso 2026-07-03)
+- [FT — Libya reaps oil bonanza from Iran war price surge](https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d) (accesso 2026-07-03)
+- [Reuters — Libya signs preliminary shale agreement with Chevron](https://www.reuters.com/business/energy/libya-signs-preliminary-agreement-with-chevron-assess-shale-oil-gas-resources-2026-04-28/) (accesso 2026-07-03)
