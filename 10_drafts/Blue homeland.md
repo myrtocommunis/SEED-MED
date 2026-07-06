@@ -1,32 +1,36 @@
 ---
 title: "Blue homeland"
 tags: ["#difesa", "#dispute-zee"]
-date: 2026-07-02
+date: 2026-07-03
 status: "draft"
-depth: "standard"
+depth: "deep"
 sources: "3"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dispute_zee_egeo.md"
+  - "00_inbox/dataset_libia (dispute_zee_egeo) + web:verifica-curator (Ifri 2021; CIMSEC; War on the Rocks)"
 ---
 
 # Blue homeland
 
 **Blue Homeland** (turco: *Mavi Vatan*) è la dottrina navale espansionista della [[Turchia]]
-che rivendica ampie zone marittime nel Mediterraneo orientale, nell'Egeo e nel Mar Nero.
+che rivendica ampie zone marittime nel Mediterraneo orientale, nell'[[Egeo]] e nel Mar Nero.
 È al centro delle [[Dispute zee]] con [[Grecia]] e [[Cipro]].
 
-## Dati verificati [HIGH confidence]
-- Concetto creato dall'ammiraglio **Cihat Yaycı**, sviluppato con **Cem Gürdeniz** nel **2006**. `[verificato: Wikipedia, Ifri]`
-- Rivendica piattaforma continentale e ZEE in Mar Nero, Egeo e Mediterraneo orientale. `[verificato: Ifri]`
-- Attuata dal 2019 tramite le esercitazioni navali *Mavi Vatan* e un **MoU marittimo con la
-  [[Libia]] (2019)**, criticato da Grecia, Cipro, UE e NATO. `[verificato: Wikipedia]`
+## Origine e portata [HIGH confidence]
+- Sviluppata nel **2006** dall'ammiraglio **Cem Gürdeniz** (prima presentazione a un seminario del Comando
+  delle Forze Navali turche, giu 2006) con **Cihat Yaycı**. `[verificato: Ifri, CIMSEC]`
+- Copre mare territoriale, piattaforma continentale e ZEE turche in Mar Nero, Egeo e Mediterraneo orientale —
+  stimati **~462.000 km²** dalle fonti turche. `[verificato: The Defense News, CIMSEC]`
+
+## Attuazione libica [HIGH confidence]
+- **Cihat Yaycí** è l'architetto del **MoU marittimo Turchia-[[Libia]] (2019)**, che ha esteso le pretese
+  turche verso sud-ovest di [[Cipro]], suscitando le critiche di Grecia, Cipro, UE e NATO. `[verificato: Ifri]`
 
 ## Rilevanza per l'interesse nazionale italiano [MEDIUM confidence]
-L'Italia non è parte diretta ma ha interessi via [[Eni]] (concessioni a Cipro) e nella stabilità
-delle rotte energetiche del Mediterraneo orientale (es. EastMed).
+L'Italia non è parte diretta ma ha interessi via [[Eni]] (concessioni a Cipro) e nella stabilità delle
+rotte energetiche del Mediterraneo orientale (cfr. [[EastMed]]).
 
 ## Fonti
-- [Wikipedia — Blue Homeland](https://en.wikipedia.org/wiki/Blue_Homeland) (accesso 2026-07-02)
-- [Ifri — Mavi Vatan: origins, influences and limits](https://www.ifri.org/en/studies/mavi-vatan-blue-homeland-origins-influences-and-limits-ambitious-doctrine-turkey) (accesso 2026-07-02)
+- [Ifri — Mavi Vatan: origins, influences and limits](https://www.ifri.org/en/studies/mavi-vatan-blue-homeland-origins-influences-and-limits-ambitious-doctrine-turkey) (accesso 2026-07-03)
+- [CIMSEC — The Mavi Vatan Doctrine and Blue Homeland Anthem](https://cimsec.org/the-mavi-vatan-doctrine-and-blue-homeland-anthem-a-look-at-turkeys-maritime-worldview/) (accesso 2026-07-03)

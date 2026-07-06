@@ -8,7 +8,7 @@ sources: "3"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "web:verifica-curator (Wikipedia EastMed pipeline; AGBI 2026-02; EC PCI; EIA)"
+  - "web:verifica-curator (AGBI 2026-02; Pipeline Technology Journal; EIA; EC PCI)"
 ---
 
 # EastMed
@@ -18,7 +18,7 @@ vettore-chiave della sicurezza energetica europea e italiana, in tensione con la
 
 ## Il gasdotto in stallo [HIGH confidence]
 - **EastMed**: ~2.000 km sottomarini, oltre **6 mld €**, ancora senza decisione finale d'investimento (FID);
-  Cipro: "nessun timeline concreto", rinvii per conflitto mediorientale e dubbi di lungo periodo. `[verificato: AGBI, Pipeline Journal]`
+  Cipro: "nessun timeline concreto", rinvii per conflitto mediorientale e dubbi di lungo periodo. `[verificato: AGBI, Pipeline Technology Journal]`
 - Alternativa più piccola: gasdotto Israele-[[Cipro]] (Energean-Cyfield, ~400 mln $, 1 mld m³/anno); l'LNG
   egiziano come via d'export di breve-medio termine. `[verificato: AGBI]`
 
@@ -33,4 +33,4 @@ tassello diretto della [[Diversificazione energetica]] italiana.
 
 ## Fonti
 - [AGBI — Doubts loom over East Med gas group's courtship of Gulf interest](https://www.agbi.com/analysis/oil-and-gas/2026/02/emgf-critical-courtship-of-gulf-interest-will-not-be-easy/) (accesso 2026-07-03)
-- [Wikipedia — EastMed pipeline](https://en.wikipedia.org/wiki/EastMed_pipeline) (accesso 2026-07-03)
+- [Pipeline Technology Journal — EastMed gas pipeline timeline uncertain](https://www.pipeline-journal.net/news/eastmed-gas-pipeline-project-timeline-uncertain-stakeholders-review-feasibility) (accesso 2026-07-03)
