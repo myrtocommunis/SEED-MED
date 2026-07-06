@@ -22,3 +22,4 @@
 ## [2026-07-03] curator | Full ingest Batch 3/4 (25 PDF): arricchite Mediazione statunitense, Presenza russa, Petrolio, Bilancio libico
 ## [2026-07-03] curator | Full ingest Batch 4/4 (24 PDF): arricchite Rotta med. centrale (dati Viminale), Mediazione statunitense (piano FT), Haftar (successione), Petrolio (boom+shale)
 ## [2026-07-03] curator | Riequilibrio corpus (web-first): +Egeo, EastMed; arricchite Cipro, Grecia, Turchia, Dispute zee
+## [2026-07-03] curator | Compilati stub core: Italia (5 fonti) e Algeria (4 fonti), web-first
