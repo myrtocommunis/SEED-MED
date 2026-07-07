@@ -2,7 +2,7 @@
 title: "EastMed"
 tags: ["#energia", "#levante", "#dispute-zee"]
 date: 2026-07-07
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "5"
 admiralty: "B2"

@@ -2,7 +2,7 @@
 title: "Cipro"
 tags: ["#levante", "#energia", "#dispute-zee"]
 date: 2026-07-03
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "4"
 admiralty: "B2"

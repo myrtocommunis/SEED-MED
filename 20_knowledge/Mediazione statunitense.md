@@ -2,7 +2,7 @@
 title: "Mediazione statunitense"
 tags: ["#influenza", "#difesa"]
 date: 2026-07-03
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "6"
 admiralty: "B2"

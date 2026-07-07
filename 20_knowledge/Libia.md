@@ -2,7 +2,7 @@
 title: "Libia"
 tags: ["#maghreb", "#difesa", "#energia"]
 date: 2026-07-02
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "3"
 admiralty: "B2"

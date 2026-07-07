@@ -2,7 +2,7 @@
 title: "Presenza russa"
 tags: ["#difesa", "#influenza"]
 date: 2026-07-03
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "5"
 admiralty: "B2"

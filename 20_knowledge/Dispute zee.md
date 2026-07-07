@@ -2,7 +2,7 @@
 title: "Dispute zee"
 tags: ["#dispute-zee", "#energia", "#egeo"]
 date: 2026-07-03
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "3"
 admiralty: "B2"

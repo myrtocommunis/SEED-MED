@@ -2,7 +2,7 @@
 title: "Diversificazione energetica"
 tags: ["#energia", "#italia"]
 date: 2026-07-07
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "5"
 admiralty: "B2"
