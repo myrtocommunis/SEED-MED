@@ -24,3 +24,6 @@
 ## [2026-07-03] curator | Riequilibrio corpus (web-first): +Egeo, EastMed; arricchite Cipro, Grecia, Turchia, Dispute zee
 ## [2026-07-03] curator | Compilati stub core: Italia (5 fonti) e Algeria (4 fonti), web-first
 ## [2026-07-03] reporter | 3 analisi prose-as-title in bozze/analisi/ (energia-hub, mediazione USA, ambiguità EastMed)
+## [2026-07-07] adversary | critica di bozze/analisi/L'Italia hub del gas… fornitori che non controlla — voto 6/10
+## [2026-07-07] adversary | critica di bozze/analisi/Mediazione americana in Libia (stabilità vs elezioni) — voto 5/10
+## [2026-07-07] adversary | critica di bozze/analisi/Italia due tavoli nel Mediterraneo orientale — voto 5/10
