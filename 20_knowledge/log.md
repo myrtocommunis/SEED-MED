@@ -28,3 +28,6 @@
 ## [2026-07-07] adversary | critica di bozze/analisi/Mediazione americana in Libia (stabilità vs elezioni) — voto 5/10
 ## [2026-07-07] adversary | critica di bozze/analisi/Italia due tavoli nel Mediterraneo orientale — voto 5/10
 ## [2026-07-07] reporter | Revisione (rev.2) delle 3 analisi post-adversary: reframe tesi, integrati GNL/domanda-UE, movente-vs-effetto, hedging-vs-diluizione
+## [2026-07-07] adversary | critica v2 di bozze/analisi/Hub del gas (rev.2) — voto 6/10 (delta v1 +0)
+## [2026-07-07] adversary | critica v2 di bozze/analisi/Libia stabilizzazione senza urne (rev.2) — voto 6/10 (delta v1 +1)
+## [2026-07-07] adversary | critica v2 di bozze/analisi/Est mediterraneo hedging (rev.2) — voto 6/10 (delta v1 +1)
