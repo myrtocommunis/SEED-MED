@@ -19,9 +19,11 @@ il Mediterraneo, puntando a diventare un **hub del gas** per l'Europa meridional
 
 ## I due strumenti: pipeline + GNL [HIGH confidence]
 - L'**[[Algeria]]** è il primo fornitore via [[Gasdotti]] (~31%, ~20 mld m³ 2025). `[verificato: Il Sole 24 Ore]`
-- **GNL come rete di sicurezza**: 5 rigassificatori; la capacità potrebbe **triplicare da 16,1 (2022) a 47,5
-  mld m³ (2026)**, oltre il 40% del fabbisogno. Import GNL **+35% nel 2025**; Q1 2026: 5,3 mld m³ (52 discariche).
-  SNAM detiene il 61% dei terminal operativi (FSRU Ravenna: 0,63 mld m³ nel Q1 2026). `[verificato: IEEFA, SNAM/Servicematica]`
+- **GNL come rete di sicurezza**: 5 rigassificatori, capacità **operativa attuale ~28 mld m³/anno** (con
+  Piombino e Ravenna); la capacità **potenziale** potrebbe salire fino a **~47,5 mld m³ (da 16,1 nel 2022)**
+  se completati i terminal in progetto — oltre il 40% del fabbisogno. `[N2: 28 = operativa, 47,5 = potenziale;
+  verificato: Ce.S.I., IEEFA]` Import GNL **+35% nel 2025**; Q1 2026: 5,3 mld m³ (52 discariche). SNAM detiene
+  il 61% dei terminal operativi (FSRU Ravenna: 0,63 mld m³ nel Q1 2026). `[verificato: SNAM/Servicematica]`
 
 ## La contraddizione: domanda in calo [HIGH confidence]
 - Il consumo di gas italiano è **sceso del 19% (2021-2024)**; l'espansione infrastrutturale (incluso il

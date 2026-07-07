@@ -26,8 +26,9 @@ asset in via di svalutazione. `[MEDIUM confidence]`
 La v1 di questa analisi confondeva *controllo politico del fornitore* con *sicurezza di approvvigionamento*.
 Il controargomento più forte — sollevato dall'adversary — regge: la sicurezza energetica moderna si misura in
 **diversificazione e opzionalità**, non in egemonia sul Maghreb. L'Italia ha già vinto la partita che contava
-(azzeramento del gas russo senza razionamenti), e con >10 fornitori + capacità GNL (~28 mld m³/anno di
-rigassificazione, Piombino e Ravenna) uno shock pipeline algerino-libico è **commutabile**. `[HIGH confidence — Ce.S.I., Il Sole 24 Ore]`
+(azzeramento del gas russo senza razionamenti), e con >10 fornitori + capacità GNL (~28 mld m³/anno
+operativi, fino a ~47,5 potenziali coi terminal in progetto) uno shock pipeline algerino-libico è in larga
+parte **commutabile** — con il caveat che la commutabilità dipende dai prezzi del GNL spot globale. `[MEDIUM-HIGH confidence — Ce.S.I., IEEFA, Il Sole 24 Ore]`
 
 ## I fornitori hanno agency (e non sono passivi)
 - L'**[[Algeria]]** non è una variabile passiva del rischio-Italia: la sua produzione in flessione (20,1 vs 23

@@ -32,3 +32,6 @@
 ## [2026-07-07] adversary | critica v2 di bozze/analisi/Libia stabilizzazione senza urne (rev.2) — voto 6/10 (delta v1 +1)
 ## [2026-07-07] adversary | critica v2 di bozze/analisi/Est mediterraneo hedging (rev.2) — voto 6/10 (delta v1 +1)
 ## [2026-07-08] curator | Rafforzate a 5 fonti indipendenti: Diversificazione energetica, Elezioni, EastMed (per sbloccare cap adversary)
+## [2026-07-08] adversary | critica v3 di bozze/analisi/Hub del gas (rev.2, base rafforzata) — voto 7/10 (delta v2 +1, cap allentato a 10)
+## [2026-07-08] adversary | critica v3 di bozze/analisi/Libia stabilizzazione senza urne (rev.2, base rafforzata) — voto 7/10 (delta v2 +1, cap allentato a 10)
+## [2026-07-08] adversary | critica v3 di bozze/analisi/Est mediterraneo hedging (rev.2, base rafforzata) — voto 7/10 (delta v2 +1, cap allentato a 10)
