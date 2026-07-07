@@ -37,3 +37,4 @@
 ## [2026-07-08] adversary | critica v3 di bozze/analisi/Est mediterraneo hedging (rev.2, base rafforzata) — voto 7/10 (delta v2 +1, cap allentato a 10)
 ## [2026-07-08] HUMAN GATE | Promozione (su mandato umano): 18 note core → validated; 3 analisi → 30_reports/; index aggiornato
 ## [2026-07-08] maintainer | Health check: 0 link rotti/Wikipedia/A1; risolto duplicato Elezioni (consolidata a 5 fonti); report in system/60_ops/health_check.md
+## [2026-07-08] architect | Compilato e installato agente permanente maintainer (Archetype 5, model sonnet) — 6° agente del vault

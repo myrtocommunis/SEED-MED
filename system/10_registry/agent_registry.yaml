@@ -1,5 +1,5 @@
-registry_version: "1.0.0"
-last_updated: "2026-07-02"
+registry_version: "1.1.0"
+last_updated: "2026-07-08"
 agents:
   - id: "architect"
     status: "draft"
@@ -26,3 +26,8 @@ agents:
     deploy_path: ".claude/agents/schema_builder.md"
     model: "sonnet"
     role: "Thematic Schema Builder for Large Corpora"
+  - id: "maintainer"
+    status: "draft"
+    deploy_path: ".claude/agents/maintainer.md"
+    model: "sonnet"
+    role: "Vault QA & Health Monitor"

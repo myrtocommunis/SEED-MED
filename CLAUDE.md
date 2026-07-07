@@ -77,6 +77,7 @@ Anchoring Mitigation · Scope Discipline · Temporal Awareness.
 | **adversary** | "critica", "stress-test", "adversary" | nota target | _critique/ |
 | **reporter** | "report", "assessment", "reporter" | 20_knowledge/ | 30_reports/ |
 | **schema_builder** | "build schema", "map themes", "schema_builder" | 00_inbox/ (o wiki/) | 10_drafts/ + _schema_map.md |
+| **maintainer** | "health check", "audit", "status", "maintainer" | 10_drafts/ + 20_knowledge/ (read-only) | system/60_ops/health_check.md |
 
 ## 8. ⚛️ Atomicità Concettuale (MANDATORIA)
 1. **Nome Atomico Minimo:** titoli brevissimi, universali, radice concettuale singola
