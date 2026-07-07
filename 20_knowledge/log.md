@@ -27,3 +27,4 @@
 ## [2026-07-07] adversary | critica di bozze/analisi/L'Italia hub del gas… fornitori che non controlla — voto 6/10
 ## [2026-07-07] adversary | critica di bozze/analisi/Mediazione americana in Libia (stabilità vs elezioni) — voto 5/10
 ## [2026-07-07] adversary | critica di bozze/analisi/Italia due tavoli nel Mediterraneo orientale — voto 5/10
+## [2026-07-07] reporter | Revisione (rev.2) delle 3 analisi post-adversary: reframe tesi, integrati GNL/domanda-UE, movente-vs-effetto, hedging-vs-diluizione
