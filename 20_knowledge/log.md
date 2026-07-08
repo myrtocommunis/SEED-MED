@@ -39,3 +39,4 @@
 ## [2026-07-08] maintainer | Health check: 0 link rotti/Wikipedia/A1; risolto duplicato Elezioni (consolidata a 5 fonti); report in system/60_ops/health_check.md
 ## [2026-07-08] architect | Compilato e installato agente permanente maintainer (Archetype 5, model sonnet) — 6° agente del vault
 ## [2026-07-08] curator | fai ingest: 45 nuove sorgenti (lug 2026) → nuova nota Malta + arricchite Elezioni/Mediazione statunitense/Migrazione/Italia (validated) + Emirati/Pakistan/Cina (draft)
+## [2026-07-08] reporter | report "In Libia l'Italia asseconda una stabilizzazione senza urne…" aggiornato (rev.3): integrati sondaggio UNSMIL 90% + proteste Misurata come ancoraggio empirico e metro del giudizio

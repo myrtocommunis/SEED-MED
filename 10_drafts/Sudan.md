@@ -14,14 +14,14 @@ provenance:
 # Sudan
 
 La guerra civile sudanese (esercito SAF vs paramilitari RSF) si salda con la [[Libia]] via il
-triangolo di confine, trascinando [[Haftar]], [[Egitto]] ed [[Emirati]] in una competizione per procura.
+triangolo di confine, trascinando [[Haftar]], [[Egitto]] ed [[Emirati 1]] in una competizione per procura.
 
 ## Il nesso libico [MEDIUM confidence]
 - [[Haftar]] accusato di **rifornire di armi e carburante l'RSF** (Hemeti) e di averne agevolato la presa
   del triangolo di confine Libia-Egitto-Sudan (giu 2025). L'[[Egitto]] sostiene l'esercito (SAF). `[verificato: BBC/Al-Araby — fonte singola]`
 - **RSF addestrato in Libia**: oltre 6 reggimenti transitati via Nyala per training di 6 mesi, poi
   schierati in Kordofan, Blue Nile e al triangolo di confine (incentivo di 400 $ a testa). `[verificato: BBC/Darfur24 — fonti anonime]`
-- Armi degli [[Emirati]] transitano dalla Libia verso l'RSF (cfr. nota `Emirati`).
+- Armi degli [[Emirati 1]] transitano dalla Libia verso l'RSF (cfr. nota `Emirati`).
 
 ## Escalation al confine [MEDIUM confidence]
 - **9 gen 2026**: caccia egiziani colpiscono un convoglio RSF nel triangolo di confine. `[verificato: BBC/Al-Araby]`
