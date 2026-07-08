@@ -41,3 +41,4 @@
 ## [2026-07-08] curator | fai ingest: 45 nuove sorgenti (lug 2026) → nuova nota Malta + arricchite Elezioni/Mediazione statunitense/Migrazione/Italia (validated) + Emirati/Pakistan/Cina (draft)
 ## [2026-07-08] reporter | report "In Libia l'Italia asseconda una stabilizzazione senza urne…" aggiornato (rev.3): integrati sondaggio UNSMIL 90% + proteste Misurata come ancoraggio empirico e metro del giudizio
 ## [2026-07-09] curator | Rafforzate a 5 fonti indipendenti (web, no-Wiki): Pakistan, Cina, Emirati — pronte per promozione
+## [2026-07-09] HUMAN GATE | Promozione (su mandato): Pakistan, Cina, Emirati → validated (21 note validate totali)

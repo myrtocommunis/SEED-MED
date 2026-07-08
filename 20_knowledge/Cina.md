@@ -2,7 +2,7 @@
 title: "Cina"
 tags: ["#influenza", "#energia", "#difesa"]
 date: 2026-07-09
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "5"
 admiralty: "B2"

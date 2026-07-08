@@ -2,7 +2,7 @@
 title: "Pakistan"
 tags: ["#difesa", "#influenza"]
 date: 2026-07-09
-status: "draft"
+status: "validated"
 depth: "deep"
 sources: "5"
 admiralty: "B2"
