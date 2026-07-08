@@ -29,3 +29,14 @@
 - Protocolli iniettati (Sez. 6): Anti-Hallucination, Source Obligation, Chain-of-Verification, N1 Astensione Calibrata
 - Deploy: .claude/agents/maintainer.md + mirror system/40_agents/ e system/30_prompts/compiled/ + spec in system/20_specs/agents/
 - Formalizza l'health-check inline eseguito manualmente il 2026-07-08
+
+## [2026-07-09] maintainer | health check eseguito — 0 findings (0 critici)
+- Scope: 10_drafts/ (27) + 20_knowledge/ (22 validated) + 30_reports/ (3) + _critique/ (9)
+- 0 backlink rotti, 0 duplicati draft↔knowledge, 0 Admiralty A1, 0 residui Wikipedia, 0 [UNVERIFIED]
+- Verificato specificamente l'artefatto di churn segnalato (frammento "Emirati 1.md" / wikilink
+  corrotti [[Emirati 1]]): nessuna traccia residua, danno già sanato
+- Densità backlink ≈5,3/nota (261 wikilink / 49 note) — grafo denso
+- Ferite minori (non bloccanti): Gasdotti (sources:0, stub non compilato), 2 note orfane
+  (Regno unito, Saif al-islam), 7 note C3 correttamente escluse da validated
+- Candidato più maturo alla promozione: Milizie (deep, 5 fonti, B2)
+- Verdetto: Vault in salute (buono). Report in system/60_ops/health_check.md
