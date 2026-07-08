@@ -17,10 +17,10 @@ L'Organizzazione dei Paesi Esportatori di Petrolio inquadra la governance della 
 [[Libia]] (membro OPEC via NOC), oggi scossa da uno strappo interno con effetti diretti sul [[Petrolio]] libico.
 
 ## Lo strappo degli Emirati [HIGH confidence]
-- **Aprile 2026**: gli **[[Emirati 1]] decidono di lasciare l'OPEC**, indebolendo il gruppo (65 anni) e
+- **Aprile 2026**: gli **[[Emirati]] decidono di lasciare l'OPEC**, indebolendo il gruppo (65 anni) e
   aprendo al rischio di una guerra dei prezzi. Erano il 4° produttore OPEC (~12% dell'output). `[verificato: Reuters]`
 - Motivo: libertà di aumentare la produzione (capacità ~4,85 mln bpd → obiettivo 5 mln entro il 2027),
-  mal conciliabile con i tagli imposti su spinta saudita. Frizioni **[[Arabia saudita]]-[[Emirati 1]]**
+  mal conciliabile con i tagli imposti su spinta saudita. Frizioni **[[Arabia saudita]]-[[Emirati]]**
   già riversate su Yemen, Libia e Sudan. `[verificato: Reuters]`
 
 ## Posizione della Libia [HIGH confidence]

@@ -14,7 +14,7 @@ provenance:
 # Qatar
 
 Attore del Golfo allineato al **GNU di [[Dbeibah]]** in [[Libia]] e partner economico dell'[[Italia]],
-in contrapposizione all'asse [[Emirati 1]]-est.
+in contrapposizione all'asse [[Emirati]]-est.
 
 ## Co-investimento con l'Italia [HIGH confidence]
 - **18-20 gen 2026**: accordo da **2,7 mld $** per la Misurata Free Zone (porto container). Presenti

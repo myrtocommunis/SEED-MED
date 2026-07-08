@@ -13,7 +13,7 @@ provenance:
 
 # Arabia saudita
 
-Attore del Golfo che tenta di riposizionarsi in [[Libia]] contendendo agli [[Emirati 1]] l'influenza
+Attore del Golfo che tenta di riposizionarsi in [[Libia]] contendendo agli [[Emirati]] l'influenza
 sull'est di [[Haftar]].
 
 ## Manovra verso Haftar [MEDIUM confidence]
