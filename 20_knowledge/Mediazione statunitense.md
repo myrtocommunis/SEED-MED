@@ -35,3 +35,12 @@ Washington, Roma e Ankara, che scavalca di fatto l'ONU sul dossier [[Libia]].
 ## Fonti
 - [FT — Trump adviser pushes power-sharing plan for oil-rich Libya](https://www.ft.com/content/f5c43a41-3fa1-486e-a592-7933bc1bdcbd) (accesso 2026-07-03)
 - [US Dept. of War — Africom commences Flintlock 2026](https://www.war.gov/News/News-Stories/Article/Article/4460643/) (accesso 2026-07-03)
+
+## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
+- **Colloqui di Malta (6-7 lug 2026)**: due round est-ovest (Ibrahim Dbeibah ↔ Saddam [[Haftar]]; Saddam
+  Haftar ↔ Zoubi) presieduti da Boulos + chargé USA Berndt, ospitati dal FM maltese Fearne (cfr. [[Malta]]). `[verificato: Askanews/Times of Malta]`
+- **7 lug**: Boulos a Tripoli e Misurata; i leader di Misurata chiedono un **"draft scritto"** dell'iniziativa
+  e rifiutano ogni "militarizzazione dello Stato". **Proteste a Misurata** contro il suo arrivo ("le decisioni
+  libiche le prendono solo i libici"). `[verificato: BBC Monitoring, Agenzia Nova]`
+- I figli di Haftar a Washington: Saddam ha incontrato il Segretario di Stato **Rubio**, Belgacem ha visto Boulos. `[verificato: BBC Monitoring/Al-Wasat]`
+- Egitto (FM Abdelatty)-Boulos: telefonata (3 lug), sostegno all'unità e a un percorso libico-libico verso il voto. `[verificato: BBC Monitoring]`

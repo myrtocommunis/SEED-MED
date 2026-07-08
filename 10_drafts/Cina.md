@@ -33,3 +33,7 @@ Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 ## Fonti
 - [Africa Intelligence — Beijing is back in business in Libya](https://www.africaintelligence.com/north-africa/2025/11/13/from-tripolitania-to-cyrenaica-beijing-is-finally-back-in-business,110558684-eve) (accesso 2026-07-02)
 - [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-02)
+
+## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
+- **7 lug 2026**: Libia e Cina verso una **linea cargo aerea diretta** e un collegamento marittimo settimanale
+  (ambasciatore Ma Xiwei Liang); proposta di un centro di lingua cinese in un'università libica. `[verificato: Agenzia Nova]`

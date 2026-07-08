@@ -26,3 +26,8 @@ della [[Cina]] in Nord Africa.
 ## Fonti
 - [Reuters — Pakistan $4bn arms deal with Libyan force](https://www.reuters.com/world/asia-pacific/pakistan-strikes-4-billion-deal-sell-weapons-libyan-force-officials-say-2025-12-22/) (accesso 2026-07-02)
 - [BBC Monitoring — Pakistan, Libya military deepen defence ties](https://monitoring.bbc.co.uk/product/b0005dc1) (accesso 2026-07-02)
+
+## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
+- **6 lug 2026 (Reuters, esclusiva)**: il **Pakistan media** tra i centri di potere rivali libici — sforzo
+  finora inedito; USA, [[Arabia saudita]], [[Qatar]] e [[Turchia]] ne sostengono il ruolo. Islamabad, reduce
+  dalla mediazione USA-Iran, agisce col Washington "pienamente informato". `[verificato: Reuters]`

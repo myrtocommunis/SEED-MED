@@ -36,3 +36,11 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
 ## Fonti
 - [Ce.S.I. — Le ambizioni dell'Italia come hub del gas mediterraneo](https://www.cesi-italia.org/it/articoli/dai-gasdotti-ai-rigassificatori-le-ambizioni-dellitalia-come-hub-del-gas-mediterraneo) (accesso 2026-07-03)
 - [Il Sole 24 Ore — Italia hub del Mediterraneo](https://en.ilsole24ore.com/art/gas-and-italia-as-a-mediterranean-hub-thanks-to-the-reversal-of-north-south-flows-AIbpCcdD) (accesso 2026-07-03)
+
+## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
+- **Intelligence a Bengasi**: il capo dell'**AISE, gen. Giovanni Caravelli**, incontra Saddam [[Haftar]]
+  (7-8 lug) su **antiterrorismo e contrasto alla migrazione irregolare** — Roma dialoga direttamente con
+  l'est libico sul dossier migratorio. `[verificato: BBC Monitoring/Al-Masar]`
+- **Ricostruzione**: il console generale a Bengasi **Filippo Colombo** in sopralluogo a Sabri per il restauro
+  degli edifici di architettura italiana (esperienza italiana nella ricostruzione). `[verificato: La4News]`
+- Colloqui Libia-[[Malta]] su migrazione ed energia nel Mediterraneo centrale.

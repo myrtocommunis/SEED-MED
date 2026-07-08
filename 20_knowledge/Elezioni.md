@@ -38,3 +38,12 @@ tra la road map ONU e la [[Mediazione statunitense]].
 - [Middle East Monitor — Roadmap for elections by February 2027](https://www.middleeastmonitor.com/20260618-libyas-rival-leaders-agree-roadmap-for-presidential-parliamentary-elections-by-february-2027/) (accesso 2026-07-07)
 - [UNSMIL — Political Roadmap](https://unsmil.unmissions.org/en/political-roadmap) (accesso 2026-07-07)
 - [Xinhua — Libya's political bodies agree on roadmap](https://english.news.cn/20260618/76336ab7ca7d48ae9ffba91f4c687cad/c.html) (accesso 2026-07-07)
+
+## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
+- **Sondaggio ONU "Di' la tua" (UNSMIL, dialogo strutturato)**: il **90% dei libici** ritiene necessarie
+  elezioni nazionali; l'82% chiede la rimozione dei corrotti/violatori dei diritti; l'80% attribuisce lo
+  stallo del quadro elettorale alle divisioni politiche. Metodo: 5.964 questionari online + 1.500 interviste
+  telefoniche (Diwan, nov-dic 2025) + piattaforma giovani. `[verificato: Agenzia Nova/UNSMIL]`
+- **6 lug 2026 (Tunisi)**: 5ª sessione dello "Small Convening" (4+4) UNSMIL chiude le prime due fasi della
+  road map; **firma dell'accordo finale attesa la settimana successiva**. Menfi-Guterres a Ginevra; Menfi
+  propone un referendum per le questioni controverse. `[verificato: ANSA, Agenzia Nova]`

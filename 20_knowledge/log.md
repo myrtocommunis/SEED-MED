@@ -38,3 +38,4 @@
 ## [2026-07-08] HUMAN GATE | Promozione (su mandato umano): 18 note core → validated; 3 analisi → 30_reports/; index aggiornato
 ## [2026-07-08] maintainer | Health check: 0 link rotti/Wikipedia/A1; risolto duplicato Elezioni (consolidata a 5 fonti); report in system/60_ops/health_check.md
 ## [2026-07-08] architect | Compilato e installato agente permanente maintainer (Archetype 5, model sonnet) — 6° agente del vault
+## [2026-07-08] curator | fai ingest: 45 nuove sorgenti (lug 2026) → nuova nota Malta + arricchite Elezioni/Mediazione statunitense/Migrazione/Italia (validated) + Emirati/Pakistan/Cina (draft)
