@@ -40,3 +40,15 @@
   (Regno unito, Saif al-islam), 7 note C3 correttamente escluse da validated
 - Candidato più maturo alla promozione: Milizie (deep, 5 fonti, B2)
 - Verdetto: Vault in salute (buono). Report in system/60_ops/health_check.md
+
+## [2026-07-09] maintainer | health check eseguito — 0 findings (0 critici)
+- Scope: 10_drafts/ (25) + 20_knowledge/ (24 validated) + 30_reports/ (3) + _critique/ (9)
+- Verifica puntuale bonifica giro precedente: Gasdotti compilata (4 fonti/B2, ora 4 backlink
+  entranti, non più stub né orfana); Regno unito e Saif al-islam collegate (non più orfane);
+  Sudan rafforzato a 5 fonti/B2 e promosso; Malta e Milizie promosse — tutto confermato al 100%
+- 0 backlink rotti, 0 duplicati draft↔knowledge, 0 frammenti "X 1.md"/wikilink corrotti residui,
+  0 Admiralty A1, 0 residui Wikipedia, 0 [UNVERIFIED], 0 violazioni lifecycle
+- Densità backlink ≈5,1/nota (252 wikilink pipe-aware / 49 note) — grafo denso
+- Ferite minori (non bloccanti): 6 note C3 (era 7, Sudan uscito dalla lista dopo rafforzamento)
+- Candidato più maturo alla promozione: Gasdotti (deep, 4 fonti, B2, hub molto citato)
+- Verdetto: Vault in salute (buono). Report in system/60_ops/health_check.md
