@@ -29,7 +29,8 @@ coesistono tre autorità rivali. Contesto strutturale di ogni dinamica del dossi
 - Marzo 2026: "vuoto di potere" per l'assenza di [[Dbeibah]] (voci di cure a Londra). `[verificato: BBC Monitoring]`
 
 ## Collegamenti
-Alimenta lo stallo delle [[Elezioni]] e il potere delle [[Milizie]].
+Alimenta lo stallo delle [[Elezioni]] e il potere delle [[Milizie]]. Sullo sfondo, figure polarizzanti come
+[[Saif al-islam]] (ucciso feb 2026) hanno tenuto viva la nostalgia per un potere centrale unitario.
 
 ## Fonti
 - [BBC Monitoring — Why are Libya's western authorities at odds](https://monitoring.bbc.co.uk/product/b0005w8q) (accesso 2026-07-02)

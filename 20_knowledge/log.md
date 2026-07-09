@@ -45,3 +45,4 @@
 ## [2026-07-09] curator | fai ingest Malta: rafforzata a 5 fonti/B2 (Times of Malta, Libya Observer, MEMO, MaltaToday, MEForum) — pronta per promozione
 ## [2026-07-09] HUMAN GATE | Promozione (su mandato): Malta → validated (22 note validate totali)
 ## [2026-07-09] HUMAN GATE | Promozione (su mandato): Milizie → validated (23 note validate totali)
+## [2026-07-09] curator | Bonifica health-check: compilato Gasdotti (4 fonti/B2), collegate orfane Regno unito e Saif al-islam

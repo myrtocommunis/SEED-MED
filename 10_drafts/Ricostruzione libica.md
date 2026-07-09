@@ -22,6 +22,8 @@ guidato dal figlio Belkacem).
   fino a **570 mld $**. `[verificato: BBC Monitoring/World Bank]`
 - Impulso dell'est dopo la tempesta Daniel (set 2023) che devastò Derna.
 - "Reconstruction Cup" (Atletico-Inter, Bengasi ott 2025): criticata come *sportswashing*.
+- Attori esteri in gara per gli appalti: il **[[Regno unito]]** (associazione ALBA, impresa Petrofac) e la
+  [[Francia]] competono con l'[[Italia]] sui contratti di ricostruzione dell'est.
 
 ## Knowledge gap
 - Ruolo delle imprese italiane nella ricostruzione: **nessuna fonte verificata trovata** in questo
