@@ -47,3 +47,4 @@
 ## [2026-07-09] HUMAN GATE | Promozione (su mandato): Milizie → validated (23 note validate totali)
 ## [2026-07-09] curator | Bonifica health-check: compilato Gasdotti (4 fonti/B2), collegate orfane Regno unito e Saif al-islam
 ## [2026-07-09] curator | Rafforzato Sudan a 5 fonti/B2 (Middle East Eye, HORN Review, CFR): triangolo di confine, canale Kufra→RSF, pressioni Egitto-Riyadh su Haftar
+## [2026-07-09] HUMAN GATE | Promozione (su mandato): Sudan → validated (24 note validate totali)

@@ -1,7 +1,7 @@
 # Index — Knowledge Catalog
 
 ## Vault Status
-- Total validated notes: 23
+- Total validated notes: 24
 - Last updated: 2026-07-09
 
 ## By Domain — Geopolitica del Mediterraneo (prospettiva italiana)
@@ -12,6 +12,7 @@
 **Attori esterni:** [[Turchia]] · [[Presenza russa]] · [[Egitto]] · [[Pakistan]] · [[Cina]]
 **Golfo:** [[Emirati]]
 **Mediterraneo centrale (UE):** [[Malta]]
+**Spillover regionale:** [[Sudan]]
 **Vantaggio:** [[Italia]]
 
 ## Report formali (30_reports/)
