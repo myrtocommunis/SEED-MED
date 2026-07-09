@@ -1,38 +1,45 @@
 ---
 title: "Return hubs"
 tags: ["#migrazione", "#influenza"]
-date: 2026-07-02
+date: 2026-07-09
 status: "draft"
-depth: "standard"
-sources: "4"
+depth: "deep"
+sources: "5"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Infomigrants 2026-03-13; EC 2026-06-01; Euronews 2026-06-17)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Infomigrants 2026-03-13; EC 2026-06-01; Euronews 2026-06-17; POLITICO 2026-06-24; The Libya Observer 2026-07-02)"
 ---
 
 # Return hubs
 
-Centri di rimpatrio in Paesi terzi previsti dal nuovo "Return Regulation" UE per accelerare le deportazioni: strumento chiave della [[Migrazione]] policy 2026.
+Centri di rimpatrio in Paesi terzi previsti dal nuovo "Return Regulation" UE per accelerare le
+deportazioni: strumento chiave della [[Migrazione]] policy 2026.
 
 ## Iter normativo [HIGH confidence]
-- Proposto dalla Commissione a **marzo 2025**; accordo politico Parlamento-Consiglio **1 giu 2026**; via libera finale del Parlamento **17 giu 2026** (418 sì, 218 no, 30 astenuti). `[verificato: EC, Euronews]`
-- Prevede strutture fuori dall'UE dove trasferire chi ha un ordine di rimpatrio; solo i minori non accompagnati esenti. Riconoscimento reciproco delle decisioni di rimpatrio. `[verificato: EC, Euronews]`
-- Von der Leyen: "trarre lezioni dal modello **[[Italia]]-Albania**". Maggioranza di destra (PPE+ECR+PfE). `[verificato: Infomigrants, Euronews]`
+- Proposto dalla Commissione a **marzo 2025**; accordo politico Parlamento-Consiglio **1 giu 2026**; via
+  libera finale del Parlamento **17 giu 2026** (418 sì, 218 no, 30 astenuti). `[verificato: EC, Euronews]`
+- Ospitano solo chi ha **esaurito ogni ricorso** ed è in attesa di deportazione (differenza rispetto ai piani
+  su richiedenti asilo UK/Danimarca/[[Italia]]-Albania). Minori non accompagnati esenti. `[verificato: POLITICO]`
+- Von der Leyen: "trarre lezioni dal modello Italia-Albania". Maggioranza di destra (PPE+ECR+PfE). `[verificato: Infomigrants, Euronews]`
 
-## Nota critica [MEDIUM confidence]
-Gruppi per i diritti avvertono su abusi, ricorsi legali e dipendenza dai Paesi ospitanti; obbligo di rispetto del principio di non-refoulement.
+## Esternalizzazione: Rwanda e Uzbekistan [HIGH confidence]
+- Oltre metà dei 27 Stati UE chiede accordi rapidi; **Danimarca, Austria, Grecia, Germania, Paesi Bassi** in
+  testa. Mitsotakis: primi accordi nel 2026, **operatività dal 2027**. `[verificato: POLITICO]`
+- Sedi in esame: **Rwanda** (destinatario di 900 mln € via Global Gateway, 2023), **Uzbekistan** (119 mln €) e
+  l'Uganda. La scelta finale spetta ai singoli governi. `[verificato: POLITICO]`
+- **[[Libia]] ed [[Egitto]] esclusi** per il rischio di traffico di esseri umani, malgrado la vicinanza. Il
+  ministro cipriota Ioannides: hub "in Africa o Asia, non vicino ai confini europei". `[verificato: POLITICO, The Libya Observer]`
+
+## Opposizione e nodi critici [MEDIUM confidence]
+- **Francia** (Macron: "mai visto un return center in un Paese terzo che funzioni") e **Spagna** contestano lo
+  schema; i Verdi (MEP Camara) parlano di violazione dei valori UE; l'UNHCR avverte sul non-refoulement. `[verificato: POLITICO]`
+- In [[Libia]], proteste anti-"reinsediamento" (giu 2026) con chiusura degli uffici UNHCR/OIM — ma l'UE sta
+  di fatto **escludendo** la Libia come sede, non includendola. `[verificato: The Libya Observer]`
 
 ## Fonti
-- [EC — Political agreement on the Return Regulation](https://ec.europa.eu/) (accesso 2026-07-02)
-- [Euronews — EU Parliament approves 'strictest-ever' migration law](https://www.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law) (accesso 2026-07-02)
-
-- [The Libya Observer — EU rules out Libya/Egypt, eyes Rwanda/Uzbekistan for return centers](https://libyaobserver.ly/news/after-ruling-out-libya-and-egypt-eu-considers-return-centers-rwanda-and-uzbekistan-rejected) (accesso 2026-07-09)
-
-## 🔄 Aggiornamento (2 lug 2026 — fai ingest)
-- Attuando il nuovo Return Regulation, alcuni Stati UE (Danimarca, Austria, Grecia, Germania, Paesi Bassi)
-  spingono per aprire i return hub in **Rwanda, Uzbekistan** (e si valuta l'Uganda), con avvio previsto nel
-  **2027**. `[verificato: The Libya Observer/Politico — fonte singola]`
-- **[[Libia]] ed [[Egitto]] sono stati esclusi** come sedi per timori legati al traffico di esseri umani —
-  malgrado la vicinanza geografica. Precedenti: il piano UK-Rwanda (fallito) e i centri [[Italia]]-Albania (ricorsi). `[verificato: The Libya Observer/Politico]`
-- Contesto: in Libia proteste anti-"reinsediamento" (giu 2026), con chiusura degli uffici UNHCR/OIM (cfr. [[Migrazione]]). `[verificato: The Libya Observer]`
+- [POLITICO — EU countries eye setting up return hubs in Rwanda and Uzbekistan](https://www.politico.eu/article/eu-countries-eye-setting-up-migrant-return-hubs-in-rwanda-and-uzbekistan/) (accesso 2026-07-09)
+- [The Libya Observer — EU rules out Libya/Egypt, eyes Rwanda/Uzbekistan](https://libyaobserver.ly/news/after-ruling-out-libya-and-egypt-eu-considers-return-centers-rwanda-and-uzbekistan-rejected) (accesso 2026-07-09)
+- [Euronews — EU Parliament approves 'strictest-ever' migration law](https://www.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law) (accesso 2026-07-09)
+- [EC — Political agreement on the Return Regulation](https://ec.europa.eu/) (accesso 2026-07-09)
+- [Infomigrants — EU migrant 'return hubs' explained](https://www.infomigrants.net/) (accesso 2026-07-09)

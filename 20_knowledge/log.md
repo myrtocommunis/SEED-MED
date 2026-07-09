@@ -49,3 +49,4 @@
 ## [2026-07-09] curator | Rafforzato Sudan a 5 fonti/B2 (Middle East Eye, HORN Review, CFR): triangolo di confine, canale Kufra→RSF, pressioni Egitto-Riyadh su Haftar
 ## [2026-07-09] HUMAN GATE | Promozione (su mandato): Sudan → validated (24 note validate totali)
 ## [2026-07-09] curator | fai ingest: 1 nuova fonte (Libya Observer/Politico) → arricchita Return hubs (UE esclude Libia/Egitto, valuta Rwanda/Uzbekistan, avvio 2027)
+## [2026-07-09] curator | fai ingest: fonte primaria POLITICO → Return hubs consolidata a 5 fonti/deep/B2 (esternalizzazione UE Rwanda/Uzbekistan, esclusione Libia/Egitto, opposizione Francia/Verdi)
