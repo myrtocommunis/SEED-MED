@@ -4,7 +4,7 @@ tags: ["#migrazione", "#influenza"]
 date: 2026-07-02
 status: "draft"
 depth: "standard"
-sources: "3"
+sources: "4"
 admiralty: "B2"
 tipo: "concept"
 provenance:
@@ -26,3 +26,13 @@ Gruppi per i diritti avvertono su abusi, ricorsi legali e dipendenza dai Paesi o
 ## Fonti
 - [EC — Political agreement on the Return Regulation](https://ec.europa.eu/) (accesso 2026-07-02)
 - [Euronews — EU Parliament approves 'strictest-ever' migration law](https://www.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law) (accesso 2026-07-02)
+
+- [The Libya Observer — EU rules out Libya/Egypt, eyes Rwanda/Uzbekistan for return centers](https://libyaobserver.ly/news/after-ruling-out-libya-and-egypt-eu-considers-return-centers-rwanda-and-uzbekistan-rejected) (accesso 2026-07-09)
+
+## 🔄 Aggiornamento (2 lug 2026 — fai ingest)
+- Attuando il nuovo Return Regulation, alcuni Stati UE (Danimarca, Austria, Grecia, Germania, Paesi Bassi)
+  spingono per aprire i return hub in **Rwanda, Uzbekistan** (e si valuta l'Uganda), con avvio previsto nel
+  **2027**. `[verificato: The Libya Observer/Politico — fonte singola]`
+- **[[Libia]] ed [[Egitto]] sono stati esclusi** come sedi per timori legati al traffico di esseri umani —
+  malgrado la vicinanza geografica. Precedenti: il piano UK-Rwanda (fallito) e i centri [[Italia]]-Albania (ricorsi). `[verificato: The Libya Observer/Politico]`
+- Contesto: in Libia proteste anti-"reinsediamento" (giu 2026), con chiusura degli uffici UNHCR/OIM (cfr. [[Migrazione]]). `[verificato: The Libya Observer]`
