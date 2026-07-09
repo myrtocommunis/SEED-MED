@@ -1,11 +1,11 @@
 # Index — Knowledge Catalog
 
 ## Vault Status
-- Total validated notes: 22
+- Total validated notes: 23
 - Last updated: 2026-07-09
 
 ## By Domain — Geopolitica del Mediterraneo (prospettiva italiana)
-**Arena/interno:** [[Libia]] · [[Haftar]] · [[Elezioni]]
+**Arena/interno:** [[Libia]] · [[Haftar]] · [[Elezioni]] · [[Milizie]] · [[Frammentazione interna|Milizie]]
 **Energia:** [[Petrolio]] · [[Eni]] · [[Algeria]] · [[Diversificazione energetica]] · [[Cipro]] · [[EastMed]] · [[Dispute zee]]
 **Bilancio/mediazione:** [[Bilancio libico]] · [[Mediazione statunitense]]
 **Migrazione (Italia):** [[Migrazione]] · [[Rotta del mediterraneo centrale]]

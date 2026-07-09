@@ -12,12 +12,7 @@ confidenza_giudizio: "MEDIUM-LOW"
 
 # In Libia l'Italia asseconda una stabilizzazione senza urne più per vincolo operativo che per scelta strategica
 
-> **Rev. 3** — aggiornamento empirico su base rev.2 (stress-test adversary v3 = 7/10). Integrati due dati validati
-> dell'8 lug 2026: il **sondaggio UNSMIL "Di' la tua" (90% dei libici vuole elezioni)** e le **proteste di Misurata**
-> contro l'emissario Boulos. La revisione **non riapre** i difetti già corretti (dicotomia stabilità-vs-elezioni;
-> confusione movente/effetto; sovra-centralizzazione della regia USA): i nuovi dati ancorano empiricamente il
-> **contesto** e forniscono un **metro di verifica** al giudizio, ma **non** documentano il movente italiano, che
-> resta un'inferenza (N1).
+> **Rev. 3** — aggiornamento empirico su base rev.2 (stress-test adversary v3 = 7/10). Integrati due dati validati dell'8 lug 2026: il **sondaggio UNSMIL "Di' la tua" (90% dei libici vuole elezioni)** e le **proteste di Misurata** contro l'emissario Boulos. La revisione **non riapre** i difetti già corretti (dicotomia stabilità-vs-elezioni; confusione movente/effetto; sovra-centralizzazione della regia USA): i nuovi dati ancorano empiricamente il **contesto** e forniscono un **metro di verifica** al giudizio, ma **non** documentano il movente italiano, che resta un'inferenza (N1).
 
 **Bottom line.** Il piano di power-sharing promosso da Washington (Boulos) tende a unificare le istituzioni libiche prima e a prescindere dal voto. L'[[Italia]] lo asseconda — ma la lettura più difendibile resta **pragmatismo obbligato** (Roma tratta con chi controlla la costa, eletto o meno), non una scelta deliberata *contro* le elezioni. La novità di rev.3 è che il piano *senza voto* non urta più solo un principio astratto, ma **una volontà popolare ora documentata**: il 90% dei libici chiede elezioni nazionali e Misurata è scesa in piazza contro l'iniziativa. Ciò **alza l'asticella** che il power-sharing deve superare per non risolversi in una legittimazione degli status quo. La tesi forte "Roma rinuncia alle urne per interesse" resta comunque **un'ipotesi interpretativa**, non un fatto documentato. `[MEDIUM-LOW confidence]`
 
