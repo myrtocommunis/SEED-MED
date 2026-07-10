@@ -4,17 +4,18 @@ tags: ["#migrazione", "#influenza", "#italia"]
 date: 2026-07-09
 status: "draft"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (EC 2026-06-01; Euronews 2026-06-17; POLITICO 2026-06-24; The Libya Observer 2026-07-02) + web:verifica-curator (Il Sole 24 Ore; ANSA)"
+  - "00_inbox/dataset_libia/dataset_web_libia (EC 2026-06-01; Euronews 2026-06-17; POLITICO 2026-06-24; The Libya Observer 2026-07-02; Infomigrants 2026-03-13) + web:verifica-curator (Il Sole 24 Ore; ANSA)"
 ---
 
 # Return hubs
 
-Centri di rimpatrio in Paesi terzi previsti dal nuovo "Return Regulation" UE per accelerare le
-deportazioni: strumento chiave della [[Migrazione]] policy 2026 — e **bandiera italiana** europeizzata.
+Centri di rimpatrio in Paesi terzi introdotti dal [[Regolamento rimpatri]] (nell'alveo del [[Patto migrazione
+e asilo]]) per accelerare le deportazioni: strumento chiave della [[Migrazione]] policy 2026 — e **bandiera
+italiana** europeizzata.
 
 ## Iter normativo [HIGH confidence]
 - Proposto dalla Commissione a **marzo 2025**; via libera finale del Parlamento **17 giu 2026** (418 sì, 218
@@ -36,6 +37,16 @@ deportazioni: strumento chiave della [[Migrazione]] policy 2026 — e **bandiera
 - Obiettivo dichiarato (Mitsotakis): primi accordi 2026, **operatività 2027** — ma i Paesi ospitanti **non sono
   ancora decisi** e la Commissione è fuori dal tavolo: è un target politico, non un impegno. `[verificato: POLITICO]`
 
+## Legalità e garanzie [MEDIUM confidence]
+- Parere della Corte di Giustizia UE (apr 2026): i centri offshore come quelli italiani in Albania **possono
+  non violare** il diritto UE, ma solo a condizioni precise (accesso a legale, supporto linguistico, contatto
+  con familiari e autorità). `[verificato: Infomigrants]`
+- La **FRA** (Agenzia UE diritti fondamentali) fissa 5 condizioni: decisione individuale, rispetto delle
+  regole UE (mai minori nei hub), accordi vincolanti, standard minimi di trattamento, monitoraggio
+  indipendente. Dubbio chiave: applicabilità reale a Paesi lontani (Rwanda) con deboli legami istituzionali UE. `[verificato: Infomigrants]`
+- **Blueprint**: il protocollo Italia-Albania (centri di Shëngjin e Gjader, **670 mln €/5 anni per 36.000
+  persone/anno**) è il modello di riferimento; finanziamento anche dal pool di solidarietà UE (420 mln €/anno). `[verificato: Infomigrants]`
+
 ## Prospettiva: il peso dei precedenti [MEDIUM confidence]
 Ogni tentativo precedente di esternalizzazione è naufragato: **UK-Rwanda** cancellato dopo anni di cause,
 **Italia-Albania** ripetutamente impugnato nei tribunali, **Danimarca-Rwanda** in stallo. Il nuovo quadro
@@ -50,3 +61,4 @@ persino l'esclusione di Libia/Egitto potrebbero rivelarsi reversibili. Opposizio
 - [The Libya Observer — EU rules out Libya/Egypt for return centers](https://libyaobserver.ly/news/after-ruling-out-libya-and-egypt-eu-considers-return-centers-rwanda-and-uzbekistan-rejected) (accesso 2026-07-09)
 - [Euronews — EU Parliament approves 'strictest-ever' migration law](https://www.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law) (accesso 2026-07-09)
 - [EC — Political agreement on the Return Regulation](https://ec.europa.eu/) (accesso 2026-07-09)
+- [Infomigrants — EU migrant 'return hubs' explained](https://www.infomigrants.net/en/post/70346/eu-migrant-return-hubs--explained) (accesso 2026-07-10)

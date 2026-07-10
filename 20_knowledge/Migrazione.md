@@ -22,6 +22,10 @@ della [[Rotta del mediterraneo centrale]]. Tema cardine dell'interesse nazionale
 - Attraversamenti irregolari UE **in calo ~40%** nei primi 5 mesi 2026 (~39.000). `[verificato: Frontex]`
 - L'Economist: crossing illegali più che dimezzati in due anni; "mezza soluzione a metà del problema". `[verificato: Economist]`
 
+## Quadro normativo
+UE: [[Patto migrazione e asilo]] (cornice) → [[Regolamento rimpatri]] → [[Return hubs]].
+Italia: [[Testo unico immigrazione]] (D.lgs 286/1998) → [[Decreto flussi]] (ingressi legali e leva sui rimpatri).
+
 ## Strumenti collegati
 [[Return hubs]] (deportazioni in Paesi terzi) · [[Frontex]] (controllo frontiere) ·
 [[Ritorni volontari]] (IOM/UE dalla Libia).

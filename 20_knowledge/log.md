@@ -52,3 +52,4 @@
 ## [2026-07-09] curator | fai ingest: fonte primaria POLITICO → Return hubs consolidata a 5 fonti/deep/B2 (esternalizzazione UE Rwanda/Uzbekistan, esclusione Libia/Egitto, opposizione Francia/Verdi)
 ## [2026-07-09] adversary (inline) | critica di Return hubs — voto 6/10 (cap 7): fuoco italiano debole, aspirazioni come fatti, fonte primaria singola (POLITICO)
 ## [2026-07-09] curator | Return hubs rev.2 post-adversary: 2027→MEDIUM, aggiunto ruolo Italia (Meloni capofila, modello Albania europeizzato), pesati i precedenti falliti; 6 fonti
+## [2026-07-10] curator | fai ingest 13 fonti migrazione: create 4 note atomiche (Patto migrazione e asilo, Regolamento rimpatri, Decreto flussi, Testo unico immigrazione); Return hubs→7 fonti (legalità FRA/CGUE + blueprint Albania); Migrazione collegata al quadro normativo
