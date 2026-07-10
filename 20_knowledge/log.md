@@ -55,3 +55,4 @@
 ## [2026-07-10] curator | fai ingest 13 fonti migrazione: create 4 note atomiche (Patto migrazione e asilo, Regolamento rimpatri, Decreto flussi, Testo unico immigrazione); Return hubs→7 fonti (legalità FRA/CGUE + blueprint Albania); Migrazione collegata al quadro normativo
 ## [2026-07-10] adversary (inline) | critica di Regolamento rimpatri — voto 6/10 (cap 7): errore fattuale Johansson→Brunner (viol. N2), conflict transparency debole, salto causale sull efficacia
 ## [2026-07-10] curator | Regolamento rimpatri rev.2 post-adversary: corretto Brunner (era Johansson), aggiunta sezione Critiche + nodo efficacia, disambiguata detenzione minori, effetto sospensivo; 6 fonti
+## [2026-07-10] maintainer (inline) | health check: vault SANO (0 fantasma, 0 orfani, schema completo, 0 wikipedia, 2 promozioni ok). Finding: 20 note deep con <5 fonti → raccomandato rafforzare/declassare
