@@ -34,9 +34,9 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
   **BM-30 Smerch**, difesa aerea **Tor**, **BMP-2M** e **BTR-82A**. `[verificato: Militarnyi — fonte singola]`
 
 ## Sintesi strategica [MEDIUM confidence]
-- **Multi-allineamento, non lealtà**: Haftar accetta armi russe *e* dialoga con Boulos ([[Mediazione
-  statunitense]]) *e* riceve Piantedosi *e* compra JF-17 [[Pakistan]]-i. Non è un blocco, è una **leva su tutti
-  i patroni** per rendita e autonomia — chi lo legge come "proxy" di uno solo sbaglia bersaglio.
+- **Multi-allineamento, non lealtà**: Haftar accetta armi russe, dialoga con Boulos
+  ([[Mediazione statunitense]]), riceve Piantedosi e compra JF-17 [[Pakistan]]-i. Non è un blocco, è una **leva
+  su tutti i patroni** per rendita e autonomia — chi lo legge come "proxy" di uno solo sbaglia bersaglio.
 - **Rischio-cardine = successione**: a 82 anni, con i figli in faida (Saddam vs Khaled/Belgacem), il vero
   pericolo per l'est libico è il **dopo-Haftar**, non l'allineamento esterno.
 - **Posta per l'Italia e la NATO**: la prospettiva di una **base navale russa a Tobruk** proietterebbe Mosca
