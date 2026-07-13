@@ -56,3 +56,4 @@
 ## [2026-07-10] adversary (inline) | critica di Regolamento rimpatri — voto 6/10 (cap 7): errore fattuale Johansson→Brunner (viol. N2), conflict transparency debole, salto causale sull efficacia
 ## [2026-07-10] curator | Regolamento rimpatri rev.2 post-adversary: corretto Brunner (era Johansson), aggiunta sezione Critiche + nodo efficacia, disambiguata detenzione minori, effetto sospensivo; 6 fonti
 ## [2026-07-10] maintainer (inline) | health check: vault SANO (0 fantasma, 0 orfani, schema completo, 0 wikipedia, 2 promozioni ok). Finding: 20 note deep con <5 fonti → raccomandato rafforzare/declassare
+## [2026-07-10] curator | ingest 00_inbox radice: 3 bundle demo (dispute_zee_egeo, energia_algeria_libia, migrazione_piano_mattei) già interamente coperti da note atomiche sourced → eliminati su richiesta umana, nessuna nota creata
