@@ -4,13 +4,11 @@ tags: ["#maghreb", "#difesa", "#energia"]
 date: 2026-07-02
 status: "validated"
 depth: "deep"
-sources: "3"
+sources: "5"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/energia_algeria_libia.md"
-  - "00_inbox/dispute_zee_egeo.md"
-  - "seed:elevazione-hub"
+  - "seed:elevazione-hub + web:verifica-curator (ISPI; Pagine Esteri; Eni; il manifesto; Il Caffè Geopolitico)"
 ---
 
 # Libia
@@ -25,6 +23,12 @@ insiste contemporaneamente sui tre assi — energia, [[Migrazione]] e sicurezza.
   dei Rappresentanti e dalle forze del feldmaresciallo **Khalifa Haftar** (Cirenaica). `[verificato: ISPI, Nigrizia]`
 - Haftar non vende greggio direttamente ma può **bloccare fino a ~3/4 della produzione ed
   esportazione**, leva usata ripetutamente per estrarre proventi. `[verificato: Pagine Esteri]`
+- **Controllo asimmetrico della rendita**: Tripoli detiene NOC e Banca Centrale (incassa i proventi degli
+  idrocarburi), ma le forze di Haftar controllano la "mezzaluna del petrolio" orientale e gran parte dei
+  terminal — da cui la capacità di blocco. `[verificato: il manifesto]`
+- Emergono **reti trasversali** di deviazione della rendita energetica riconducibili sia a Ibrahim Dbeibah
+  (ovest) sia a Saddam [[Haftar]] (est): più che due blocchi contrapposti, un sistema condiviso di cattura
+  della rendita che frena la riunificazione (cfr. [[Bilancio libico]]). `[verificato: Il Caffè Geopolitico]`
 
 ## Rilevanza per l'Italia [HIGH confidence]
 - Energia: partner storico via [[Eni]] (accordo dal **1974**, gasdotto Greenstream) → nodo della
@@ -40,3 +44,5 @@ insiste contemporaneamente sui tre assi — energia, [[Migrazione]] e sicurezza.
 - [ISPI — Libia: un governo bicefalo](https://www.ispionline.it/it/pubblicazione/libia-un-governo-bicefalo-un-paese-diviso-37050) (accesso 2026-07-02)
 - [Pagine Esteri — Libia: crisi infinita](https://pagineesteri.it/2026/05/18/africa/libia-crisi-infinita-tra-frammentazione-statale-milizie-e-competizione-geopolitica/) (accesso 2026-07-02)
 - [Eni — Attività in Libia](https://www.eni.com/en-IT/actions/global-activities/libya.html) (accesso 2026-07-02)
+- [il manifesto — Pozzi di petrolio e Banca centrale, la Libia sull'orlo di un nuovo conflitto](https://ilmanifesto.it/pozzi-di-petrolio-e-banca-centrale-la-libia-sullorlo-di-un-nuovo-conflitto) (accesso 2026-07-10)
+- [Il Caffè Geopolitico — Il bilancio unificato non supera la frammentazione del potere](https://ilcaffegeopolitico.net/1005478/libia-il-bilancio-unificato-non-supera-la-frammentazione-del-potere) (accesso 2026-07-10)
