@@ -47,3 +47,6 @@ tra la road map ONU e la [[Mediazione statunitense]].
 - **6 lug 2026 (Tunisi)**: 5ª sessione dello "Small Convening" (4+4) UNSMIL chiude le prime due fasi della
   road map; **firma dell'accordo finale attesa la settimana successiva**. Menfi-Guterres a Ginevra; Menfi
   propone un referendum per le questioni controverse. `[verificato: ANSA, Agenzia Nova]`
+- **9 lug 2026 (Il Cairo)**: delegazione libica di alto livello in [[Egitto]] dopo l'accordo dei **tre vertici**
+  (HoR, Consiglio di Stato, Consiglio Presidenziale) su una tabella di marcia; obiettivo **elezioni simultanee
+  entro febbraio 2027** e istituzione di un **comitato supremo** di supervisione. `[verificato: ANSA]`

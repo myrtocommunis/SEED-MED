@@ -44,3 +44,6 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
 - **Ricostruzione**: il console generale a Bengasi **Filippo Colombo** in sopralluogo a Sabri per il restauro
   degli edifici di architettura italiana (esperienza italiana nella ricostruzione). `[verificato: La4News]`
 - Colloqui Libia-[[Malta]] su migrazione ed energia nel Mediterraneo centrale.
+- **9 lug (Roma)**: il capo di stato maggiore dell'Esercito libico **gen. Salah al-Din al-Namroush** incontra
+  il comandante delle forze speciali italiane **amm. Paolo Pezzutti**; discussi formazione e addestramento
+  delle **forze speciali libiche** e un piano di addestramento completo — cooperazione militare bilaterale. `[verificato: La4News/Italpress]`

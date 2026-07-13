@@ -30,3 +30,8 @@ I gruppi armati che dominano la Libia occidentale sono il vero centro di gravit�
 ## Fonti
 - [Africa Intelligence — Murdered Ghneiwa leader and Libya's oil fleet](https://www.africaintelligence.com/) (accesso 2026-07-03)
 - [Africa Intelligence — Osama al-Juwaili takes Ghadames](https://www.africaintelligence.com/) (accesso 2026-07-03)
+
+## 🔄 Aggiornamento (10 lug 2026 — fai ingest)
+- **9 lug (sud)**: un'unità della regione militare meridionale dell'LNA di [[Haftar]] conduce un'operazione
+  contro il gruppo armato "Sala operativa per la liberazione del sud", con sequestro di 1.000 mitragliatrici e
+  833 lanciarazzi — segnale di consolidamento dell'LNA nel Fezzan. `[verificato: La4News/Italpress]`

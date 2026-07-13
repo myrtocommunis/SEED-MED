@@ -44,3 +44,6 @@ Washington, Roma e Ankara, che scavalca di fatto l'ONU sul dossier [[Libia]].
   libiche le prendono solo i libici"). `[verificato: BBC Monitoring, Agenzia Nova]`
 - I figli di Haftar a Washington: Saddam ha incontrato il Segretario di Stato **Rubio**, Belgacem ha visto Boulos. `[verificato: BBC Monitoring/Al-Wasat]`
 - Egitto (FM Abdelatty)-Boulos: telefonata (3 lug), sostegno all'unità e a un percorso libico-libico verso il voto. `[verificato: BBC Monitoring]`
+- **9 lug (Bengasi)**: [[Haftar]] riceve **Boulos** (con il chargé d'affari USA Jeremy Berndt); elogia il
+  ruolo di Trump nel partenariato strategico e ringrazia per gli sforzi di unificazione istituzionale. Boulos
+  ribadisce l'impegno USA e un dialogo a **"piena titolarità libica"**. `[verificato: La4News/Italpress]`

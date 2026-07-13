@@ -37,3 +37,10 @@ potere rivali — vettore indiretto anche dell'influenza della [[Cina]] in Nord 
 - [Arab News — Pakistan mediating Libya unity push](https://www.arabnews.com/node/2649870/pakistan) (accesso 2026-07-09)
 - [Asharq al-Awsat — Pakistan mediating Libya unity with US-led push](https://english.aawsat.com/arab-world/5293066-pakistan-mediating-libya-unity-us-led-push) (accesso 2026-07-09)
 - [BBC Monitoring — Pakistan, Libya military deepen defence ties](https://monitoring.bbc.co.uk/product/b0005dc1) (accesso 2026-07-09)
+
+## 🔄 Aggiornamento (10 lug 2026 — fai ingest)
+- **10 lug (Nikkei Asia)**: la mediazione pachistana è **sostenuta da USA e [[Arabia saudita]]**; think tank
+  la definiscono *"l'Oslo dell'Est"*. Ma gli analisti segnalano **scetticismo del GNU** ad accettare Islamabad,
+  giudicata troppo vicina a [[Haftar]] (indizio: il FM del GNU al vertice India-Paesi arabi a Nuova Delhi, gen
+  2026). I benefici strategici per il Pakistan sono giudicati **limitati** rispetto al dossier Iran (dove
+  contava la stabilità di confine). `[verificato: Nikkei Asia]`
