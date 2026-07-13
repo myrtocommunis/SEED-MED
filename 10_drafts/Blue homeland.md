@@ -8,7 +8,7 @@ sources: "3"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia (dispute_zee_egeo) + web:verifica-curator (Ifri 2021; CIMSEC; War on the Rocks)"
+  - "seed:demo-consolidato + web:verifica-curator (Ifri 2021; CIMSEC; War on the Rocks)"
 ---
 
 # Blue homeland

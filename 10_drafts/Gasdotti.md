@@ -8,7 +8,7 @@ sources: "4"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/energia_algeria_libia.md + web:verifica-curator (Il Sole 24 Ore; Geopop; Oxford Energy/OIES; Ce.S.I.)"
+  - "seed:demo-consolidato + web:verifica-curator (Il Sole 24 Ore; Geopop; Oxford Energy/OIES; Ce.S.I.)"
 ---
 
 # Gasdotti

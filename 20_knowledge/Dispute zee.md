@@ -8,7 +8,7 @@ sources: "3"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia (dispute_zee_egeo) + web:verifica-curator (Washington Institute; CSIS; Institut Montaigne; AGBI 2026-02)"
+  - "seed:demo-consolidato + web:verifica-curator (Washington Institute; CSIS; Institut Montaigne; AGBI 2026-02)"
 ---
 
 # Dispute zee

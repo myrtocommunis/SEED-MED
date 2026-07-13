@@ -8,7 +8,7 @@ sources: "2"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/migrazione_piano_mattei.md"
+  - "seed:demo-consolidato + web:verifica-curator (governo.it; esteri.it/ISPI)"
 ---
 
 # Piano mattei

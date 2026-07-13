@@ -8,7 +8,7 @@ sources: "5"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (energia_algeria_libia) + web:verifica-curator (Il Sole 24 Ore; IEEFA; SNAM/Servicematica; Canaleenergia; Ce.S.I.)"
+  - "seed:demo-consolidato + web:verifica-curator (Il Sole 24 Ore; IEEFA; SNAM/Servicematica; Canaleenergia; Ce.S.I.)"
 ---
 
 # Diversificazione energetica

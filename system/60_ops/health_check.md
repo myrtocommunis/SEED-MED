@@ -1,6 +1,7 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-07-10 (re-check)** · maintainer (inline) · audit read-only, non distruttivo.
+> Esecuzione: **2026-07-10 (re-check #3)** · maintainer (inline) · audit read-only.
+> Novità di questo giro: aggiunto il controllo **wikilink spezzati da newline** e **provenance verso file eliminati**.
 
 ## 🟢 Stato generale: SANO
 
@@ -8,26 +9,24 @@
 |-------|-------|
 | Note totali | 26 validated + 27 draft = 53 |
 | Wikilink 1:1 (link fantasma) | ✅ **zero** |
+| Wikilink spezzati da newline *(nuovo)* | ✅ **zero** (dopo fix su Haftar) |
 | Note orfane | ✅ **zero** |
 | Schema frontmatter (8 campi) | ✅ **completo** |
 | No-Wikipedia | ✅ **zero** |
-| Draft marcati `validated` (viol. §3) | ✅ **nessuno** |
-| Regressioni dai 9 commit recenti | ✅ **nessuna** (5 note aggiornate + Pakistan rev.2 integri) |
+| Draft marcati `validated` | ✅ **nessuno** |
+| Provenance verso file demo eliminati *(nuovo)* | ✅ **zero nelle note** (residuo solo in `_schema_map.md`, artefatto storico) |
 
-## 🟡 Finding persistente: 20 note `deep` sotto le 5 fonti
-Invariato dall'ultimo giro. Quality gate §5 = ≥5 fonti per `deep`.
-- **Validate:** Egitto(4) · Haftar(3) · Libia(3) · Eni(3) · Algeria(4) · Cipro(4) · Dispute zee(3) · Bilancio libico(3) · Migrazione(3) · Rotta del mediterraneo centrale(4)
+## 🟡 Finding persistente: 16 note `deep` sotto le 5 fonti
+Sceso da 20 → 16 dopo il rafforzamento dei 4 pilastri (`Libia`, `Eni`, `Migrazione`, `Haftar` ora conformi).
+Rimaste — perlopiù **nodi di supporto legittimamente minori**:
+- **Validate:** Egitto(4) · Algeria(4) · Cipro(4) · Dispute zee(3) · Bilancio libico(3) · Rotta del mediterraneo centrale(4)
 - **Draft:** Egeo(3) · Gasdotti(4) · Blue homeland(3) · Ucraina(4) · Saif al-islam(4) · Sahel(3) · Libyan investment authority(2) · Opec(3) · Banca centrale libica(3) · Frammentazione interna(3)
 
-→ Raccomandazione invariata: irrobustire i 4 pilastri (`Libia`, `Eni`, `Migrazione`, `Haftar`) o declassare i nodi di supporto a `standard`.
+→ Raccomandazione: per questi nodi la mossa corretta è probabilmente il **declassamento a `standard`** (allinea l'etichetta al contenuto) più che il rafforzamento forzato. Eccezioni candidate a rafforzamento: `Rotta del mediterraneo centrale` ed `Egitto` (rilevanza alta).
 
-## 🔵 Nuovo finding (basso): scarto `sources` dichiarate vs voci Fonti
-12 note dichiarano più fonti di quante ne elenchino come link in `## Fonti` (es. Turchia 6 vs 3, Mediazione statunitense 6 vs 2). **Nella maggior parte è convenzione, non difetto**: il conteggio `sources` include le fonti-dataset di `provenance` (non ripubblicate come weblink). Eccezione già sanata: `Pakistan` (Nikkei citata ma fuori Fonti → corretta in rev.2).
-→ Azione suggerita (facoltativa, cosmetica): quando si promuove/rafforza una nota, allineare `## Fonti` all'elenco completo, o annotare che i weblink sono un sottoinsieme del `provenance`.
-
-## Delta dall'ultimo run (2026-07-09/10)
-- +4 note migrazione (Patto/Regolamento/Decreto flussi/TUI), +2 promozioni (Return hubs, Regolamento rimpatri).
-- +5 note aggiornate (Elezioni, Mediazione statunitense, Italia, Pakistan, Milizie) via ingest 7-12 lug.
-- 3 stress-test avversariali + correzioni (Return hubs, Regolamento rimpatri, Pakistan).
-- 3 file demo eliminati da 00_inbox.
+## Delta dai run precedenti
+- 4 pilastri portati a ≥5 fonti (Libia/Eni/Migrazione a 5, Haftar a 6).
+- Haftar rev.2 (tesi multi-allineamento, posta Italia/NATO-Tobruk, attribuzione fonti stretta) + fix wikilink.
+- **Ripulita la provenance di 7 note** (Libia, Eni, + Piano mattei, Gasdotti, Blue homeland, Dispute zee, Diversificazione energetica) dai riferimenti ai 3 file demo eliminati.
+- 4 stress-test avversariali totali con correzioni (Return hubs, Regolamento rimpatri, Pakistan, Haftar).
 - Nessun intervento urgente.
