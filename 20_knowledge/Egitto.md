@@ -4,11 +4,11 @@ tags: ["#levante", "#difesa", "#influenza", "#energia"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "4"
+sources: "6"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-08, 2026-05-21, 2026-02-09, 2026-03-30)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-08, 2026-05-21, 2026-02-09, 2026-03-30) + web:verifica-curator (ISPI; Agenzia Nova)"
 ---
 
 # Egitto
@@ -19,11 +19,16 @@ diplomazia nordafricana con implicazioni per la sicurezza del Mediterraneo.
 ## Posizioni verificate [HIGH confidence]
 - **8 dic 2025**: al-Sisi chiede il ritiro delle forze straniere dalla Libia; sostiene elezioni simultanee. `[verificato: BBC Monitoring]`
 - **21 mag 2026**: meccanismo consultivo [[Algeria]]-Egitto-[[Tunisia]] sulla paralisi politica libica. `[verificato: BBC Monitoring]`
+- Il Cairo tratta la crisi libica come **questione di sicurezza nazionale**: confine di **~1.200 km** e forti
+  legami economici/sociali con il vicino occidentale. `[verificato: ISPI]`
 - Sicurezza Egitto-Libia legata alla crisi del [[Sudan]] (RSF), che Cairo (pro-SAF) contrasta anche colpendo convogli.
 
 ## Riallineamento con la Turchia [MEDIUM confidence]
 - Feb 2026: dopo la visita di Erdogan, media turchi segnalano una **"nuova alleanza" Turchia-Egitto nel
   Mediterraneo orientale** (accordo quadro militare, fabbrica di munizioni da 155mm, esercitazioni). `[verificato: BBC/Yeni Safak — fonte di parte]`
+- Ma sul fronte occidentale il Cairo **ripristina i rapporti con [[Dbeibah]]** (GNU) anche per **contrastare
+  l'influenza turca**, non volendo lasciare Ankara come unico attore in Tripolitania: equilibrismo più che
+  allineamento. `[verificato: Agenzia Nova]`
 
 ## Dimensione energetica [HIGH confidence]
 - **Mar 2026**: il Cairo negozia l'import di **~1,2 mln barili/mese** di greggio libico, per sostituire le
@@ -32,3 +37,5 @@ diplomazia nordafricana con implicazioni per la sicurezza del Mediterraneo.
 ## Fonti
 - [BBC Monitoring — Egypt calls for withdrawal of foreign forces](https://monitoring.bbc.co.uk/product/b00052gj) (accesso 2026-07-03)
 - [BBC Monitoring — Egypt secures Libya oil amid disrupted Gulf shipments](https://monitoring.bbc.co.uk/product/b0005odj) (accesso 2026-07-03)
+- [ISPI — Egitto: un complesso equilibrismo](https://www.ispionline.it/it/pubblicazione/egitto-un-complesso-equilibrismo-222958) (accesso 2026-07-10)
+- [Agenzia Nova — Egitto ripristina relazioni con Dabaiba per contrastare l'influenza turca](https://www.agenzianova.com/a/695b09f165dbf9.47244849/6870281/2026-01-02/libia-analista-egitto-ripristina-relazioni-con-dabaiba-anche-per-contrastare-influenza-turca) (accesso 2026-07-10)

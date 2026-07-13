@@ -3,7 +3,7 @@ title: "Egeo"
 tags: ["#egeo", "#dispute-zee", "#difesa"]
 date: 2026-07-03
 status: "draft"
-depth: "deep"
+depth: "standard"
 sources: "3"
 admiralty: "B2"
 tipo: "concept"

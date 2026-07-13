@@ -3,7 +3,7 @@ title: "Gasdotti"
 tags: ["#energia", "#italia"]
 date: 2026-07-09
 status: "draft"
-depth: "deep"
+depth: "standard"
 sources: "4"
 admiralty: "B2"
 tipo: "concept"

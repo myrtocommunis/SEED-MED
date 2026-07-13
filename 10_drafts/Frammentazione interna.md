@@ -3,7 +3,7 @@ title: "Frammentazione interna"
 tags: ["#geopolitica", "#difesa"]
 date: 2026-07-02
 status: "draft"
-depth: "deep"
+depth: "standard"
 sources: "3"
 admiralty: "B2"
 tipo: "concept"

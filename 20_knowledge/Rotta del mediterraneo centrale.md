@@ -4,11 +4,11 @@ tags: ["#migrazione", "#italia"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "4"
+sources: "6"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Viminale/Cruscotto 2026-06-15; Frontex 2026-06-12; MMC 2026-03-05; DTM 2026-03-10)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Viminale/Cruscotto 2026-06-15; Frontex 2026-06-12; MMC 2026-03-05; DTM 2026-03-10) + web:verifica-curator (Open Arms; ISPI/OIM)"
 ---
 
 # Rotta del mediterraneo centrale
@@ -24,8 +24,18 @@ irregolare verso l'Europa.
 ## Struttura della rotta [HIGH confidence]
 - Med. centrale e orientale: **~1/3 ciascuna** degli ingressi UE; i **bengalesi** sono la 1ª nazionalità
   verso l'Italia (~31% arrivi via mare 2025). `[verificato: Frontex, MMC]`
-- Costo umano: **~1.300 morti** nel Mediterraneo nel 2026. `[verificato: OIM]`
+- Geografia: spazio di **~400 km** tra le frontiere di Libia, [[Tunisia]], [[Malta]] e Italia; partenze
+  principali dalla Libia (primo Paese) e dalla Tunisia (Sfax). Nazionalità 2026: Bangladesh, Somalia, [[Sudan]]. `[verificato: Open Arms]`
+- I trafficanti **adattano le tattiche** al giro di vite (partenze notturne, finestre meteo imprevedibili,
+  rotte più lunghe): da cui l'aumento della mortalità. `[verificato: Open Arms]`
+
+## Costo umano [HIGH confidence]
+- **~1.300 morti** nel Mediterraneo nel 2026 complessivo. `[verificato: OIM]`
+- Nel **1° trimestre 2026** l'OIM stima **≥1.022 morti/dispersi** (+~150% vs 2025) a fronte di arrivi in
+  Europa in calo ~40%: **"si parte di meno, si muore di più"**. `[verificato: ISPI/OIM]`
 
 ## Fonti
 - [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/) (accesso 2026-07-03)
 - [MMC — Bangladeshi migration to Italy via Libya](https://mixedmigration.org/articles/how-bangladeshi-migration-to-italy-via-libya-operates/) (accesso 2026-07-03)
+- [Open Arms — Rotta del Mediterraneo Centrale](https://www.openarms.es/it/flussi-migratori/rotta-del-mediterraneo-centrale) (accesso 2026-07-10)
+- [ISPI — Migrazioni nel Mediterraneo: tutti i numeri](https://www.ispionline.it/it/pubblicazione/migrazioni-nel-mediterraneo-tutti-i-numeri-24892) (accesso 2026-07-10)

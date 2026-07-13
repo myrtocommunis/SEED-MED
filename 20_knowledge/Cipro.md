@@ -3,7 +3,7 @@ title: "Cipro"
 tags: ["#levante", "#energia", "#dispute-zee"]
 date: 2026-07-03
 status: "validated"
-depth: "deep"
+depth: "standard"
 sources: "4"
 admiralty: "B2"
 tipo: "organization"

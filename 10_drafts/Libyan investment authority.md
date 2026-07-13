@@ -3,7 +3,7 @@ title: "Libyan investment authority"
 tags: ["#geopolitica", "#influenza", "#italia"]
 date: 2026-07-03
 status: "draft"
-depth: "deep"
+depth: "standard"
 sources: "2"
 admiralty: "B2"
 tipo: "organization"

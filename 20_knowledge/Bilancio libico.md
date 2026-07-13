@@ -3,7 +3,7 @@ title: "Bilancio libico"
 tags: ["#geopolitica", "#influenza"]
 date: 2026-07-03
 status: "validated"
-depth: "deep"
+depth: "standard"
 sources: "3"
 admiralty: "B2"
 tipo: "concept"

@@ -3,7 +3,7 @@ title: "Ucraina"
 tags: ["#difesa", "#influenza"]
 date: 2026-07-03
 status: "draft"
-depth: "deep"
+depth: "standard"
 sources: "4"
 admiralty: "B2"
 tipo: "organization"

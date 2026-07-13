@@ -3,7 +3,7 @@ title: "Sahel"
 tags: ["#sahel", "#migrazione", "#influenza"]
 date: 2026-07-03
 status: "draft"
-depth: "deep"
+depth: "standard"
 sources: "3"
 admiralty: "C3"
 tipo: "concept"
