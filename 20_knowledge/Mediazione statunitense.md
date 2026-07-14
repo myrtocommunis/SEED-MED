@@ -1,7 +1,7 @@
 ---
 title: "Mediazione statunitense"
 tags: ["#influenza", "#difesa"]
-date: 2026-07-03
+date: 2026-07-14
 status: "validated"
 depth: "deep"
 sources: "8"
@@ -13,54 +13,55 @@ provenance:
 
 # Mediazione statunitense
 
-Iniziativa diplomatica USA per ricomporre le fazioni libiche, con una convergenza inedita tra
-Washington, Roma e Ankara, che scavalca di fatto l'ONU sul dossier [[Libia]].
+Iniziativa diplomatica USA (perno: **Massad Boulos**, Senior Advisor per l'Africa di Trump) per ricomporre le
+fazioni della [[Libia]]. **Tesi aggiornata (lug 2026):** più che una convergenza trionfale che scavalca l'ONU,
+è un'iniziativa **contesa, sbilanciata verso l'est di [[Haftar]] e in fase di stallo**, che **coesiste e
+compete** con la road map UNSMIL (cfr. [[Elezioni]]) — al punto da essere affiancata dalla mediazione del
+[[Pakistan]] proprio perché arenata.
 
-## Convergenza e attori [HIGH confidence]
-- Trilaterale **Meloni-Erdoğan-Dbeibah** (Istanbul, ago 2025); outreach italiano anche verso l'est
-  (Piantedosi-Saddam [[Haftar]]). Perno operativo: **Massad Boulos**, Senior Advisor per l'Africa di Trump. `[verificato: Atlantic Council]`
+## Il piano: spartizione d'élite in veste elettorale [HIGH confidence]
+- **Sostanza (Boulos alla FT, 17 giu 2026)**: un "governo unificato" con **Saddam Haftar a capo di un consiglio
+  presidenziale esecutivo** e [[Dbeibah]] premier — un **power-sharing tra due famiglie, senza elezioni**. `[verificato: FT]`
+- **Packaging**: all'ovest e a Misurata Boulos parla invece di "**percorso verso elezioni** nazionali". La
+  tensione si scioglie così: la sostanza è una spartizione Haftar-Dbeibah, ma è **confezionata come percorso
+  elettorale** per ottenere consenso a ovest e coesistere con la traccia ONU. Boulos ammette (7 lug) che **non
+  esiste ancora un testo scritto**: fase di ascolto. `[verificato: Alwasat, Al-Araby al-Jadid — nota: Al-Araby è finanziato dal Qatar, parte in causa]`
+- Argomento di vendita agli investitori USA: la produzione "**potrebbe raddoppiare a 3 mln bpd**" — *claim*
+  promozionale di Boulos (output reale ~1,2-1,4 mln bpd), non dato verificato. `[claim: FT cita Boulos]`
 
-## Il piano di power-sharing [HIGH confidence]
-- **Confermato da Boulos alla FT (17 giu 2026)**: "un governo unificato", con **Saddam Haftar a capo di
-  un consiglio presidenziale esecutivo** e [[Dbeibah]] premier — senza elezioni. Washington incoraggia le
-  major USA a investire; produzione libica che "potrebbe raddoppiare a 3 mln bpd". `[verificato: FT]`
-- Forte **opposizione** interna (mufti Ghariani, "rivoluzionari", raduni a Misurata). Vista come "traccia
-  rivale" all'UNSMIL (cfr. [[Elezioni]]). `[verificato: BBC Monitoring]`
+## Perché gli USA [MEDIUM confidence]
+Movente plausibile: **accesso delle major USA** al greggio libico (Washington incoraggia gli investimenti),
+**contenimento della [[Presenza russa]]** che punta su Haftar (Tobruk), e il brand negoziale di Trump. La
+"piena titolarità libica" evocata da Boulos (Bengasi, 9 lug) è uno slogan in attrito col fatto che la struttura
+(consiglio presidenziale, sala di Sirte) è di **disegno statunitense**. `[verificato: FT, La4News]`
 
-## Strumenti [HIGH confidence]
-- Facilitazione del [[Bilancio libico]] unificato (dichiarazione congiunta di 10 Paesi, incl. [[Italia]]). `[verificato: US DoS]`
-- **Flintlock 2026** (AFRICOM, Sirte, **co-ospitato dalle forze speciali italiane**): est e ovest addestrati
-  insieme per la prima volta, via commissione 3+3. `[verificato: US DoW]`
+## Stato reale: contesa, asimmetria, stallo [HIGH confidence]
+- **Trattamento asimmetrico pro-est**: a Washington Saddam Haftar è ricevuto ai massimi livelli (Segretario di
+  Stato **Rubio** + NSC), mentre Zoubi (vice min. Difesa GNU) vede solo il vice Segretario **Landau** — spia
+  delle riserve USA verso Tripoli, a fronte dell'adesione dichiarata di Haftar. `[verificato: Al-Araby al-Jadid, BBC Monitoring]`
+- **Riserve e opposizione dell'ovest**: silenzio-riserva del GNU sui dettagli; proteste a **Misurata** ("le
+  decisioni libiche le prendono i libici"), i cui anziani chiedono una bozza scritta e rifiutano la
+  "militarizzazione dello Stato"; opposizione del mufti Ghariani e dei "rivoluzionari". `[verificato: BBC Monitoring, Alwasat]`
+- **Frammentazione dell'ovest** e nodo del **comandante in capo** (Khalifa Haftar), inaccettabile per le forze
+  occidentali: è l'ostacolo strutturale all'unificazione militare (cfr. [[Frammentazione interna]]). `[verificato: Al-Araby al-Jadid]`
+
+## Strumenti concreti [HIGH confidence]
+- **Militare**: **Flintlock 2026** (AFRICOM, Sirte, **co-ospitato dalle forze speciali italiane**) — est e ovest
+  addestrati insieme per la prima volta (commissione 3+3); intesa su una **sala operativa congiunta a Sirte**
+  per i dossier non controversi (antiterrorismo, criminalità, frontiere), in un'unificazione **graduale**. `[verificato: US DoW, Al-Araby]`
+- **Economico**: facilitazione del [[Bilancio libico]] unificato (dichiarazione di 10 Paesi, incl. [[Italia]]);
+  **27 lug**: comitato finanziario congiunto est-ovest atteso a Washington per attuare l'accordo di novembre. `[verificato: US DoS, Al-Araby]`
+- **Diplomatico regionale**: colloqui di **Malta** (6-7 lug, host FM Fearne — cfr. [[Malta]]); telefonata
+  Egitto (FM Abdelatty)-Boulos (3 lug). `[verificato: Askanews/Times of Malta, BBC Monitoring]`
+
+## Il ruolo dell'Italia [MEDIUM confidence]
+Convergenza iniziale col trilaterale **Meloni-Erdoğan-[[Dbeibah]]** (Istanbul, ago 2025) e outreach di
+Piantedosi verso l'est; ma nel presente il contributo di Roma è soprattutto **difesa e intelligence** (AISE,
+forze speciali — cfr. [[Italia]]), non co-mediazione politica. `[verificato: Atlantic Council]`
 
 ## Fonti
 - [FT — Trump adviser pushes power-sharing plan for oil-rich Libya](https://www.ft.com/content/f5c43a41-3fa1-486e-a592-7933bc1bdcbd) (accesso 2026-07-03)
 - [US Dept. of War — Africom commences Flintlock 2026](https://www.war.gov/News/News-Stories/Article/Article/4460643/) (accesso 2026-07-03)
-- [Al-Araby al-Jadid — L'iniziativa americana in Libia: avanzano i binari militare ed economico](https://www.alaraby.co.uk/politics/) (accesso 2026-07-14)
-- [Alwasat — Boulos: discusso con i leader di Misurata il sostegno USA al percorso elettorale](https://alwasat.ly/news/libya/524007) (accesso 2026-07-14)
-
-## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
-- **Colloqui di Malta (6-7 lug 2026)**: due round est-ovest (Ibrahim Dbeibah ↔ Saddam [[Haftar]]; Saddam
-  Haftar ↔ Zoubi) presieduti da Boulos + chargé USA Berndt, ospitati dal FM maltese Fearne (cfr. [[Malta]]). `[verificato: Askanews/Times of Malta]`
-- **7 lug**: Boulos a Tripoli e Misurata; i leader di Misurata chiedono un **"draft scritto"** dell'iniziativa
-  e rifiutano ogni "militarizzazione dello Stato". **Proteste a Misurata** contro il suo arrivo ("le decisioni
-  libiche le prendono solo i libici"). `[verificato: BBC Monitoring, Agenzia Nova]`
-- I figli di Haftar a Washington: Saddam ha incontrato il Segretario di Stato **Rubio**, Belgacem ha visto Boulos. `[verificato: BBC Monitoring/Al-Wasat]`
-- Egitto (FM Abdelatty)-Boulos: telefonata (3 lug), sostegno all'unità e a un percorso libico-libico verso il voto. `[verificato: BBC Monitoring]`
-- **9 lug (Bengasi)**: [[Haftar]] riceve **Boulos** (con il chargé d'affari USA Jeremy Berndt); elogia il
-  ruolo di Trump nel partenariato strategico e ringrazia per gli sforzi di unificazione istituzionale. Boulos
-  ribadisce l'impegno USA e un dialogo a **"piena titolarità libica"**. `[verificato: La4News/Italpress]`
-
-## 🔄 Aggiornamento (13 lug 2026 — fai ingest)
-- **Fase pubblica a Washington + trattamento asimmetrico**: Saddam [[Haftar]] ricevuto ai massimi livelli
-  (Segretario di Stato Rubio + NSC), mentre Zoubi (vice min. Difesa GNU) ha visto solo il vice Segretario di
-  Stato Landau — segnale della **consapevolezza USA delle riserve di Tripoli**, a fronte dell'adesione
-  dichiarata di Haftar. `[verificato: Al-Araby al-Jadid]`
-- **Primo passo militare concreto**: intesa su una **sala operativa militare congiunta a Sirte** (organo misto
-  est-ovest) per i dossier non controversi (antiterrorismo, criminalità organizzata, frontiere), in
-  un'unificazione **graduale** che mantiene le catene di comando esistenti. Ostacolo chiave: il posto di
-  **comandante in capo** (Khalifa Haftar), non accettato dall'ovest (cfr. [[Frammentazione interna]]). `[verificato: Al-Araby al-Jadid]`
-- **27 lug**: comitato economico-finanziario congiunto est-ovest atteso a Washington per attuare l'accordo
-  finanziario di novembre (cfr. [[Bilancio libico]]). `[verificato: Al-Araby al-Jadid]`
-- **Misurata (7 lug)**: Boulos precisa che **non esiste ancora un'iniziativa scritta** (fase di ascolto);
-  definisce [[Dbeibah]] "partner essenziale"; 57 deputati sostengono l'iniziativa. Gli anziani di Misurata
-  chiedono una bozza scritta e rifiutano la "militarizzazione dello Stato". `[verificato: Alwasat, Al-Araby]`
+- [Al-Araby al-Jadid — L'iniziativa americana in Libia: binari militare ed economico (fonte qatarina)](https://www.alaraby.co.uk/politics/) (accesso 2026-07-14)
+- [Alwasat — Boulos: con i leader di Misurata il sostegno USA al percorso elettorale](https://alwasat.ly/news/libya/524007) (accesso 2026-07-14)
+- Altre (provenance): Atlantic Council; Africa Intelligence; US DoS; BBC Monitoring.
