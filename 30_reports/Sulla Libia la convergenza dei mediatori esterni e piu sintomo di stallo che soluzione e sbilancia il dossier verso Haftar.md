@@ -5,7 +5,7 @@ date: 2026-07-14
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"
-revisione: "2 — post-adversary (v1 = 6/10): pesati est-tilt vs veto Misurata (inclinazione reale ma ineseguibile); confutato lo steel-man 'convergenza=momentum'; ridimensionato l'Egitto (spinge elezioni, non il carve-up); caveat qatarino Al Jazeera reso coerente; previsione disaggregata in scenari pesati; corretto 'Italia senza seggio'"
+revisione: "3 — rifiniture post-adversary-v2 (voto 7/10 confermato, soglia di merito): propagate le correzioni Egitto/Italia ai §dedicati; motivato il ranking degli scenari (diluizione>congelamento); chiarito che 'sbilancia verso Haftar' è direzione di pressione, non endpoint previsto. [v2: pesati est-tilt vs veto Misurata; confutato steel-man 'momentum'; Egitto ridimensionato; caveat qatarino coerente]"
 fonti_note: ["Mediazione statunitense", "Pakistan", "Egitto", "Elezioni", "Haftar", "Dbeibah", "Bilancio libico", "Frammentazione interna", "Presenza russa", "Italia", "Milizie"]
 confidenza_giudizio: "MEDIUM"
 ---
@@ -18,18 +18,22 @@ Saddam [[Haftar]] e [[Dbeibah]]** prima del voto — mentre l'**[[Egitto]]** spo
 **elezioni simultanee** (più vicino alla road map ONU). La convergenza è dunque **parziale**: sui protagonisti,
 non sul metodo. La lettura più difendibile resta che la **moltiplicazione dei canali è sintomo di stallo** e che
 l'azione esterna **inclina il dossier verso l'est** — un'inclinazione **reale nell'intento ma ineseguibile**,
-perché il veto di Misurata (cfr. [[Milizie]]) la blocca. Ne seguono, più probabili di un carve-up firmato: una
+perché il veto di Misurata (cfr. [[Milizie]]) la blocca — "sbilanciare verso l'est" descrive quindi la
+**direzione della pressione, non l'esito previsto**. Ne seguono, più probabili di un carve-up firmato: una
 **diluizione verso le urne** (il piano assorbe le obiezioni e converge sulla road map ONU) o, in subordine, un
-**congelamento**. Per l'[[Italia]], parte più esposta d'Europa, un ruolo oltre i margini di sicurezza (AISE,
-forze speciali) ma sotto la regia politica: **ha ospitato il lancio del canale (Roma, set 2025), non ne detta
-l'agenda**. `[MEDIUM confidence]`
+**congelamento** — la diluizione prevale perché **tre forze concordi** (il 90% pro-voto, la road map ONU, le
+condizioni di Misurata) spingono nella stessa direzione, mentre il congelamento richiede che *nessuno* ceda. Per
+l'[[Italia]], parte più esposta d'Europa, un ruolo oltre i margini di sicurezza (AISE, forze speciali) ma sotto
+la regia politica: **ha ospitato il lancio del canale (Roma, set 2025), non ne detta l'agenda**. `[MEDIUM confidence]`
 
 ## La convergenza apparente [HIGH confidence]
 Il nucleo comune dei piani è sorprendentemente simile. Il piano di Boulos (confermato all'FT, giu 2026) prevede
 un consiglio presidenziale guidato da **Saddam Haftar** con **Dbeibah** premier; la bozza di "Libya
 Reunification Plan" a 36 mesi attribuita alla mediazione pachistana disegna lo **stesso** assetto (Government of
-National Consensus, Dbeibah premier, Saddam presidente del consiglio); l'Egitto e il meccanismo tripartito
-[[Egitto]]-Algeria-Tunisia sostengono un percorso libico-libico verso elezioni simultanee. `[verificato: FT, Reuters/Asharq al-Awsat, BBC Monitoring]`
+National Consensus, Dbeibah premier, Saddam presidente del consiglio). L'[[Egitto]] e il meccanismo tripartito
+Egitto-Algeria-Tunisia sostengono invece un percorso libico-libico verso **elezioni simultanee**: la convergenza
+è quindi solo **sui protagonisti** (i due poteri di fatto), non sul metodo — il Cairo resta più vicino alla road
+map ONU che al carve-up. `[verificato: FT, Reuters/Asharq al-Awsat, BBC Monitoring]`
 
 ## Perché è competizione, non coordinamento [MEDIUM confidence]
 La somiglianza dei piani non equivale a un'orchestrazione. La stessa copertura giornalistica (Al-Araby/BBC
@@ -83,9 +87,10 @@ Sotto la formula comune, i moventi divergono e ne minano la tenuta:
 Moventi così eterogenei rendono la convergenza **tattica e reversibile**, non un fronte stabile.
 
 ## Cosa significa per l'Italia [MEDIUM confidence]
-Roma è la parte europea **più esposta** (rotta migratoria centrale, [[Eni|energia]], prossimità) ma agisce dai
-**margini di sicurezza**: intelligence (AISE a Bengasi) e addestramento delle forze speciali libiche, non
-co-mediazione politica. Il rischio di uno sbocco sbilanciato a est è duplice: un assetto libico stabilizzato
+Roma è la parte europea **più esposta** (rotta migratoria centrale, [[Eni|energia]], prossimità) e — pur avendo
+**ospitato il lancio del canale** (primo incontro est-ovest a Roma, set 2025) — agisce oggi soprattutto dai
+**margini di sicurezza**: intelligence (AISE a Bengasi) e addestramento delle forze speciali libiche, non dalla
+regia politica attuale. Il rischio di uno sbocco sbilanciato a est è duplice: un assetto libico stabilizzato
 attorno a un Haftar **legato a Mosca** proietterebbe la Russia sul fianco sud NATO; e un'unificazione senza voto
 lascerebbe irrisolti i driver migratori che l'Italia più teme. L'interesse italiano non è "quale famiglia
 vince", ma **che l'unificazione porti a istituzioni legittime e non a una rendita spartita** (cfr. [[Bilancio libico]]). `[MEDIUM confidence]`
