@@ -4,11 +4,11 @@ tags: ["#influenza", "#difesa"]
 date: 2026-07-14
 status: "validated"
 depth: "deep"
-sources: "8"
+sources: "9"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07; Al Jazeera 2026-06-17 e 2026-07-02)"
 ---
 
 # Mediazione statunitense
@@ -28,6 +28,10 @@ compete** con la road map UNSMIL (cfr. [[Elezioni]]) — al punto da essere affi
   esiste ancora un testo scritto**: fase di ascolto. `[verificato: Alwasat, Al-Araby al-Jadid — nota: Al-Araby è finanziato dal Qatar, parte in causa]`
 - Argomento di vendita agli investitori USA: la produzione "**potrebbe raddoppiare a 3 mln bpd**" — *claim*
   promozionale di Boulos (output reale ~1,2-1,4 mln bpd), non dato verificato. `[claim: FT cita Boulos]`
+- ⚠️ **Nodo di legittimità**: i due nomi che il piano eleverebbe — Saddam [[Haftar]] al consiglio presidenziale
+  e **Ibrahim Dbeibah** premier — sono figure **segnalate dal Panel di esperti ONU** per vendite illecite e
+  contrabbando di petrolio e appropriazione di fondi statali. Elevare chi è accusato di predare la rendita
+  mina alla radice la promessa di unificazione. `[verificato: Al Jazeera — outlet qatarino, punto attribuito ad analisti]`
 
 ## Perché gli USA [MEDIUM confidence]
 Movente plausibile: **accesso delle major USA** al greggio libico (Washington incoraggia gli investimenti),
@@ -45,6 +49,20 @@ Movente plausibile: **accesso delle major USA** al greggio libico (Washington in
 - **Frammentazione dell'ovest** e nodo del **comandante in capo** (Khalifa Haftar), inaccettabile per le forze
   occidentali: è l'ostacolo strutturale all'unificazione militare (cfr. [[Frammentazione interna]]). `[verificato: Al-Araby al-Jadid]`
 
+## Letture degli analisti [MEDIUM confidence]
+Esperti indipendenti (citati da Al Jazeera, outlet qatarino) convergono sui limiti del disegno:
+- **Frederic Wehry (Carnegie)**: il piano tratta **due parti non equivalenti** — Haftar ha una struttura
+  militare più coesa e più controllo sul petrolio, l'ovest è frammentato. Presentarlo come power-sharing
+  "**può mascherare una deriva verso il predominio di Haftar**"; dare più potere alle famiglie sperando che lo
+  cedano poi è illusorio ("nulla garantisce che vi rinuncino, una volta consolidato").
+- **Frank Talbot (Atlantic Council, ex-Dip. di Stato)**: un bilancio attuato con integrità può frenare deficit
+  e spesa parallela, ma **senza controllo e accountability** l'accordo rischia di ridursi a "mera **spartizione
+  delle risorse** tra le due parti, che radica le strutture esistenti anziché unificarle". Leva USA: dominio
+  del **dollaro** sulle transazioni libiche + possibile riattivazione delle sanzioni (Executive Order 13726).
+- **Benchmark di legittimità** (analista S. Ismail): il piano funziona solo se la fase transitoria è **a
+  termine**, con i suoi membri **esclusi dalla candidatura** al voto successivo e con **garanzia del Consiglio
+  di Sicurezza ONU**. `[verificato: Al Jazeera]`
+
 ## Strumenti concreti [HIGH confidence]
 - **Militare**: **Flintlock 2026** (AFRICOM, Sirte, **co-ospitato dalle forze speciali italiane**) — est e ovest
   addestrati insieme per la prima volta (commissione 3+3); intesa su una **sala operativa congiunta a Sirte**
@@ -56,12 +74,15 @@ Movente plausibile: **accesso delle major USA** al greggio libico (Washington in
 
 ## Il ruolo dell'Italia [MEDIUM confidence]
 Convergenza iniziale col trilaterale **Meloni-Erdoğan-[[Dbeibah]]** (Istanbul, ago 2025) e outreach di
-Piantedosi verso l'est; ma nel presente il contributo di Roma è soprattutto **difesa e intelligence** (AISE,
-forze speciali — cfr. [[Italia]]), non co-mediazione politica. `[verificato: Atlantic Council]`
+Piantedosi verso l'est; **il primo incontro est-ovest (Ibrahim Dbeibah–Saddam [[Haftar]]) si tenne a Roma nel
+set 2025** (poi Parigi, gen 2026): Roma ha ospitato l'avvio del canale. Ma nel presente il contributo di Roma
+è soprattutto **difesa e intelligence** (AISE, forze speciali — cfr. [[Italia]]), non co-mediazione politica. `[verificato: Atlantic Council]`
 
 ## Fonti
 - [FT — Trump adviser pushes power-sharing plan for oil-rich Libya](https://www.ft.com/content/f5c43a41-3fa1-486e-a592-7933bc1bdcbd) (accesso 2026-07-03)
 - [US Dept. of War — Africom commences Flintlock 2026](https://www.war.gov/News/News-Stories/Article/Article/4460643/) (accesso 2026-07-03)
 - [Al-Araby al-Jadid — L'iniziativa americana in Libia: binari militare ed economico (fonte qatarina)](https://www.alaraby.co.uk/politics/) (accesso 2026-07-14)
 - [Alwasat — Boulos: con i leader di Misurata il sostegno USA al percorso elettorale](https://alwasat.ly/news/libya/524007) (accesso 2026-07-14)
+- [Al Jazeera — Mabadara Boulos: taswiya haqiqiyya am taqasum jadid? (analisi, fonte qatarina)](https://www.aljazeera.net/politics/2026/7/2/) (accesso 2026-07-14)
+- [Al Jazeera — Safqa am mubadara? Trump e l'unificazione della Libia (analisi, fonte qatarina)](https://www.aljazeera.net/news/2026/6/17/) (accesso 2026-07-14)
 - Altre (provenance): Atlantic Council; Africa Intelligence; US DoS; BBC Monitoring.

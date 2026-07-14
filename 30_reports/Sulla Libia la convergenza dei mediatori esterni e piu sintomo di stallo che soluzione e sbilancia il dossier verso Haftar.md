@@ -40,6 +40,8 @@ massimi livelli (Rubio + NSC) mentre l'emissario dell'ovest vede solo il vice Se
 [[Presenza russa]] radica Haftar (basi di Tobruk). Ne risulta che quasi tutti i vettori esterni **rafforzano il
 polo orientale** — e il nodo che blocca l'unificazione militare è precisamente il posto di comandante in capo
 di Khalifa Haftar, inaccettabile per un ovest [[Frammentazione interna|frammentato]]. `[verificato: Al-Araby al-Jadid, Reuters, BBC Monitoring]`
+Analisti indipendenti confermano il rischio: presentare il piano come power-sharing "**può mascherare una
+deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al Jazeera]`
 
 ## Il deficit di legittimità [HIGH confidence]
 La formula d'élite si scontra con una domanda popolare documentata: il sondaggio UNSMIL "Di' la tua" registra
@@ -47,7 +49,9 @@ che il **90% dei libici** vuole elezioni nazionali, e la road map dei tre vertic
 Consiglio Presidenziale) fissa il voto **entro febbraio 2027** (cfr. [[Elezioni]]). A [[Malta]] i leader di
 Misurata hanno chiesto un testo scritto e protestato contro l'iniziativa. Un power-sharing che unifica *prima*
 del voto può essere propedeutico alle urne — ma **regge solo se la road map porta davvero al voto**; altrimenti
-legittima gli status quo contro la volontà espressa. `[verificato: UNSMIL/Agenzia Nova, Alwasat]`
+legittima gli status quo contro la volontà espressa. `[verificato: UNSMIL/Agenzia Nova, Alwasat]` Aggrava il
+deficit il fatto che i due nomi da elevare — Saddam Haftar e Ibrahim Dbeibah — siano **segnalati dal Panel ONU**
+per contrabbando di petrolio e appropriazione di fondi statali. `[verificato: Al Jazeera]`
 
 ## Moventi divergenti = convergenza fragile [MEDIUM confidence]
 Sotto la formula comune, i moventi divergono e ne minano la tenuta:
