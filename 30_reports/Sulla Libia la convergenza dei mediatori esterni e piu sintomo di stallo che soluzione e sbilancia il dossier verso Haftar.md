@@ -16,8 +16,10 @@ confidenza_giudizio: "MEDIUM"
 Saddam [[Haftar]] e [[Dbeibah]]**, unificazione graduale delle istituzioni *prima* del voto. Questa apparente
 convergenza è facilmente scambiata per slancio verso la soluzione; la lettura più difendibile è l'opposta: la
 **moltiplicazione dei mediatori è un sintomo di stallo**, la loro azione **sbilancia il dossier verso l'est**,
-e scavalca una domanda elettorale libica ormai documentata. Per l'[[Italia]], parte più esposta d'Europa,
-resta un ruolo di **sicurezza ai margini** — non un seggio al tavolo politico. `[MEDIUM confidence]`
+e scavalca una domanda elettorale libica ormai documentata. **L'esito più probabile non è la spartizione
+firmata, ma il suo arenarsi o annacquarsi** sul veto di Misurata (cfr. [[Milizie]]) e sulla domanda di urne.
+Per l'[[Italia]], parte più esposta d'Europa, resta un ruolo di **sicurezza ai margini** — non un seggio al
+tavolo politico. `[MEDIUM confidence]`
 
 ## La convergenza apparente [HIGH confidence]
 Il nucleo comune dei piani è sorprendentemente simile. Il piano di Boulos (confermato all'FT, giu 2026) prevede
@@ -42,6 +44,16 @@ polo orientale** — e il nodo che blocca l'unificazione militare è precisament
 di Khalifa Haftar, inaccettabile per un ovest [[Frammentazione interna|frammentato]]. `[verificato: Al-Araby al-Jadid, Reuters, BBC Monitoring]`
 Analisti indipendenti confermano il rischio: presentare il piano come power-sharing "**può mascherare una
 deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al Jazeera]`
+
+## Il perno di Misurata [MEDIUM confidence]
+Lo sbilanciamento a est ha però un contrappeso concreto: **Misurata**, cuore militare-industriale dell'ovest e
+blocco meno frammentato della Tripolitania (cfr. [[Milizie]]), è il vero **detentore del veto** sull'unificazione
+della sicurezza. La sua posizione — un **"consenso condizionato"** che chiede percorso costituzionale, elezioni
+e garanzie contro il predominio dell'est — rende il **carve-up puro Haftar-Dbeibah l'esito meno probabile**: o
+il piano si diluisce verso il voto (assorbendo le obiezioni), o si congela. Il veto è tanto più credibile perché
+**autointeressato** (le brigate rifiutano la subordinazione a Haftar), non solo di principio. *Caveat*: la fonte
+principale è Al Jazeera (qatarina), incline a enfatizzare la resistenza dell'ovest — la sostanza regge, l'enfasi
+va ponderata. `[valutazione]`
 
 ## Il deficit di legittimità [HIGH confidence]
 La formula d'élite si scontra con una domanda popolare documentata: il sondaggio UNSMIL "Di' la tua" registra
