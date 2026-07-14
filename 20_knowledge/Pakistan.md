@@ -4,11 +4,11 @@ tags: ["#difesa", "#influenza"]
 date: 2026-07-09
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-12-22; BBC Monitoring 2026-02-03; Nikkei Asia 2026-07-10) + web:verifica-curator (Dawn; Arab News; Asharq al-Awsat 2026-07)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-12-22; BBC Monitoring 2026-02-03, 2026-07-10; Nikkei Asia 2026-07-10; Al-Araby al-Jadid 2026-07-10) + web:verifica-curator (Dawn; Arab News; Asharq al-Awsat 2026-07)"
 ---
 
 # Pakistan
@@ -43,6 +43,7 @@ vettore indiretto dell'influenza della [[Cina]] in Nord Africa (ipotesi, via il 
 - [Asharq al-Awsat — Pakistan mediating Libya unity with US-led push](https://english.aawsat.com/arab-world/5293066-pakistan-mediating-libya-unity-us-led-push) (accesso 2026-07-09)
 - [BBC Monitoring — Pakistan, Libya military deepen defence ties](https://monitoring.bbc.co.uk/product/b0005dc1) (accesso 2026-07-09)
 - [Nikkei Asia — Pakistan mediates between Libya's two administrations](https://asia.nikkei.com/politics/international-relations/pakistan-mediates-between-libya-s-two-administrations-after-us-iran-talks) (accesso 2026-07-10)
+- [BBC Monitoring — Pan-Arab newspaper reviews Pakistan's Libya mediation role](https://monitoring.bbc.co.uk/product/b00067w3) (accesso 2026-07-14)
 
 ## 🔄 Aggiornamento (10 lug 2026 — fai ingest)
 - **10 lug (Nikkei Asia)**: la mediazione pachistana è **sostenuta da USA e [[Arabia saudita]]**; think tank
@@ -50,3 +51,9 @@ vettore indiretto dell'influenza della [[Cina]] in Nord Africa (ipotesi, via il 
   giudicata troppo vicina a [[Haftar]] (indizio: il FM del GNU al vertice India-Paesi arabi a Nuova Delhi, gen
   2026). I benefici strategici per il Pakistan sono giudicati **limitati** rispetto al dossier Iran (dove
   contava la stabilità di confine). `[verificato: Nikkei Asia]`
+- **10-13 lug (fonti neutre/qatarine)**: BBC Monitoring e Al-Araby al-Jadid (finanziato dal Qatar) confermano
+  il backing USA+regionale ma **mettono in dubbio i mezzi e la leva reale** del Pakistan (commentatore Buisier:
+  incerto se abbia "vera leva"). Kreikesh (Bayan Centre): l'ingresso è parte di una **"strategia USA per
+  riposizionare Islamabad in Medio Oriente"** come risolutore regionale, sul modello del dossier Iran; letto
+  anche come spinta a sbloccare la "stallata" iniziativa di Boulos ([[Mediazione statunitense]]). Incontro
+  Saddam [[Haftar]]-Munir: **25 giugno**. `[verificato: BBC Monitoring, Al-Araby al-Jadid]`
