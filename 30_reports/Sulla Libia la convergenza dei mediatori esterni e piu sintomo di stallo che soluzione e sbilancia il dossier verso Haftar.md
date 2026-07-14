@@ -5,21 +5,24 @@ date: 2026-07-14
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"
-fonti_note: ["Mediazione statunitense", "Pakistan", "Egitto", "Elezioni", "Haftar", "Dbeibah", "Bilancio libico", "Frammentazione interna", "Presenza russa", "Italia"]
+revisione: "2 — post-adversary (v1 = 6/10): pesati est-tilt vs veto Misurata (inclinazione reale ma ineseguibile); confutato lo steel-man 'convergenza=momentum'; ridimensionato l'Egitto (spinge elezioni, non il carve-up); caveat qatarino Al Jazeera reso coerente; previsione disaggregata in scenari pesati; corretto 'Italia senza seggio'"
+fonti_note: ["Mediazione statunitense", "Pakistan", "Egitto", "Elezioni", "Haftar", "Dbeibah", "Bilancio libico", "Frammentazione interna", "Presenza russa", "Italia", "Milizie"]
 confidenza_giudizio: "MEDIUM"
 ---
 
 # Sulla Libia la convergenza dei mediatori esterni è più sintomo di stallo che soluzione, e sbilancia il dossier verso Haftar
 
-**Bottom line.** Nell'estate 2026 almeno tre attori esterni — Stati Uniti ([[Mediazione statunitense]]),
-[[Pakistan]] ed [[Egitto]] — spingono sulla stessa formula per la [[Libia]]: un **power-sharing d'élite tra
-Saddam [[Haftar]] e [[Dbeibah]]**, unificazione graduale delle istituzioni *prima* del voto. Questa apparente
-convergenza è facilmente scambiata per slancio verso la soluzione; la lettura più difendibile è l'opposta: la
-**moltiplicazione dei mediatori è un sintomo di stallo**, la loro azione **sbilancia il dossier verso l'est**,
-e scavalca una domanda elettorale libica ormai documentata. **L'esito più probabile non è la spartizione
-firmata, ma il suo arenarsi o annacquarsi** sul veto di Misurata (cfr. [[Milizie]]) e sulla domanda di urne.
-Per l'[[Italia]], parte più esposta d'Europa, resta un ruolo di **sicurezza ai margini** — non un seggio al
-tavolo politico. `[MEDIUM confidence]`
+**Bottom line.** Nell'estate 2026 più attori esterni gravitano sul dossier [[Libia]]: **USA**
+([[Mediazione statunitense]]) e **[[Pakistan]]** spingono la stessa formula — un **power-sharing d'élite tra
+Saddam [[Haftar]] e [[Dbeibah]]** prima del voto — mentre l'**[[Egitto]]** sponsorizza l'est ma punta a
+**elezioni simultanee** (più vicino alla road map ONU). La convergenza è dunque **parziale**: sui protagonisti,
+non sul metodo. La lettura più difendibile resta che la **moltiplicazione dei canali è sintomo di stallo** e che
+l'azione esterna **inclina il dossier verso l'est** — un'inclinazione **reale nell'intento ma ineseguibile**,
+perché il veto di Misurata (cfr. [[Milizie]]) la blocca. Ne seguono, più probabili di un carve-up firmato: una
+**diluizione verso le urne** (il piano assorbe le obiezioni e converge sulla road map ONU) o, in subordine, un
+**congelamento**. Per l'[[Italia]], parte più esposta d'Europa, un ruolo oltre i margini di sicurezza (AISE,
+forze speciali) ma sotto la regia politica: **ha ospitato il lancio del canale (Roma, set 2025), non ne detta
+l'agenda**. `[MEDIUM confidence]`
 
 ## La convergenza apparente [HIGH confidence]
 Il nucleo comune dei piani è sorprendentemente simile. Il piano di Boulos (confermato all'FT, giu 2026) prevede
@@ -35,7 +38,14 @@ ne rimpiazza un altro segnala frizione, non staffetta coordinata. Coesistono alm
 UNSMIL, Pakistan, tripartito arabo — e il proliferare di canali su un dossier già affollato è tipico dei
 processi **in impasse**, dove ogni sponsor cerca di intestarsi la soluzione. `[verificato: Nikkei Asia, Al-Araby al-Jadid]`
 
-## Lo sbilanciamento verso l'est [HIGH confidence]
+Va confutata l'obiezione più forte: che questa convergenza sia invece **momentum** — un consenso internazionale
+crescente attorno all'unico assetto realistico. Tre segni distinguono lo stallo dal momentum, e qui puntano allo
+stallo: **nessun testo scritto** dopo oltre un anno di lavoro (Boulos ammette la "fase di ascolto"); **canali
+che si moltiplicano invece di consolidarsi** (il Pakistan si *aggiunge*, non subentra a un tavolo unico); e
+sponsor con **moventi divergenti** (§sotto) che convergono sui *nomi* ma non su un *meccanismo* condiviso. Il
+momentum produrrebbe un testo e un tavolo; qui accade il contrario. `[valutazione]`
+
+## Lo sbilanciamento verso l'est [HIGH sui fatti · MEDIUM sull'inferenza]
 La convergenza pende strutturalmente dalla parte di [[Haftar]]. A Washington Saddam Haftar è ricevuto ai
 massimi livelli (Rubio + NSC) mentre l'emissario dell'ovest vede solo il vice Segretario di Stato; il Pakistan
 **arma** l'LNA (accordo JF-17 >4 mld $) prima ancora di mediare; l'Egitto è storicamente sponsor dell'est; la
@@ -43,7 +53,7 @@ massimi livelli (Rubio + NSC) mentre l'emissario dell'ovest vede solo il vice Se
 polo orientale** — e il nodo che blocca l'unificazione militare è precisamente il posto di comandante in capo
 di Khalifa Haftar, inaccettabile per un ovest [[Frammentazione interna|frammentato]]. `[verificato: Al-Araby al-Jadid, Reuters, BBC Monitoring]`
 Analisti indipendenti confermano il rischio: presentare il piano come power-sharing "**può mascherare una
-deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al Jazeera]`
+deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al Jazeera — outlet qatarino, ma il punto è attribuito a un analista terzo]`
 
 ## Il perno di Misurata [MEDIUM confidence]
 Lo sbilanciamento a est ha però un contrappeso concreto: **Misurata**, cuore militare-industriale dell'ovest e
@@ -63,7 +73,7 @@ Misurata hanno chiesto un testo scritto e protestato contro l'iniziativa. Un pow
 del voto può essere propedeutico alle urne — ma **regge solo se la road map porta davvero al voto**; altrimenti
 legittima gli status quo contro la volontà espressa. `[verificato: UNSMIL/Agenzia Nova, Alwasat]` Aggrava il
 deficit il fatto che i due nomi da elevare — Saddam Haftar e Ibrahim Dbeibah — siano **segnalati dal Panel ONU**
-per contrabbando di petrolio e appropriazione di fondi statali. `[verificato: Al Jazeera]`
+per contrabbando di petrolio e appropriazione di fondi statali. `[verificato: Al Jazeera — outlet qatarino; da corroborare col rapporto del Panel ONU]`
 
 ## Moventi divergenti = convergenza fragile [MEDIUM confidence]
 Sotto la formula comune, i moventi divergono e ne minano la tenuta:
@@ -87,5 +97,7 @@ vince", ma **che l'unificazione porti a istituzioni legittime e non a una rendit
 - La road map verso il **voto di febbraio 2027** avanza in parallelo, o viene assorbita dal power-sharing? `[test di legittimità — il metro del 90%]`
 
 ---
-*Sintesi dalle note validate del vault (luglio 2026). Giudizio interpretativo a confidenza MEDIA: i fatti sono
-documentati, la lettura "convergenza = stallo" e i moventi esterni restano inferenze ancorate al contesto (N1).*
+*Sintesi dalle note validate del vault (luglio 2026), rev.2 post-adversary. Giudizio interpretativo a confidenza
+MEDIA: i fatti sono documentati; la lettura "convergenza = stallo" ora **confuta** esplicitamente il proprio
+steel-man ("momentum"), ma i moventi esterni e la previsione di esito restano inferenze ancorate al contesto
+(N1). Tre claim poggiano su Al Jazeera (qatarina): flaggati e da corroborare con fonti indipendenti.*
