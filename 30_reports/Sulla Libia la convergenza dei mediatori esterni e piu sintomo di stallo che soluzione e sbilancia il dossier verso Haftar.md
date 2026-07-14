@@ -19,7 +19,7 @@ Saddam [[Haftar]] e [[Dbeibah]]** prima del voto — mentre l'**[[Egitto]]** spo
 non sul metodo. La lettura più difendibile resta che la **moltiplicazione dei canali è sintomo di stallo** e che
 l'azione esterna **inclina il dossier verso l'est** — un'inclinazione **reale nell'intento ma ineseguibile**,
 perché il veto di Misurata (cfr. [[Milizie]]) la blocca — "sbilanciare verso l'est" descrive quindi la
-**direzione della pressione, non l'esito previsto**. Ne seguono, più probabili di un carve-up firmato: una
+**direzione della pressione, non l'esito previsto**. Ne seguono, più probabili di una spartizione firmata: una
 **diluizione verso le urne** (il piano assorbe le obiezioni e converge sulla road map ONU) o, in subordine, un
 **congelamento** — la diluizione prevale perché **tre forze concordi** (il 90% pro-voto, la road map ONU, le
 condizioni di Misurata) spingono nella stessa direzione, mentre il congelamento richiede che *nessuno* ceda. Per
@@ -33,7 +33,7 @@ Reunification Plan" a 36 mesi attribuita alla mediazione pachistana disegna lo *
 National Consensus, Dbeibah premier, Saddam presidente del consiglio). L'[[Egitto]] e il meccanismo tripartito
 Egitto-Algeria-Tunisia sostengono invece un percorso libico-libico verso **elezioni simultanee**: la convergenza
 è quindi solo **sui protagonisti** (i due poteri di fatto), non sul metodo — il Cairo resta più vicino alla road
-map ONU che al carve-up. `[verificato: FT, Reuters/Asharq al-Awsat, BBC Monitoring]`
+map ONU che alla spartizione. `[verificato: FT, Reuters/Asharq al-Awsat, BBC Monitoring]`
 
 ## Perché è competizione, non coordinamento [MEDIUM confidence]
 La somiglianza dei piani non equivale a un'orchestrazione. La stessa copertura giornalistica (Al-Araby/BBC
@@ -63,7 +63,7 @@ deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al J
 Lo sbilanciamento a est ha però un contrappeso concreto: **Misurata**, cuore militare-industriale dell'ovest e
 blocco meno frammentato della Tripolitania (cfr. [[Milizie]]), è il vero **detentore del veto** sull'unificazione
 della sicurezza. La sua posizione — un **"consenso condizionato"** che chiede percorso costituzionale, elezioni
-e garanzie contro il predominio dell'est — rende il **carve-up puro Haftar-Dbeibah l'esito meno probabile**: o
+e garanzie contro il predominio dell'est — rende la **spartizione pura Haftar-Dbeibah l'esito meno probabile**: o
 il piano si diluisce verso il voto (assorbendo le obiezioni), o si congela. Il veto è tanto più credibile perché
 **autointeressato** (le brigate rifiutano la subordinazione a Haftar), non solo di principio. *Caveat*: la fonte
 principale è Al Jazeera (qatarina), incline a enfatizzare la resistenza dell'ovest — la sostanza regge, l'enfasi

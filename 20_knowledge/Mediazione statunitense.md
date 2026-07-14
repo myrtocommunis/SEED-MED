@@ -51,7 +51,7 @@ Movente plausibile: **accesso delle major USA** al greggio libico (Washington in
 - **Misurata è il veto-player dell'ovest**: cuore militare-industriale della Tripolitania (brigate su cui si
   appoggia [[Dbeibah]], cfr. [[Milizie]]) e quindi vero detentore del veto sull'unificazione della sicurezza.
   La sua posizione è un **"consenso condizionato"** (non veto netto): chiede percorso costituzionale, elezioni
-  e garanzie contro il predominio dell'est. Ne consegue che il **carve-up puro Haftar-Dbeibah è l'esito meno
+  e garanzie contro il predominio dell'est. Ne consegue che la **spartizione pura Haftar-Dbeibah è l'esito meno
   probabile** — o si diluisce verso il voto, o si congela. Il veto è credibile perché **autointeressato** (le
   brigate rifiutano la subordinazione a Haftar), non solo di principio. `[valutazione — fonti Al Jazeera qatarine, enfasi pro-ovest da ponderare]`
 
