@@ -99,10 +99,12 @@ vince", ma **che l'unificazione porti a istituzioni legittime e non a una rendit
 - **27 lug**: il comitato finanziario est-ovest a Washington produce meccanismi attuativi reali o solo foto-op? `[test di sostanza]`
 - La **sala militare congiunta di Sirte** diventa operativa sui dossier non controversi, o resta annuncio? `[test di unificazione]` — *agg. 13 lug: meeting di Sirte confermato + esercizio congiunto nel sud a fine estate, ma **sotto egida UNSMIL e decouplato dal track Boulos** (al-Namroush) → moto reale sul binario militare, non su quello politico USA. Coerente con la tesi.*
 - Il GNU esce dal silenzio-riserva con una posizione **scritta**; il posto di comandante in capo viene sciolto o congelato? `[test di sbilanciamento]`
-- La road map verso il **voto di febbraio 2027** avanza in parallelo, o viene assorbita dal power-sharing? `[test di legittimità — il metro del 90%]`
+- La road map verso il **voto di febbraio 2027** avanza in parallelo, o viene assorbita dal power-sharing? `[test di legittimità — il metro del 90%]` — *agg. 14 lug: 6ª sessione UNSMIL (Tunisi), nuovo meccanismo per la presidenza HNEC + bozza di accordo finale, prossimo incontro inizio agosto → la traccia ONU **avanza in parallelo**, non (ancora) assorbita. Coerente con la tesi della coesistenza.*
 
 ---
 *Sintesi dalle note validate del vault (luglio 2026), rev.2 post-adversary. Giudizio interpretativo a confidenza
 MEDIA: i fatti sono documentati; la lettura "convergenza = stallo" ora **confuta** esplicitamente il proprio
 steel-man ("momentum"), ma i moventi esterni e la previsione di esito restano inferenze ancorate al contesto
-(N1). Tre claim poggiano su Al Jazeera (qatarina): flaggati e da corroborare con fonti indipendenti.*
+(N1). I claim un tempo appoggiati alla sola Al Jazeera (qatarina) sono ora **corroborati da think tank europei
+non-qatarini** (ECFR/Megerisi, Chatham House/Eaton), che confermano sia l'east-tilt sia il "ritorno al governo
+familiare": il rilievo dell'adversary sulla mono-fonte è così sanato.*

@@ -4,11 +4,11 @@ tags: ["#geopolitica", "#influenza"]
 date: 2026-07-07
 status: "validated"
 depth: "deep"
-sources: "5"
+sources: "6"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13; UNSMIL/X 2026-07-14) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
 ---
 
 # Elezioni
@@ -50,3 +50,8 @@ tra la road map ONU e la [[Mediazione statunitense]].
 - **9 lug 2026 (Il Cairo)**: delegazione libica di alto livello in [[Egitto]] dopo l'accordo dei **tre vertici**
   (HoR, Consiglio di Stato, Consiglio Presidenziale) su una tabella di marcia; obiettivo **elezioni simultanee
   entro febbraio 2027** e istituzione di un **comitato supremo** di supervisione. `[verificato: ANSA]`
+- **14 lug 2026 (Tunisi)**: **6ª sessione** dello "Small Convening" UNSMIL — adottato un **nuovo meccanismo** per
+  il candidato di consenso alla **presidenza della HNEC** (commissione elettorale), dopo il ritardo di quello
+  precedente; redazione della **bozza di accordo finale** sul quadro legale del voto (già inclusa la maggioranza
+  dei punti). Prossimo incontro: **prima settimana di agosto**. → la traccia ONU **avanza**, in parallelo al
+  binario politico USA. `[verificato: UNSMIL]`

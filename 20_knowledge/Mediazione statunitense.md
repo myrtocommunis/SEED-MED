@@ -4,11 +4,11 @@ tags: ["#influenza", "#difesa"]
 date: 2026-07-14
 status: "validated"
 depth: "deep"
-sources: "10"
+sources: "11"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07 e 2026-07-14; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13) + esperti citati: ECFR (Megerisi), Chatham House (Eaton)"
 ---
 
 # Mediazione statunitense
@@ -68,6 +68,13 @@ Esperti indipendenti (citati da Al Jazeera, outlet qatarino) convergono sui limi
 - **Benchmark di legittimità** (analista S. Ismail): il piano funziona solo se la fase transitoria è **a
   termine**, con i suoi membri **esclusi dalla candidatura** al voto successivo e con **garanzia del Consiglio
   di Sicurezza ONU**. `[verificato: Al Jazeera]`
+- **Corroborazione da think tank europei (non qatarini)**: **Tarek Megerisi (ECFR)** — il power-sharing
+  "**porrebbe fine alle speranze di elezioni**", legittimando un nuovo ordine autoritario e chiudendo la
+  transizione del 2011; **Tim Eaton (Chatham House)** — il movente USA è **petrolio-per-stabilità** (accesso
+  delle major all'oil libico), ma "la maggioranza dei libici vede l'intesa come **ritorno al governo
+  familiare**". Eaton coglie il **nodo dell'esecuzione**: Dbeibah non accetterà senza **garanzie contro una
+  presa militare di Haftar**, e "gli USA difficilmente le forniranno". Progresso concreto finora: solo il
+  **bilancio unificato 2026**, nessun accordo sul governo unificato. `[verificato: Al-Wasat, che cita ECFR e Chatham House]`
 
 ## Strumenti concreti [HIGH confidence]
 - **Militare**: **Flintlock 2026** (AFRICOM, Sirte, **co-ospitato dalle forze speciali italiane**) — est e ovest
@@ -100,4 +107,5 @@ set 2025** (poi Parigi, gen 2026): Roma ha ospitato l'avvio del canale. Ma nel p
 - [Al Jazeera — Mabadara Boulos: taswiya haqiqiyya am taqasum jadid? (analisi, fonte qatarina)](https://www.aljazeera.net/politics/2026/7/2/) (accesso 2026-07-14)
 - [Al Jazeera — Safqa am mubadara? Trump e l'unificazione della Libia (analisi, fonte qatarina)](https://www.aljazeera.net/news/2026/6/17/) (accesso 2026-07-14)
 - [Libya al-Ahrar — al-Namroush: Sirte per unificare l'istituzione militare, esercitazione nel sud a fine estate](https://libyaalahrar.tv/2026/07/13/) (accesso 2026-07-15)
+- [Al-Wasat — Perché l'iniziativa americana è così controversa in Libia (cita ECFR e Chatham House)](https://alwasat.ly/news/libya/524724) (accesso 2026-07-15)
 - Altre (provenance): Atlantic Council; Africa Intelligence; US DoS; BBC Monitoring.

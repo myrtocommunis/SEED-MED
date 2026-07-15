@@ -4,11 +4,11 @@ tags: ["#influenza", "#energia", "#difesa"]
 date: 2026-07-09
 status: "validated"
 depth: "deep"
-sources: "5"
+sources: "6"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-11-13; BBC Monitoring 2026-03-27) + web:verifica-curator (gov.cn/FOCAC; Atlantic Council; Libya Herald 2026-05)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-11-13; BBC Monitoring 2026-03-27; LANA 2026-07-14) + web:verifica-curator (gov.cn/FOCAC; Atlantic Council; Libya Herald 2026-05)"
 ---
 
 # Cina
@@ -23,6 +23,10 @@ industrial-militare — difesa.
   investitori attivi a ovest (GNU) ed est. Veicolo: Camera Commerciale Congiunta Libico-Cinese (LCJCC). `[verificato: Atlantic Council, Africa Intelligence]`
 - **7 lug 2026**: verso una linea cargo aerea diretta e un collegamento marittimo settimanale; proposta di un
   centro di lingua cinese. `[verificato: Agenzia Nova]`
+- **14 lug 2026**: il presidente del Consiglio Supremo di Stato **Takala** rilancia la cooperazione con Pechino
+  (con il capo del Comitato per la supervisione della cooperazione libico-cinese, Khaled Rashed): comitato
+  congiunto, forum di dialogo libico-cinese, canali con imprese cinesi per progetti di sviluppo/investimento —
+  **anche l'ovest (Tripoli) corteggia la Cina**, non solo l'est. `[verificato: LANA]`
 
 ## Energia e difesa [HIGH confidence]
 - Pechino diversifica le importazioni energetiche (guerra Iran, Hormuz): colloqui con Turkmenistan, Libia, Canada.
@@ -39,3 +43,4 @@ Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 - [Atlantic Council — Beijing is making inroads in North Africa](https://www.atlanticcouncil.org/blogs/menasource/china-north-africa-focac-cascf-trade/) (accesso 2026-07-09)
 - [Africa Intelligence — Beijing is back in business in Libya](https://www.africaintelligence.com/north-africa/2025/11/13/from-tripolitania-to-cyrenaica-beijing-is-finally-back-in-business,110558684-eve) (accesso 2026-07-09)
 - [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-09)
+- [LANA — Il Consiglio Supremo di Stato discute il partenariato libico-cinese nello sviluppo](https://lana.gov.ly/post.php?lang=ar&id=361648) (accesso 2026-07-15)
