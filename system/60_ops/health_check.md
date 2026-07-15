@@ -1,6 +1,9 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-07-15 (certificazione stato finale)** · maintainer (inline) · audit read-only.
+> Esecuzione: **2026-07-15 (re-check post-ingest)** · maintainer (inline) · audit read-only.
+> Delta dall'ultima certificazione: +3 ingest (Elezioni 6ª sessione UNSMIL; Cina/HCS-Pechino; Mediazione
+> statunitense corroborata da ECFR/Chatham House — chiuso il rilievo mono-fonte qatarina). Due indicatori del
+> report Libia-mediazione verificati (Sirte militare, road-map elettorale): entrambi coerenti con la tesi.
 
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
