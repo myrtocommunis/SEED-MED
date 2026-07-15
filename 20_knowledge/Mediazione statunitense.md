@@ -4,11 +4,11 @@ tags: ["#influenza", "#difesa"]
 date: 2026-07-14
 status: "validated"
 depth: "deep"
-sources: "9"
+sources: "10"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07; Al Jazeera 2026-06-17 e 2026-07-02)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13)"
 ---
 
 # Mediazione statunitense
@@ -73,6 +73,14 @@ Esperti indipendenti (citati da Al Jazeera, outlet qatarino) convergono sui limi
 - **Militare**: **Flintlock 2026** (AFRICOM, Sirte, **co-ospitato dalle forze speciali italiane**) — est e ovest
   addestrati insieme per la prima volta (commissione 3+3); intesa su una **sala operativa congiunta a Sirte**
   per i dossier non controversi (antiterrorismo, criminalità, frontiere), in un'unificazione **graduale**. `[verificato: US DoW, Al-Araby]`
+- **Aggiornamento (13 lug)**: il capo di SM del GNU **al-Namroush** conferma che il meeting di Sirte prosegue
+  l'unificazione **sotto egida UNSMIL**, annuncia un **esercizio congiunto nel sud a fine estate** ("tappa
+  esecutiva avanzata") e una **forza militare congiunta** in arrivo (missioni: frontiere, anti-contrabbando,
+  migrazione irregolare). ⚠️ **Ma decupla il binario militare da quello politico**: nega di aver incontrato
+  Boulos e precisa che "è il GNU a gestire il track Boulos". `[verificato: Libya al-Ahrar]`
+  > **N2 — attribuzione in tensione**: Al-Araby dava la sala di Sirte come parte dell'iniziativa USA; al-Namroush
+  > la colloca sotto l'ONU e *fuori* dal track Boulos. Lettura conciliante: il binario militare-tecnico procede
+  > sotto ombrello UNSMIL, mentre l'etichetta "iniziativa Boulos" è politica e la rivendica Washington.
 - **Economico**: facilitazione del [[Bilancio libico]] unificato (dichiarazione di 10 Paesi, incl. [[Italia]]);
   **27 lug**: comitato finanziario congiunto est-ovest atteso a Washington per attuare l'accordo di novembre. `[verificato: US DoS, Al-Araby]`
 - **Diplomatico regionale**: colloqui di **Malta** (6-7 lug, host FM Fearne — cfr. [[Malta]]); telefonata
@@ -91,4 +99,5 @@ set 2025** (poi Parigi, gen 2026): Roma ha ospitato l'avvio del canale. Ma nel p
 - [Alwasat — Boulos: con i leader di Misurata il sostegno USA al percorso elettorale](https://alwasat.ly/news/libya/524007) (accesso 2026-07-14)
 - [Al Jazeera — Mabadara Boulos: taswiya haqiqiyya am taqasum jadid? (analisi, fonte qatarina)](https://www.aljazeera.net/politics/2026/7/2/) (accesso 2026-07-14)
 - [Al Jazeera — Safqa am mubadara? Trump e l'unificazione della Libia (analisi, fonte qatarina)](https://www.aljazeera.net/news/2026/6/17/) (accesso 2026-07-14)
+- [Libya al-Ahrar — al-Namroush: Sirte per unificare l'istituzione militare, esercitazione nel sud a fine estate](https://libyaalahrar.tv/2026/07/13/) (accesso 2026-07-15)
 - Altre (provenance): Atlantic Council; Africa Intelligence; US DoS; BBC Monitoring.

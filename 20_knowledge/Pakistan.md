@@ -4,11 +4,11 @@ tags: ["#difesa", "#influenza"]
 date: 2026-07-09
 status: "validated"
 depth: "deep"
-sources: "7"
+sources: "8"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-12-22; BBC Monitoring 2026-02-03, 2026-07-10; Nikkei Asia 2026-07-10; Al-Araby al-Jadid 2026-07-10) + web:verifica-curator (Dawn; Arab News; Asharq al-Awsat 2026-07)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-12-22; BBC Monitoring 2026-02-03, 2026-07-10, 2026-07-12; Nikkei Asia 2026-07-10; Al-Araby al-Jadid 2026-07-10) + web:verifica-curator (Dawn; Arab News; Asharq al-Awsat 2026-07)"
 ---
 
 # Pakistan
@@ -44,6 +44,7 @@ vettore indiretto dell'influenza della [[Cina]] in Nord Africa (ipotesi, via il 
 - [BBC Monitoring — Pakistan, Libya military deepen defence ties](https://monitoring.bbc.co.uk/product/b0005dc1) (accesso 2026-07-09)
 - [Nikkei Asia — Pakistan mediates between Libya's two administrations](https://asia.nikkei.com/politics/international-relations/pakistan-mediates-between-libya-s-two-administrations-after-us-iran-talks) (accesso 2026-07-10)
 - [BBC Monitoring — Pan-Arab newspaper reviews Pakistan's Libya mediation role](https://monitoring.bbc.co.uk/product/b00067w3) (accesso 2026-07-14)
+- [BBC Monitoring — Egypt, Turkey FMs discuss regional de-escalation (quartetto)](https://monitoring.bbc.co.uk/product/b000683s) (accesso 2026-07-15)
 
 ## 🔄 Aggiornamento (10 lug 2026 — fai ingest)
 - **10 lug (Nikkei Asia)**: la mediazione pachistana è **sostenuta da USA e [[Arabia saudita]]**; think tank
@@ -57,3 +58,7 @@ vettore indiretto dell'influenza della [[Cina]] in Nord Africa (ipotesi, via il 
   riposizionare Islamabad in Medio Oriente"** come risolutore regionale, sul modello del dossier Iran; letto
   anche come spinta a sbloccare la "stallata" iniziativa di Boulos ([[Mediazione statunitense]]). Incontro
   Saddam [[Haftar]]-Munir: **25 giugno**. `[verificato: BBC Monitoring, Al-Araby al-Jadid]`
+- **Meccanismo del "quartetto"** (Egitto-Turchia-[[Arabia saudita]]-Pakistan): coordinamento regionale su
+  de-escalation e dossier aperti (incl. [[Libia]] e ripresa USA-Iran), confermato dalla telefonata FM
+  Egitto-Turchia dell'11 lug. Inserisce la mediazione libica del Pakistan in una **cornice regionale** più
+  ampia, non in un'iniziativa solitaria. `[verificato: BBC Monitoring]`
