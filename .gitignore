@@ -11,3 +11,6 @@ CLAUDE.local.md
 
 # Raw source datasets (heavy binaries — kept on disk for agents, not versioned)
 00_inbox/dataset_libia/
+
+# Raw source dataset (terrorismo) — non versionato
+00_inbox/dataset_terrorismo/

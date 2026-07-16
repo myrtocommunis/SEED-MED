@@ -4,11 +4,11 @@ tags: ["#difesa", "#influenza"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (RFI 2025-06-23; BBC Monitoring 2026-04-21, 2026-04-24, 2026-05-01, 2026-07-15; Agenzia Nova 2026-04-22)"
+  - "00_inbox/dataset_libia/dataset_web_libia (RFI 2025-06-23; BBC Monitoring 2026-04-21, 2026-04-24, 2026-05-01, 2026-07-15; Agenzia Nova 2026-04-22) + 00_inbox/dataset_terrorismo (Africa Corps/Telegram 2026-07-10 — fonte combattente E5)"
 ---
 
 # Presenza russa
@@ -35,8 +35,14 @@ crescente competizione da parte di USA ([[Mediazione statunitense]]) e [[Ucraina
   Libia** come casi in cui "i tentativi di imporre decisioni dall'esterno falliscono" — delegittimazione diretta
   della [[Mediazione statunitense]], mentre Mosca si accredita come garante alternativo forte del seggio
   permanente al Consiglio di Sicurezza. `[verificato: BBC Monitoring]`
+- **Africa Corps in combattimento (Anefis, Mali, 4-9 lug)**: rivendica di aver respinto JNIM+FLA con l'Esercito
+  maliano e le milizie tuareg GATIA/MSA, dichiarando >2.000 nemici uccisi e **zero perdite proprie** — cifre
+  **implausibili**, da leggere come **info-op** oltre che come battaglia (cfr. [[Sahel]]). Rilevanza: mostra il
+  **baricentro saheliano** del Corpo e il suo apparato propagandistico, mentre il claim su "mercenari dalla
+  Libia" — se fondato — salderebbe il Fezzan al teatro jihadista. `[rivendicazione: Africa Corps — fonte combattente, Admiralty E5, nessuna corroborazione terza (N1)]`
 
 ## Fonti
 - [BBC Monitoring — Russia doubles down on Tripoli ties](https://monitoring.bbc.co.uk/product/b0005sb0) (accesso 2026-07-03)
 - [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16)
+- [Africa Corps (Telegram) — Anefis, 10 lug 2026](https://t.me/KorpusAfrica2/1158) — **fonte combattente, E5**; la ripresa [BBC Monitoring](https://monitoring.bbc.co.uk/product/b000684i) è traduzione dello stesso post, non fonte indipendente (accesso 2026-07-16)
 - [Agenzia Nova — La Russia ritira asset da Sirte](https://www.agenzianova.com/news/esclusiva-libia-russia-ritira-gli-asset-militari-dalla-costa-di-sirte-e-li-riposiziona-nel-deserto/) (accesso 2026-07-03)

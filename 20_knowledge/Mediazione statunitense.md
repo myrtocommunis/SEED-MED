@@ -13,10 +13,7 @@ provenance:
 
 # Mediazione statunitense
 
-Iniziativa diplomatica USA (perno: **Massad Boulos**, Senior Advisor per l'Africa di Trump) per ricomporre le
-fazioni della [[Libia]]. **Tesi aggiornata (lug 2026):** più che una convergenza trionfale che scavalca l'ONU,
-è un'iniziativa **contesa, sbilanciata verso l'est di [[Haftar]] e in fase di stallo**, che **coesiste e
-compete** con la road map UNSMIL (cfr. [[Elezioni]]) — al punto da essere affiancata dalla mediazione del
+Iniziativa diplomatica USA (perno: **Massad Boulos**, Senior Advisor per l'Africa di Trump) per ricomporre le fazioni della [[Libia]]. **Tesi aggiornata (lug 2026):** più che una convergenza trionfale che scavalca l'ONU, è un'iniziativa **contesa, sbilanciata verso l'est di [[Haftar]] e in fase di stallo**, che **coesiste e compete** con la road map UNSMIL (cfr. [[Elezioni]]) — al punto da essere affiancata dalla mediazione del
 [[Pakistan]] proprio perché arenata.
 
 ## Il piano: spartizione d'élite in veste elettorale [HIGH confidence]
