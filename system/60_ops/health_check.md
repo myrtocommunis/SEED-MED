@@ -1,10 +1,10 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-07-15 (re-check post-ingest)** · maintainer (inline) · audit read-only.
-> Delta dall'ultima certificazione: +3 ingest (Elezioni 6ª sessione UNSMIL; Cina/HCS-Pechino; Mediazione
-> statunitense corroborata da ECFR/Chatham House — chiuso il rilievo mono-fonte qatarina). Due indicatori del
-> report Libia-mediazione verificati (Sirte militare, road-map elettorale): entrambi coerenti con la tesi.
-
+> Esecuzione: **2026-07-16 (re-check post-ingest)** · maintainer (inline) · audit read-only.
+> Delta: ingest 12-15 lug — vertice di Sirte corroborato da 3 fonti indipendenti (**tensione N2 risolta**: USA
+> presenti con due mani, AFRICOM sul militare che avanza / Boulos sul politico che stalla); contro-framing russo
+> (Lavrov: Sudan e Libia come imposizioni esterne fallite); asse Ciad-Mosca. Note toccate: Mediazione
+> statunitense (13 fonti), Presenza russa (6), Ciad (4).
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
 | # | Check | Esito |
