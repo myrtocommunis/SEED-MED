@@ -1,10 +1,11 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-07-16 (re-check post-ingest)** · maintainer (inline) · audit read-only.
-> Delta: ingest 12-15 lug — vertice di Sirte corroborato da 3 fonti indipendenti (**tensione N2 risolta**: USA
-> presenti con due mani, AFRICOM sul militare che avanza / Boulos sul politico che stalla); contro-framing russo
-> (Lavrov: Sudan e Libia come imposizioni esterne fallite); asse Ciad-Mosca. Note toccate: Mediazione
-> statunitense (13 fonti), Presenza russa (6), Ciad (4).
+> Esecuzione: **2026-07-16 (re-check post-ingest selettivo)** · maintainer (inline) · audit read-only.
+> Delta: merge selettivo del dataset `terrorismo_16072026` — ingerita **solo** la storia Africa Corps/Anefis
+> (→ `Sahel` 4, `Presenza russa` 7); **escluse** le 2 storie AI-terrorismo (off-domain, sarebbero orfane).
+> Scoperta di metodo: la versione BBC Monitoring è **traduzione dello stesso post Telegram**, non fonte
+> indipendente → storia a **fonte unica**, trattata come rivendicazione di parte combattente (**Admiralty E5**,
+> claim non verificati, N1). Sorgenti grezze in `00_inbox/dataset_terrorismo/`, **gitignored**.
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
 | # | Check | Esito |
