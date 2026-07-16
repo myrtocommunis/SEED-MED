@@ -4,11 +4,11 @@ tags: ["#influenza", "#difesa"]
 date: 2026-07-14
 status: "validated"
 depth: "deep"
-sources: "11"
+sources: "13"
 admiralty: "B2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07 e 2026-07-14; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13) + esperti citati: ECFR (Megerisi), Chatham House (Eaton)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25 e 2026-07-15; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07 e 2026-07-14; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13; The Libya Observer 2026-07-12; Divisione media militare LNA 2026-07-12) + esperti citati: ECFR (Megerisi), Chatham House (Eaton)"
 ---
 
 # Mediazione statunitense
@@ -48,6 +48,9 @@ Movente plausibile: **accesso delle major USA** al greggio libico (Washington in
   "militarizzazione dello Stato"; opposizione del mufti Ghariani e dei "rivoluzionari". `[verificato: BBC Monitoring, Alwasat]`
 - **Frammentazione dell'ovest** e nodo del **comandante in capo** (Khalifa Haftar), inaccettabile per le forze
   occidentali: è l'ostacolo strutturale all'unificazione militare (cfr. [[Frammentazione interna]]). `[verificato: Al-Araby al-Jadid]`
+- **Contro-framing russo (14 lug)**: **Lavrov** rivendica "soluzioni africane a problemi africani" e cita
+  **Sudan e Libia** come casi in cui "i tentativi di imporre decisioni dall'esterno falliscono" — delegittima
+  l'iniziativa USA mentre Mosca si accredita come garante alternativo (cfr. [[Presenza russa]]). `[verificato: BBC Monitoring]`
 - **Misurata è il veto-player dell'ovest**: cuore militare-industriale della Tripolitania (brigate su cui si
   appoggia [[Dbeibah]], cfr. [[Milizie]]) e quindi vero detentore del veto sull'unificazione della sicurezza.
   La sua posizione è un **"consenso condizionato"** (non veto netto): chiede percorso costituzionale, elezioni
@@ -80,14 +83,21 @@ Esperti indipendenti (citati da Al Jazeera, outlet qatarino) convergono sui limi
 - **Militare**: **Flintlock 2026** (AFRICOM, Sirte, **co-ospitato dalle forze speciali italiane**) — est e ovest
   addestrati insieme per la prima volta (commissione 3+3); intesa su una **sala operativa congiunta a Sirte**
   per i dossier non controversi (antiterrorismo, criminalità, frontiere), in un'unificazione **graduale**. `[verificato: US DoW, Al-Araby]`
-- **Aggiornamento (13 lug)**: il capo di SM del GNU **al-Namroush** conferma che il meeting di Sirte prosegue
-  l'unificazione **sotto egida UNSMIL**, annuncia un **esercizio congiunto nel sud a fine estate** ("tappa
-  esecutiva avanzata") e una **forza militare congiunta** in arrivo (missioni: frontiere, anti-contrabbando,
-  migrazione irregolare). ⚠️ **Ma decupla il binario militare da quello politico**: nega di aver incontrato
-  Boulos e precisa che "è il GNU a gestire il track Boulos". `[verificato: Libya al-Ahrar]`
-  > **N2 — attribuzione in tensione**: Al-Araby dava la sala di Sirte come parte dell'iniziativa USA; al-Namroush
-  > la colloca sotto l'ONU e *fuori* dal track Boulos. Lettura conciliante: il binario militare-tecnico procede
-  > sotto ombrello UNSMIL, mentre l'etichetta "iniziativa Boulos" è politica e la rivendica Washington.
+- **Il vertice di Sirte (12 lug)** — corroborato da tre fonti indipendenti: i **due capi di Stato Maggiore**,
+  **Khaled [[Haftar]]** (LNA) e **al-Namroush** (GNU), si incontrano con la **Commissione militare congiunta
+  (5+5)**, il comitato **(3+3)** e la vice-inviata ONU **Stephanie Koury**. Concordano un **esercizio militare
+  congiunto nel sud** (fine estate) e **riunioni mensili** dei capi di arma; l'unificazione è dichiarata "l'unica
+  opzione praticabile" per proteggere il Paese e i confini. Consiglio Presidenziale e **Saddam Haftar** salutano
+  l'intesa; l'LNA offre le proprie scuole per **addestrare i giovani delle formazioni occidentali** come militari
+  regolari. Origine: primo incontro a **Luanda** alla conferenza dei capi di difesa africani **ospitata da
+  AFRICOM** (30 giu-2 lug). `[verificato: The Libya Observer, Libya al-Ahrar, Divisione media militare LNA]`
+- ⚠️ **Il binario militare è deliberatamente decouplato da quello politico**: al-Namroush nega di aver
+  incontrato Boulos ("è il GNU a gestire il track Boulos"); **Khaled Haftar** insiste che l'istituzione militare
+  resti "**lontana dalle contese politiche**". Entrambe le parti lo rivendicano. `[verificato: Libya al-Ahrar, Divisione media militare LNA]`
+  > **N2 — tensione risolta**: Al-Araby dava la sala di Sirte come parte dell'iniziativa USA; le fonti dirette la
+  > collocano sotto **UNSMIL + facilitazione AFRICOM**, fuori dal track Boulos. Sintesi: **gli USA ci sono, ma
+  > con due mani distinte** — AFRICOM sul militare-tecnico (che avanza), Boulos sul politico (che stalla).
+  > Attribuire il progresso militare a Boulos è un'appropriazione narrativa, non un fatto.
 - **Economico**: facilitazione del [[Bilancio libico]] unificato (dichiarazione di 10 Paesi, incl. [[Italia]]);
   **27 lug**: comitato finanziario congiunto est-ovest atteso a Washington per attuare l'accordo di novembre. `[verificato: US DoS, Al-Araby]`
 - **Diplomatico regionale**: colloqui di **Malta** (6-7 lug, host FM Fearne — cfr. [[Malta]]); telefonata
@@ -108,4 +118,6 @@ set 2025** (poi Parigi, gen 2026): Roma ha ospitato l'avvio del canale. Ma nel p
 - [Al Jazeera — Safqa am mubadara? Trump e l'unificazione della Libia (analisi, fonte qatarina)](https://www.aljazeera.net/news/2026/6/17/) (accesso 2026-07-14)
 - [Libya al-Ahrar — al-Namroush: Sirte per unificare l'istituzione militare, esercitazione nel sud a fine estate](https://libyaalahrar.tv/2026/07/13/) (accesso 2026-07-15)
 - [Al-Wasat — Perché l'iniziativa americana è così controversa in Libia (cita ECFR e Chatham House)](https://alwasat.ly/news/libya/524724) (accesso 2026-07-15)
+- [The Libya Observer — Eastern and Western Chiefs of Staff agree to hold joint military exercise in Southern Libya](https://libyaobserver.ly/news/eastern-and-western-chiefs-staff-agree-hold-joint-military-exercise-southern-libya) (accesso 2026-07-16)
+- [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation (contro-framing Lavrov)](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16)
 - Altre (provenance): Atlantic Council; Africa Intelligence; US DoS; BBC Monitoring.
