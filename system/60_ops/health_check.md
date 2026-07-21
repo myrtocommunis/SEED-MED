@@ -1,11 +1,10 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-07-16 (re-check post-ingest selettivo)** · maintainer (inline) · audit read-only.
-> Delta: merge selettivo del dataset `terrorismo_16072026` — ingerita **solo** la storia Africa Corps/Anefis
-> (→ `Sahel` 4, `Presenza russa` 7); **escluse** le 2 storie AI-terrorismo (off-domain, sarebbero orfane).
-> Scoperta di metodo: la versione BBC Monitoring è **traduzione dello stesso post Telegram**, non fonte
-> indipendente → storia a **fonte unica**, trattata come rivendicazione di parte combattente (**Admiralty E5**,
-> claim non verificati, N1). Sorgenti grezze in `00_inbox/dataset_terrorismo/`, **gitignored**.
+> Esecuzione: **2026-07-22 (re-check post-ingest)** · maintainer (inline) · audit read-only.
+> Delta: ingest 18-20 lug — Turchia (hedging esteso all'est: contratto frontiere con l'LNA), Frammentazione
+> interna (governo auto-proclamato a Ginevra + collasso rete elettrica), Egitto (export elettrico). Nota:
+> `Frammentazione interna` ora a 5 fonti pur restando `standard` — candidata a promozione `deep` (richiede
+> matrice gap + giro adversary).
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
 | # | Check | Esito |
