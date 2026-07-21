@@ -4,11 +4,11 @@ tags: ["#levante", "#difesa", "#influenza", "#energia"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "7"
+sources: "8"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-08, 2026-05-21, 2026-02-09, 2026-03-30, 2026-07-12) + web:verifica-curator (ISPI; Agenzia Nova)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-08, 2026-05-21, 2026-02-09, 2026-03-30, 2026-07-12; LANA 2026-07-20) + web:verifica-curator (ISPI; Agenzia Nova)"
 ---
 
 # Egitto
@@ -37,6 +37,9 @@ diplomazia nordafricana con implicazioni per la sicurezza del Mediterraneo.
 ## Dimensione energetica [HIGH confidence]
 - **Mar 2026**: il Cairo negozia l'import di **~1,2 mln barili/mese** di greggio libico, per sostituire le
   forniture del Golfo interrotte (forza maggiore kuwaitiana, guerra Iran/Hormuz). Cfr. [[Petrolio]]. `[verificato: BBC/Bloomberg]`
+- **20 lug 2026**: l'Egitto **riprende l'export di ~70 MW di elettricità** verso la Libia (rete danneggiata,
+  cfr. [[Frammentazione interna]]) dopo il saldo di **84 mln $** su 140 di arretrati libici (54 restanti
+  rateizzati). Interdipendenza energetica a doppio senso: petrolio in entrata, elettricità in uscita. `[verificato: LANA/media egiziani]`
 
 ## Fonti
 - [BBC Monitoring — Egypt calls for withdrawal of foreign forces](https://monitoring.bbc.co.uk/product/b00052gj) (accesso 2026-07-03)
@@ -44,3 +47,4 @@ diplomazia nordafricana con implicazioni per la sicurezza del Mediterraneo.
 - [ISPI — Egitto: un complesso equilibrismo](https://www.ispionline.it/it/pubblicazione/egitto-un-complesso-equilibrismo-222958) (accesso 2026-07-10)
 - [Agenzia Nova — Egitto ripristina relazioni con Dabaiba per contrastare l'influenza turca](https://www.agenzianova.com/a/695b09f165dbf9.47244849/6870281/2026-01-02/libia-analista-egitto-ripristina-relazioni-con-dabaiba-anche-per-contrastare-influenza-turca) (accesso 2026-07-10)
 - [BBC Monitoring — Egypt, Turkey FMs discuss regional de-escalation efforts](https://monitoring.bbc.co.uk/product/b000683s) (accesso 2026-07-15)
+- [LANA — Egypt begins exporting 70 MW of electricity to Libya](https://lana.gov.ly/post.php?id=361980&lang=ar) (accesso 2026-07-22)
