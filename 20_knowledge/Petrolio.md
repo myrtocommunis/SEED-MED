@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "validated"
 depth: "deep"
 sources: "5"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (FT 2025-11-23, 2026-05-02; Reuters 2026-01-24, 2026-04-28; BBC Monitoring 2026-04-06)"
@@ -28,5 +28,5 @@ e perno dell'[[Eni]] e della [[Diversificazione energetica]] italiana.
   e ~18 mld di barili non convenzionali. Nuovi acquirenti: [[Egitto]] e Corea del Sud. `[verificato: Reuters, NOC]`
 
 ## Fonti
-- [FT — Libya reaps oil bonanza from Iran war price surge](https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d) (accesso 2026-07-03)
-- [Reuters — Libya signs preliminary shale agreement with Chevron](https://www.reuters.com/business/energy/libya-signs-preliminary-agreement-with-chevron-assess-shale-oil-gas-resources-2026-04-28/) (accesso 2026-07-03)
+- [FT — Libya reaps oil bonanza from Iran war price surge](https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d) (accesso 2026-07-03) — **Admiralty B3**
+- [Reuters — Libya signs preliminary shale agreement with Chevron](https://www.reuters.com/business/energy/libya-signs-preliminary-agreement-with-chevron-assess-shale-oil-gas-resources-2026-04-28/) (accesso 2026-07-03) — **Admiralty B3**

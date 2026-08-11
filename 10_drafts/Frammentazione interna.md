@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "draft"
 depth: "standard"
 sources: "5"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-05-20, 2026-03-23, 2026-01-18; The Libya Observer 2026-07-18; Fawasel Media 2026-07-19)"
@@ -43,7 +43,7 @@ Alimenta lo stallo delle [[Elezioni]] e il potere delle [[Milizie]]. Sullo sfond
 [[Saif al-islam]] (ucciso feb 2026) hanno tenuto viva la nostalgia per un potere centrale unitario.
 
 ## Fonti
-- [BBC Monitoring — Why are Libya's western authorities at odds](https://monitoring.bbc.co.uk/product/b0005w8q) (accesso 2026-07-02)
-- [BBC Monitoring — Libya devalues dinar amid budget paralysis](https://monitoring.bbc.co.uk/product/b0005a0k) (accesso 2026-07-02)
+- [BBC Monitoring — Why are Libya's western authorities at odds](https://monitoring.bbc.co.uk/product/b0005w8q) (accesso 2026-07-02) — **Admiralty B3**
+- [BBC Monitoring — Libya devalues dinar amid budget paralysis](https://monitoring.bbc.co.uk/product/b0005a0k) (accesso 2026-07-02) — **Admiralty B3**
 - [The Libya Observer — Head of self-declared Libyan government announced in Geneva](https://libyaobserver.ly/news/head-self-declared-libyan-government-announced-geneva-un-distances-itself) (accesso 2026-07-22)
 - [Fawasel Media — Chi è responsabile del collasso della rete elettrica?](https://fawaselmedia.com/libya-power-grid-blackout-dbeibah-gecol-crisis/) (accesso 2026-07-22)

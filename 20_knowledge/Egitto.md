@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "validated"
 depth: "deep"
 sources: "8"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-08, 2026-05-21, 2026-02-09, 2026-03-30, 2026-07-12; LANA 2026-07-20) + web:verifica-curator (ISPI; Agenzia Nova)"
@@ -42,9 +42,9 @@ diplomazia nordafricana con implicazioni per la sicurezza del Mediterraneo.
   rateizzati). Interdipendenza energetica a doppio senso: petrolio in entrata, elettricità in uscita. `[verificato: LANA/media egiziani]`
 
 ## Fonti
-- [BBC Monitoring — Egypt calls for withdrawal of foreign forces](https://monitoring.bbc.co.uk/product/b00052gj) (accesso 2026-07-03)
-- [BBC Monitoring — Egypt secures Libya oil amid disrupted Gulf shipments](https://monitoring.bbc.co.uk/product/b0005odj) (accesso 2026-07-03)
+- [BBC Monitoring — Egypt calls for withdrawal of foreign forces](https://monitoring.bbc.co.uk/product/b00052gj) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Egypt secures Libya oil amid disrupted Gulf shipments](https://monitoring.bbc.co.uk/product/b0005odj) (accesso 2026-07-03) — **Admiralty B3**
 - [ISPI — Egitto: un complesso equilibrismo](https://www.ispionline.it/it/pubblicazione/egitto-un-complesso-equilibrismo-222958) (accesso 2026-07-10)
 - [Agenzia Nova — Egitto ripristina relazioni con Dabaiba per contrastare l'influenza turca](https://www.agenzianova.com/a/695b09f165dbf9.47244849/6870281/2026-01-02/libia-analista-egitto-ripristina-relazioni-con-dabaiba-anche-per-contrastare-influenza-turca) (accesso 2026-07-10)
-- [BBC Monitoring — Egypt, Turkey FMs discuss regional de-escalation efforts](https://monitoring.bbc.co.uk/product/b000683s) (accesso 2026-07-15)
-- [LANA — Egypt begins exporting 70 MW of electricity to Libya](https://lana.gov.ly/post.php?id=361980&lang=ar) (accesso 2026-07-22)
+- [BBC Monitoring — Egypt, Turkey FMs discuss regional de-escalation efforts](https://monitoring.bbc.co.uk/product/b000683s) (accesso 2026-07-15) — **Admiralty B3**
+- [LANA — Egypt begins exporting 70 MW of electricity to Libya](https://lana.gov.ly/post.php?id=361980&lang=ar) (accesso 2026-07-22) — **Admiralty A2**

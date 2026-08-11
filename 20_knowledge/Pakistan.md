@@ -5,7 +5,7 @@ date: 2026-07-09
 status: "validated"
 depth: "deep"
 sources: "8"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-12-22; BBC Monitoring 2026-02-03, 2026-07-10, 2026-07-12; Nikkei Asia 2026-07-10; Al-Araby al-Jadid 2026-07-10) + web:verifica-curator (Dawn; Arab News; Asharq al-Awsat 2026-07)"
@@ -37,14 +37,14 @@ vettore indiretto dell'influenza della [[Cina]] in Nord Africa (ipotesi, via il 
   neutralità a copertura della vendita d'armi (cfr. steel-man in `_critique/`). `[verificato: Nikkei Asia]`
 
 ## Fonti
-- [Reuters — Pakistan $4bn arms deal with Libyan force](https://www.reuters.com/world/asia-pacific/pakistan-strikes-4-billion-deal-sell-weapons-libyan-force-officials-say-2025-12-22/) (accesso 2026-07-09)
+- [Reuters — Pakistan $4bn arms deal with Libyan force](https://www.reuters.com/world/asia-pacific/pakistan-strikes-4-billion-deal-sell-weapons-libyan-force-officials-say-2025-12-22/) (accesso 2026-07-09) — **Admiralty B3**
 - [Dawn — Pakistan snaps up major arms deal with Libyan force](https://www.dawn.com/news/1962754) (accesso 2026-07-09)
 - [Arab News — Pakistan mediating Libya unity push](https://www.arabnews.com/node/2649870/pakistan) (accesso 2026-07-09)
 - [Asharq al-Awsat — Pakistan mediating Libya unity with US-led push](https://english.aawsat.com/arab-world/5293066-pakistan-mediating-libya-unity-us-led-push) (accesso 2026-07-09)
-- [BBC Monitoring — Pakistan, Libya military deepen defence ties](https://monitoring.bbc.co.uk/product/b0005dc1) (accesso 2026-07-09)
+- [BBC Monitoring — Pakistan, Libya military deepen defence ties](https://monitoring.bbc.co.uk/product/b0005dc1) (accesso 2026-07-09) — **Admiralty B3**
 - [Nikkei Asia — Pakistan mediates between Libya's two administrations](https://asia.nikkei.com/politics/international-relations/pakistan-mediates-between-libya-s-two-administrations-after-us-iran-talks) (accesso 2026-07-10)
-- [BBC Monitoring — Pan-Arab newspaper reviews Pakistan's Libya mediation role](https://monitoring.bbc.co.uk/product/b00067w3) (accesso 2026-07-14)
-- [BBC Monitoring — Egypt, Turkey FMs discuss regional de-escalation (quartetto)](https://monitoring.bbc.co.uk/product/b000683s) (accesso 2026-07-15)
+- [BBC Monitoring — Pan-Arab newspaper reviews Pakistan's Libya mediation role](https://monitoring.bbc.co.uk/product/b00067w3) (accesso 2026-07-14) — **Admiralty B3**
+- [BBC Monitoring — Egypt, Turkey FMs discuss regional de-escalation (quartetto)](https://monitoring.bbc.co.uk/product/b000683s) (accesso 2026-07-15) — **Admiralty B3**
 
 ## 🔄 Aggiornamento (10 lug 2026 — fai ingest)
 - **10 lug (Nikkei Asia)**: la mediazione pachistana è **sostenuta da USA e [[Arabia saudita]]**; think tank

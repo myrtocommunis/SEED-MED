@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "draft"
 depth: "standard"
 sources: "2"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Frontex 2026-06-12; Economist 2026-06-04)"
@@ -23,5 +23,5 @@ controllo della [[Migrazione]] alle frontiere esterne UE. Direttore esecutivo: H
   dall'[[Algeria]]). `[verificato: Frontex]`
 
 ## Fonti
-- [Frontex — Irregular crossings down 40% (2026)](https://www.frontex.europa.eu/) (accesso 2026-07-02)
+- [Frontex — Irregular crossings down 40% (2026)](https://www.frontex.europa.eu/) (accesso 2026-07-02) — **Admiralty A2**
 - Economist — Europe has reduced illegal immigration (2026-06-04)

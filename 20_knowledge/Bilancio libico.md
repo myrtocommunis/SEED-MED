@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "validated"
 depth: "standard"
 sources: "3"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2025-11-18, 2026-04-11; BBC Monitoring 2026-04-12; US DoS 2026-04-18)"
@@ -28,5 +28,5 @@ Analisti (Chatham House): il bilancio "legittima" di fatto [[Haftar]], che manti
 controllo delle infrastrutture energetiche a est.
 
 ## Fonti
-- [Reuters — Libya signs first unified state budget](https://www.reuters.com/) (accesso 2026-07-03)
-- [US DoS — Joint Statement on Libya Unified Budget](https://www.state.gov/) (accesso 2026-07-03)
+- [Reuters — Libya signs first unified state budget](https://www.reuters.com/) (accesso 2026-07-03) — **Admiralty B3**
+- [US DoS — Joint Statement on Libya Unified Budget](https://www.state.gov/) (accesso 2026-07-03) — **Admiralty A2**

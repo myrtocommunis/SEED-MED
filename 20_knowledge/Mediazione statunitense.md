@@ -4,11 +4,11 @@ tags: ["#influenza", "#difesa"]
 date: 2026-07-14
 status: "validated"
 depth: "deep"
-sources: "13"
-admiralty: "B2"
+sources: "14"
+admiralty: "B3"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25 e 2026-07-15; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07 e 2026-07-14; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13; The Libya Observer 2026-07-12; Divisione media militare LNA 2026-07-12) + esperti citati: ECFR (Megerisi), Chatham House (Eaton)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25 e 2026-07-15; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07 e 2026-07-14; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13; The Libya Observer 2026-07-12; Divisione media militare LNA 2026-07-12; AP News/Dip. di Stato 2026-07-21) + esperti citati: ECFR (Megerisi), Chatham House (Eaton)"
 ---
 
 # Mediazione statunitense
@@ -30,11 +30,17 @@ Iniziativa diplomatica USA (perno: **Massad Boulos**, Senior Advisor per l'Afric
   contrabbando di petrolio e appropriazione di fondi statali. Elevare chi è accusato di predare la rendita
   mina alla radice la promessa di unificazione. `[verificato: Al Jazeera — outlet qatarino, punto attribuito ad analisti]`
 
-## Perché gli USA [MEDIUM confidence]
-Movente plausibile: **accesso delle major USA** al greggio libico (Washington incoraggia gli investimenti),
+## Perché gli USA [HIGH confidence — ora documentato]
+Movente: **accesso delle major USA** al greggio libico (Washington incoraggia gli investimenti),
 **contenimento della [[Presenza russa]]** che punta su Haftar (Tobruk), e il brand negoziale di Trump. La
 "piena titolarità libica" evocata da Boulos (Bengasi, 9 lug) è uno slogan in attrito col fatto che la struttura
 (consiglio presidenziale, sala di Sirte) è di **disegno statunitense**. `[verificato: FT, La4News]`
+- **Ora messo nero su bianco (21 lug)**: la notifica del **Dipartimento di Stato** al Congresso per **riaprire
+  l'ambasciata USA** a Tripoli (~**41 mln $**, chiusa dal 2014) motiva l'impegno con la posizione strategica
+  libica (**sicurezza regionale, mercati energetici, flussi migratori**) e con la necessità di contrastare i
+  "**competitori near-peer, in primis la [[Presenza russa|Russia]]**" in Nord Africa — il *cui bono* prima
+  inferito è ora **documentato**. Sedi diplomatiche finora a [[Tunisia]] e [[Malta]]; parallelo con la
+  riapertura USA a Caracas e Damasco. `[verificato: AP News / notifica Dip. di Stato]`
 
 ## Stato reale: contesa, asimmetria, stallo [HIGH confidence]
 - **Trattamento asimmetrico pro-est**: a Washington Saddam Haftar è ricevuto ai massimi livelli (Segretario di
@@ -107,14 +113,15 @@ set 2025** (poi Parigi, gen 2026): Roma ha ospitato l'avvio del canale. Ma nel p
 è soprattutto **difesa e intelligence** (AISE, forze speciali — cfr. [[Italia]]), non co-mediazione politica. `[verificato: Atlantic Council]`
 
 ## Fonti
-- [FT — Trump adviser pushes power-sharing plan for oil-rich Libya](https://www.ft.com/content/f5c43a41-3fa1-486e-a592-7933bc1bdcbd) (accesso 2026-07-03)
-- [US Dept. of War — Africom commences Flintlock 2026](https://www.war.gov/News/News-Stories/Article/Article/4460643/) (accesso 2026-07-03)
+- [FT — Trump adviser pushes power-sharing plan for oil-rich Libya](https://www.ft.com/content/f5c43a41-3fa1-486e-a592-7933bc1bdcbd) (accesso 2026-07-03) — **Admiralty B3**
+- [US Dept. of War — Africom commences Flintlock 2026](https://www.war.gov/News/News-Stories/Article/Article/4460643/) (accesso 2026-07-03) — **Admiralty A2**
 - [Al-Araby al-Jadid — L'iniziativa americana in Libia: binari militare ed economico (fonte qatarina)](https://www.alaraby.co.uk/politics/) (accesso 2026-07-14)
 - [Alwasat — Boulos: con i leader di Misurata il sostegno USA al percorso elettorale](https://alwasat.ly/news/libya/524007) (accesso 2026-07-14)
 - [Al Jazeera — Mabadara Boulos: taswiya haqiqiyya am taqasum jadid? (analisi, fonte qatarina)](https://www.aljazeera.net/politics/2026/7/2/) (accesso 2026-07-14)
 - [Al Jazeera — Safqa am mubadara? Trump e l'unificazione della Libia (analisi, fonte qatarina)](https://www.aljazeera.net/news/2026/6/17/) (accesso 2026-07-14)
 - [Libya al-Ahrar — al-Namroush: Sirte per unificare l'istituzione militare, esercitazione nel sud a fine estate](https://libyaalahrar.tv/2026/07/13/) (accesso 2026-07-15)
 - [Al-Wasat — Perché l'iniziativa americana è così controversa in Libia (cita ECFR e Chatham House)](https://alwasat.ly/news/libya/524724) (accesso 2026-07-15)
+- [AP News — US to move ahead with plans to reopen the US Embassy in Libya](https://apnews.com/article/us-libya-1625e9647c918e2c24699799a3dc9e67) (accesso 2026-07-22)
 - [The Libya Observer — Eastern and Western Chiefs of Staff agree to hold joint military exercise in Southern Libya](https://libyaobserver.ly/news/eastern-and-western-chiefs-staff-agree-hold-joint-military-exercise-southern-libya) (accesso 2026-07-16)
-- [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation (contro-framing Lavrov)](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16)
+- [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation (contro-framing Lavrov)](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16) — **Admiralty B3**
 - Altre (provenance): Atlantic Council; Africa Intelligence; US DoS; BBC Monitoring.

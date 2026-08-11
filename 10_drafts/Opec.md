@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "3"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2026-04-29; WSJ 2026-04-23; S&P Global 2026-02-11)"
@@ -30,6 +30,6 @@ L'Organizzazione dei Paesi Esportatori di Petrolio inquadra la governance della 
 - Uno scenario di crollo dei prezzi restringerebbe il margine libico sulle quote. `[verificato: BBC Monitoring]`
 
 ## Fonti
-- [Reuters — UAE exit strips OPEC of clout](https://www.reuters.com/) (accesso 2026-07-03)
-- [WSJ — Libya pumping an extra million barrels a day](https://www.wsj.com/) (accesso 2026-07-03)
+- [Reuters — UAE exit strips OPEC of clout](https://www.reuters.com/) (accesso 2026-07-03) — **Admiralty B3**
+- [WSJ — Libya pumping an extra million barrels a day](https://www.wsj.com/) (accesso 2026-07-03) — **Admiralty B3**
 - [S&P Global — Chevron, Repsol, Eni win Libya blocks](https://www.spglobal.com/) (accesso 2026-07-03)

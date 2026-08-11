@@ -35,5 +35,5 @@ presenza e inserimento socio-lavorativo degli stranieri, raccordando governo cen
 sue leve (quote, riammissione) sono strumenti di diplomazia migratoria coerenti col [[Piano mattei]].
 
 ## Fonti
-- [Ministero dell'Interno — Politiche migratorie](https://www.interno.gov.it/it/temi/immigrazione-e-asilo/politiche-migratorie) (accesso 2026-07-10)
-- [Gazzetta Ufficiale — DPCM 2 ottobre 2025 (cita il TUI)](https://www.gazzettaufficiale.it/eli/id/2025/10/15/25A05656/sg) (accesso 2026-07-10)
+- [Ministero dell'Interno — Politiche migratorie](https://www.interno.gov.it/it/temi/immigrazione-e-asilo/politiche-migratorie) (accesso 2026-07-10) — **Admiralty A2**
+- [Gazzetta Ufficiale — DPCM 2 ottobre 2025 (cita il TUI)](https://www.gazzettaufficiale.it/eli/id/2025/10/15/25A05656/sg) (accesso 2026-07-10) — **Admiralty A2**

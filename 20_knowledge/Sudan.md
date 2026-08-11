@@ -4,11 +4,11 @@ tags: ["#sahel", "#difesa", "#influenza"]
 date: 2026-07-09
 status: "validated"
 depth: "deep"
-sources: "5"
+sources: "6"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-01) + web:verifica-curator (Middle East Eye 3 esclusive 2026; HORN Review; CFR Global Conflict Tracker)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-01, 2026-07-20) + web:verifica-curator (Middle East Eye 3 esclusive 2026; HORN Review; CFR Global Conflict Tracker)"
 ---
 
 # Sudan
@@ -25,6 +25,11 @@ La guerra civile sudanese (esercito SAF vs paramilitari RSF di Hemedti) si salda
 - **Egitto e [[Arabia saudita]] premono su Haftar** perché fermi le forniture emiratine all'RSF, pena un serio raffreddamento dei rapporti — parte di uno sforzo per arginare l'influenza UAE nella regione. `[verificato: Middle East Eye]`
 - Malgrado le pressioni, **le armi continuano a fluire**. Dopo la caduta di el-Fasher, Egitto e Turchia rafforzano il sostegno al SAF. `[verificato: Middle East Eye, CFR]`
 
+## Flusso inverso di rifugiati [MEDIUM confidence]
+- **Lug 2026**: il governo sudanese (PM Kamil Idris) registra **oltre 84.000 cittadini pronti al rientro
+  volontario dall'est libico** (cfr. [[Ritorni volontari]]); voli di rimpatrio in corso. Segnala che l'est di
+  [[Haftar]] è diventato anche un **bacino di rifugiati sudanesi**, non solo arteria dell'RSF. `[verificato: BBC Monitoring/Suna — dato di registrazione, non rientri completati; Suna è agenzia di Stato]`
+
 ## Rilevanza per l'interesse nazionale italiano [MEDIUM confidence]
 La destabilizzazione del triangolo alimenta i flussi migratori verso la Libia (cfr. [[Sahel]], [[Ciad]]) e a competizione tra potenze a ridosso della sponda sud del Mediterraneo.
 
@@ -34,3 +39,4 @@ La destabilizzazione del triangolo alimenta i flussi migratori verso la Libia (c
 - [Middle East Eye — Egypt and Turkey boost support for SAF after fall of el-Fasher](https://www.middleeasteye.net/news/egypt-and-turkey-move-support-saf-following-fall-el-fasher) (accesso 2026-07-09)
 - [HORN Review — The fracturing Arab consensus on Sudan](https://hornreview.org/2026/01/16/from-covert-alignment-to-strategic-encirclement-the-fracturing-arab-consensus-on-sudan/) (accesso 2026-07-09)
 - [CFR — Civil War in Sudan (Global Conflict Tracker)](https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan) (accesso 2026-07-09)
+- [BBC Monitoring — Sudan expects 84,000 returnees from Libya](https://monitoring.bbc.co.uk/product/b00069q5) (accesso 2026-07-22)

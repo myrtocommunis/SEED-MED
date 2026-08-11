@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "validated"
 depth: "deep"
 sources: "6"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "persona"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-29, 2026-05-01; Atlantic Council 2025-10-03) + web:verifica-curator (Kremlin; The Arab Weekly; Militarnyi)"
@@ -45,8 +45,8 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
   Mosca — cfr. [[Italia]], [[Presenza russa]]. `[valutazione]`
 
 ## Fonti
-- [BBC Monitoring — Are cracks appearing in Libya's Haftar family](https://monitoring.bbc.co.uk/product/b0005tpu) (accesso 2026-07-03)
-- [BBC Monitoring — Pakistan-east Libya deal expands China's influence](https://monitoring.bbc.co.uk/product/b0005680) (accesso 2026-07-03)
-- [Kremlin — Meeting with Supreme Commander of the LNA Khalifa Haftar](http://en.kremlin.ru/events/president/news/76896) (accesso 2026-07-10)
+- [BBC Monitoring — Are cracks appearing in Libya's Haftar family](https://monitoring.bbc.co.uk/product/b0005tpu) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Pakistan-east Libya deal expands China's influence](https://monitoring.bbc.co.uk/product/b0005680) (accesso 2026-07-03) — **Admiralty B3**
+- [Kremlin — Meeting with Supreme Commander of the LNA Khalifa Haftar](http://en.kremlin.ru/events/president/news/76896) (accesso 2026-07-10) — **Admiralty A2**
 - [The Arab Weekly — Libya's Haftar meets Putin in Moscow](https://thearabweekly.com/libyas-haftar-meets-putin-moscow-russia-expands-its-footprint-africa) (accesso 2026-07-10)
 - [Militarnyi — Russia bolsters Haftar's forces in Libya](https://militarnyi.com/en/news/heavy-weapons-armored-vehicles-and-air-defense-systems-russia-bolsters-haftar-s-forces-in-libya/) (accesso 2026-07-10)

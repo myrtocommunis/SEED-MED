@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "draft"
 depth: "standard"
 sources: "1"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (UNSC Res. 2819 (2026), 2026-04-14)"
@@ -27,4 +27,4 @@ L'embargo è sistematicamente eluso: l'accordo d'armi [[Pakistan]]-[[Haftar]] (>
 l'esempio più recente e vistoso.
 
 ## Fonti
-- [UNSC — Resolution 2819 (2026)](https://documents.un.org/) (accesso 2026-07-02)
+- [UNSC — Resolution 2819 (2026)](https://documents.un.org/) (accesso 2026-07-02) — **Admiralty A2**

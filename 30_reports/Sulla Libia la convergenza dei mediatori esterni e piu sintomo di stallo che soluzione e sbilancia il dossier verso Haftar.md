@@ -81,7 +81,7 @@ per contrabbando di petrolio e appropriazione di fondi statali. `[verificato: Al
 
 ## Moventi divergenti = convergenza fragile [MEDIUM confidence]
 Sotto la formula comune, i moventi divergono e ne minano la tenuta:
-- **USA**: accesso delle major al greggio libico e contenimento della Russia (movente inferito dal contesto, non da dichiarazione — N1). `[LOW confidence]`
+- **USA**: accesso delle major al greggio libico e **contenimento della Russia** — non più solo inferenza: la notifica del Dip. di Stato per riaprire l'ambasciata (21 lug) lo **mette per iscritto** ("competitori near-peer, in primis la Russia"). `[verificato: AP/Dip. di Stato]`
 - **Pakistan**: branding di "risolutore regionale" post-Iran e vendite d'armi all'est; perfino fonti neutre dubitano della sua **leva reale**. `[verificato: Nikkei, Al-Araby]`
 - **Egitto**: sicurezza nazionale (confine ~1.200 km), ma **equilibrismo** — ripristina i rapporti con Dbeibah per contrastare la Turchia, quindi nemmeno lo sponsor dell'est è monolitico. `[verificato: ISPI, Agenzia Nova]`
 Moventi così eterogenei rendono la convergenza **tattica e reversibile**, non un fronte stabile.

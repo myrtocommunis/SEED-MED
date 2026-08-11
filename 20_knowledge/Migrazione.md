@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "validated"
 depth: "deep"
 sources: "5"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Frontex 2026-06-12; EC 2026-06-12; Economist 2026-06-04)"
@@ -34,8 +34,8 @@ Italia: [[Testo unico immigrazione]] (D.lgs 286/1998) → [[Decreto flussi]] (in
 [[Ritorni volontari]] (IOM/UE dalla Libia).
 
 ## Fonti
-- [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/media-centre/news/news-release/) (accesso 2026-07-02)
-- [EC — New migration and asylum rules](https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en) (accesso 2026-07-02)
+- [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/media-centre/news/news-release/) (accesso 2026-07-02) — **Admiralty A2**
+- [EC — New migration and asylum rules](https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en) (accesso 2026-07-02) — **Admiralty A2**
 - Economist — Europe has reduced illegal immigration (2026-06-04)
 - [ANSA — Frontex: ingressi irregolari UE -37% nel primo semestre 2026](https://www.ansa.it/ansamed/it/notizie/rubriche/euromed/2026/07/10/frontex-calano-gli-ingressi-irregolari-nellue-37-nei-primi-sei-mesi_e29da821-70c1-4e14-9da6-2b28245497f4.html) (accesso 2026-07-10)
 - [AgenSIR — Frontex: attraversamenti -37%, oltre 1.300 morti nel Mediterraneo](https://www.agensir.it/quotidiano/2026/7/13/migrazioni-frontex-attraversamenti-irregolari-alle-frontiere-ue-giu-del-37-nel-mediterraneo-oltre-1-300-morti/) (accesso 2026-07-10)

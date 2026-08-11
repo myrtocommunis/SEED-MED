@@ -5,7 +5,7 @@ date: 2026-07-09
 status: "validated"
 depth: "deep"
 sources: "5"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-10-02; BBC Monitoring 2026-04-06; Reuters 2026-04-29) + web:verifica-curator (Atlantic Council; The National; Middle East Eye 2026-07)"
@@ -36,5 +36,5 @@ nodo della competizione tra potenze del Golfo, ora anche sul piano energetico.
 - [Atlantic Council — The UAE is making a precarious shift in its Libya policy](https://www.atlanticcouncil.org/blogs/menasource/the-uae-is-making-a-precarious-shift-in-its-libya-policy-heres-why/) (accesso 2026-07-09)
 - [The National — President Sheikh Mohamed receives Libya's Dbeibah](https://www.thenationalnews.com/news/uae/2026/07/02/president-sheikh-mohamed-receives-libyas-abdul-hamid-dbeibah/) (accesso 2026-07-09)
 - [Middle East Eye — How the UAE continued supporting Sudan's RSF through Haftar and Libya](https://www.middleeasteye.net/news/how-uae-continued-supporting-sudans-rsf-through-haftar-and-libya) (accesso 2026-07-09)
-- [Reuters — UAE exit strips OPEC of clout](https://www.reuters.com/) (accesso 2026-07-09)
-- [BBC Monitoring — Sudan and Libya agree on intelligence-sharing](https://monitoring.bbc.co.uk/product/b0005pnj) (accesso 2026-07-09)
+- [Reuters — UAE exit strips OPEC of clout](https://www.reuters.com/) (accesso 2026-07-09) — **Admiralty B3**
+- [BBC Monitoring — Sudan and Libya agree on intelligence-sharing](https://monitoring.bbc.co.uk/product/b0005pnj) (accesso 2026-07-09) — **Admiralty B3**

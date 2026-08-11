@@ -5,7 +5,7 @@ date: 2026-07-07
 status: "validated"
 depth: "deep"
 sources: "5"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "concept"
 provenance:
   - "web:verifica-curator (AGBI 2026-02; Pipeline Technology Journal; Resource Governance Institute; Cambridge/Israel Law Review; ECFR; EIA)"
@@ -40,4 +40,4 @@ della [[Diversificazione energetica]] italiana, ma ostaggio delle [[Dispute zee]
 - [Resource Governance Institute — The East Mediterranean Gas Forum](https://resourcegovernance.org/sites/default/files/documents/the_east_mediterranean_gas_forum_regional_cooperation_amid_conflicting_interests_0.pdf) (accesso 2026-07-07)
 - [Cambridge / Israel Law Review — EMGF as platform for a regional energy treaty](https://www.cambridge.org/core/journals/israel-law-review/article/east-mediterranean-gas-forum-as-a-platform-for-a-regional-energy-treaty/3EFE06A26EAE167A705F96670B8EB031) (accesso 2026-07-07)
 - [ECFR — Europe, Turkey and eastern Mediterranean conflict lines (timeline)](https://ecfr.eu/special/eastern_med/timeline) (accesso 2026-07-07)
-- [EIA — Eastern Mediterranean Energy Overview](https://www.eia.gov/international/content/analysis/regions_of_interest/Eastern_Mediterranean/pdf/eastern-mediterranean.pdf) (accesso 2026-07-07)
+- [EIA — Eastern Mediterranean Energy Overview](https://www.eia.gov/international/content/analysis/regions_of_interest/Eastern_Mediterranean/pdf/eastern-mediterranean.pdf) (accesso 2026-07-07) — **Admiralty A2**

@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "4"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (RFI 2026-04-06; AP 2026-04-07; BBC Monitoring 2026-03-03, 2026-03-04, 2026-03-27)"
@@ -35,4 +35,4 @@ a ridosso delle acque italiane.
 
 ## Fonti
 - [AP News — Ukrainian forces attacked a Russian tanker from Libya](https://apnews.com/article/libya-ukraine-russia-tanker-drones-4b9ec378ea1bf064d13cfe4ea026d2d4) (accesso 2026-07-03)
-- [BBC Monitoring — Russia says gas tanker attacked, accuses Ukraine](https://monitoring.bbc.co.uk/product/b0005jb2) (accesso 2026-07-03)
+- [BBC Monitoring — Russia says gas tanker attacked, accuses Ukraine](https://monitoring.bbc.co.uk/product/b0005jb2) (accesso 2026-07-03) — **Admiralty B3**

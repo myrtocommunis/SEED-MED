@@ -38,6 +38,6 @@ responsabilità del primo approdo e il meccanismo di solidarietà — bilanciati
 esternalizzazione. Vedi [[Migrazione]].
 
 ## Fonti
-- [EC — Pact on Migration and Asylum](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/pact-migration-and-asylum_en) (accesso 2026-07-10)
-- EC — New Pact on Migration and Asylum, COM(2020) 609 final (2020-09-23)
+- [EC — Pact on Migration and Asylum](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/pact-migration-and-asylum_en) (accesso 2026-07-10) — **Admiralty A2**
+- EC — New Pact on Migration and Asylum, COM(2020) 609 final (2020-09-23) — **Admiralty A2**
 - [Infomigrants — Is Europe closing its doors (CEAS 12 giugno)](https://www.infomigrants.net/en/post/71669/refugees-and-migration-is-europe-closing-its-doors) (accesso 2026-07-10)

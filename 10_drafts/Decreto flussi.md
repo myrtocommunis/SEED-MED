@@ -35,5 +35,5 @@ Il decreto salda la gestione dei flussi legali con il contrasto all'irregolare (
 la cooperazione dei Paesi di origine/transito, coerente con la logica del [[Piano mattei]].
 
 ## Fonti
-- [Gazzetta Ufficiale — DPCM 2 ottobre 2025, flussi 2026-2028](https://www.gazzettaufficiale.it/eli/id/2025/10/15/25A05656/sg) (accesso 2026-07-10)
-- [Ministero dell'Interno — Politiche migratorie](https://www.interno.gov.it/it/temi/immigrazione-e-asilo/politiche-migratorie) (accesso 2026-07-10)
+- [Gazzetta Ufficiale — DPCM 2 ottobre 2025, flussi 2026-2028](https://www.gazzettaufficiale.it/eli/id/2025/10/15/25A05656/sg) (accesso 2026-07-10) — **Admiralty A2**
+- [Ministero dell'Interno — Politiche migratorie](https://www.interno.gov.it/it/temi/immigrazione-e-asilo/politiche-migratorie) (accesso 2026-07-10) — **Admiralty A2**

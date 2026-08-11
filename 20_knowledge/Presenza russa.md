@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "validated"
 depth: "deep"
 sources: "7"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (RFI 2025-06-23; BBC Monitoring 2026-04-21, 2026-04-24, 2026-05-01, 2026-07-15; Agenzia Nova 2026-04-22) + 00_inbox/dataset_terrorismo (Africa Corps/Telegram 2026-07-10 — fonte combattente E5)"
@@ -42,7 +42,7 @@ crescente competizione da parte di USA ([[Mediazione statunitense]]) e [[Ucraina
   Libia" — se fondato — salderebbe il Fezzan al teatro jihadista. `[rivendicazione: Africa Corps — fonte combattente, Admiralty E5, nessuna corroborazione terza (N1)]`
 
 ## Fonti
-- [BBC Monitoring — Russia doubles down on Tripoli ties](https://monitoring.bbc.co.uk/product/b0005sb0) (accesso 2026-07-03)
-- [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16)
+- [BBC Monitoring — Russia doubles down on Tripoli ties](https://monitoring.bbc.co.uk/product/b0005sb0) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16) — **Admiralty B3**
 - [Africa Corps (Telegram) — Anefis, 10 lug 2026](https://t.me/KorpusAfrica2/1158) — **fonte combattente, E5**; la ripresa [BBC Monitoring](https://monitoring.bbc.co.uk/product/b000684i) è traduzione dello stesso post, non fonte indipendente (accesso 2026-07-16)
 - [Agenzia Nova — La Russia ritira asset da Sirte](https://www.agenzianova.com/news/esclusiva-libia-russia-ritira-gli-asset-militari-dalla-costa-di-sirte-e-li-riposiziona-nel-deserto/) (accesso 2026-07-03)

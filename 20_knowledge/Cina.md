@@ -5,7 +5,7 @@ date: 2026-07-09
 status: "validated"
 depth: "deep"
 sources: "6"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-11-13; BBC Monitoring 2026-03-27; LANA 2026-07-14) + web:verifica-curator (gov.cn/FOCAC; Atlantic Council; Libya Herald 2026-05)"
@@ -38,9 +38,9 @@ industrial-militare — difesa.
 Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 
 ## Fonti
-- [gov.cn — China, Libya establish strategic partnership (FOCAC)](https://english.www.gov.cn/news/202409/04/content_WS66d861d0c6d0868f4e8ea9ad.html) (accesso 2026-07-09)
+- [gov.cn — China, Libya establish strategic partnership (FOCAC)](https://english.www.gov.cn/news/202409/04/content_WS66d861d0c6d0868f4e8ea9ad.html) (accesso 2026-07-09) — **Admiralty A2**
 - [Libya Herald — Libya views China as strategic reconstruction partner](https://libyaherald.com/2026/05/libyan-chinese-dialogue-libya-views-china-as-a-strategic-partner-in-the-reconstruction-and-development-phase/) (accesso 2026-07-09)
 - [Atlantic Council — Beijing is making inroads in North Africa](https://www.atlanticcouncil.org/blogs/menasource/china-north-africa-focac-cascf-trade/) (accesso 2026-07-09)
 - [Africa Intelligence — Beijing is back in business in Libya](https://www.africaintelligence.com/north-africa/2025/11/13/from-tripolitania-to-cyrenaica-beijing-is-finally-back-in-business,110558684-eve) (accesso 2026-07-09)
-- [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-09)
-- [LANA — Il Consiglio Supremo di Stato discute il partenariato libico-cinese nello sviluppo](https://lana.gov.ly/post.php?lang=ar&id=361648) (accesso 2026-07-15)
+- [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-09) — **Admiralty B3**
+- [LANA — Il Consiglio Supremo di Stato discute il partenariato libico-cinese nello sviluppo](https://lana.gov.ly/post.php?lang=ar&id=361648) (accesso 2026-07-15) — **Admiralty A2**

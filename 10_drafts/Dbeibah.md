@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "3"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "persona"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-03-23, 2025-12-20, 2026-02-21; Africa Intelligence 2026-03-20)"
@@ -30,4 +30,4 @@ figura centrale e contestata della [[Frammentazione interna]] libica.
 
 ## Fonti
 - [Africa Intelligence — Dbeibeh sacks Washington lobbying firm](https://www.africaintelligence.com/) (accesso 2026-07-03)
-- [BBC Monitoring — Libya PM affirms wellbeing after treatment](https://monitoring.bbc.co.uk/product/b0005h3h) (accesso 2026-07-03)
+- [BBC Monitoring — Libya PM affirms wellbeing after treatment](https://monitoring.bbc.co.uk/product/b0005h3h) (accesso 2026-07-03) — **Admiralty B3**

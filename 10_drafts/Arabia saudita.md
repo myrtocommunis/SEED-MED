@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "2"
-admiralty: "C3"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-21, 2026-04-20)"
@@ -30,5 +30,5 @@ sull'est di [[Haftar]].
 - Investimenti economici sauditi diretti in Libia: **nessuna fonte verificata trovata** in questo corpus (N1).
 
 ## Fonti
-- [BBC Monitoring — Haftar-Pakistan links and Saudi influence](https://monitoring.bbc.co.uk/product/b000552c) (accesso 2026-07-03)
-- [BBC Monitoring — Several countries welcome Libya's unified budget](https://monitoring.bbc.co.uk/product/b0005s0l) (accesso 2026-07-03)
+- [BBC Monitoring — Haftar-Pakistan links and Saudi influence](https://monitoring.bbc.co.uk/product/b000552c) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Several countries welcome Libya's unified budget](https://monitoring.bbc.co.uk/product/b0005s0l) (accesso 2026-07-03) — **Admiralty B3**

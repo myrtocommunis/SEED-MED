@@ -8,7 +8,7 @@ date: 2026-07-09
 status: validated
 depth: deep
 sources: "7"
-admiralty: B2
+admiralty: "A2"
 tipo: concept
 provenance:
   - 00_inbox/dataset_libia/dataset_web_libia (EC 2026-06-01; Euronews 2026-06-17; POLITICO 2026-06-24; The Libya Observer 2026-07-02; Infomigrants 2026-03-13) + web:verifica-curator (Il Sole 24 Ore; ANSA)
@@ -46,5 +46,5 @@ persino l'esclusione di Libia/Egitto potrebbero rivelarsi reversibili. Opposizio
 - [ANSA — Meloni raduna i falchi: 'Ora gli hub Ue per i rimpatri'](https://www.ansa.it/sito/notizie/politica/2026/06/19/meloni-raduna-i-falchi-sui-migranti-ora-gli-hub-ue-per-i-rimpatri._6920370f-389b-49fc-9e91-b923d21f59d6.html) (accesso 2026-07-09)
 - [The Libya Observer — EU rules out Libya/Egypt for return centers](https://libyaobserver.ly/news/after-ruling-out-libya-and-egypt-eu-considers-return-centers-rwanda-and-uzbekistan-rejected) (accesso 2026-07-09)
 - [Euronews — EU Parliament approves 'strictest-ever' migration law](https://www.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law) (accesso 2026-07-09)
-- [EC — Political agreement on the Return Regulation](https://ec.europa.eu/) (accesso 2026-07-09)
+- [EC — Political agreement on the Return Regulation](https://ec.europa.eu/) (accesso 2026-07-09) — **Admiralty A2**
 - [Infomigrants — EU migrant 'return hubs' explained](https://www.infomigrants.net/en/post/70346/eu-migrant-return-hubs--explained) (accesso 2026-07-10)

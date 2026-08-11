@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "4"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "persona"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (FT 2026-02-04; Economist 2026-02-19; BBC Monitoring 2026-02-05, 2026-03-06)"
@@ -29,5 +29,5 @@ ucciso all'inizio del 2026.
   Brigata 444 (che nega) o a parti straniere. Cfr. [[Milizie]]. `[verificato: BBC Monitoring — mandanti non accertati]`
 
 ## Fonti
-- [FT — Saif al-Islam Gaddafi killed in attack](https://www.ft.com/content/8b707c0e-ad69-41df-bda9-ea3b8efcac93) (accesso 2026-07-03)
+- [FT — Saif al-Islam Gaddafi killed in attack](https://www.ft.com/content/8b707c0e-ad69-41df-bda9-ea3b8efcac93) (accesso 2026-07-03) — **Admiralty B3**
 - [Economist — Libya has no good options for leaders](https://www.economist.com/) (accesso 2026-07-03)

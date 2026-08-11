@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "3"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-01-19, 2026-04-20; PR Newswire 2026-01-20; Africa Intelligence 2025-11-21)"
@@ -28,5 +28,5 @@ in contrapposizione all'asse [[Emirati]]-est.
   sostegno al [[Bilancio libico]] unificato. `[verificato: BBC Monitoring]`
 
 ## Fonti
-- [BBC Monitoring — Libya signs $2.7bn Misrata Free Zone deal](https://monitoring.bbc.co.uk/product/b0005a5z) (accesso 2026-07-03)
+- [BBC Monitoring — Libya signs $2.7bn Misrata Free Zone deal](https://monitoring.bbc.co.uk/product/b0005a5z) (accesso 2026-07-03) — **Admiralty B3**
 - [PR Newswire — Misrata Free Zone $2.7bn PPP](https://www.prnewswire.com/it/comunicati-stampa/lautorita-della-zona-franca-di-misurata-firma-un-partenariato-pubblico-privato-strategico-da-2-7-miliardi-di-dollari) (accesso 2026-07-03)

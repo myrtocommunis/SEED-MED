@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "4"
-admiralty: "C3"
+admiralty: "B3"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-26, 2026-01-18, 2026-02-02)"
@@ -50,6 +50,6 @@ alimenta la [[Migrazione]] verso l'Europa e la penetrazione russa.
 Si intreccia con [[Sudan]] e [[Ciad]] nel triangolo di confine meridionale.
 
 ## Fonti
-- [BBC Monitoring — Sahel instability fuels irregular migration](https://monitoring.bbc.co.uk/product/b00055yr) (accesso 2026-07-03)
-- [BBC Monitoring — Russian cargo jets flying uranium out of Niger](https://monitoring.bbc.co.uk/product/b00059z2) (accesso 2026-07-03)
+- [BBC Monitoring — Sahel instability fuels irregular migration](https://monitoring.bbc.co.uk/product/b00055yr) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Russian cargo jets flying uranium out of Niger](https://monitoring.bbc.co.uk/product/b00059z2) (accesso 2026-07-03) — **Admiralty B3**
 - [Africa Corps (Telegram) — Anefis, 10 lug 2026](https://t.me/KorpusAfrica2/1158) — **fonte combattente, Admiralty E5** (ripreso in traduzione da [BBC Monitoring](https://monitoring.bbc.co.uk/product/b000684i): stesso post, non fonte indipendente) (accesso 2026-07-16)

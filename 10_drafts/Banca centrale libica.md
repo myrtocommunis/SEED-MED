@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "draft"
 depth: "standard"
 sources: "3"
-admiralty: "B2"
+admiralty: "B3"
 tipo: "organization"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Reuters 2026-04-11; BBC Monitoring 2026-01-18; Africa Intelligence 2025-11-21)"
@@ -33,5 +33,5 @@ riunificazione istituzionale (cfr. [[Bilancio libico]]). Governatore: Naji Issa.
 [[Libyan investment authority]] · [[Bilancio libico]] · [[Petrolio]].
 
 ## Fonti
-- [Reuters — Libya signs first unified state budget in over a decade](https://www.reuters.com/) (accesso 2026-07-03)
-- [BBC Monitoring — Libya devalues dinar amid budget paralysis](https://monitoring.bbc.co.uk/product/b0005a0k) (accesso 2026-07-03)
+- [Reuters — Libya signs first unified state budget in over a decade](https://www.reuters.com/) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Libya devalues dinar amid budget paralysis](https://monitoring.bbc.co.uk/product/b0005a0k) (accesso 2026-07-03) — **Admiralty B3**

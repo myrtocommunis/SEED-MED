@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "validated"
 depth: "deep"
 sources: "5"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "organization"
 provenance:
   - "seed:elevazione-hub + web:verifica-curator (Eni governance; MEF; Eni press 2026-03; Il Sole 24 Ore 2026)"
@@ -41,7 +41,7 @@ Eni collega i [[Gasdotti]] nordafricani, la sicurezza energetica e la cornice de
 
 ## Fonti
 - [Eni — Assetto proprietario / Shareholding structure](https://www.eni.com/en-IT/governance/shareholding-structure.html) (accesso 2026-07-03)
-- [MEF — ENI: MEF places 2.8% of share capital](https://www.de.mef.gov.it/en/news/2024/eni_mef.html) (accesso 2026-07-03)
+- [MEF — ENI: MEF places 2.8% of share capital](https://www.de.mef.gov.it/en/news/2024/eni_mef.html) (accesso 2026-07-03) — **Admiralty A2**
 - [Eni — Attività globali](https://www.eni.com/en-IT/actions/global-activities/libya.html) (accesso 2026-07-02)
 - [Eni — New gas discoveries in Libya (BESS 2/3)](https://www.eni.com/en-IT/media/press-release/2026/03/pr-eni-announces-new-gas-discoveries-lybia.html) (accesso 2026-07-10)
 - [Il Sole 24 Ore — Algeria, pillar of Italian energy diversification, 20 bcm in 2025](https://en.ilsole24ore.com/art/transmed-gas-arrived-20-billion-cubic-metres-2025-heres-how-much-algeria-weighs-italian-flows-AIPiuy9B) (accesso 2026-07-10)

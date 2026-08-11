@@ -5,7 +5,7 @@ date: 2026-07-07
 status: "validated"
 depth: "deep"
 sources: "6"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13; UNSMIL/X 2026-07-14) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
@@ -36,7 +36,7 @@ tra la road map ONU e la [[Mediazione statunitense]].
 ## Fonti
 - [Libya Observer — Three councils agree elections before 17 Feb 2027](https://libyaobserver.ly/news/libyas-three-councils-reach-agreement-hold-elections-february-17-2027) (accesso 2026-07-07)
 - [Middle East Monitor — Roadmap for elections by February 2027](https://www.middleeastmonitor.com/20260618-libyas-rival-leaders-agree-roadmap-for-presidential-parliamentary-elections-by-february-2027/) (accesso 2026-07-07)
-- [UNSMIL — Political Roadmap](https://unsmil.unmissions.org/en/political-roadmap) (accesso 2026-07-07)
+- [UNSMIL — Political Roadmap](https://unsmil.unmissions.org/en/political-roadmap) (accesso 2026-07-07) — **Admiralty A2**
 - [Xinhua — Libya's political bodies agree on roadmap](https://english.news.cn/20260618/76336ab7ca7d48ae9ffba91f4c687cad/c.html) (accesso 2026-07-07)
 
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)

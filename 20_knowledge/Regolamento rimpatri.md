@@ -7,7 +7,7 @@ date: 2026-07-10
 status: validated
 depth: deep
 sources: "6"
-admiralty: A2
+admiralty: "A2"
 tipo: concept
 provenance:
   - 00_inbox/dataset_libia/dataset_web_libia (EC 2025-03-11; EC 2026-06-01; Avvenire 2026-06-02; Euronews 2026-06-17; Infomigrants 2026-03-13; EUR-Lex COM(2025)101)
@@ -41,9 +41,9 @@ Roma è tra i motori politici della stretta (con Danimarca e Paesi Bassi); la Le
 Vedi [[Return hubs]] per il capitolo esternalizzazione e [[Migrazione]] per il quadro.
 
 ## Fonti
-- [EC — Commission proposes a new Common European System for Returns](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_724) (accesso 2026-07-10)
-- [EC — Commission welcomes political agreement on the Return Regulation](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1222) (accesso 2026-07-10)
+- [EC — Commission proposes a new Common European System for Returns](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_724) (accesso 2026-07-10) — **Admiralty A2**
+- [EC — Commission welcomes political agreement on the Return Regulation](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1222) (accesso 2026-07-10) — **Admiralty A2**
 - [Avvenire — Che cosa prevede la stretta dell'Ue sui rimpatri](https://www.avvenire.it/attualita/migranti-leuropa-trova-laccordo-sui-rimpatri_109162) (accesso 2026-07-10)
 - [Euronews — EU Parliament approves 'strictest-ever' migration law](https://www.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law) (accesso 2026-07-10)
 - [Infomigrants — EU migrant 'return hubs' explained](https://www.infomigrants.net/en/post/70346/eu-migrant-return-hubs--explained) (accesso 2026-07-10)
-- EUR-Lex — Proposal for a regulation, common system of return, COM(2025) 101 final (2025-03-11)
+- EUR-Lex — Proposal for a regulation, common system of return, COM(2025) 101 final (2025-03-11) — **Admiralty A2**

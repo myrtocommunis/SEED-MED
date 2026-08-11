@@ -5,7 +5,7 @@ date: 2026-07-03
 status: "validated"
 depth: "deep"
 sources: "6"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Viminale/Cruscotto 2026-06-15; Frontex 2026-06-12; MMC 2026-03-05; DTM 2026-03-10) + web:verifica-curator (Open Arms; ISPI/OIM)"
@@ -35,7 +35,7 @@ irregolare verso l'Europa.
   Europa in calo ~40%: **"si parte di meno, si muore di più"**. `[verificato: ISPI/OIM]`
 
 ## Fonti
-- [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/) (accesso 2026-07-03)
+- [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/) (accesso 2026-07-03) — **Admiralty A2**
 - [MMC — Bangladeshi migration to Italy via Libya](https://mixedmigration.org/articles/how-bangladeshi-migration-to-italy-via-libya-operates/) (accesso 2026-07-03)
 - [Open Arms — Rotta del Mediterraneo Centrale](https://www.openarms.es/it/flussi-migratori/rotta-del-mediterraneo-centrale) (accesso 2026-07-10)
 - [ISPI — Migrazioni nel Mediterraneo: tutti i numeri](https://www.ispionline.it/it/pubblicazione/migrazioni-nel-mediterraneo-tutti-i-numeri-24892) (accesso 2026-07-10)

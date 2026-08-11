@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "draft"
 depth: "standard"
 sources: "1"
-admiralty: "C3"
+admiralty: "B3"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-01-14)"
@@ -30,4 +30,4 @@ guidato dal figlio Belkacem).
   sottoinsieme (N1). Da approfondire con i PDF Africa Intelligence non ancora estratti.
 
 ## Fonti
-- [BBC Monitoring — How Libya's reconstruction became a battleground](https://monitoring.bbc.co.uk/product/b00057zm) (accesso 2026-07-02)
+- [BBC Monitoring — How Libya's reconstruction became a battleground](https://monitoring.bbc.co.uk/product/b00057zm) (accesso 2026-07-02) — **Admiralty B3**

@@ -5,7 +5,7 @@ date: 2026-07-02
 status: "draft"
 depth: "standard"
 sources: "2"
-admiralty: "B2"
+admiralty: "A2"
 tipo: "concept"
 provenance:
   - "seed:demo-consolidato + web:verifica-curator (governo.it; esteri.it/ISPI)"
@@ -32,5 +32,5 @@ in un'unica cornice. Efficacia sulle partenze ancora non dimostrata da dati indi
   (astensione calibrata, N1). Non stimata.
 
 ## Fonti
-- [governo.it — Piano Mattei per l'Africa](https://www.governo.it/it/piano-mattei) (accesso 2026-07-02)
+- [governo.it — Piano Mattei per l'Africa](https://www.governo.it/it/piano-mattei) (accesso 2026-07-02) — **Admiralty A2**
 - [esteri.it/ISPI — Il Piano Mattei (PDF)](https://www.esteri.it/wp-content/uploads/2024/07/ISPI_FPC-Piano-Mattei.pdf) (accesso 2026-07-02)
