@@ -5,7 +5,7 @@ date: 2026-07-14
 status: "validated"
 depth: "deep"
 sources: "14"
-admiralty: "B3"
+admiralty: "B2"
 tipo: "concept"
 provenance:
   - "00_inbox/dataset_libia/dataset_web_libia (Atlantic Council 2025-10-03; Africa Intelligence 2026-03-13; FT 2026-06-17; US DoW 2026-04-15; US DoS 2026-04-18; BBC Monitoring 2026-04-25 e 2026-07-15; Al-Araby al-Jadid 2026-07-10; Alwasat 2026-07-07 e 2026-07-14; Al Jazeera 2026-06-17 e 2026-07-02; Libya al-Ahrar 2026-07-13; The Libya Observer 2026-07-12; Divisione media militare LNA 2026-07-12; AP News/Dip. di Stato 2026-07-21) + esperti citati: ECFR (Megerisi), Chatham House (Eaton)"
