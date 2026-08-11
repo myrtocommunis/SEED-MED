@@ -1,10 +1,11 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-07-22 (re-check post-ingest)** · maintainer (inline) · audit read-only.
-> Delta: ingest 18-20 lug — Turchia (hedging esteso all'est: contratto frontiere con l'LNA), Frammentazione
-> interna (governo auto-proclamato a Ginevra + collasso rete elettrica), Egitto (export elettrico). Nota:
-> `Frammentazione interna` ora a 5 fonti pur restando `standard` — candidata a promozione `deep` (richiede
-> matrice gap + giro adversary).
+> Esecuzione: **2026-08-12 (re-check post-ingest)** · maintainer (inline) · audit read-only.
+> Delta: ingest 20 lug-4 ago (19 PDF) — riapertura ambasciata USA (cui bono anti-Russia ora DOCUMENTATO),
+> flusso inverso Sudan (84.000 rientri dall'est libico), Ciad-Haftar, scontri Zawiya-Sorman. Note toccate:
+> Mediazione statunitense (14), Sudan (6), Ritorni volontari (2), Ciad (5), Milizie (6) + report.
+> Osservazione (non-finding): `Mediazione statunitense` è ora `admiralty B3` (modifica linter) pur avendo 14
+> fonti tra cui primarie forti (FT, AP, US DoS/DoW) — B2 sarebbe più coerente; decisione umana.
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
 | # | Check | Esito |
