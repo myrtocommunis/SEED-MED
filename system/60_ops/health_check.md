@@ -1,11 +1,9 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-08-12 (re-check post-ingest)** · maintainer (inline) · audit read-only.
-> Delta: ingest 20 lug-4 ago (19 PDF) — riapertura ambasciata USA (cui bono anti-Russia ora DOCUMENTATO),
-> flusso inverso Sudan (84.000 rientri dall'est libico), Ciad-Haftar, scontri Zawiya-Sorman. Note toccate:
-> Mediazione statunitense (14), Sudan (6), Ritorni volontari (2), Ciad (5), Milizie (6) + report.
-> Osservazione (non-finding): `Mediazione statunitense` è ora `admiralty B3` (modifica linter) pur avendo 14
-> fonti tra cui primarie forti (FT, AP, US DoS/DoW) — B2 sarebbe più coerente; decisione umana.
+> Esecuzione: **2026-08-18 (re-check)** · maintainer (inline) · audit read-only.
+> Delta: 2 nuove note (`Intelligence libica`, `Infrastrutture energetiche libiche`, entrambe non orfane) +
+> aggiornamenti (Banca centrale libica, Haftar, Migrazione, Italia, Presenza russa — fronte navale IRINI/flotta
+> ombra e ritorsione di Putin). Il vault è passato a **55 note** (28 validated + 27 draft) con 2 promozioni umane.
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
 | # | Check | Esito |
