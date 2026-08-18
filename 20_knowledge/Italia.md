@@ -41,7 +41,7 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
 - **Intelligence a Bengasi**: il capo dell'**AISE, gen. Giovanni Caravelli**, incontra Saddam [[Haftar]]
   (7-8 lug) su **antiterrorismo e contrasto alla migrazione irregolare** — Roma dialoga direttamente con
-  l'est libico sul dossier migratorio. `[verificato: BBC Monitoring/Al-Masar]`
+  l'est libico sul dossier migratorio (cfr. [[Intelligence libica]]). `[verificato: BBC Monitoring/Al-Masar]`
 - **Ricostruzione**: il console generale a Bengasi **Filippo Colombo** in sopralluogo a Sabri per il restauro
   degli edifici di architettura italiana (esperienza italiana nella ricostruzione). `[verificato: La4News]`
 - Colloqui Libia-[[Malta]] su migrazione ed energia nel Mediterraneo centrale.

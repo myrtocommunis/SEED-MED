@@ -42,6 +42,8 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
 - ⚠️ **N2 — versioni divergenti**: quattro fonti parlano di **accordo/riscatto** (mediatore: il maliano Cherif
   Ould Tahar, legato a reti armate e di contrabbando); l'LNA rivendica invece un **raid militare** di commando
   in Mali. Reuters non conferma la versione LNA — probabile info-op per nobilitare un'operazione negoziale. `[verificato: Reuters]`
+- **10-11 ago 2026**: il capo dell'**intelligence militare** dell'LNA, brig. **Fawzi al-Mansouri**, ucciso da
+  un'autobomba a Bengasi — neanche la roccaforte orientale è immune da faide interne (cfr. [[Intelligence libica]]). `[verificato: Reuters]`
 
 ## Sintesi strategica [MEDIUM confidence]
 - **Multi-allineamento, non lealtà**: Haftar accetta armi russe, dialoga con Boulos
