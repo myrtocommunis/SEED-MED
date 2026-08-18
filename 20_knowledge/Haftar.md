@@ -4,11 +4,11 @@ tags: ["#difesa"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "B3"
 tipo: "persona"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-29, 2026-05-01; Atlantic Council 2025-10-03) + web:verifica-curator (Kremlin; The Arab Weekly; Militarnyi)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2025-12-29, 2026-05-01; Atlantic Council 2025-10-03) + web:verifica-curator (Kremlin; The Arab Weekly; Militarnyi; Reuters 2026-08-15)"
 ---
 
 # Haftar
@@ -33,6 +33,16 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
 - Secondo **Militarnyi** (outlet ucraino, con slant anti-russo) le forniture russe all'LNA includono lanciarazzi
   **BM-30 Smerch**, difesa aerea **Tor**, **BMP-2M** e **BTR-82A**. `[verificato: Militarnyi — fonte singola]`
 
+## Broker di sicurezza saheliano [HIGH confidence]
+- **14-15 ago 2026**: le forze dell'est aiutano a liberare l'ostaggio USA **Kevin Rideout** (missionario
+  detenuto da un affiliato dell'**ISIS** nel [[Sahel]], rapito in [[Niger]] a ottobre), scortandolo fino a
+  Bengasi. Reuters: Haftar "si è ritagliato il ruolo di grande **broker di sicurezza** nel Sahel e lo usa come
+  leva per **ingraziarsi l'amministrazione Trump**" — conferma concreta della tesi del multi-allineamento e
+  dell'east-tilt (cfr. [[Mediazione statunitense]]). `[verificato: Reuters]`
+- ⚠️ **N2 — versioni divergenti**: quattro fonti parlano di **accordo/riscatto** (mediatore: il maliano Cherif
+  Ould Tahar, legato a reti armate e di contrabbando); l'LNA rivendica invece un **raid militare** di commando
+  in Mali. Reuters non conferma la versione LNA — probabile info-op per nobilitare un'operazione negoziale. `[verificato: Reuters]`
+
 ## Sintesi strategica [MEDIUM confidence]
 - **Multi-allineamento, non lealtà**: Haftar accetta armi russe, dialoga con Boulos
   ([[Mediazione statunitense]]), riceve Piantedosi e compra JF-17 [[Pakistan]]-i. Non è un blocco, è una **leva
@@ -50,3 +60,4 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
 - [Kremlin — Meeting with Supreme Commander of the LNA Khalifa Haftar](http://en.kremlin.ru/events/president/news/76896) (accesso 2026-07-10) — **Admiralty A2**
 - [The Arab Weekly — Libya's Haftar meets Putin in Moscow](https://thearabweekly.com/libyas-haftar-meets-putin-moscow-russia-expands-its-footprint-africa) (accesso 2026-07-10)
 - [Militarnyi — Russia bolsters Haftar's forces in Libya](https://militarnyi.com/en/news/heavy-weapons-armored-vehicles-and-air-defense-systems-russia-bolsters-haftar-s-forces-in-libya/) (accesso 2026-07-10)
+- [Reuters — Haftar played key role in release of US hostage held by Islamic State](https://www.reuters.com/world/africa/libyas-haftar-played-key-role-release-us-hostage-held-by-islamic-state-sources-2026-08-14/) (accesso 2026-08-18)

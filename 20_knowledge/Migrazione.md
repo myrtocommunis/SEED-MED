@@ -4,7 +4,7 @@ tags: ["#migrazione", "#italia"]
 date: 2026-07-02
 status: "validated"
 depth: "deep"
-sources: "5"
+sources: "6"
 admiralty: "A2"
 tipo: "concept"
 provenance:
@@ -39,6 +39,7 @@ Italia: [[Testo unico immigrazione]] (D.lgs 286/1998) → [[Decreto flussi]] (in
 - Economist — Europe has reduced illegal immigration (2026-06-04)
 - [ANSA — Frontex: ingressi irregolari UE -37% nel primo semestre 2026](https://www.ansa.it/ansamed/it/notizie/rubriche/euromed/2026/07/10/frontex-calano-gli-ingressi-irregolari-nellue-37-nei-primi-sei-mesi_e29da821-70c1-4e14-9da6-2b28245497f4.html) (accesso 2026-07-10)
 - [AgenSIR — Frontex: attraversamenti -37%, oltre 1.300 morti nel Mediterraneo](https://www.agensir.it/quotidiano/2026/7/13/migrazioni-frontex-attraversamenti-irregolari-alle-frontiere-ue-giu-del-37-nel-mediterraneo-oltre-1-300-morti/) (accesso 2026-07-10)
+- [Reuters — EU agrees rescue centre in eastern Libya as migrant departures rise](https://www.reuters.com/world/africa/eu-agrees-rescue-centre-eastern-libya-migrant-departures-rise-2026-07-30/) (accesso 2026-08-18)
 
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
 - **Rimpatri in corso** (OIM/UE): 112 somali via Sabha (2 lug), ~130 somali a Mogadiscio (3 lug), 118
@@ -47,3 +48,7 @@ Italia: [[Testo unico immigrazione]] (D.lgs 286/1998) → [[Decreto flussi]] (in
   ispezioni coercitive in alto mare sull'embargo armi); resta solo la Ris. 1970/2011. A giugno: 434 controlli
   radio, 60 voli sospetti monitorati. `[verificato: Agenzia Nova]`
 - Cooperazione Libia-[[Malta]] su immigrazione ed energia.
+- **30 lug 2026**: l'UE approva un **Centro di coordinamento del soccorso marittimo (MRCC) a Bengasi** sotto
+  Operazione IRINI, **finanziato da [[Italia]] e [[Malta]]** (riunione a Roma; presente il gen. Tamimi delle
+  forze di [[Haftar]]). L'UE riconosce solo Tripoli ma **istituzionalizza i contatti con l'est**, da cui le
+  partenze aumentano. Le ONG temono più intercettazioni e respingimenti in Libia. `[verificato: Reuters]`

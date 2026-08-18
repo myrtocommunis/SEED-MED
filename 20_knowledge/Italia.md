@@ -4,11 +4,11 @@ tags: ["#italia", "#energia", "#migrazione", "#difesa"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "5"
+sources: "6"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "web:verifica-curator (Ce.S.I. 2026; Il Sole 24 Ore 2026; Med-Or) + note interne del vault"
+  - "web:verifica-curator (Ce.S.I. 2026; Il Sole 24 Ore 2026; Med-Or; Reuters 2026-08-02) + note interne del vault"
 ---
 
 # Italia
@@ -36,6 +36,7 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
 ## Fonti
 - [Ce.S.I. — Le ambizioni dell'Italia come hub del gas mediterraneo](https://www.cesi-italia.org/it/articoli/dai-gasdotti-ai-rigassificatori-le-ambizioni-dellitalia-come-hub-del-gas-mediterraneo) (accesso 2026-07-03)
 - [Il Sole 24 Ore — Italia hub del Mediterraneo](https://en.ilsole24ore.com/art/gas-and-italia-as-a-mediterranean-hub-thanks-to-the-reversal-of-north-south-flows-AIbpCcdD) (accesso 2026-07-03)
+- [Reuters — Italian-led EU force boards sanctioned tanker from Russia's shadow fleet](https://www.reuters.com/world/europe/italian-led-eu-force-boards-sanctioned-tanker-russias-shadow-fleet-mediterranean-2026-08-02/) (accesso 2026-08-18)
 
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
 - **Intelligence a Bengasi**: il capo dell'**AISE, gen. Giovanni Caravelli**, incontra Saddam [[Haftar]]
@@ -47,3 +48,10 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
 - **9 lug (Roma)**: il capo di stato maggiore dell'Esercito libico **gen. Salah al-Din al-Namroush** incontra
   il comandante delle forze speciali italiane **amm. Paolo Pezzutti**; discussi formazione e addestramento
   delle **forze speciali libiche** e un piano di addestramento completo — cooperazione militare bilaterale. `[verificato: La4News/Italpress]`
+- **2 ago 2026 — Italia attiva in mare**: la missione UE **EUNAVFOR MED Irini a guida italiana** aborda la
+  petroliera **Toa Payoh** (flotta ombra russa sotto sanzioni UE) a ovest di Pantelleria — 2ª ispezione in due
+  settimane; blitz da elicottero dall'ammiraglia **Thaon di Revel**, con supporto greco e polacco. Roma in
+  prima linea nella **sicurezza marittima** del Mediterraneo centrale e nell'enforcement anti-Russia (cfr.
+  [[Presenza russa]], [[Embargo armi]]). `[verificato: Reuters]`
+- **30 lug**: l'MRCC di Bengasi (Operazione IRINI) è **finanziato da Italia e [[Malta]]** — Roma paga anche
+  l'ala orientale del dossier migratorio (cfr. [[Migrazione]]). `[verificato: Reuters]`
