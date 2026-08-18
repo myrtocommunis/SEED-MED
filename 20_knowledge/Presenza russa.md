@@ -8,7 +8,7 @@ sources: "7"
 admiralty: "B3"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (RFI 2025-06-23; BBC Monitoring 2026-04-21, 2026-04-24, 2026-05-01, 2026-07-15; Agenzia Nova 2026-04-22) + 00_inbox/dataset_terrorismo (Africa Corps/Telegram 2026-07-10 — fonte combattente E5)"
+  - "00_inbox/dataset_libia/dataset_web_libia (RFI 2025-06-23; BBC Monitoring 2026-04-21, 2026-04-24, 2026-05-01, 2026-07-15; Agenzia Nova 2026-04-22; Reuters 2026-08-12) + 00_inbox/dataset_terrorismo (Africa Corps/Telegram 2026-07-10 — fonte combattente E5)"
 ---
 
 # Presenza russa
@@ -41,8 +41,18 @@ crescente competizione da parte di USA ([[Mediazione statunitense]]) e [[Ucraina
   **baricentro saheliano** del Corpo e il suo apparato propagandistico, mentre il claim su "mercenari dalla
   Libia" — se fondato — salderebbe il Fezzan al teatro jihadista. `[rivendicazione: Africa Corps — fonte combattente, Admiralty E5, nessuna corroborazione terza (N1)]`
 
+## Fronte navale: IRINI e la flotta ombra [HIGH confidence]
+- **12 ago 2026**: dopo che la missione UE **EUNAVFOR MED Irini** (a guida italiana, nata per l'**embargo ONU
+  sulla Libia** — cfr. [[Embargo armi]], [[Italia]]) ha abbordato due petroliere della **flotta ombra** russa,
+  **Putin** minaccia di "rispondere per le vie brevi", sequestrando navi europee "**non necessariamente nelle
+  stesse acque** ma ovunque lo riterremo opportuno"; definisce le ispezioni "pirateria". `[verificato: Reuters]`
+- Il **MID russo** accusa IRINI di "ispezioni illegali" e di essere usata per "**intimidire** le compagnie
+  commerciali" e ostacolare la libertà di navigazione — l'UE "si sta attirando grandi pericoli". La missione
+  con mandato libico diventa così un **fronte diretto** dello scontro Russia-UE nel Mediterraneo. `[verificato: Reuters]`
+
 ## Fonti
 - [BBC Monitoring — Russia doubles down on Tripoli ties](https://monitoring.bbc.co.uk/product/b0005sb0) (accesso 2026-07-03) — **Admiralty B3**
 - [BBC Monitoring — Chad, Russia agree to deepen military and diplomatic cooperation](https://monitoring.bbc.co.uk/product/b00068oz) (accesso 2026-07-16) — **Admiralty B3**
+- [Reuters — Putin says Russia will seize European vessels if its ships targeted](https://www.reuters.com/world/putin-says-russia-will-respond-kind-if-eu-nations-seize-russian-vessels-2026-08-12/) (accesso 2026-08-18)
 - [Africa Corps (Telegram) — Anefis, 10 lug 2026](https://t.me/KorpusAfrica2/1158) — **fonte combattente, E5**; la ripresa [BBC Monitoring](https://monitoring.bbc.co.uk/product/b000684i) è traduzione dello stesso post, non fonte indipendente (accesso 2026-07-16)
 - [Agenzia Nova — La Russia ritira asset da Sirte](https://www.agenzianova.com/news/esclusiva-libia-russia-ritira-gli-asset-militari-dalla-costa-di-sirte-e-li-riposiziona-nel-deserto/) (accesso 2026-07-03)
