@@ -14,7 +14,8 @@ provenance:
 # Petrolio
 
 Settore idrocarburi della [[Libia]] — maggiori riserve dell'Africa — motore del ritorno delle major
-e perno dell'[[Eni]] e della [[Diversificazione energetica]] italiana.
+e perno dell'[[Eni]] e della [[Diversificazione energetica]] italiana. Per la mappa fisica di giacimenti,
+oleodotti, terminal e raffinerie (e la loro fragilità) cfr. [[Infrastrutture energetiche libiche]].
 
 ## Peso, limiti e boom da guerra [HIGH confidence]
 - **48 mld di barili** di riserve (~3% mondiale); il petrolio è il **97% delle entrate statali**. `[verificato: BBC Monitoring]`

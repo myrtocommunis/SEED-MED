@@ -30,8 +30,8 @@ connettività del vault (energia + influenza).
   Nel 2025 Eni ha importato **~11 mld m³** dall'Algeria (pipeline + LNG, contratti Sonatrach) — parte dei
   **~20 mld m³** complessivi arrivati in Italia via TransMed; nuovo contratto trentennale su Zemoul El Kbar. `[verificato: Eni, Il Sole 24 Ore]`
 - **[[Libia]]**: primo operatore internazionale dal **1959** (produzione equity ~162.000 boe/g nel 2025, 3
-  progetti da ~10 mld $). **Mar 2026**: scoperte offshore **BESS 2 e BESS 3** (>1 Tcf di gas in place);
-  Progetto Sabratha (+~800 mln m³/anno). `[verificato: Eni press]`
+  progetti da ~10 mld $) via il complesso **Mellitah** (cfr. [[Infrastrutture energetiche libiche]]). **Mar
+  2026**: scoperte offshore **BESS 2 e BESS 3** (>1 Tcf di gas in place); Progetto Sabratha (+~800 mln m³/anno). `[verificato: Eni press]`
 - **Egitto**: E&P, raffinazione, sviluppo locale.
 - **[[Cipro]]**: concessioni offshore → interseca le [[Dispute zee]] del Med orientale.
 

@@ -13,22 +13,15 @@ provenance:
 
 # Elezioni
 
-Il nodo irrisolto della transizione libica, ostaggio della [[Frammentazione interna]] e di piani concorrenti
-tra la road map ONU e la [[Mediazione statunitense]].
+Il nodo irrisolto della transizione libica, ostaggio della [[Frammentazione interna]] e di piani concorrenti tra la road map ONU e la [[Mediazione statunitense]].
 
 ## Road map elettorale [HIGH confidence]
-- **18 giugno 2026**: i vertici di HoR, HCS e Consiglio Presidenziale concordano un documento di principi:
-  elezioni presidenziali e parlamentari **entro il 17 febbraio 2027**, su leggi elettorali "6+6" e **13°
-  emendamento costituzionale**. `[verificato: Libya Observer, Middle East Monitor, Xinhua]`
-- Il **Comitato 6+6** (12 membri, 6 HoR + 6 HCS) redige il quadro costituzionale/legale. La HNEC (commissione
-  elettorale) va ricostituita e resa finanziariamente indipendente. `[verificato: Middle East Monitor, UNSMIL]`
-- La road map UNSMIL poggia su 3 pilastri: quadro elettorale, governo unificato, **Structured Dialogue** su 4
-  tracce (governance, economia, sicurezza, riconciliazione). `[verificato: UNSMIL]`
+- **18 giugno 2026**: i vertici di HoR, HCS e Consiglio Presidenziale concordano un documento di principi: elezioni presidenziali e parlamentari **entro il 17 febbraio 2027**, su leggi elettorali "6+6" e **13° emendamento costituzionale**. `[verificato: Libya Observer, Middle East Monitor, Xinhua]`
+- Il **Comitato 6+6** (12 membri, 6 HoR + 6 HCS) redige il quadro costituzionale/legale. La HNEC (commissione elettorale) va ricostituita e resa finanziariamente indipendente. `[verificato: Middle East Monitor, UNSMIL]`
+- La road map UNSMIL poggia su 3 pilastri: quadro elettorale, governo unificato, **Structured Dialogue** su 4 tracce (governance, economia, sicurezza, riconciliazione). `[verificato: UNSMIL]`
 
 ## Il piano concorrente USA [MEDIUM confidence]
-- Il piano di Massad Boulos ([[Mediazione statunitense]]) prevede un governo congiunto [[Haftar]]-[[Dbeibah]]
-  **senza elezioni** (Saddam Haftar a capo del consiglio presidenziale). Visto da molti come "traccia rivale"
-  all'UNSMIL. `[verificato: Africa Intelligence, BBC Monitoring]`
+- Il piano di Massad Boulos ([[Mediazione statunitense]]) prevede un governo congiunto [[Haftar]]-[[Dbeibah]] **senza elezioni** (Saddam Haftar a capo del consiglio presidenziale). Visto da molti come "traccia rivale" all'UNSMIL. `[verificato: Africa Intelligence, BBC Monitoring]`
 
 ## Spinte regionali [HIGH confidence]
 - [[Egitto]], Tunisia e [[Algeria]] chiedono elezioni simultanee. `[verificato: BBC Monitoring]`
