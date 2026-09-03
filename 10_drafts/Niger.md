@@ -4,7 +4,7 @@ tags: ["#sahel", "#migrazione", "#influenza"]
 date: 2026-07-03
 status: "draft"
 depth: "standard"
-sources: "3"
+sources: "4"
 admiralty: "B3"
 tipo: "organization"
 provenance:
@@ -29,7 +29,11 @@ Stato saheliano confinante col Fezzan libico: principale via d'ingresso migrator
 
 ## Sicurezza di confine [MEDIUM confidence]
 - **31 gen 2026**: attacco al valico di al-Toum (confine col Niger), 3 soldati dell'LNA di [[Haftar]] uccisi. `[verificato: BBC Monitoring]`
+- **2 set 2026 (Niamey)**: il vicepresidente del Consiglio dei ministri libico **Al-Zadma** incontra il PM
+  nigerino Zeine e assicura il **sostegno di Tripoli** al Niger "contro i tentativi di destabilizzazione" —
+  rapporti legati a confine, antiterrorismo e riallineamenti post-golpe 2023. `[verificato: BBC Monitoring/Tele Sahel]`
 
 ## Fonti
 - [BBC Monitoring — Russian cargo jets flying uranium out of Niger](https://monitoring.bbc.co.uk/product/b00059z2) (accesso 2026-07-03) — **Admiralty B3**
 - [BBC Monitoring — Libya eastern army says soldiers killed in Niger border attack](https://monitoring.bbc.co.uk/product/b0005d8z) (accesso 2026-07-03) — **Admiralty B3**
+- [BBC Monitoring — Libya backs Niger against destabilisation attempts](https://monitoring.bbc.co.uk/product/b0006ifc) (accesso 2026-09-03)

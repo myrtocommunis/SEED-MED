@@ -6,7 +6,7 @@ tags:
 date: 2026-08-18
 status: validated
 depth: standard
-sources: "5"
+sources: "7"
 admiralty: B2
 tipo: concept
 provenance:
@@ -33,7 +33,9 @@ La spina dorsale fisica dell'economia della [[Libia]] — giacimenti, oleodotti,
 ## Vulnerabilità: infrastruttura come ostaggio [HIGH confidence]
 - **28 lug 2026**: manifestanti irrompono nel **complesso di Mellitah**, fermano oil e gas → penuria di carburante → unità di generazione fuori servizio, **rischio blackout**; ripristino dopo l'intervento della sicurezza. `[verificato: Reuters]`
 - **8 ago 2026**: falla sull'oleodotto **Zaqout-Sidra** contenuta in 24 h (ispezione di routine), pompaggio ripreso. `[verificato: Reuters]`
-- **Ago 2026**: incendi alla raffineria di **Zawiya** durante gli scontri; la sottostazione elettrica di Zawiya colpita. L'infrastruttura è **bersaglio e merce di scambio** nelle faide (cfr. [[Milizie]], [[Bilancio libico]]).
+- **Ago 2026**: incendi alla raffineria di **Zawiya** durante gli scontri; la sottostazione elettrica di Zawiya colpita **da drone**. L'infrastruttura è **bersaglio e merce di scambio** nelle faide (cfr. [[Milizie]], [[Bilancio libico]]).
+- **Crisi elettrica sistemica (ago-set 2026)**: **terzo blackout in due giorni** (18 ago), proteste a Tripoli e Zawiya; la rete cede per **sottoinvestimento cronico + ondata di calore + attacchi**. Il **3 set** un tentato **attacco con drone** al deposito carburanti di **Brega** (NOC in allerta, svuota i serbatoi). `[verificato: Bloomberg, Libya Observer/NOC]`
+- **Contrabbando di carburante**: il ministro dell'Interno **al-Trabelsi** chiude **490 stazioni** legate al contrabbando (365 riautorizzate) e promette di normalizzare la distribuzione — il traffico di carburante è parte del sistema di rendita illecita (cfr. [[Migrazione]]). `[verificato: Libya Observer]`
 
 ## Rilevanza per l'interesse italiano
 Mellitah, Bahr Essalam e il **Greenstream** sono una **posta diretta** dell'[[Italia]] (via [[Eni]]): ogni blocco a Mellitah incide sull'import italiano e sulla [[Diversificazione energetica]]. La sicurezza fisica di questi asset è parte integrante dell'interesse energetico nazionale.
@@ -44,3 +46,5 @@ Mellitah, Bahr Essalam e il **Greenstream** sono una **posta diretta** dell'[[It
 - [Reuters — Libya's NOC says Zawiya oil fires brought under control](https://www.reuters.com/) (accesso 2026-08-18)
 - [Eni — New gas discoveries in Libya (BESS 2/3)](https://www.eni.com/en-IT/media/press-release/2026/03/pr-eni-announces-new-gas-discoveries-lybia.html) (accesso 2026-07-10)
 - [Geopop — Il gasdotto Greenstream](https://www.geopop.it/) (accesso 2026-07-09)
+- [Bloomberg — Libyan protests flare as government struggles to keep lights on](https://www.bloomberg.com/news/articles/2026-08-19/libyan-protests-flare-as-government-struggles-to-keep-lights-on) (accesso 2026-09-03)
+- [Libya Observer — NOC condemns attempted drone attack on fuel depot](https://libyaobserver.ly/news/noc-condemns-attempted-drone-attack-fuel-depot) (accesso 2026-09-03)

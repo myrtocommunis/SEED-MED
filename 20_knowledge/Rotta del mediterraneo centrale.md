@@ -4,7 +4,7 @@ tags: ["#migrazione", "#italia"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "A2"
 tipo: "concept"
 provenance:
@@ -33,9 +33,11 @@ irregolare verso l'Europa.
 - **~1.300 morti** nel Mediterraneo nel 2026 complessivo. `[verificato: OIM]`
 - Nel **1° trimestre 2026** l'OIM stima **≥1.022 morti/dispersi** (+~150% vs 2025) a fronte di arrivi in
   Europa in calo ~40%: **"si parte di meno, si muore di più"**. `[verificato: ISPI/OIM]`
+- **Ago 2026 — il bilancio continua**: 7 morti su un barcone di ~50 (17 ago), **9 corpi** al largo di Tripoli est (18 ago), **6 corpi** nel sud-est libico (25 ago) — segnale che le partenze/rotte interessano anche l'**est** e il sud, non solo l'ovest. `[verificato: Reuters]`
 
 ## Fonti
 - [Frontex — Irregular crossings down 40%](https://www.frontex.europa.eu/) (accesso 2026-07-03) — **Admiralty A2**
 - [MMC — Bangladeshi migration to Italy via Libya](https://mixedmigration.org/articles/how-bangladeshi-migration-to-italy-via-libya-operates/) (accesso 2026-07-03)
 - [Open Arms — Rotta del Mediterraneo Centrale](https://www.openarms.es/it/flussi-migratori/rotta-del-mediterraneo-centrale) (accesso 2026-07-10)
 - [ISPI — Migrazioni nel Mediterraneo: tutti i numeri](https://www.ispionline.it/it/pubblicazione/migrazioni-nel-mediterraneo-tutti-i-numeri-24892) (accesso 2026-07-10)
+- [Reuters — Nine bodies of migrants recovered off eastern Tripoli](https://www.reuters.com/world/africa/) (accesso 2026-09-03)

@@ -6,7 +6,7 @@ tags:
 date: 2026-07-02
 status: validated
 depth: standard
-sources: "5"
+sources: "6"
 admiralty: B3
 tipo: concept
 provenance:
@@ -31,6 +31,7 @@ coesistono tre autorità rivali. Contesto strutturale di ogni dinamica del dossi
 - Marzo 2026: "vuoto di potere" per l'assenza di [[Dbeibah]] (voci di cure a Londra). `[verificato: BBC Monitoring]`
 - **Lug 2026 — collasso della rete elettrica**: blackout esteso da Misurata a Musaid (19 lug); GECOL aveva avvertito (4 giu) del deficit da penuria di carburante, aggravato dagli **scontri di Zawiya** ([[Milizie]]) che hanno messo fuori uso la centrale locale (~700 MW persi). Dbeibah accusa GECOL di "fallimento"; **due
   governi rivali** commentano la stessa crisi — la frammentazione paralizza anche i servizi essenziali. L'[[Egitto]] riprende l'export elettrico a sostegno della rete. `[verificato: Fawasel Media]`
+- **Ago 2026 — proteste anti-Dbeibah**: dopo il **terzo blackout in due giorni**, manifestazioni a Tripoli e Zawiya chiedono le **dimissioni di [[Dbeibah]]** (dal luglio) per il collasso di elettricità, carburante e acqua; al Consiglio di Sicurezza ONU si evoca una "**perdita di fiducia nello Stato**" (cfr. [[Infrastrutture energetiche libiche]]). `[verificato: Bloomberg]`
 
 ## Collegamenti
 Alimenta lo stallo delle [[Elezioni]] e il potere delle [[Milizie]]. Sullo sfondo, figure polarizzanti come [[Saif al-islam]] (ucciso feb 2026) hanno tenuto viva la nostalgia per un potere centrale unitario.
@@ -40,3 +41,4 @@ Alimenta lo stallo delle [[Elezioni]] e il potere delle [[Milizie]]. Sullo sfond
 - [BBC Monitoring — Libya devalues dinar amid budget paralysis](https://monitoring.bbc.co.uk/product/b0005a0k) (accesso 2026-07-02) — **Admiralty B3**
 - [The Libya Observer — Head of self-declared Libyan government announced in Geneva](https://libyaobserver.ly/news/head-self-declared-libyan-government-announced-geneva-un-distances-itself) (accesso 2026-07-22)
 - [Fawasel Media — Chi è responsabile del collasso della rete elettrica?](https://fawaselmedia.com/libya-power-grid-blackout-dbeibah-gecol-crisis/) (accesso 2026-07-22)
+- [Bloomberg — Libyan protests flare as government struggles to keep lights on](https://www.bloomberg.com/news/articles/2026-08-19/libyan-protests-flare-as-government-struggles-to-keep-lights-on) (accesso 2026-09-03)

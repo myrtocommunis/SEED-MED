@@ -4,7 +4,7 @@ tags: ["#difesa"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "7"
+sources: "8"
 admiralty: "B3"
 tipo: "persona"
 provenance:
@@ -44,6 +44,7 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
   in Mali. Reuters non conferma la versione LNA — probabile info-op per nobilitare un'operazione negoziale. `[verificato: Reuters]`
 - **10-11 ago 2026**: il capo dell'**intelligence militare** dell'LNA, brig. **Fawzi al-Mansouri**, ucciso da
   un'autobomba a Bengasi — neanche la roccaforte orientale è immune da faide interne (cfr. [[Intelligence libica]]). `[verificato: Reuters]`
+- **24 ago 2026**: i tribunali militari dell'est **giustiziano 10 persone** (fucilazione, carcere di Qarnada a Shahat) per accuse di terrorismo — condanna dei gruppi per i diritti (il processo militare di civili è **incostituzionale** per la Corte costituzionale libica). Illustra l'**apparato securitario-giudiziario autoritario** dell'LNA. `[verificato: AP]`
 
 ## Sintesi strategica [MEDIUM confidence]
 - **Multi-allineamento, non lealtà**: Haftar accetta armi russe, dialoga con Boulos
@@ -63,3 +64,4 @@ suo rischio-cardine non è l'allineamento esterno ma la **successione dinastica*
 - [The Arab Weekly — Libya's Haftar meets Putin in Moscow](https://thearabweekly.com/libyas-haftar-meets-putin-moscow-russia-expands-its-footprint-africa) (accesso 2026-07-10)
 - [Militarnyi — Russia bolsters Haftar's forces in Libya](https://militarnyi.com/en/news/heavy-weapons-armored-vehicles-and-air-defense-systems-russia-bolsters-haftar-s-forces-in-libya/) (accesso 2026-07-10)
 - [Reuters — Haftar played key role in release of US hostage held by Islamic State](https://www.reuters.com/world/africa/libyas-haftar-played-key-role-release-us-hostage-held-by-islamic-state-sources-2026-08-14/) (accesso 2026-08-18)
+- [AP — Eastern Libya executes 10 convicted on terrorism charges](https://apnews.com/article/libya-trials-executions-d09e627fa44b6b6d5b6b1905f1ce8933) (accesso 2026-08-31)
