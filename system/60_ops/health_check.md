@@ -1,9 +1,10 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-08-18 (re-check)** · maintainer (inline) · audit read-only.
-> Delta: 2 nuove note (`Intelligence libica`, `Infrastrutture energetiche libiche`, entrambe non orfane) +
-> aggiornamenti (Banca centrale libica, Haftar, Migrazione, Italia, Presenza russa — fronte navale IRINI/flotta
-> ombra e ritorsione di Putin). Il vault è passato a **55 note** (28 validated + 27 draft) con 2 promozioni umane.
+> Esecuzione: **2026-09-03 (re-check post-ingest raccolta_libia)** · maintainer (inline) · audit read-only.
+> Delta: ingerito il **delta** di `raccolta_libia` (ri-upload dell'intero corpus, 346 file, gitignored; vero
+> nuovo = 21 file 16 ago-3 set). Aggiornamenti su Elezioni (accordo 4+4, voto "24 mesi"), Eni (disinfo
+> smascherata), Italia, Infrastrutture energetiche, Frammentazione interna, Haftar, Rotta, Niger + report
+> (previsione "diluizione verso le urne" confermata). Verificato: raccolta_libia = **0 file tracciati** in git.
 ## 🟢 Stato generale: SANO — certificato, nessun finding aperto
 
 | # | Check | Esito |
