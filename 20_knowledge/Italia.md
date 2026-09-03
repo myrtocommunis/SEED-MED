@@ -4,11 +4,11 @@ tags: ["#italia", "#energia", "#migrazione", "#difesa"]
 date: 2026-07-03
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "B2"
 tipo: "organization"
 provenance:
-  - "web:verifica-curator (Ce.S.I. 2026; Il Sole 24 Ore 2026; Med-Or; Reuters 2026-08-02) + note interne del vault"
+  - "web:verifica-curator (Ce.S.I. 2026; Il Sole 24 Ore 2026; Med-Or; Reuters 2026-08-02; Libya Observer 2026-09-03) + note interne del vault"
 ---
 
 # Italia
@@ -37,6 +37,7 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
 - [Ce.S.I. — Le ambizioni dell'Italia come hub del gas mediterraneo](https://www.cesi-italia.org/it/articoli/dai-gasdotti-ai-rigassificatori-le-ambizioni-dellitalia-come-hub-del-gas-mediterraneo) (accesso 2026-07-03)
 - [Il Sole 24 Ore — Italia hub del Mediterraneo](https://en.ilsole24ore.com/art/gas-and-italia-as-a-mediterranean-hub-thanks-to-the-reversal-of-north-south-flows-AIbpCcdD) (accesso 2026-07-03)
 - [Reuters — Italian-led EU force boards sanctioned tanker from Russia's shadow fleet](https://www.reuters.com/world/europe/italian-led-eu-force-boards-sanctioned-tanker-russias-shadow-fleet-mediterranean-2026-08-02/) (accesso 2026-08-18)
+- [Libya Observer — 34 Italian firms to join Benghazi urban development initiative](https://libyaobserver.ly/inbrief/34-italian-firms-join-benghazi-urban-development-initiative) (accesso 2026-09-03)
 
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
 - **Intelligence a Bengasi**: il capo dell'**AISE, gen. Giovanni Caravelli**, incontra Saddam [[Haftar]]
@@ -55,3 +56,7 @@ principale contro-polo di bacino. Cfr. [[Diversificazione energetica]].
   [[Presenza russa]], [[Embargo armi]]). `[verificato: Reuters]`
 - **30 lug**: l'MRCC di Bengasi (Operazione IRINI) è **finanziato da Italia e [[Malta]]** — Roma paga anche
   l'ala orientale del dossier migratorio (cfr. [[Migrazione]]). `[verificato: Reuters]`
+- **6-10 set 2026**: **34 imprese italiane** + Università Niccolò Cusano all'evento "Benghazi Urban" per la
+  riqualificazione del centro storico; la Camera di Commercio italo-libica porta la delegazione nell'est, con
+  incontri al **Reconstruction and Development Fund** (di Belgacem Haftar). **Penetrazione economica italiana
+  nell'est** via ricostruzione (cfr. [[Ricostruzione libica]]). `[verificato: Libya Observer]`

@@ -4,11 +4,11 @@ tags: ["#geopolitica", "#influenza"]
 date: 2026-07-07
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "8"
 admiralty: "A2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13; UNSMIL/X 2026-07-14) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13; UNSMIL/X 2026-07-14; Reuters 2026-08-30; Libya Observer 2026-09-01) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
 ---
 
 # Elezioni
@@ -31,6 +31,8 @@ Il nodo irrisolto della transizione libica, ostaggio della [[Frammentazione inte
 - [Middle East Monitor — Roadmap for elections by February 2027](https://www.middleeastmonitor.com/20260618-libyas-rival-leaders-agree-roadmap-for-presidential-parliamentary-elections-by-february-2027/) (accesso 2026-07-07)
 - [UNSMIL — Political Roadmap](https://unsmil.unmissions.org/en/political-roadmap) (accesso 2026-07-07) — **Admiralty A2**
 - [Xinhua — Libya's political bodies agree on roadmap](https://english.news.cn/20260618/76336ab7ca7d48ae9ffba91f4c687cad/c.html) (accesso 2026-07-07)
+- [Reuters — Libya rivals agree roadmap for elections within 24 months](https://www.reuters.com/world/africa/libya-rivals-agree-roadmap-elections-within-24-months-un-led-talks-2026-08-30/) (accesso 2026-09-03)
+- [Libya Observer — Boulos: time to implement the 4+4 agreement](https://libyaobserver.ly/news/boulos-time-implement-44-agreement-and-move-libya-toward-elections) (accesso 2026-09-03)
 
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
 - **Sondaggio ONU "Di' la tua" (UNSMIL, dialogo strutturato)**: il **90% dei libici** ritiene necessarie
@@ -48,3 +50,16 @@ Il nodo irrisolto della transizione libica, ostaggio della [[Frammentazione inte
   precedente; redazione della **bozza di accordo finale** sul quadro legale del voto (già inclusa la maggioranza
   dei punti). Prossimo incontro: **prima settimana di agosto**. → la traccia ONU **avanza**, in parallelo al
   binario politico USA. `[verificato: UNSMIL]`
+
+## 🔄 Accordo 4+4 firmato (30 ago 2026)
+- **All'UNSMIL di Tripoli** il **Comitato 4+4** (2 rappresentanti ciascuno di **GNU, HCS, HoR e [[Haftar|LNA]]**)
+  firma l'intesa sui nodi elettorali: formazione del **board HNEC** + emendamenti alle leggi elettorali (i primi
+  due passi della road map UNSMIL di ago 2025). Elezioni legislative e presidenziali "**entro non più di 24
+  mesi**" sotto un'autorità esecutiva unica; se HoR e HCS non ratificano entro un mese, adozione come **documento
+  costituzionale** con avallo del **Consiglio di Sicurezza ONU**. `[verificato: Reuters]`
+- ⚠️ **Temporal Awareness — slittamento**: il target passa da "**voto entro febbraio 2027**" (18 giu) a "**24
+  mesi**" (≈ metà 2028) — di fatto **prorogato di ~18 mesi**. È lo scenario di **diluizione verso le urne** con
+  timeline estesa previsto dal report (`30_reports/`), non l'assorbimento nel power-sharing.
+- **Convergenza delle tracce**: l'**LNA di [[Haftar]] è firmatario** e **Boulos (USA)** avalla l'accordo ("passo
+  incoraggiante… costruire su questo slancio") — la [[Mediazione statunitense]] **converge** ora sul 4+4 ONU
+  invece di competervi. Ma **Takala (HCS) "respinge le iniziative imposte"**: restano tensioni sulla ratifica. `[verificato: Libya Observer]`

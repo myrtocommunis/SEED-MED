@@ -13,26 +13,17 @@ provenance:
 
 # Cina
 
-Attore esterno in ascesa in [[Libia]], attivo su tre fronti: investimenti/ricostruzione, energia e — per via
-industrial-militare — difesa.
+Attore esterno in ascesa in [[Libia]], attivo su tre fronti: investimenti/ricostruzione, energia e — per via industrial-militare — difesa.
 
 ## Partenariato strategico e ricostruzione [HIGH confidence]
-- **Set 2024 (FOCAC, Pechino)**: Xi Jinping e il presidente Menfi annunciano un **partenariato strategico**
-  Cina-Libia; Tripoli vede Pechino come partner-chiave della ricostruzione (energia, edilizia, infrastrutture). `[verificato: gov.cn, Libya Herald]`
-- Presenza economica in crescita: i lavoratori cinesi in Libia sono passati da ~5.000 a **oltre 23.000** (2024);
-  investitori attivi a ovest (GNU) ed est. Veicolo: Camera Commerciale Congiunta Libico-Cinese (LCJCC). `[verificato: Atlantic Council, Africa Intelligence]`
-- **7 lug 2026**: verso una linea cargo aerea diretta e un collegamento marittimo settimanale; proposta di un
-  centro di lingua cinese. `[verificato: Agenzia Nova]`
-- **14 lug 2026**: il presidente del Consiglio Supremo di Stato **Takala** rilancia la cooperazione con Pechino
-  (con il capo del Comitato per la supervisione della cooperazione libico-cinese, Khaled Rashed): comitato
-  congiunto, forum di dialogo libico-cinese, canali con imprese cinesi per progetti di sviluppo/investimento —
-  **anche l'ovest (Tripoli) corteggia la Cina**, non solo l'est. `[verificato: LANA]`
+- **Set 2024 (FOCAC, Pechino)**: Xi Jinping e il presidente Menfi annunciano un **partenariato strategico** Cina-Libia; Tripoli vede Pechino come partner-chiave della ricostruzione (energia, edilizia, infrastrutture). `[verificato: gov.cn, Libya Herald]`
+- Presenza economica in crescita: i lavoratori cinesi in Libia sono passati da ~5.000 a **oltre 23.000** (2024); investitori attivi a ovest (GNU) ed est. Veicolo: Camera Commerciale Congiunta Libico-Cinese (LCJCC). `[verificato: Atlantic Council, Africa Intelligence]`
+- **7 lug 2026**: verso una linea cargo aerea diretta e un collegamento marittimo settimanale; proposta di un centro di lingua cinese. `[verificato: Agenzia Nova]`
+- **14 lug 2026**: il presidente del Consiglio Supremo di Stato **Takala** rilancia la cooperazione con Pechino (con il capo del Comitato per la supervisione della cooperazione libico-cinese, Khaled Rashed): comitato congiunto, forum di dialogo libico-cinese, canali con imprese cinesi per progetti di sviluppo/investimento — **anche l'ovest (Tripoli) corteggia la Cina**, non solo l'est. `[verificato: LANA]`
 
 ## Energia e difesa [HIGH confidence]
-- Pechino diversifica le importazioni energetiche (guerra Iran, Hormuz): colloqui con Turkmenistan, Libia, Canada.
-  Interesse per la raffinazione e l'export libici. `[verificato: BBC Monitoring, Libya Herald]`
-- Penetrazione militare indiretta via l'accordo [[Pakistan]]-LNA (16 JF-17), letta come espansione dell'influenza
-  cinese sul clan [[Haftar]]. `[verificato: BBC Monitoring/SCMP]`
+- Pechino diversifica le importazioni energetiche (guerra Iran, Hormuz): colloqui con Turkmenistan, Libia, Canada. Interesse per la raffinazione e l'export libici. `[verificato: BBC Monitoring, Libya Herald]`
+- Penetrazione militare indiretta via l'accordo [[Pakistan]]-LNA (16 JF-17), letta come espansione dell'influenza cinese sul clan [[Haftar]]. `[verificato: BBC Monitoring/SCMP]`
 
 ## Collegamenti
 Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].

@@ -4,11 +4,11 @@ tags: ["#energia", "#italia", "#influenza"]
 date: 2026-07-02
 status: "validated"
 depth: "deep"
-sources: "5"
+sources: "6"
 admiralty: "A2"
 tipo: "organization"
 provenance:
-  - "seed:elevazione-hub + web:verifica-curator (Eni governance; MEF; Eni press 2026-03; Il Sole 24 Ore 2026)"
+  - "seed:elevazione-hub + web:verifica-curator (Eni governance; MEF; Eni press 2026-03; Il Sole 24 Ore 2026; Libya Observer 2026-08-31)"
 ---
 
 # Eni
@@ -39,9 +39,16 @@ connettività del vault (energia + influenza).
 Eni collega i [[Gasdotti]] nordafricani, la sicurezza energetica e la cornice del [[Piano mattei]]:
 è l'infrastruttura che trasforma la politica estera italiana in presenza concreta sul terreno.
 
+## Integrità informativa [MEDIUM confidence]
+- **31 ago 2026**: Eni **smentisce** un documento circolato sui social (ripreso da Fawasel Media/Libya Observer)
+  che le attribuiva la richiesta di un **+20% di gas** libico verso l'Italia: lettera **falsificata**, il
+  "manager" citato non è un dipendente, cifre errate; Fawasel ritira, Libya Observer corregge. **Da non
+  registrare come fatto** — caso di disinformazione sull'export energetico (cfr. [[Infrastrutture energetiche libiche]]). `[verificato: Libya Observer/Eni]`
+
 ## Fonti
 - [Eni — Assetto proprietario / Shareholding structure](https://www.eni.com/en-IT/governance/shareholding-structure.html) (accesso 2026-07-03)
 - [MEF — ENI: MEF places 2.8% of share capital](https://www.de.mef.gov.it/en/news/2024/eni_mef.html) (accesso 2026-07-03) — **Admiralty A2**
 - [Eni — Attività globali](https://www.eni.com/en-IT/actions/global-activities/libya.html) (accesso 2026-07-02)
 - [Eni — New gas discoveries in Libya (BESS 2/3)](https://www.eni.com/en-IT/media/press-release/2026/03/pr-eni-announces-new-gas-discoveries-lybia.html) (accesso 2026-07-10)
 - [Il Sole 24 Ore — Algeria, pillar of Italian energy diversification, 20 bcm in 2025](https://en.ilsole24ore.com/art/transmed-gas-arrived-20-billion-cubic-metres-2025-heres-how-much-algeria-weighs-italian-flows-AIPiuy9B) (accesso 2026-07-10)
+- [Libya Observer — Eni denies requesting increase in Libyan gas supplies to Italy](https://libyaobserver.ly/economy/eni-denies-requesting-increase-libyan-gas-supplies-italy) (accesso 2026-09-03)
