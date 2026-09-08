@@ -109,8 +109,8 @@ di ricostruzione e finanza lasciati scoperti.
 *Report di forecasting, confidenza MEDIUM (descrizione) / MEDIUM-LOW (previsione).*
 
 ***Nota su fonti e triangolazione.*** *I due claim analitici portanti sono stati **corroborati in modo
-indipendente**, non lasciati a fonte singola: il **CIPS** poggia sul comunicato primario della [[Banca centrale
-libica]] (A2) più Libya Herald / Libya Observer / Middle East Monitor (B2); la tesi della **"neutralità
+indipendente**, non lasciati a fonte singola: il **CIPS** poggia sul comunicato primario della
+[[Banca centrale libica]] (A2) più Libya Herald / Libya Observer / Middle East Monitor (B2); la tesi della **"neutralità
 calcolata / rifiuto cinese"** è citata dalla fonte primaria **ChinaMed** (B2, non dal suo rilancio Decode39) ed
 è coerente col profilo cinese al Consiglio di Sicurezza — ris. 2819/2026 (A1). Codici Admiralty: **A1** primaria
 ONU (UNSC); **A2** primaria ufficiale (CBL); **B2** analisi/monitoraggio affidabili (ChinaMed, Decode39,
