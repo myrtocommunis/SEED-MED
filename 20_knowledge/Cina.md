@@ -4,11 +4,11 @@ tags: ["#influenza", "#energia", "#difesa"]
 date: 2026-07-09
 status: "validated"
 depth: "deep"
-sources: "6"
+sources: "7"
 admiralty: "B3"
 tipo: "organization"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-11-13; BBC Monitoring 2026-03-27; LANA 2026-07-14) + web:verifica-curator (gov.cn/FOCAC; Atlantic Council; Libya Herald 2026-05)"
+  - "00_inbox/dataset_libia/dataset_web_libia (Africa Intelligence 2025-11-13; BBC Monitoring 2026-03-27; LANA 2026-07-14; Decode39 2026-09-04) + web:verifica-curator (gov.cn/FOCAC; Atlantic Council; Libya Herald 2026-05)"
 ---
 
 # Cina
@@ -25,6 +25,23 @@ Attore esterno in ascesa in [[Libia]], attivo su tre fronti: investimenti/ricost
 - Pechino diversifica le importazioni energetiche (guerra Iran, Hormuz): colloqui con Turkmenistan, Libia, Canada. Interesse per la raffinazione e l'export libici. `[verificato: BBC Monitoring, Libya Herald]`
 - Penetrazione militare indiretta via l'accordo [[Pakistan]]-LNA (16 JF-17), letta come espansione dell'influenza cinese sul clan [[Haftar]]. `[verificato: BBC Monitoring/SCMP]`
 
+## Rientro multilivello e "neutralità calcolata" (2026) [MEDIUM confidence]
+- **Diplomatico**: **ambasciata riaperta a nov 2025** (chiusa dal 2014); l'ambasciatore **Ma Xueyong** tiene una
+  cadenza sistematica di incontri col GNU (infrastrutture, ricostruzione, energia, sanità, istruzione; con
+  l'Interno: formazione, comunicazioni, sicurezza). `[verificato: Decode39]`
+- **Finanziario** (il vettore più avanzato): **lug 2026**, la [[Banca centrale libica]] e la People's Bank of
+  China collegano le banche commerciali libiche al **CIPS** (sistema di pagamento in renminbi) — bonifici
+  diretti e lettere di credito via banche cinesi che **bypassano gli intermediari**; non de-dollarizzazione, ma
+  infrastruttura d'influenza "meno visibile e più durevole". `[verificato: Decode39]`
+- **⚠️ Ma nessun impegno politico**: ChinaMed legge la postura come **"neutralità calcolata"** GNU-[[Haftar]];
+  Pechino **rifiuta** le richieste di Tripoli di sbloccare gli asset sovrani o aggirare l'[[Embargo armi]] —
+  accesso economico, **non** scelta di campo. È il limite reale dell'influenza cinese (temperando la lettura
+  del "vettore via Pakistan"). `[verificato: Decode39/ChinaMed]`
+- **Confronto con l'Egitto**: la Libia offre a Pechino una **"prova a basso costo"** della stessa logica
+  (capitale/infrastrutture/finanza senza vincoli d'alleanza), su uno Stato troppo debole per contrattare come
+  il Cairo (Suez, capitale amministrativa cinese, cloud Huawei, caccia J-16). Per l'[[Italia]] il compito è
+  "restare la più difficile da rimpiazzare". `[verificato: Decode39]`
+
 ## Collegamenti
 Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 
@@ -34,4 +51,5 @@ Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 - [Atlantic Council — Beijing is making inroads in North Africa](https://www.atlanticcouncil.org/blogs/menasource/china-north-africa-focac-cascf-trade/) (accesso 2026-07-09)
 - [Africa Intelligence — Beijing is back in business in Libya](https://www.africaintelligence.com/north-africa/2025/11/13/from-tripolitania-to-cyrenaica-beijing-is-finally-back-in-business,110558684-eve) (accesso 2026-07-09)
 - [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-09) — **Admiralty B3**
-- [LANA — Il Consiglio Supremo di Stato discute il partenariato libico-cinese nello sviluppo](https://lana.gov.ly/post.php?lang=ar&id=361648) (accesso 2026-07-15) — **Admiralty A2**
+- [LANA — Il Consiglio Supremo di Stato discute il partenariato libico-cinese nello sviluppo](https://lana.gov.ly/post.php?lang=ar&id=361648) (accesso 2026-07-15)
+- [Decode39 — China's quiet reconstruction of Libya](https://decode39.com/16392/chinas-quiet-reconstruction-of-libya/) (accesso 2026-09-08) — **Admiralty A2**
