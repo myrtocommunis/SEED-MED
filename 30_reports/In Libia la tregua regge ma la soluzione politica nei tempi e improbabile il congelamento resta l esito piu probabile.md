@@ -5,7 +5,7 @@ date: 2026-09-08
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"
-revisione: "2 — post-adversary (v1 = 6/10): scenari resi MECE e sommanti a 100 (Sc. spartizione assorbito nella diluizione); aggiunta vista esterna/base rate (Skhirat, Ginevra) → congelamento modale, non diluizione; disaggregata pace-tregua (probabile) da soluzione-nei-tempi (improbabile) già nel titolo; bande larghe di probabilità; alzato il rischio-shock cumulato"
+revisione: "3 — rifiniture post-adversary-v2 (voto 7/10 confermato): blend inside/outside (perché le novità Boulos/LNA-firmatario/UNSC non battono i veto-player); qualificata la pace negativa (non-guerra ≠ assenza di violenza); bande indicative + confine A/B graduale. [v2 = post-adversary (v1 6/10): scenari resi MECE e sommanti a 100 (Sc. spartizione assorbito nella diluizione); aggiunta vista esterna/base rate (Skhirat, Ginevra) → congelamento modale, non diluizione; disaggregata pace-tregua (probabile) da soluzione-nei-tempi (improbabile) già nel titolo; bande larghe di probabilità; alzato il rischio-shock cumulato]"
 confidenza_giudizio: "MEDIUM-LOW"
 orizzonte: "settembre 2026 → metà 2028 (finestra dei '24 mesi')"
 fonti_note: ["Elezioni", "Mediazione statunitense", "Frammentazione interna", "Milizie", "Haftar", "Dbeibah", "Bilancio libico", "Banca centrale libica", "Presenza russa", "Egitto", "Pakistan", "Italia", "Infrastrutture energetiche libiche"]
@@ -16,7 +16,8 @@ nota_fonti: "Input prevalentemente da note validate; Dbeibah e Banca centrale li
 
 **Bottom line.** Bisogna separare due cose che la domanda tende a fondere. La **pace-come-tregua** (assenza di
 guerra maggiore, garantita dal cessate-il-fuoco del 2020) è l'esito **più probabile**: regge in tutti gli
-scenari tranne quello di rottura. La **soluzione politica nei tempi** (l'accordo **4+4** attuato, con voto entro
+scenari tranne quello di rottura — ma è **pace negativa**, cioè assenza di *guerra nazionale*, non di violenza
+(scontri di [[Milizie]] e attacchi a infrastrutture restano ricorrenti anche negli scenari "stabili"). La **soluzione politica nei tempi** (l'accordo **4+4** attuato, con voto entro
 i "24 mesi", ≈ metà 2028) è invece **improbabile**. Ancorando alla **vista esterna** — Skhirat 2015 e
 Ginevra/LPDF 2021 furono entrambi firmati e **mai attuati**, le elezioni del dic 2021 saltarono — l'esito
 **modale è il congelamento/muddle-through**, non un progresso lineare. Fattore trasversale: la
@@ -35,6 +36,13 @@ attuati; un voto (dic 2021) annunciato e saltato; una tregua (2020) che **ha ret
 politica. La regolarità storica è netta: in Libia **gli accordi si firmano, non si attuano, e la non-guerra
 persiste per inerzia**. Questa base va **pesata più dei segnali recenti** (una firma fresca vale poco): sposta
 il baricentro sul **congelamento** e verso il basso la probabilità di attuazione nei tempi. `[verificato: Elezioni, Frammentazione interna]`
+
+**Perché "stavolta" non basta (blend inside/outside).** Questa iterazione ha novità reali — coinvolgimento
+**diretto** dell'inviato USA (Boulos), l'**LNA firmatario per la prima volta**, una clausola di ripiego UNSC —
+che spingerebbero all'ottimismo. Ma **non rimuovono i veto-player** che affondarono Skhirat e Ginevra: la
+ratifica di HoR/HCS, il veto di Misurata, l'interesse degli insider a non farsi rimuovere dal voto. Le novità
+cambiano gli *attori al tavolo*, non gli *incentivi a non attuare* — perciò il tasso base resta dominante, senza
+essere un automatismo. `[valutazione]`
 
 ## Scenari (esaustivi ed esclusivi; bande, non punti)
 
@@ -60,8 +68,10 @@ maggiore di quanto suggerisca un singolo evento. **Segnale-guida**: violenza sul
 Voto entro i 24 mesi + istituzioni unificate. Richiederebbe ratifica rapida, tenuta economica, disarmo delle
 milizie e assenza di spoiler in contemporanea: una convergenza che il decennio libico **non ha mai prodotto**.
 
-> Le bande si sommano a ~100 al centro (50/27/18/5). **Lettura-chiave**: la **tregua** sopravvive in A+B+D
-> (~80%); solo lo Sc. C la rompe. Quindi *pace negativa probabile, soluzione politica nei tempi improbabile*.
+> **Bande indicative** (si sovrappongono; non vanno sommate come punti-medi). Il confine **A/B è graduale** —
+> le distingue il *grado* di attuazione (nulla vs parziale), non un salto netto. **Lettura-chiave**: la **pace
+> negativa** (non-guerra nazionale) sopravvive in A+B+D, solo lo Sc. C la rompe → *pace negativa probabile,
+> soluzione politica nei tempi improbabile*; ma pace negativa **≠ assenza di violenza**.
 
 ## Perché la pena della prova è alta
 - **Domanda vs insider**: il 90% dei libici vuole elezioni (sondaggio UNSMIL), ma gli attori al potere temono
@@ -87,4 +97,4 @@ rischio da monitorare è lo Sc. C (rottura), che colpirebbe subito energia e mig
 ---
 *Report di forecasting, rev.2 post-adversary. Confidenza MEDIUM-LOW: le probabilità sono **bande di stima**
 ancorate al tasso base e al quadro delle note (set 2026), non misure. Orizzonte lungo (24 mesi) → da rivedere a
-ogni evento-chiave (ratifica, HNEC, CBL). Due input (Dbeibah, Banca centrale libica) sono note draft.*
+ogni evento-chiave (ratifica, HNEC, CBL). Due input (Dbeibah, Banca centrale libica) sono note draft.* ]"
