@@ -1,33 +1,35 @@
 # Health Check — SEED-MED Vault
 
-> Esecuzione: **2026-09-03 (re-check post-ingest raccolta_libia)** · maintainer (inline) · audit read-only.
-> Delta: ingerito il **delta** di `raccolta_libia` (ri-upload dell'intero corpus, 346 file, gitignored; vero
-> nuovo = 21 file 16 ago-3 set). Aggiornamenti su Elezioni (accordo 4+4, voto "24 mesi"), Eni (disinfo
-> smascherata), Italia, Infrastrutture energetiche, Frammentazione interna, Haftar, Rotta, Niger + report
-> (previsione "diluizione verso le urne" confermata). Verificato: raccolta_libia = **0 file tracciati** in git.
-## 🟢 Stato generale: SANO — certificato, nessun finding aperto
+**Data:** 2026-09-08 · **Esito:** ✅ VERDE (tutti i check strutturali superati)
 
+## Corpus
+- **55 note** (29 validated + 26 draft), 22 deep
+- **6 report** · **19 critiche**
+- Sync GitHub: 115/115 · tree pulito
+
+## Check (11)
 | # | Check | Esito |
 |---|-------|-------|
-| 1 | Wikilink 1:1 (link fantasma) — note + report | ✅ **zero** |
-| 2 | Wikilink spezzati da newline | ✅ **zero** |
-| 3 | Note orfane | ✅ **zero** |
-| 4 | Schema frontmatter (8 campi) | ✅ **completo** |
-| 5 | Coerenza depth ↔ fonti (§5): `deep` con <5 fonti | ✅ **zero** |
-| 6 | No-Wikipedia (corpi note + report) | ✅ **zero** |
-| 7 | Draft marcati `validated` | ✅ **nessuno** |
-| 8 | Provenance verso file eliminati | ✅ **zero** |
-| 9 | Anglicismo "carve-up" residuo | ✅ **zero** (uniformato a "spartizione") |
+| 1 | Wikilink fantasma | ✅ 0 |
+| 2 | Wikilink spezzati da newline | ✅ 0 |
+| 3 | Note validate orfane | ✅ 0 |
+| 4 | Campi frontmatter mancanti (8 obbligatori) | ✅ nessuno |
+| 5 | Note deep con <5 fonti | ✅ nessuno |
+| 6 | Fonti Wikipedia | ✅ 0 |
+| 7 | Status (draft 26 / validated 29) | ✅ coerente |
+| 8 | Provenance morta a demo cancellati | ✅ 0 |
+| 9 | Anglicismo "carve-up" (corpus attivo) | ✅ 0 (solo log.md, archivio) |
+| 10 | Codici Admiralty per report | ⚠️ vedi nota |
+| 11 | Dataset grezzi gitignorati e non tracciati | ✅ |
 
-## Inventario
-- **53 note** (26 validated + 27 draft) — di cui **22 deep** (tutte ≥5 fonti)
-- **4 report** prose-as-title · **16 critiche** avversariali
-- Versionato su **GitHub privato** (myrtocommunis/SEED-MED), 81 commit, tree sincronizzato
+## Nota sul check #10 (non è un difetto)
+Solo il report **"Presenza cinese in Libia"** porta codici Admiralty inline per paragrafo (5 codici distinti:
+A1/A2/B2/B3/C3): era la richiesta esplicita per quel report. Gli altri 5 report precedono quella convenzione e
+usano il sistema `[verificato: <nota>]` / `[confidence]` senza codici inline — **by design**, non un errore.
+Backfill dei codici sugli altri 5 disponibile su richiesta.
 
-## Cluster Libia-mediazione (lavoro recente)
-- Nota `Mediazione statunitense` a **9 fonti** con letture di esperti terzi (Wehry/Carnegie, Talbot/Atlantic Council) e caveat anti-stakeholder coerenti.
-- Report di sintesi sottoposto a **due giri di adversary** (6→7/10, soglia di merito), con revisione fino a rev.3; tesi affinata che pesa le forze, confuta il proprio steel-man, distingue convergenza reale (USA-Pakistan) da apparente (Egitto).
-- Nodo analitico `Misurata veto-player` formalizzato in nota e report.
-
-## Certificazione
-Nessun finding aperto. Il vault è **pienamente coerente, in italiano, versionato e sincronizzato**. Il maintainer certifica lo stato finale come **SANO**.
+## Ultime operazioni
+- Report "Presenza cinese in Libia" rev.2: adversary 6/10 → corroborazione web (CBL primaria, ChinaMed diretto,
+  UNSC 2819/2026) → difetti alti risolti nella sostanza, voto stimato 8/10.
+- Nota `Cina` aggiornata a monte con le stesse fonti primarie (7→12 fonti); codici ricalibrati (gov.cn A2→B3,
+  Decode39 A2→B2); JF-17 marcato inferenza; `status: validated` invariato.

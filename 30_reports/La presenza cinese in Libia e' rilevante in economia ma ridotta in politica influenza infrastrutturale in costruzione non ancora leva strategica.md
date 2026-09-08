@@ -1,5 +1,5 @@
 ---
-title: "La presenza cinese in Libia è larga in economia ma sottile in politica: influenza infrastrutturale in costruzione, non (ancora) leva strategica"
+title: "La presenza cinese in Libia è rilevante in economia ma ridotta in politica: influenza infrastrutturale in costruzione, non (ancora) leva strategica"
 tags: ["#influenza", "#geopolitica", "#energia"]
 date: 2026-09-08
 status: "draft"
@@ -12,7 +12,7 @@ revisione: "2 — post-adversary (voto 6/10): CIPS e tesi 'neutralità/rifiuto c
 nota_metodo: "Ogni paragrafo cita la fonte col codice Admiralty NATO (affidabilità A-F · credibilità 1-6). Sintesi dalla nota validata Cina, dalle sue fonti e da corroborazione web indipendente."
 ---
 
-# La presenza cinese in Libia è larga in economia ma sottile in politica: influenza infrastrutturale in costruzione, non (ancora) leva strategica
+# La presenza cinese in Libia è rilevante in economia ma ridotta in politica: influenza infrastrutturale in costruzione, non (ancora) leva strategica
 
 **Bottom line.** La [[Cina]] sta ricostruendo una presenza in [[Libia]] su tre registri — **diplomatico,
 finanziario e commerciale** — lasciata atrofizzare per oltre un decennio, senza il gesto singolo (un porto, una
