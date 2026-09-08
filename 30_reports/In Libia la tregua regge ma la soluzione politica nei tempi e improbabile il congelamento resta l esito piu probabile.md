@@ -54,7 +54,7 @@ Bengasi). **La tregua 2020 regge**: pace negativa senza soluzione. È l'esito ch
 
 ### B · Diluizione verso un assetto (con voto tardivo o spartizione d'élite) — *~25-30%*
 Il 4+4 avanza **parzialmente**: HNEC ricostituita, esecutivo semi-unificato, ma il **voto slitta oltre i 24
-mesi** o si tiene monco. Include la variante **carve-up** (power-sharing [[Haftar]]-[[Dbeibah]] che rinvia le
+mesi** o si tiene monco. Include la variante **spartizione d'élite** (power-sharing [[Haftar]]-[[Dbeibah]] che rinvia le
 urne a tempo indefinito — il rischio segnalato da ECFR/Chatham House). Progresso nominale, tregua che regge.
 **Segnale-guida**: ratifica con riserve, nomine esecutive congiunte, scadenze riformulate.
 
@@ -92,7 +92,7 @@ rischio da monitorare è lo Sc. C (rottura), che colpirebbe subito energia e mig
 - **Board HNEC**: formato e operativo, o bloccato sul candidato di consenso? `[test di attuazione]`
 - **CBL**: le dimissioni del governatore aprono un vuoto/crisi, o si ricompone? `[allarme C]`
 - **Ovest**: gli scontri di Zawiya/Tripoli si allargano o rientrano? `[allarme C]`
-- **Calendario**: emerge una data elettorale vincolante entro i 24 mesi, o solo nomine esecutive congiunte? `[B con voto vs B carve-up]`
+- **Calendario**: emerge una data elettorale vincolante entro i 24 mesi, o solo nomine esecutive congiunte? `[B con voto vs B spartizione]`
 
 ---
 *Report di forecasting, rev.2 post-adversary. Confidenza MEDIUM-LOW: le probabilità sono **bande di stima**
