@@ -8,7 +8,8 @@ formato: "prose-as-title"
 confidenza_giudizio: "MEDIUM (descrizione), MEDIUM-LOW (previsione)"
 orizzonte: "breve termine ~set 2027 · medio termine 2028-2031"
 fonti_note: ["Cina", "Libia", "Eni", "Egitto", "Haftar", "Pakistan", "Banca centrale libica", "Presenza russa", "Italia", "Infrastrutture energetiche libiche", "Mediazione statunitense"]
-nota_metodo: "Ogni paragrafo cita la fonte col codice Admiralty NATO (affidabilità A-F · credibilità 1-6). Sintesi dalla nota validata Cina e dalle sue fonti."
+revisione: "2 — post-adversary (voto 6/10): CIPS e tesi 'neutralità/rifiuto cinese' corroborati via WebSearch (CBL primaria A2 + Libya Herald/Observer/MEMO; ChinaMed primaria B2 + UNSC ris.2819/2026 A1), non più mono-fonte Decode39; ricalibrati i codici (gov.cn A2->B3; credibilita' mono-fonte 2->2 solo dove ora triangolato); JF-17 marcato come inferenza (allineato a nota Pakistan); §4 con bande e riordinato per verosimiglianza; nota su fonti e triangolazione"
+nota_metodo: "Ogni paragrafo cita la fonte col codice Admiralty NATO (affidabilità A-F · credibilità 1-6). Sintesi dalla nota validata Cina, dalle sue fonti e da corroborazione web indipendente."
 ---
 
 # La presenza cinese in Libia è larga in economia ma sottile in politica: influenza infrastrutturale in costruzione, non (ancora) leva strategica
@@ -19,7 +20,7 @@ base) che segnalerebbe un impegno strategico. Ne deriva un'influenza **economico
 costruzione**, non ancora una **leva politica**: Pechino mantiene una "neutralità calcolata" e **rifiuta** di
 convertire l'accesso commerciale in scelta di campo. Previsione: nel **breve termine** approfondimento
 incrementale a basso impegno; nel **medio termine**, peso economico crescente **subordinato alla stabilità
-libica**, ma un salto a leva strategica resta improbabile senza un governo unificato. `[Decode39 — B2]` `[MEDIUM confidence]`
+libica**, ma un salto a leva strategica resta improbabile senza un governo unificato. `[sintesi: ChinaMed B2 · CBL A2 · Decode39 B2]` `[MEDIUM confidence]`
 
 ---
 
@@ -31,31 +32,37 @@ istruzione) e con l'Interno (formazione, comunicazioni, sicurezza) — un ritmo 
 riaperta. `[Decode39 — B2]`
 
 **Cornice strategica.** Al **FOCAC di Pechino (set 2024)** Xi Jinping e il presidente Menfi hanno annunciato un
-**partenariato strategico** Cina-Libia; Tripoli vede Pechino come partner-chiave della ricostruzione. `[gov.cn — A2]`
+**partenariato strategico** Cina-Libia; Tripoli vede Pechino come partner-chiave della ricostruzione. `[gov.cn — B3, fonte statale interessata]`
 La presenza economica è cresciuta: i lavoratori cinesi in Libia sono passati da ~5.000 a **oltre 23.000** (2024),
 con investitori attivi sia a ovest (GNU) sia a est. `[Atlantic Council — B2]` `[Africa Intelligence — B2]`
 
-**Finanza (il registro più avanzato).** A **luglio 2026** la [[Banca centrale libica]] e la People's Bank of
-China hanno concordato di collegare le banche commerciali libiche al **CIPS**, l'infrastruttura di pagamento in
-renminbi: bonifici diretti e lettere di credito via banche cinesi che **bypassano gli intermediari**. Non è
-de-dollarizzazione, ma un'infrastruttura d'influenza "meno visibile e più durevole di un porto". `[Decode39 — B2]`
+**Finanza (il registro più avanzato).** L'accordo tra [[Banca centrale libica]] (gov. Naji Issa) e People's Bank
+of China (gov. Pan Gongsheng) per collegare le banche commerciali libiche al **CIPS** — bonifici diretti in
+renminbi e lettere di credito via banche cinesi **senza intermediari** — è stato siglato ad **aprile 2026** e
+approfondito a **luglio** (visita a Pechino, apertura all'ingresso nel mercato obbligazionario cinese). Non è
+de-dollarizzazione, ma un'infrastruttura d'influenza durevole. `[CBL, comunicato ufficiale — A2]` `[Libya Herald · Libya Observer · Middle East Monitor — B2, indipendenti]` `[Decode39 — B2]`
 
 **Commercio ed energia.** La Camera di commercio petrolifera cinese ha aperto colloqui con l'Unione delle camere
 libiche su oil, gas e rinnovabili, con un forum energetico atteso nella **Free Zone di Misurata a novembre**. `[Decode39 — B2]`
 Pechino diversifica intanto le proprie importazioni (guerra Iran/Hormuz), con interesse per raffinazione ed export
 libici (cfr. [[Petrolio]], [[Infrastrutture energetiche libiche]]). `[BBC Monitoring — B2]` `[Libya Herald — C3]`
 
-**Traccia militare (indiretta).** Non c'è impronta militare diretta cinese; l'influenza passa **per interposta
-persona**, via l'accordo [[Pakistan]]-LNA (16 caccia **JF-17**, co-sviluppati con la Cina) letto come espansione
-indiretta sul clan [[Haftar]]. `[BBC Monitoring/SCMP — B3]`
+**Traccia militare (indiretta e inferita).** Non c'è impronta militare diretta cinese. Esiste l'accordo
+[[Pakistan]]-LNA (16 caccia **JF-17**, co-sviluppati con la Cina); che questo costituisca un *vettore
+d'influenza cinese* sul clan [[Haftar]] è però **inferenza, non fatto**: la nota [[Pakistan]] lo tratta come
+ipotesi (il legame operativo è Pakistan-LNA, non Pechino-LNA). `[BBC Monitoring/SCMP — B3, ripresa di fonte tradotta]`
 
 ## 2 · Quanta influenza ne deriva (a favore della Cina)
 
-**Tesi: accesso economico, non ancora leva politica.** Il ChinaMed Project qualifica la postura di Pechino come
-**"neutralità calcolata"** tra GNU e [[Haftar]] — un hedge che, semmai, si è spostato verso l'ambiguità. `[Decode39/ChinaMed — B2]`
-Il dato che fissa il limite: la Cina **declina** le richieste di Tripoli di aiutare a sbloccare gli asset sovrani
-o ad aggirare l'[[Embargo armi]] ONU — prova che **non è pronta a convertire l'accesso commerciale in impegno
-politico**. `[Decode39 — B2]`
+**Tesi: accesso economico, non ancora leva politica.** Il **ChinaMed Project** (Pasquier & Bruni, feb 2026)
+qualifica la postura di Pechino come **"neutralità cauta e calcolata"**: presenza economica crescente col GNU ma
+**canali aperti con [[Haftar]]**, per non pregiudicare le opzioni — Pechino resta «presente, visibile e
+determinata soprattutto a tenersi le mani libere». `[ChinaMed / China-Global South Project — B2, fonte primaria]`
+Il dato che fissa il limite, testuale: «Pechino ha **declinato** le richieste di Tripoli di aiutare a **rimuovere
+l'[[Embargo armi]] ONU** o ad **accedere al fondo sovrano congelato**» — riluttanza a impelagarsi nel «pantano di
+sicurezza» libico. `[ChinaMed / China-Global South Project — B2, fonte primaria]` Coerente col profilo cinese al
+Consiglio di Sicurezza (ris. **2819/2026**): la Cina favorisce un percorso multilaterale di «reinvestimento
+ragionevole» degli asset, **non** un aiuto unilaterale a una parte. `[UNSC / press.un.org — A1]`
 
 **Il metro dell'Egitto.** Misurata rispetto al [[Egitto]], la scala libica si ridimensiona: il Cairo offre a
 Pechino Suez, una capitale amministrativa costruita da imprese cinesi, cloud Huawei e persino esercitazioni con
@@ -73,15 +80,15 @@ metodo avverso al rischio; la riapertura stessa dell'ambasciata fu subordinata a
 strutturata fosse ormai fattibile. `[Decode39 — B2]`
 
 ## 4 · Evoluzione — medio termine (2-5 anni, 2028-2031) `[MEDIUM-LOW confidence]`
-Tre traiettorie, in ordine di verosimiglianza:
-- **Consolidamento economico a neutralità invariata** (più probabile): con una stabilizzazione anche parziale,
-  la Cina diventa un attore rilevante di ricostruzione, energia e finanza (modello "Egitto-light"), **senza**
-  scelta di campo — le rotaie del renminbi e i cantieri crescono, la leva politica no. `[Decode39 — B2]`
-- **Salto strategico** (meno probabile): solo un **governo unificato** e legittimo potrebbe invitare
+Tre traiettorie (bande indicative, non misure; si sovrappongono):
+- **Consolidamento economico a neutralità invariata** — *~50-60%* `[modale]`: con una stabilizzazione anche
+  parziale, la Cina diventa un attore rilevante di ricostruzione, energia e finanza (modello "Egitto-light"),
+  **senza** scelta di campo — le rotaie del renminbi e i cantieri crescono, la leva politica no. `[Decode39 — B2]` `[ChinaMed — B2]`
+- **Ritrazione/stallo** — *~25-35%*: frammentazione persistente o escalation tengono la Cina a un impegno
+  minimo, come nel decennio 2014-2024 (metodo avverso al rischio). `[Africa Intelligence — B2]`
+- **Salto strategico** — *~5-15%* `[coda]`: solo un **governo unificato** e legittimo potrebbe invitare
   infrastrutture BRI su larga scala o concessioni sensibili (porti) — condizione che il quadro politico rende
   improbabile nei tempi (cfr. report sulla pace). `[Decode39 — B2]`
-- **Ritrazione/stallo** (coda): frammentazione persistente o escalation tengono la Cina a un impegno minimo,
-  come nel decennio 2014-2024. `[Africa Intelligence — B2]`
 Su tutte pesa la **competizione USA**: Washington riapre l'ambasciata proprio per contrastare i "competitori
 near-peer" in Nord Africa — un vincolo esterno alla penetrazione cinese (cfr. [[Mediazione statunitense]]). `[Decode39 — B2]`
 
@@ -99,8 +106,14 @@ di ricostruzione e finanza lasciati scoperti.
 - **Gesto strategico**: emerge una trattativa su un **porto** o un progetto BRI faro? `[soglia del salto strategico]`
 
 ---
-*Report di forecasting, confidenza MEDIUM (descrizione) / MEDIUM-LOW (previsione). Codici Admiralty per fonte:
-**A2** ufficiale (gov.cn); **B2** analisi/monitoraggio affidabili (Decode39, Atlantic Council, Africa
-Intelligence, BBC Monitoring, ChinaMed); **B3** ufficiale libico o fonte di parte (LANA) e ripresa SCMP; **C3**
-outlet locale (Libya Herald). Le probabilità del §4 sono stime ancorate al quadro delle note (set 2026), non
-misure. Base primaria: nota validata [[Cina]].*
+*Report di forecasting, confidenza MEDIUM (descrizione) / MEDIUM-LOW (previsione).*
+
+***Nota su fonti e triangolazione.*** *I due claim analitici portanti sono stati **corroborati in modo
+indipendente**, non lasciati a fonte singola: il **CIPS** poggia sul comunicato primario della [[Banca centrale
+libica]] (A2) più Libya Herald / Libya Observer / Middle East Monitor (B2); la tesi della **"neutralità
+calcolata / rifiuto cinese"** è citata dalla fonte primaria **ChinaMed** (B2, non dal suo rilancio Decode39) ed
+è coerente col profilo cinese al Consiglio di Sicurezza — ris. 2819/2026 (A1). Codici Admiralty: **A1** primaria
+ONU (UNSC); **A2** primaria ufficiale (CBL); **B2** analisi/monitoraggio affidabili (ChinaMed, Decode39,
+Atlantic Council, Africa Intelligence, Libya Herald/Observer, MEMO); **B3** fonte statale interessata (gov.cn) o
+di parte (LANA) e ripresa tradotta (SCMP); **C3** outlet locale. Le bande del §4 sono stime ancorate al quadro
+(set 2026), non misure. Base: nota validata [[Cina]].*
