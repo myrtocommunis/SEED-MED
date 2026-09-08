@@ -54,7 +54,7 @@ Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 ## Fonti
 **Primarie**
 - [CBL — Governor of the Central Bank of Libya agrees with the Governor of the People's Bank of China to launch direct banking transactions](https://cbl.gov.ly/en/governor-of-the-central-bank-of-libya-agrees-with-the-governor-of-the-peoples-bank-of-china-to-launch-direct-banking-transactions/) (accordo 2026-04-17; accesso 2026-09-08) — **Admiralty A2** (primaria ufficiale, fonte interessata)
-- [UNSC / press.un.org — Resolution 2819 (2026): sanctions regime on Libya, asset-freeze & arms-embargo exemptions](https://press.un.org/en/2026/sc16337.doc.htm) (accesso 2026-09-08) — **Admiralty A1** (primaria ONU)
+- [UNSC / press.un.org — Resolution 2819 (2026): sanctions regime on Libya, asset-freeze & arms-embargo exemptions](https://press.un.org/en/2026/sc16337.doc.htm) (accesso 2026-09-08) — **Admiralty A2** (primaria ONU/IGO; mai A1 per convenzione)
 - [gov.cn — China, Libya establish strategic partnership (FOCAC)](https://english.www.gov.cn/news/202409/04/content_WS66d861d0c6d0868f4e8ea9ad.html) (accesso 2026-07-09) — **Admiralty B3** (organo statale interessato)
 - [LANA — Il Consiglio Supremo di Stato discute il partenariato libico-cinese](https://lana.gov.ly/post.php?lang=ar&id=361648) (accesso 2026-07-15) — **Admiralty B3** (agenzia statale libica)
 
@@ -66,6 +66,6 @@ Interseca [[Petrolio]] e la competizione tra potenze in [[Libia]].
 - [BBC Monitoring — How China is diversifying energy imports](https://monitoring.bbc.co.uk/product/b0005o1y) (accesso 2026-07-09) — **Admiralty B3** (conduttore/ripresa tradotta)
 
 **Stampa (corroborazione CIPS)**
-- [Libya Herald — CBL Governor meets Chinese counterpart in Beijing: Libya joins CIPS](https://libyaherald.com/2026/07/cbl-governor-meets-chinese-counterpart-in-beijing-libya-joins-cips-to-invest-in-chinese-bonds) (accesso 2026-09-08) — **Admiralty B2**
-- [Libya Observer — Libya banks to join China's CIPS payments network](https://libyaobserver.ly/economy/libya-banks-join-chinas-cips-payments-network) (accesso 2026-09-08) — **Admiralty B2**
-- [Middle East Monitor — Libya joins China's payment system, reducing reliance on US dollar](https://www.middleeastmonitor.com/20260719-libya-joins-chinas-payment-system-reducing-reliance-on-us-dollar/) (accesso 2026-09-08) — **Admiralty B2**
+- [Libya Herald — CBL Governor meets Chinese counterpart in Beijing: Libya joins CIPS](https://libyaherald.com/2026/07/cbl-governor-meets-chinese-counterpart-in-beijing-libya-joins-cips-to-invest-in-chinese-bonds) (accesso 2026-09-08) — **Admiralty B3**
+- [Libya Observer — Libya banks to join China's CIPS payments network](https://libyaobserver.ly/economy/libya-banks-join-chinas-cips-payments-network) (accesso 2026-09-08) — **Admiralty B3**
+- [Middle East Monitor — Libya joins China's payment system, reducing reliance on US dollar](https://www.middleeastmonitor.com/20260719-libya-joins-chinas-payment-system-reducing-reliance-on-us-dollar/) (accesso 2026-09-08) — **Admiralty B3**

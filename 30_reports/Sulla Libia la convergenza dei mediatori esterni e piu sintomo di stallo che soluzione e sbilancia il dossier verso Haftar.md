@@ -33,14 +33,14 @@ Reunification Plan" a 36 mesi attribuita alla mediazione pachistana disegna lo *
 National Consensus, Dbeibah premier, Saddam presidente del consiglio). L'[[Egitto]] e il meccanismo tripartito
 Egitto-Algeria-Tunisia sostengono invece un percorso libico-libico verso **elezioni simultanee**: la convergenza
 è quindi solo **sui protagonisti** (i due poteri di fatto), non sul metodo — il Cairo resta più vicino alla road
-map ONU che alla spartizione. `[verificato: FT, Reuters/Asharq al-Awsat, BBC Monitoring]`
+map ONU che alla spartizione. `[verificato: FT — B3, Reuters — B3, Asharq al-Awsat — B3, BBC Monitoring — B3]`
 
 ## Perché è competizione, non coordinamento [MEDIUM confidence]
 La somiglianza dei piani non equivale a un'orchestrazione. La stessa copertura giornalistica (Al-Araby/BBC
 Monitoring) lega l'ingresso del Pakistan al fatto che la traccia di Boulos è **"stallata"**: un mediatore che
 ne rimpiazza un altro segnala frizione, non staffetta coordinata. Coesistono almeno quattro binari — USA,
 UNSMIL, Pakistan, tripartito arabo — e il proliferare di canali su un dossier già affollato è tipico dei
-processi **in impasse**, dove ogni sponsor cerca di intestarsi la soluzione. `[verificato: Nikkei Asia, Al-Araby al-Jadid]`
+processi **in impasse**, dove ogni sponsor cerca di intestarsi la soluzione. `[verificato: Nikkei Asia — B2, Al-Araby al-Jadid — B3]`
 
 Va confutata l'obiezione più forte: che questa convergenza sia invece **momentum** — un consenso internazionale
 crescente attorno all'unico assetto realistico. Tre segni distinguono lo stallo dal momentum, e qui puntano allo
@@ -55,9 +55,9 @@ massimi livelli (Rubio + NSC) mentre l'emissario dell'ovest vede solo il vice Se
 **arma** l'LNA (accordo JF-17 >4 mld $) prima ancora di mediare; l'Egitto è storicamente sponsor dell'est; la
 [[Presenza russa]] radica Haftar (basi di Tobruk). Ne risulta che quasi tutti i vettori esterni **rafforzano il
 polo orientale** — e il nodo che blocca l'unificazione militare è precisamente il posto di comandante in capo
-di Khalifa Haftar, inaccettabile per un ovest [[Frammentazione interna|frammentato]]. `[verificato: Al-Araby al-Jadid, Reuters, BBC Monitoring]`
+di Khalifa Haftar, inaccettabile per un ovest [[Frammentazione interna|frammentato]]. `[verificato: Al-Araby al-Jadid — B3, Reuters — B3, BBC Monitoring — B3]`
 Analisti indipendenti confermano il rischio: presentare il piano come power-sharing "**può mascherare una
-deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al Jazeera — outlet qatarino, ma il punto è attribuito a un analista terzo]`
+deriva verso il predominio di Haftar**" (F. Wehry, Carnegie). `[verificato: Al Jazeera — B3 (outlet qatarino); punto attribuito a F. Wehry/Carnegie — B2]`
 
 ## Il perno di Misurata [MEDIUM confidence]
 Lo sbilanciamento a est ha però un contrappeso concreto: **Misurata**, cuore militare-industriale dell'ovest e
@@ -75,15 +75,15 @@ che il **90% dei libici** vuole elezioni nazionali, e la road map dei tre vertic
 Consiglio Presidenziale) fissa il voto **entro febbraio 2027** (cfr. [[Elezioni]]). A [[Malta]] i leader di
 Misurata hanno chiesto un testo scritto e protestato contro l'iniziativa. Un power-sharing che unifica *prima*
 del voto può essere propedeutico alle urne — ma **regge solo se la road map porta davvero al voto**; altrimenti
-legittima gli status quo contro la volontà espressa. `[verificato: UNSMIL/Agenzia Nova, Alwasat]` Aggrava il
+legittima gli status quo contro la volontà espressa. `[verificato: UNSMIL — A2, Agenzia Nova — B3, Alwasat — C3]` Aggrava il
 deficit il fatto che i due nomi da elevare — Saddam Haftar e Ibrahim Dbeibah — siano **segnalati dal Panel ONU**
-per contrabbando di petrolio e appropriazione di fondi statali. `[verificato: Al Jazeera — outlet qatarino; da corroborare col rapporto del Panel ONU]`
+per contrabbando di petrolio e appropriazione di fondi statali. `[verificato: Al Jazeera — B3 (outlet qatarino); da corroborare col Panel ONU — A2]`
 
 ## Moventi divergenti = convergenza fragile [MEDIUM confidence]
 Sotto la formula comune, i moventi divergono e ne minano la tenuta:
-- **USA**: accesso delle major al greggio libico e **contenimento della Russia** — non più solo inferenza: la notifica del Dip. di Stato per riaprire l'ambasciata (21 lug) lo **mette per iscritto** ("competitori near-peer, in primis la Russia"). `[verificato: AP/Dip. di Stato]`
-- **Pakistan**: branding di "risolutore regionale" post-Iran e vendite d'armi all'est; perfino fonti neutre dubitano della sua **leva reale**. `[verificato: Nikkei, Al-Araby]`
-- **Egitto**: sicurezza nazionale (confine ~1.200 km), ma **equilibrismo** — ripristina i rapporti con Dbeibah per contrastare la Turchia, quindi nemmeno lo sponsor dell'est è monolitico. `[verificato: ISPI, Agenzia Nova]`
+- **USA**: accesso delle major al greggio libico e **contenimento della Russia** — non più solo inferenza: la notifica del Dip. di Stato per riaprire l'ambasciata (21 lug) lo **mette per iscritto** ("competitori near-peer, in primis la Russia"). `[verificato: AP — B3, Dip. di Stato — A2]`
+- **Pakistan**: branding di "risolutore regionale" post-Iran e vendite d'armi all'est; perfino fonti neutre dubitano della sua **leva reale**. `[verificato: Nikkei — B2, Al-Araby — B3]`
+- **Egitto**: sicurezza nazionale (confine ~1.200 km), ma **equilibrismo** — ripristina i rapporti con Dbeibah per contrastare la Turchia, quindi nemmeno lo sponsor dell'est è monolitico. `[verificato: ISPI — B2, Agenzia Nova — B3]`
 Moventi così eterogenei rendono la convergenza **tattica e reversibile**, non un fronte stabile.
 
 ## Cosa significa per l'Italia [MEDIUM confidence]

@@ -26,16 +26,16 @@ Ginevra/LPDF 2021 furono entrambi firmati e **mai attuati**, le elezioni del dic
 
 ## Le due scadenze in gioco
 - **Ratifica a 1 mese (near-term)**: se HoR e HCS non approvano il 4+4 entro ~fine set, scatta il ripiego —
-  adozione come **documento costituzionale** con avallo del **Consiglio di Sicurezza ONU** (clausola contesa). `[verificato: Elezioni]`
+  adozione come **documento costituzionale** con avallo del **Consiglio di Sicurezza ONU** (clausola contesa). `[verificato: Elezioni — A2]`
 - **Voto a 24 mesi (medium-term)**: elezioni sotto un'autorità esecutiva unica, ≈ **metà 2028** — target già
-  slittato da febbraio 2027. `[verificato: Elezioni]`
+  slittato da febbraio 2027. `[verificato: Elezioni — A2]`
 
 ## Vista esterna: cosa dice il tasso base
 Prima dei driver del momento, il **track record**: due grandi accordi ONU (Skhirat, Ginevra) firmati e non
 attuati; un voto (dic 2021) annunciato e saltato; una tregua (2020) che **ha retto** pur senza soluzione
 politica. La regolarità storica è netta: in Libia **gli accordi si firmano, non si attuano, e la non-guerra
 persiste per inerzia**. Questa base va **pesata più dei segnali recenti** (una firma fresca vale poco): sposta
-il baricentro sul **congelamento** e verso il basso la probabilità di attuazione nei tempi. `[verificato: Elezioni, Frammentazione interna]`
+il baricentro sul **congelamento** e verso il basso la probabilità di attuazione nei tempi. `[verificato: Elezioni — A2, Frammentazione interna — B3]`
 
 **Perché "stavolta" non basta (blend inside/outside).** Questa iterazione ha novità reali — coinvolgimento
 **diretto** dell'inviato USA (Boulos), l'**LNA firmatario per la prima volta**, una clausola di ripiego UNSC —
@@ -75,9 +75,9 @@ milizie e assenza di spoiler in contemporanea: una convergenza che il decennio l
 
 ## Perché la pena della prova è alta
 - **Domanda vs insider**: il 90% dei libici vuole elezioni (sondaggio UNSMIL), ma gli attori al potere temono
-  un voto che li rimuova — la legittimità spinge, l'interesse frena. `[verificato: Elezioni]`
+  un voto che li rimuova — la legittimità spinge, l'interesse frena. `[verificato: Elezioni — A2]`
 - **Legittimità dei nomi**: Saddam Haftar e Ibrahim Dbeibah sono segnalati dal Panel ONU per predazione della
-  rendita: un'unificazione costruita su di loro nasce fragile. `[verificato: Mediazione statunitense]`
+  rendita: un'unificazione costruita su di loro nasce fragile. `[verificato: Mediazione statunitense — B2]`
 
 ## Cosa significa per l'Italia
 Nessuno scenario-base dà una Libia stabile e democratica **entro le scadenze**; ma la **tregua** che regge

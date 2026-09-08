@@ -25,7 +25,7 @@ esplicitamente. `[MEDIUM confidence]`
 ## Correzione: l'Italia è decisiva su entrambi i tavoli
 La conclusione v1 ("decisiva in nessun tavolo") era **contraddetta dai suoi stessi dati**:
 - **Tavolo energetico:** [[Eni]] è il **primo operatore offshore a [[Cipro]]** (7 dei 13 blocchi; campi
-  Cronos/Zeus). Posizione decisiva. `[HIGH confidence — Washington Institute, CSIS]`
+  Cronos/Zeus). Posizione decisiva. `[HIGH confidence · fonti: Washington Institute — B2, CSIS — B2]`
 - **Tavolo libico:** Roma è **co-sponsor del GNU** e dentro la regia della [[Mediazione statunitense]]
   (trilaterale Meloni-Erdoğan-Dbeibah, Istanbul 2025). Posizione decisiva. `[HIGH confidence]`
 
