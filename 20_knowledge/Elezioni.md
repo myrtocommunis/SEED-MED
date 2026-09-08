@@ -4,11 +4,11 @@ tags: ["#geopolitica", "#influenza"]
 date: 2026-07-07
 status: "validated"
 depth: "deep"
-sources: "8"
+sources: "9"
 admiralty: "A2"
 tipo: "concept"
 provenance:
-  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13; UNSMIL/X 2026-07-14; Reuters 2026-08-30; Libya Observer 2026-09-01) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
+  - "00_inbox/dataset_libia/dataset_web_libia (BBC Monitoring 2026-06-19; Africa Intelligence 2026-03-13; UNSMIL/X 2026-07-14; Reuters 2026-08-30; Libya Observer 2026-09-01; Al Jazeera 2026-08-20) + web:verifica-curator (Libya Observer; Middle East Monitor; UNSMIL; Xinhua)"
 ---
 
 # Elezioni
@@ -33,6 +33,7 @@ Il nodo irrisolto della transizione libica, ostaggio della [[Frammentazione inte
 - [Xinhua — Libya's political bodies agree on roadmap](https://english.news.cn/20260618/76336ab7ca7d48ae9ffba91f4c687cad/c.html) (accesso 2026-07-07)
 - [Reuters — Libya rivals agree roadmap for elections within 24 months](https://www.reuters.com/world/africa/libya-rivals-agree-roadmap-elections-within-24-months-un-led-talks-2026-08-30/) (accesso 2026-09-03)
 - [Libya Observer — Boulos: time to implement the 4+4 agreement](https://libyaobserver.ly/news/boulos-time-implement-44-agreement-and-move-libya-toward-elections) (accesso 2026-09-03)
+- [Al Jazeera — Libya: draft agreement signed on elections and unification of power](https://www.aljazeera.net/news/2026/8/20/) (accesso 2026-09-07)
 
 ## 🔄 Aggiornamento (8 lug 2026 — fai ingest)
 - **Sondaggio ONU "Di' la tua" (UNSMIL, dialogo strutturato)**: il **90% dei libici** ritiene necessarie
@@ -52,6 +53,10 @@ Il nodo irrisolto della transizione libica, ostaggio della [[Frammentazione inte
   binario politico USA. `[verificato: UNSMIL]`
 
 ## 🔄 Accordo 4+4 firmato (30 ago 2026)
+- **Precursore — 20 ago (Tunisi, 7ª sessione)**: il 4+4 **sigla la bozza** dell'accordo finale (chiusura dei
+  primi due passi della road map UNSMIL) e rinvia a un incontro "**dentro il Paese**" entro fine mese per
+  finalizzarlo → è la firma del 30 ago a Tripoli. Presieduta da **Hanna Tetteh** (UNSMIL); a est il governo è
+  quello di **Osama Hammad** (nominato dal Parlamento, Bengasi). `[verificato: Al Jazeera/UNSMIL — N2: draft 20 ago → firma 30 ago]`
 - **All'UNSMIL di Tripoli** il **Comitato 4+4** (2 rappresentanti ciascuno di **GNU, HCS, HoR e [[Haftar|LNA]]**)
   firma l'intesa sui nodi elettorali: formazione del **board HNEC** + emendamenti alle leggi elettorali (i primi
   due passi della road map UNSMIL di ago 2025). Elezioni legislative e presidenziali "**entro non più di 24
