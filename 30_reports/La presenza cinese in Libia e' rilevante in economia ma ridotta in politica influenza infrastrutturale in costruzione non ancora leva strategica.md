@@ -8,7 +8,7 @@ formato: "prose-as-title"
 confidenza_giudizio: "MEDIUM (descrizione), MEDIUM-LOW (previsione)"
 orizzonte: "breve termine ~set 2027 · medio termine 2028-2031"
 fonti_note: ["Cina", "Libia", "Eni", "Egitto", "Haftar", "Pakistan", "Banca centrale libica", "Presenza russa", "Italia", "Infrastrutture energetiche libiche", "Mediazione statunitense"]
-revisione: "2 — post-adversary (voto 6/10): CIPS e tesi 'neutralità/rifiuto cinese' corroborati via WebSearch (CBL primaria A2 + Libya Herald/Observer/MEMO; ChinaMed primaria B2 + UNSC ris.2819/2026 A1), non più mono-fonte Decode39; ricalibrati i codici (gov.cn A2->B3; credibilita' mono-fonte 2->2 solo dove ora triangolato); JF-17 marcato come inferenza (allineato a nota Pakistan); §4 con bande e riordinato per verosimiglianza; nota su fonti e triangolazione"
+revisione: "2 — post-adversary (voto 6/10): CIPS e tesi 'neutralità/rifiuto cinese' corroborati via WebSearch (CBL primaria A2 + Libya Herald/Observer/MEMO; ChinaMed primaria B2 + UNSC ris.2819/2026 A2), non più mono-fonte Decode39; ricalibrati i codici (gov.cn A2->B3; credibilita' mono-fonte 2->2 solo dove ora triangolato); JF-17 marcato come inferenza (allineato a nota Pakistan); §4 con bande e riordinato per verosimiglianza; nota su fonti e triangolazione"
 nota_metodo: "Ogni paragrafo cita la fonte col codice Admiralty NATO (affidabilità A-F · credibilità 1-6). Sintesi dalla nota validata Cina, dalle sue fonti e da corroborazione web indipendente."
 ---
 
@@ -40,12 +40,12 @@ con investitori attivi sia a ovest (GNU) sia a est. `[Atlantic Council — B2]` 
 of China (gov. Pan Gongsheng) per collegare le banche commerciali libiche al **CIPS** — bonifici diretti in
 renminbi e lettere di credito via banche cinesi **senza intermediari** — è stato siglato ad **aprile 2026** e
 approfondito a **luglio** (visita a Pechino, apertura all'ingresso nel mercato obbligazionario cinese). Non è
-de-dollarizzazione, ma un'infrastruttura d'influenza durevole. `[CBL, comunicato ufficiale — A2]` `[Libya Herald · Libya Observer · Middle East Monitor — B2, indipendenti]` `[Decode39 — B2]`
+de-dollarizzazione, ma un'infrastruttura d'influenza durevole. `[CBL, comunicato ufficiale — A2]` `[Libya Herald · Libya Observer · Middle East Monitor — B3, indipendenti]` `[Decode39 — B2]`
 
 **Commercio ed energia.** La Camera di commercio petrolifera cinese ha aperto colloqui con l'Unione delle camere
 libiche su oil, gas e rinnovabili, con un forum energetico atteso nella **Free Zone di Misurata a novembre**. `[Decode39 — B2]`
 Pechino diversifica intanto le proprie importazioni (guerra Iran/Hormuz), con interesse per raffinazione ed export
-libici (cfr. [[Petrolio]], [[Infrastrutture energetiche libiche]]). `[BBC Monitoring — B2]` `[Libya Herald — C3]`
+libici (cfr. [[Petrolio]], [[Infrastrutture energetiche libiche]]). `[BBC Monitoring — B3]` `[Libya Herald — B3]`
 
 **Traccia militare (indiretta e inferita).** Non c'è impronta militare diretta cinese. Esiste l'accordo
 [[Pakistan]]-LNA (16 caccia **JF-17**, co-sviluppati con la Cina); che questo costituisca un *vettore
@@ -62,7 +62,7 @@ Il dato che fissa il limite, testuale: «Pechino ha **declinato** le richieste d
 l'[[Embargo armi]] ONU** o ad **accedere al fondo sovrano congelato**» — riluttanza a impelagarsi nel «pantano di
 sicurezza» libico. `[ChinaMed / China-Global South Project — B2, fonte primaria]` Coerente col profilo cinese al
 Consiglio di Sicurezza (ris. **2819/2026**): la Cina favorisce un percorso multilaterale di «reinvestimento
-ragionevole» degli asset, **non** un aiuto unilaterale a una parte. `[UNSC / press.un.org — A1]`
+ragionevole» degli asset, **non** un aiuto unilaterale a una parte. `[UNSC / press.un.org — A2]`
 
 **Il metro dell'Egitto.** Misurata rispetto al [[Egitto]], la scala libica si ridimensiona: il Cairo offre a
 Pechino Suez, una capitale amministrativa costruita da imprese cinesi, cloud Huawei e persino esercitazioni con
@@ -112,8 +112,8 @@ di ricostruzione e finanza lasciati scoperti.
 indipendente**, non lasciati a fonte singola: il **CIPS** poggia sul comunicato primario della
 [[Banca centrale libica]] (A2) più Libya Herald / Libya Observer / Middle East Monitor (B2); la tesi della **"neutralità
 calcolata / rifiuto cinese"** è citata dalla fonte primaria **ChinaMed** (B2, non dal suo rilancio Decode39) ed
-è coerente col profilo cinese al Consiglio di Sicurezza — ris. 2819/2026 (A1). Codici Admiralty: **A1** primaria
-ONU (UNSC); **A2** primaria ufficiale (CBL); **B2** analisi/monitoraggio affidabili (ChinaMed, Decode39,
-Atlantic Council, Africa Intelligence, Libya Herald/Observer, MEMO); **B3** fonte statale interessata (gov.cn) o
-di parte (LANA) e ripresa tradotta (SCMP); **C3** outlet locale. Le bande del §4 sono stime ancorate al quadro
+è coerente col profilo cinese al Consiglio di Sicurezza — ris. 2819/2026 (A2). Codici Admiralty (mai A1 per
+convenzione del vault): **A2** primarie ufficiali/IGO neutre (UNSC, CBL); **B2** analisi/monitoraggio affidabili
+(ChinaMed, Decode39, Atlantic Council, Africa Intelligence); **B3** fonte statale interessata (gov.cn) o di parte
+(LANA), flagship/stampa regionale (Libya Herald/Observer, MEMO) e ripresa tradotta (BBC Monitoring, SCMP); **C3** outlet locale. Le bande del §4 sono stime ancorate al quadro
 (set 2026), non misure. Base: nota validata [[Cina]].*
