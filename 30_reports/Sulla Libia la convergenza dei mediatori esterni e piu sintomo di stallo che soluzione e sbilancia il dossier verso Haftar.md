@@ -27,7 +27,8 @@ l'[[Italia]], parte più esposta d'Europa, un ruolo oltre i margini di sicurezza
 la regia politica: **ha ospitato il lancio del canale (Roma, set 2025), non ne detta l'agenda**. `[MEDIUM confidence]`
 
 ## Aggiornamento — 13 settembre 2026 `[la previsione regge]`
-- Il **4+4 firmato (30 ago)** con **LNA firmatario** e convergenza USA/Boulos è la **diluizione verso le urne** (timeline 24 mesi) prevista come più probabile — **non** la spartizione d'élite. `[UNSMIL — A2]` `[Rio Times/Libya Herald — B3]`
+- Il **4+4 firmato (30 ago)** con **LNA firmatario** e convergenza USA/Boulos è la **diluizione verso le urne** (timeline 24 mesi) prevista come più probabile — **non** la spartizione d'élite. `[UNSMIL — A2]` `[Libya Herald — B3]`
+- **Nota di coerenza (col report sulla pace)**: qui "diluizione prevale" descrive la **traiettoria della mediazione nel breve**; sull'orizzonte dei **24 mesi** quella traiettoria ha ~45-55% di **arenarsi in congelamento** (l'esito modale di quel report) — *processo* vs *esito*, non ranking in conflitto.
 - **11 set**: HoR/HCS spingono la cornice **6+6/Dichiarazione Costituzionale** → conferma la tesi *"convergenza sui nomi, non sul metodo"* e lo **stallo procedurale** (cornici concorrenti che si moltiplicano). `[Xinhua — B3]`
 - **Test di sostanza USA ancora aperto**: l'Atlantic Council pone esattamente la domanda del report — Washington sosterrà la road map ONU *"con più della retorica"*? `[Atlantic Council — B2]`
 - **Sbilanciamento a est**: Haftar ha **avallato** il 4+4 — coerente con la *direzione di pressione* verso l'est, ma dentro una cornice negoziata, non una spartizione imposta. `[Rio Times — B3]`

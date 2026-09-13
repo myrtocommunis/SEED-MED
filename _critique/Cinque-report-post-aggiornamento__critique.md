@@ -105,3 +105,21 @@ introdotto/lasciato quattro problemi correggibili: (1) **riconciliare T1** (il r
 **ricalibrare il verdetto gas** (da "si rafforza" a "regge, con contro-segnali di offerta e calo più lento del
 previsto"); (3) **riallineare titolo e tesi** del report Italia; (4) **N1** sul CBL; (5) distinguere **Eni vs
 Italia** nell'est-med. E, a monte, diffidare del pattern **"regge" cinque volte su cinque**.
+
+---
+
+## ✅ Correzioni applicate (13 set 2026)
+- **T1** — aggiunta una **"Nota di coerenza"** speculare in *pace* e *convergenza*: la diluizione è la
+  *traiettoria di breve*, il congelamento l'*esito modale a 24 mesi* in cui quella traiettoria tende ad arenarsi
+  (processo vs esito) → contraddizione dissolta.
+- **C3** — titolo del report Italia riportato da "convenienza" a **"vincolo operativo"** (riallineato a tesi e
+  filename; "convenienza" scivolava verso la *scelta*).
+- **G1** — verdetto gas da *"si rafforza"* a **"regge — con contro-segnali"**; aggiunta la contro-evidenza
+  (calo solo −2%, consumi ~9% sopra il target REPowerEU, tightness invernale) → declino strutturale reale ma
+  **graduale**, non shock imminente.
+- **T3/N1** — "nessuna crisi CBL a settembre" → **"nessuna crisi CBL *rilevata*"** (assenza di segnalazioni ≠ prova d'assenza).
+- **5a** — est-med: distinta la **vittoria commerciale di Eni** (gas via Zohr/Damietta, Egitto) dalla **leva-hub
+  italiana**, che resta indiretta.
+- **2a** — fonte "Haftar avalla il 4+4" spostata da Rio Times a **Libya Herald** (diretta).
+
+*Nota su T2*: il pattern "regge 5/5" è stato **spezzato** — il verdetto gas ora è qualificato, non trionfale.

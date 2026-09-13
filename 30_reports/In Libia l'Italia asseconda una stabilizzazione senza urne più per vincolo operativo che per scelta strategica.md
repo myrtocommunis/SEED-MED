@@ -1,5 +1,5 @@
 ---
-title: "In Libia l'Italia asseconda una stabilizzazione senza urne più per convenienza che per scelta strategica"
+title: "In Libia l'Italia asseconda una stabilizzazione senza urne più per vincolo operativo che per scelta strategica"
 tags: ["#influenza", "#geopolitica", "#italia"]
 date: 2026-07-08
 status: "draft"
@@ -10,7 +10,7 @@ fonti_note: ["Mediazione statunitense", "Elezioni", "Haftar", "Dbeibah", "Bilanc
 confidenza_giudizio: "MEDIUM-LOW"
 ---
 
-# In Libia l'Italia asseconda una stabilizzazione senza urne più per convenienza che per scelta strategica
+# In Libia l'Italia asseconda una stabilizzazione senza urne più per vincolo operativo che per scelta strategica
 
 > **Rev. 3** — aggiornamento empirico su base rev.2 (stress-test adversary v3 = 7/10). Integrati due dati validati dell'8 lug 2026: il **sondaggio UNSMIL "Di' la tua" (90% dei libici vuole elezioni)** e le **proteste di Misurata** contro l'emissario Boulos. La revisione **non riapre** i difetti già corretti (dicotomia stabilità-vs-elezioni; confusione movente/effetto; sovra-centralizzazione della regia USA): i nuovi dati ancorano empiricamente il **contesto** e forniscono un **metro di verifica** al giudizio, ma **non** documentano il movente italiano, che resta un'inferenza (N1).
 
