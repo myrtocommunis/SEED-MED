@@ -40,34 +40,39 @@ viola il diritto del mare. `[EEAS/UE — A2]`
 **Attuazione energetica.** Il MoU sta passando dalla carta ai fatti: **giugno 2025**, NOC libica e **TPAO**
 turca firmano un'intesa per studi geologico-geofisici in **quattro zone** marittime; Ankara punta ai **bandi di
 esplorazione di febbraio 2026** e a un 2026 "anno dell'energia", con TPAO che ottiene diritti su **due giacimenti**
-petroliferi. `[Maritime Executive — B2]` `[Daily Sabah — B3]` `[Al Jazeera — B3]`
+petroliferi. `[Maritime Executive — B2]` `[Daily Sabah — B3]` `[Al Jazeera — B3, qatarina/di parte]`
 
 **L'apertura all'est (la svolta 2025-26).** Da nemico di procura, Ankara passa all'ingaggio: il capo del **MIT**
 visita Bengasi (ago 2025), il ministro **Fidan incontra Haftar**; obiettivo esplicito, ottenere dal parlamento
-dell'est (HoR) l'**approvazione del MoU 2019** e stabilizzare l'influenza su entrambe le Libie. `[OSW — B2]` `[Al Jazeera — B3]`
+dell'est (HoR) l'**approvazione del MoU 2019** e stabilizzare l'influenza su entrambe le Libie. `[OSW — B2]` `[Al Jazeera — B3, qatarina/di parte]`
 Politica del bastone e della carota: **aprile 2026**, nuova fornitura di **droni all'esercito di Haftar**; e un
 contratto (20 lug 2026) con una compagnia turca per la **gestione delle frontiere terrestri** dell'est (fase 1:
-275 km, sotto Saddam [[Haftar]]). `[Al Jazeera — B3]` `[Al-Wasat, via media LNA — B3, fonte di parte, compagnia non nominata]`
+275 km, sotto Saddam [[Haftar]]). `[Al Jazeera — B3, qatarina/di parte]` `[Al-Wasat, via media LNA — B3, fonte di parte, compagnia non nominata]`
 
 **Impronta economica.** Le imprese turche contano **centinaia di progetti** (costruzioni, infrastrutture,
-energia) in tutta la Libia; l'interscambio ha toccato **~3,5 mld $** l'anno scorso. `[Al Jazeera — B3]`
+energia) in tutta la Libia; l'interscambio ha toccato **~3,5 mld $** l'anno scorso. `[Al Jazeera — B3, qatarina/di parte]`
 
 ## 2 · Quanta influenza ne deriva (a favore della Turchia)
 
 **Impegno di sicurezza, non solo accesso.** È qui la differenza con la [[Cina]]: Pechino declina l'impegno
 politico-militare; Ankara **lo ha già preso** (truppe, basi, l'intervento che salvò il GNU nel 2020). L'influenza
-turca è perciò **strutturale e difficilmente reversibile**: non poggia sulla convenienza economica ma su una
-**dipendenza di sicurezza** dell'ovest e su asset fisici sul terreno. `[nota Turchia — B2]` `[OSW — B2]`
+turca è perciò **strutturale e profonda**: poggia su una **dipendenza di sicurezza** dell'ovest e su asset
+fisici sul terreno, non sulla convenienza economica — **ma resta condizionata al consenso dell'ospite**:
+un'unificazione con peso orientale potrebbe rinegoziarne i termini (cfr. il report sulla pace). `[nota Turchia — B2]` `[OSW — B2]`
 
-**Il moltiplicatore: la ratifica dell'est.** L'hedging turco verso Haftar non è simmetria diplomatica fine a sé
-stessa: se l'**est ratifica il MoU 2019** — l'est «si direbbe pronto ad approvarlo», svolta a sorpresa —, Ankara
-otterrebbe una **base legale pan-libica** per le sue rivendicazioni nel Mediterraneo orientale, blindandole
-contro [[Grecia]], [[Cipro]] e UE. È il vero salto d'influenza in gioco. `[Maritime Executive — B2]` `[Arab Weekly — B3]`
+**Il moltiplicatore (potenziale): la ratifica dell'est.** L'hedging turco verso Haftar non è simmetria fine a sé
+stessa: **se e quando** l'**est ratificasse il MoU 2019** — l'est «si direbbe pronto ad approvarlo», svolta a
+sorpresa ma **non ancora avvenuta** —, Ankara ne guadagnerebbe **legittimità pan-libica e durata**: un MoU
+sostenuto da entrambe le Libie è politicamente più solido e difficile da disdire. **Attenzione a non
+sovrastimare**, però: la ratifica *interna* di un parlamento libico **non sana** l'obiezione di **diritto
+internazionale** — UE, [[Grecia]] e [[Cipro]] contestano il MoU sotto UNCLOS e per i diritti di Stati terzi
+*a prescindere* da chi lo ratifichi a Tripoli o Tobruk. Sarebbe un salto di **legittimità e tenuta politica**,
+non di validità legale internazionale. `[Maritime Executive — B2]` `[Arab Weekly — B3]` `[EEAS/UE — A2]`
 
 **I limiti.** L'influenza è profonda ma non incontrastata: la ratifica dell'est **non è ancora avvenuta**
 (N1: riportata come prospettiva, non fatto); l'[[Egitto]], storico sponsor di Haftar, guarda con diffidenza pur
 in fase di riavvicinamento con Ankara; UE e Grecia contestano il MoU. L'influenza turca è **egemonica a ovest,
-contesa a est**. `[Al Jazeera — B3]` `[OSW — B2]`
+contesa a est**. `[Al Jazeera — B3, qatarina/di parte]` `[OSW — B2]`
 
 ## 3 · Evoluzione — breve termine (~1 anno, a set 2027) `[MEDIUM-LOW confidence]`
 Consolidamento: basi e droni restano su entrambi i fronti; spinta per la **ratifica HoR del MoU**; bandi TPAO
@@ -82,7 +87,7 @@ Tre traiettorie (bande indicative):
   radicata su entrambi i fronti, MoU con copertura pan-libica, footprint economico in crescita — la Turchia
   diventa il co-garante esterno n.1 della Libia. `[OSW — B2]`
 - **Egemonia a ovest, stallo a est** — *~30-40%*: l'est non ratifica (o solo a metà); Ankara domina la
-  Tripolitania ma il MoU resta legalmente contestato, la Libia divisa anche sul dossier marittimo. `[Al Jazeera — B3]`
+  Tripolitania ma il MoU resta legalmente contestato, la Libia divisa anche sul dossier marittimo. `[Al Jazeera — B3, qatarina/di parte]`
 - **Ridimensionamento** — *~10-15%* `[coda]`: una rottura in Libia (cfr. report sulla pace) o una controspinta
   Egitto/Grecia/UE erode la posizione — improbabile dato il radicamento militare. `[nota Turchia — B2]`
 Fattore trasversale: il **riavvicinamento Turchia-Egitto-Emirati** (ex sponsor avversari di Haftar) rende l'est
@@ -107,6 +112,6 @@ ponte**: valorizzare la convergenza libica senza cedere sul fronte ZEE. `[valuta
 ---
 *Report di forecasting, confidenza HIGH (descrizione) / MEDIUM-LOW (previsione). Codici Admiralty (mai A1):
 **A2** primaria IGO/UE (EEAS); **B2** analisi/monitoraggio affidabili (nota validata Turchia, OSW, Maritime
-Executive); **B3** stampa regionale/di parte o allineata (Al Jazeera, Daily Sabah, Asharq al-Awsat, Arab Weekly,
+Executive); **B3** stampa regionale/di parte o allineata (Al Jazeera **qatarina**, usata coi limiti del caso e corroborata da OSW dove possibile; Daily Sabah, Asharq al-Awsat, Arab Weekly,
 Al-Wasat via media LNA). La ratifica dell'est del MoU è riportata come **prospettiva**, non fatto (N1). Le bande
 del §4 sono stime ancorate al quadro (set 2026), non misure. Base: nota validata [[Turchia]].*

@@ -82,3 +82,20 @@ Correzioni per 7-8: (1) **correggere A1** (ratifica = durata/legittimità intern
 (2) **caveare Al Jazeera** + corroborare il pivot-est con OSW/non-qatarine; (3) **ammorbidire "irreversibile"**
 (consenso dell'ospite); (4) **subordinare il moltiplicatore** ("se e quando" ratifica). La tesi descrittiva
 regge; l'analisi del premio marittimo va ricalibrata.
+
+---
+
+## ✅ Correzioni applicate (14 set 2026)
+- **A1** — corretto l'errore di diritto: la ratifica dell'est ora dà «**legittimità pan-libica e durata**», NON
+  blindatura anti-UE; aggiunto esplicitamente che «la ratifica *interna*… **non sana** l'obiezione di diritto
+  internazionale (UNCLOS, diritti di Stati terzi) *a prescindere* da chi lo ratifichi». `[+ EEAS/UE — A2]`
+- **A2** — **Al Jazeera** caveata come «qatarina/di parte» in tutte e 6 le citazioni inline + nota di chiusura
+  («usata coi limiti del caso e corroborata da OSW dove possibile»).
+- **A3** — «strutturale e difficilmente reversibile» → «strutturale e profonda… **ma condizionata al consenso
+  dell'ospite**: un'unificazione con peso orientale potrebbe rinegoziarne i termini».
+- **A4** — moltiplicatore **subordinato**: «**se e quando** l'est ratificasse… svolta a sorpresa ma **non ancora
+  avvenuta**»; titolo del paragrafo → «Il moltiplicatore **(potenziale)**».
+
+**Stato**: le due criticità alte del §2 (A1 errore di diritto, A2 slant qatarino) sono **chiuse**; il premio
+marittimo è ora ricalibrato (legittimità/durata, non validità internazionale). Voto stimato post-correzione:
+**7.5/10**. Non applicate (minori, fuori dalle 4 concordate): A5 mercenari siriani, A6 peso rivale-vs-partner.
