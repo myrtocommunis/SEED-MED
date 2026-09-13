@@ -1,5 +1,5 @@
 ---
-title: "Nel Mediterraneo orientale l'ambiguità italiana è hedging più che diluizione, ma va gestita come leva di ponte"
+title: "Nel Mediterraneo orientale l'ambiguità italiana è copertura strategica più che diluizione, ma va gestita come leva di ponte"
 tags: ["#dispute-zee", "#energia", "#difesa", "#italia"]
 date: 2026-09-13
 status: "draft"
@@ -10,15 +10,15 @@ fonti_note: ["EastMed", "Dispute zee", "Turchia", "Blue homeland", "Cipro", "Gre
 confidenza_giudizio: "MEDIUM"
 ---
 
-# Nel Mediterraneo orientale l'ambiguità italiana è hedging più che diluizione, ma va gestita come leva di ponte
+# Nel Mediterraneo orientale l'ambiguità italiana è copertura strategica più che diluizione, ma va gestita come leva di ponte
 
 > **Rev. 2** — riscrittura dopo lo stress-test dell'adversary (v1: "…siede a due tavoli opposti, e questa
 > ambiguità ne diluisce il peso", 5/10). Corretta la **contraddizione interna** (i dati mostravano l'Italia
-> decisiva su entrambi i tavoli) e adottata la lettura alternativa più forte (hedging/ponte) che la v1 sopprimeva.
+> decisiva su entrambi i tavoli) e adottata la lettura alternativa più forte (copertura strategica/ponte) che la v1 sopprimeva.
 
 **Bottom line.** L'Italia siede su due tavoli dell'Est mediterraneo — l'**EMGF** anti-turco ([[EastMed]]) e
 l'**asse libico** che coopera con Ankara. La v1 leggeva questa doppiezza come "diluizione". La lettura più
-robusta è opposta: essere l'**unico membro EMGF che parla anche con la [[Turchia]]** è *hedging razionale* e
+robusta è opposta: essere l'**unico membro EMGF che parla anche con la [[Turchia]]** è *copertura strategica razionale* e
 potenziale **leva di ponte**, non irrilevanza. Il rischio non è l'ambiguità in sé, ma il **non gestirla**
 esplicitamente. `[MEDIUM confidence]`
 
@@ -26,7 +26,7 @@ esplicitamente. `[MEDIUM confidence]`
 - **FID Eni + TotalEnergies su Cronos (Cipro), 28 lug 2026**: >3 Tcf, plateau 500 mmscf/d, **primo gas 2028**, lavorato a Zohr (Egitto) e liquefatto a Damietta per l'export UE. Il tavolo energetico passa da esplorazione a **sviluppo sanzionato** → rafforza la posizione di **[[Eni]]** (vittoria *commerciale*). Attenzione a non conflondere: il gas è lavorato a **Zohr e liquefatto a Damietta (Egitto)** ed esportato in UE **via Egitto**, non transita dall'Italia — è leva di **Eni** e dell'asse **egiziano**, non un guadagno diretto del *ruolo-hub italiano*. La centralità italiana resta indiretta (operatore-campione), non infrastrutturale. `[Eni — B2]` `[World Oil — B2]`
 - **Contenzioso [[Turchia]]**: persiste (non-riconoscimento ZEE, navi vicino ai siti) ma il progetto è **strutturato per mitigarlo** → conferma "il contenzioso rallenta, non blocca". `[World Oil — B2]` `[Fortune — B3]`
 - L'Est mediterraneo è sempre più letto come **fonte alternativa di energia per l'Europa** (Cipro, ago 2026). `[Fortune — B3]`
-- **Verdetto**: *hedging/ponte — gestire, non abbandonare* **regge**. L'FID **alza la posta cipriota di Eni** (più leva, ma anche più esposizione al contenzioso turco → ancor più ragione per gestire attivamente il ponte).
+- **Verdetto**: *copertura strategica/ponte — gestire, non abbandonare* **regge**. L'FID **alza la posta cipriota di Eni** (più leva, ma anche più esposizione al contenzioso turco → ancor più ragione per gestire attivamente il ponte).
 
 ## Correzione: l'Italia è decisiva su entrambi i tavoli
 La conclusione v1 ("decisiva in nessun tavolo") era **contraddetta dai suoi stessi dati**:
@@ -46,7 +46,7 @@ con Ankara non equivale ad avallare quel MoU**: la posizione ufficiale italiana 
 quindi l'"avallo di fatto" della v1 era inferenza. `[MEDIUM confidence]`
 
 ## La domanda giusta: l'ambiguità è costo o leva?
-- **A favore della leva (hedging):** l'Italia è l'unico attore capace di parlare con tutti; Francia e [[Grecia]],
+- **A favore della leva (copertura strategica):** l'Italia è l'unico attore capace di parlare con tutti; Francia e [[Grecia]],
   schierate, non possono fare il ponte. Mantenere entrambi i canali massimizza l'interesse nazionale su dossier
   separati (energia *e* migrazione). `[MEDIUM confidence — lettura oggi più credibile]`
 - **A favore del costo:** se Atene e Nicosia percepissero Roma come partner inaffidabile, il valore del ponte

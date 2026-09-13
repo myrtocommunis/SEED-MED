@@ -1,5 +1,5 @@
 ---
-title: "La presenza turca in Libia è la più radicata tra le potenze esterne: impegno militare e marittimo, non solo influenza — e ora fa hedging da posizione di forza"
+title: "La presenza turca in Libia è la più radicata tra le potenze esterne: impegno militare e marittimo, non solo influenza — e ora fa copertura strategica da posizione di forza"
 tags: ["#influenza", "#difesa", "#dispute-zee", "#energia"]
 date: 2026-09-13
 status: "draft"
@@ -11,7 +11,7 @@ fonti_note: ["Turchia", "Libia", "Blue homeland", "Dispute zee", "Cipro", "Greci
 nota_metodo: "Ogni paragrafo cita la fonte col codice Admiralty NATO (affidabilità A-F · credibilità 1-6; mai A1). Sintesi dalla nota validata Turchia e da corroborazione web (set 2026)."
 ---
 
-# La presenza turca in Libia è la più radicata tra le potenze esterne: impegno militare e marittimo, non solo influenza — e ora fa hedging da posizione di forza
+# La presenza turca in Libia è la più radicata tra le potenze esterne: impegno militare e marittimo, non solo influenza — e ora fa copertura strategica da posizione di forza
 
 **Bottom line.** A differenza della [[Cina]] (accesso economico senza impegno), la **Turchia** è la potenza
 esterna **più profondamente radicata** in [[Libia]]: ha **truppe, basi e droni** che nel 2020 salvarono Tripoli,
@@ -60,7 +60,7 @@ turca è perciò **strutturale e profonda**: poggia su una **dipendenza di sicur
 fisici sul terreno, non sulla convenienza economica — **ma resta condizionata al consenso dell'ospite**:
 un'unificazione con peso orientale potrebbe rinegoziarne i termini (cfr. il report sulla pace). `[nota Turchia — B2]` `[OSW — B2]`
 
-**Il moltiplicatore (potenziale): la ratifica dell'est.** L'hedging turco verso Haftar non è simmetria fine a sé
+**Il moltiplicatore (potenziale): la ratifica dell'est.** L'copertura strategica turco verso Haftar non è simmetria fine a sé
 stessa: **se e quando** l'**est ratificasse il MoU 2019** — l'est «si direbbe pronto ad approvarlo», svolta a
 sorpresa ma **non ancora avvenuta** —, Ankara ne guadagnerebbe **legittimità pan-libica e durata**: un MoU
 sostenuto da entrambe le Libie è politicamente più solido e difficile da disdire. **Attenzione a non

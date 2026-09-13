@@ -4,7 +4,7 @@ tags: ["#influenza", "#difesa", "#dispute-zee"]
 date: 2026-09-13
 status: "critique"
 tipo: "adversarial-review"
-target: "30_reports/La presenza turca in Libia e la piu radicata tra le potenze esterne impegno militare e marittimo non solo influenza e ora fa hedging da posizione di forza.md"
+target: "30_reports/La presenza turca in Libia e la piu radicata tra le potenze esterne impegno militare e marittimo non solo influenza e ora fa copertura strategica da posizione di forza.md"
 nota: "Stress-test inline; logica da .claude/agents/adversary.md."
 ---
 
