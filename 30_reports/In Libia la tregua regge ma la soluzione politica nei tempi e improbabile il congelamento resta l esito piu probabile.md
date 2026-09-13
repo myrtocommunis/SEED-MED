@@ -24,6 +24,12 @@ Ginevra/LPDF 2021 furono entrambi firmati e **mai attuati**, le elezioni del dic
 **frammentazione dal basso** (blackout, [[Milizie|scontri di Zawiya]], dimissioni del governatore della
 [[Banca centrale libica]]) evolve in modo più rapido del negoziato dall'alto. `[MEDIUM-LOW confidence]`
 
+## Aggiornamento — 13 settembre 2026 `[la previsione regge]`
+- **4+4 firmato il 30 ago** all'UNSMIL; HoR e HCS hanno tempo **fino a fine settembre** per ratificare, altrimenti scatta il ripiego "documento costituzionale + avallo UNSC". `[UNSMIL — A2]` `[Libya Herald — B3]`
+- **11 set — segnale-guida "A vs B"**: invece di ratificare, HoR e HCS insistono che il processo segua la **Dichiarazione Costituzionale** e l'Accordo Politico, offrendosi di ospitare il **"Comitato 6+6"** per le leggi elettorali. Non una ratifica netta ma il riaffiorare di cornici concorrenti e veto-player → **scivolamento verso A/B (congelamento/diluizione)**, non verso la soluzione piena (D). `[Xinhua — B3]` `[Middle East Forum: "crepe interne minacciano il 4+4" — B2]`
+- **Indicatori Sc.C attivi**: scontri Zawiya/Surman (ago), strada costiera chiusa; ACLED conta **>30 scontri a Zawiya nel 2026** e avverte che gli **attacchi con droni rischiano di innescare uno shutdown petrolifero**. La violenza sotto-soglia persiste (come previsto: *pace negativa ≠ assenza di violenza*); il rischio C resta vivo ma **non ancora detonato** (nessuna nuova crisi CBL a settembre). `[ACLED — B2]` `[Libya Herald — B3]`
+- **Verdetto**: tregua tiene, soluzione-nei-tempi senza progresso lineare, baricentro su congelamento/diluizione; "24 mesi" (≈metà 2028) confermato. **La chiamata centrale regge.**
+
 ## Le due scadenze in gioco
 - **Ratifica a 1 mese (near-term)**: se HoR e HCS non approvano il 4+4 entro fine settembre, scatta il piano alternativo di ripiego —
   adozione come **documento costituzionale** con avallo del **Consiglio di Sicurezza ONU** (clausola contesa). `[verificato: Elezioni — A2]`

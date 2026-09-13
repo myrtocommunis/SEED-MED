@@ -22,6 +22,12 @@ robusta è opposta: essere l'**unico membro EMGF che parla anche con la [[Turchi
 potenziale **leva di ponte**, non irrilevanza. Il rischio non è l'ambiguità in sé, ma il **non gestirla**
 esplicitamente. `[MEDIUM confidence]`
 
+## Aggiornamento — 13 settembre 2026 `[la tesi regge; posta energetica in rialzo]`
+- **FID Eni + TotalEnergies su Cronos (Cipro), 28 lug 2026**: >3 Tcf, plateau 500 mmscf/d, **primo gas 2028**, lavorato a Zohr (Egitto) e liquefatto a Damietta per l'export UE. Il tavolo energetico passa da esplorazione a **sviluppo sanzionato** → rafforza "**[[Eni]]/Italia decisiva sull'energia**"; il routing via Egitto salda l'asse Cipro-Italia-Egitto. `[Eni — B2]` `[World Oil — B2]`
+- **Contenzioso [[Turchia]]**: persiste (non-riconoscimento ZEE, navi vicino ai siti) ma il progetto è **strutturato per mitigarlo** → conferma "il contenzioso rallenta, non blocca". `[World Oil — B2]` `[Fortune — B3]`
+- L'Est mediterraneo è sempre più letto come **fonte alternativa di energia per l'Europa** (Cipro, ago 2026). `[Fortune — B3]`
+- **Verdetto**: *hedging/ponte — gestire, non abbandonare* **regge**. L'FID **alza la posta cipriota di Eni** (più leva, ma anche più esposizione al contenzioso turco → ancor più ragione per gestire attivamente il ponte).
+
 ## Correzione: l'Italia è decisiva su entrambi i tavoli
 La conclusione v1 ("decisiva in nessun tavolo") era **contraddetta dai suoi stessi dati**:
 - **Tavolo energetico:** [[Eni]] è il **primo operatore offshore a [[Cipro]]** (7 dei 13 blocchi; campi

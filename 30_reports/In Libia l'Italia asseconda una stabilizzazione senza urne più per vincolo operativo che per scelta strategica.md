@@ -16,6 +16,12 @@ confidenza_giudizio: "MEDIUM-LOW"
 
 **Bottom line.** Il piano di power-sharing promosso da Washington (tramite l'inviato Massad Boulos) tende a unificare le istituzioni libiche prima e a prescindere dal voto. L'[[Italia]] lo asseconda — ma la lettura più difendibile resta **pragmatismo obbligato** (Roma tratta con chi controlla la costa, eletto o meno), non una scelta deliberata *contro* le elezioni. La novità di rev.3 è che il piano *senza voto* non urta più solo un principio astratto, ma **una volontà popolare ora documentata**: il 90% dei libici chiede elezioni nazionali e Misurata è scesa in piazza contro l'iniziativa. Ciò **alza l'asticella** che il power-sharing deve superare per non risolversi in una legittimazione degli status quo. La tesi forte "Roma rinuncia alle urne per interesse" resta comunque **un'ipotesi interpretativa**, non un fatto documentato. `[MEDIUM-LOW confidence]`
 
+## Aggiornamento — 13 settembre 2026 `[la previsione regge]`
+- **La firma attesa è avvenuta (30 ago)**: 4+4 all'UNSMIL, orizzonte **24 mesi**. Il gap "esito/testo della firma" (§Gap) è **colmato**. `[UNSMIL — A2]`
+- Il nodo **propedeutico vs alternativo** resta aperto e anzi si inclina verso l'"alternativo": l'**11 set** HoR/HCS riportano il processo dentro la **Dichiarazione Costituzionale/6+6**, segnale che l'unificazione potrebbe **precedere** il voto **senza data vincolante**. Il *metro del 90%* resta da verificare ex post. `[Xinhua — B3]` `[Middle East Forum — B2]`
+- **Movente italiano**: nessuna fonte diretta nuova → l'inferenza (N1) resta invariata; il **caveat operativo** (rischio reputazionale/instabilità se il voto non arriva) è però ora più concreto.
+- **Verdetto**: *"pragmatismo obbligato, questione aperta"* **regge**.
+
 ## Il nuovo dato empirico: cosa cambia e cosa no
 **Documentato** `[HIGH confidence]`: il sondaggio UNSMIL "Di' la tua" (dialogo strutturato) registra che il **90% dei libici** ritiene necessarie elezioni nazionali, l'**82%** chiede la rimozione dei corrotti, l'**80%** attribuisce lo stallo alle divisioni politiche e alla mancanza di volontà di chi detiene il potere (metodo: 5.964 questionari online + 1.500 interviste telefoniche Diwan + piattaforma giovani). In parallelo, ai colloqui di [[Malta]] (6-7 lug) i leader di **Misurata** hanno chiesto un "draft scritto" dell'iniziativa e sono scese in piazza **proteste** contro l'arrivo di Boulos ("le decisioni libiche le prendono solo i libici"). `[verificato: UNSMIL — A2, Agenzia Nova — B3; BBC Monitoring — B3]`
 
