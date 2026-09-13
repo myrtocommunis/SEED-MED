@@ -1,5 +1,5 @@
 ---
-title: "In Libia la tregua regge ma la soluzione politica nei tempi è improbabile: il congelamento resta l'esito più probabile"
+title: "In Libia la tregua regge ma la soluzione politica entro le scadenze previste è improbabile: il congelamento resta l'esito più probabile"
 tags: ["#geopolitica", "#influenza", "#difesa"]
 date: 2026-09-08
 status: "draft"
@@ -12,7 +12,7 @@ fonti_note: ["Elezioni", "Mediazione statunitense", "Frammentazione interna", "M
 nota_fonti: "Input prevalentemente da note validate; Dbeibah e Banca centrale libica sono draft (segnalato)."
 ---
 
-# In Libia la tregua regge ma la soluzione politica nei tempi è improbabile: il congelamento resta l'esito più probabile
+# In Libia la tregua regge ma la soluzione politica entro le scadenze previste è improbabile: il congelamento resta l'esito più probabile
 
 **Bottom line.** Bisogna separare due cose che la domanda tende a fondere. La **pace-come-tregua** (assenza di
 guerra maggiore, garantita dal cessate-il-fuoco del 2020) è l'esito **più probabile**: regge in tutti gli
