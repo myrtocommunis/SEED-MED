@@ -37,7 +37,7 @@ incrementale (breve) e consolidamento a neutralità invariata (medio), salvo sal
 
 **🟠 Il CIPS è presentato quasi come fatto, mono-fonte**
 - L'accordo CBL-PBoC (lug 2026) poggia **solo** su Decode39; nessuna conferma ufficiale/primaria. Il report
-  hedgia bene sul significato ("non de-dollarizzazione") ma non sul **grado di verifica** del fatto stesso.
+  si cautela bene sul significato ("non de-dollarizzazione") ma non sul **grado di verifica** del fatto stesso.
 
 **🟠 "Militare indiretto via JF-17" ripetuto come descrizione, ma è inferenza**
 - La nota [[Pakistan]] ha **declassato a ipotesi** il claim "JF-17 = vettore dell'influenza cinese"; qui il

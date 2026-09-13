@@ -18,4 +18,4 @@
 ## Report formali (30_reports/)
 - Hub del gas italiano: esposizione ai fornitori vs domanda UE
 - Libia: stabilizzazione senza urne, vincolo o scelta (rev.3, ancorata al sondaggio 90%)
-- Mediterraneo orientale: ambiguità italiana come hedging/ponte
+- Mediterraneo orientale: ambiguità italiana come copertura strategica/ponte

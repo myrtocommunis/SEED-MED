@@ -12,7 +12,7 @@ nota: "Stress-test inline; logica da .claude/agents/adversary.md."
 
 ## 1. Tesi (ricostruita)
 La Turchia è la potenza esterna più radicata in Libia (impegno di sicurezza + posta marittima), non semplice
-influenza; l'apertura a Haftar è hedging da forza; la posta è la ratifica pan-libica del MoU 2019; previsione:
+influenza; l'apertura a Haftar è copertura strategica da forza; la posta è la ratifica pan-libica del MoU 2019; previsione:
 attore-sicurezza indispensabile (prevalente) su orizzonte medio.
 
 ## 2. Critical reading

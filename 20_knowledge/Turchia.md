@@ -31,7 +31,7 @@ dall'[[Egeo]] al Levante, sponsor del GNU di [[Dbeibah]] e in avvicinamento all'
   (MIT/Kalin). Incidente aereo del capo di SM libico Al-Haddad ad Ankara (dic 2025). `[verificato: Africa Intelligence]`
 - **20 lug 2026**: la "Direzione Generale" (LNA) firma con una **compagnia turca** (non nominata) un contratto
   per la **gestione e sorveglianza delle frontiere terrestri** libiche (fase 1: 275 km), sotto Saddam [[Haftar]]
-  e la "Vision 2030" — l'hedging turco **si estende all'est** (contratti con Haftar pur restando sponsor del
+  e la "Vision 2030" — la copertura strategica turca **si estende all'est** (contratti con Haftar pur restando sponsor del
   GNU), con implicazioni per il controllo della [[Migrazione]] e dei traffici nel [[Sahel]] libico. `[rivendicazione: Divisione media militare LNA, via Al-Wasat — compagnia non nominata]`
 
 ## Fonti

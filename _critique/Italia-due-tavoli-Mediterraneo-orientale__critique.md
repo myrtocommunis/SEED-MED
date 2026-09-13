@@ -67,7 +67,7 @@ adottare una linea più netta sulla legalità delle ZEE.
 > l'interesse nazionale italiano è *entrambe le cose*, e i due dossier non sono lo stesso gioco:
 > l'energia EastMed si decide sui blocchi ciprioti e sui contratti Eni; la migrazione e la Libia si
 > decidono sul controllo della costa tripolina, dove la Turchia è ineludibile. Mantenere entrambi i
-> canali non è "diluizione", è *hedging razionale*: l'Italia è l'unico attore che può parlare con
+> canali non è "diluizione", è *copertura strategica razionale*: l'Italia è l'unico attore che può parlare con
 > tutti, e questa è la definizione di leva, non di irrilevanza. La prova è nei dati della nota stessa:
 > Eni è il primo operatore offshore a Cipro (posizione decisiva) *e* Roma è co-sponsor a Tripoli
 > (posizione decisiva). Essere decisivi su due tavoli non è "decisiva in nessuno" — è il contrario.
@@ -83,7 +83,7 @@ scelta contestabile.
 |---|-----|------|----------------------|
 | 1 | Posizione ufficiale italiana sul MoU turco-libico 2019 non reperita (dichiarato N1) | Dato mancante | Alto — l'"avallo di fatto" è inferenza; regge o cade l'asse argomentativo |
 | 2 | Percezione reale greco-cipriota dell'affidabilità italiana non documentata | Evidenza mancante | Alto — il "costo dell'ambiguità" è asserito senza fonte dal lato dei presunti danneggiati |
-| 3 | Ambiguità assunta come difetto anziché come hedging/leva | Assunzione contestabile | Alto — inverte la conclusione se si adotta il framing negoziale opposto |
+| 3 | Ambiguità assunta come difetto anziché come copertura strategica/leva | Assunzione contestabile | Alto — inverte la conclusione se si adotta il framing negoziale opposto |
 | 4 | "Decisiva in nessun tavolo" contraddetta dai dati interni (Eni 7/13 blocchi) | Contraddizione interna | Alto — la conclusione forte è smentita dalle premesse fattuali della nota |
 | 5 | Peso reale dell'Italia nei negoziati EMGF vs Francia/Grecia non quantificato | Dato mancante | Medio — impedisce di misurare se il "ponte" italiano abbia valore |
 | 6 | Raccomandazione ("scegliere il tavolo energetico") potenzialmente contraria all'interesse nazionale dichiarato | Salto normativo | Medio-alto — la prescrizione sacrifica leva su Tripoli senza analisi costi/benefici |
@@ -100,7 +100,7 @@ dell'analista. Le fonti citate (Washington Institute, CSIS, Ifri per il Blue Hom
 autorevoli. Tuttavia la nota soffre di due debolezze gravi. Primo, una **contraddizione interna**:
 conclude che l'Italia è "decisiva in nessun tavolo" mentre i suoi stessi dati mostrano Eni come primo
 operatore offshore cipriota e Roma come co-sponsor a Tripoli — cioè decisiva su *entrambi*. Secondo,
-il framing "ambiguità = diluizione" è una scelta interpretativa che il controargomento (hedging/ponte)
+il framing "ambiguità = diluizione" è una scelta interpretativa che il controargomento (copertura strategica/ponte)
 rovescia usando gli stessi fatti; la nota non considera seriamente questa lettura alternativa, che è
 la più credibile. La raccomandazione finale ("scegliere il tavolo energetico") rischia inoltre di
 danneggiare l'interesse nazionale che la nota dichiara di servire, sacrificando la leva su Tripoli
