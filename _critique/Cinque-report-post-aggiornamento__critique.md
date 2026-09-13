@@ -123,3 +123,45 @@ Italia** nell'est-med. E, a monte, diffidare del pattern **"regge" cinque volte 
 - **2a** — fonte "Haftar avalla il 4+4" spostata da Rio Times a **Libya Herald** (diretta).
 
 *Nota su T2*: il pattern "regge 5/5" è stato **spezzato** — il verdetto gas ora è qualificato, non trionfale.
+
+---
+
+## 🔁 Adversary v2 — le correzioni tengono? (13 set 2026)
+
+Esito: **4 correzioni su 6 tengono pulite**; **T1 è chiusa solo a metà** e ha aperto una tensione minore; una
+nuova micro-tensione in est-med.
+
+| Correzione | Tiene? | Note |
+|-----------|--------|------|
+| C3 titolo Italia → "vincolo operativo" | ✅ | allineato a tesi + filename |
+| G1 verdetto gas → "regge, con contro-segnali" | ✅ | ben calibrato; contro-evidenza esplicita |
+| T3/N1 "crisi CBL rilevata" | ✅ | risolto |
+| T1 lato *pace* | ✅ | corpo (congelamento 45-55%) + nota concordano |
+| **T1 lato *convergenza*** | 🟠 **a metà** | vedi sotto |
+| 5a est-med Eni vs Italia | 🟡 | risolto, ma apre micro-tensione (sotto) |
+
+**🟠 V2-1 — T1 ha spostato la contraddizione da *inter* a *intra* (convergenza).** La nota di coerenza importa
+il ranking del report sulla pace («a 24 mesi ~45-55% congelamento, esito modale»), ma il **corpo** della
+convergenza dice ancora, senza scope temporale: «ne seguono, più probabili…: una **diluizione verso le urne**…
+la diluizione **prevale**». Ora *corpo* (diluizione = esito più probabile) e *nota* (congelamento = esito modale
+a 24 mesi) **rankano diversamente dentro lo stesso file**. La contraddizione inter-report è stata **dimezzata**,
+non eliminata. **Fix da 1 riga**: aggiungere «**nel breve**» al «la diluizione prevale» del corpo (scoping alla
+traiettoria), così corpo e nota coincidono. **Impatto: medio.**
+
+**🟡 V2-2 — est-med: "decisiva sull'energia" (corpo) vs "centralità indiretta" (update).** Il §"Correzione"
+afferma che l'Italia è **decisiva** sul tavolo energetico via Eni; l'update ora dice che la centralità italiana
+è **indiretta** (operatore-campione, gas via Egitto). Non è falso, ma va **disambiguato**: decisiva *come
+operatore* (Eni detiene i blocchi) ≠ decisiva *come hub* (il gas non transita). Una clausola lo chiude. **Basso.**
+
+**🟡 V2-3 — T2 solo parzialmente sanato.** Il verdetto gas è ora qualificato, ma **4 verdetti su 5 restano
+"regge"** invariati. Difendibili, ma il pattern di conferma uniforme non è del tutto rotto: sarebbe più credibile
+se anche gli altri dichiarassero il proprio contro-segnale più forte (es. pace: il rischio che l'11 set sia
+*ratifica-in-arrivo* e non *stallo*).
+
+**Nessun regresso** sulle correzioni già fatte; nessun wikilink rotto o A1 reintrodotto. Restano **una mezza
+correzione (V2-1, la più concreta)** e due rifiniture. Con la riga di scope su convergenza, T1 si chiude davvero.
+
+### Verdetto v2
+Voti aggiornati: pace **7**, convergenza **6.5** (bloccata dalla V2-1 nel suo stesso file), Italia **7**, gas
+**7**, est-med **7**. Le correzioni **tengono nella sostanza**; manca l'ultimo passo su convergenza per chiudere
+T1 in modo pulito.
