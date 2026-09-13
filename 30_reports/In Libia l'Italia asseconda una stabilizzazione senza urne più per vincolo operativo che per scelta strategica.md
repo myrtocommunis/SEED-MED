@@ -18,7 +18,7 @@ confidenza_giudizio: "MEDIUM-LOW"
 
 ## Aggiornamento — 13 settembre 2026 `[la previsione regge]`
 - **La firma attesa è avvenuta (30 ago)**: 4+4 all'UNSMIL, orizzonte **24 mesi**. Il gap "esito/testo della firma" (§Gap) è **colmato**. `[UNSMIL — A2]`
-- Il nodo **propedeutico vs alternativo** resta aperto e anzi si inclina verso l'"alternativo": l'**11 set** HoR/HCS riportano il processo dentro la **Dichiarazione Costituzionale/6+6**, segnale che l'unificazione potrebbe **precedere** il voto **senza data vincolante**. Il *metro del 90%* resta da verificare ex post. `[Xinhua — B3]` `[Middle East Forum — B2]`
+- Il nodo **propedeutico vs alternativo** resta aperto e anzi propende verso l'"alternativo": l'**11 set** HoR/HCS riportano il processo dentro la **Dichiarazione Costituzionale/6+6**, segnale che l'unificazione potrebbe **precedere** il voto **senza data vincolante**. Il *metro del 90%* resta da verificare ex post. `[Xinhua — B3]` `[Middle East Forum — B2]`
 - **Movente italiano**: nessuna fonte diretta nuova → l'inferenza (N1) resta invariata; il **caveat operativo** (rischio reputazionale/instabilità se il voto non arriva) è però ora più concreto.
 - **Verdetto**: *"pragmatismo obbligato, questione aperta"* **regge**.
 
