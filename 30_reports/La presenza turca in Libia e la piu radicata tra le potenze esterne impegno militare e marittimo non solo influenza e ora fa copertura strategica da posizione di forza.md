@@ -60,7 +60,7 @@ turca è perciò **strutturale e profonda**: poggia su una **dipendenza di sicur
 fisici sul terreno, non sulla convenienza economica — **ma resta condizionata al consenso dell'ospite**:
 un'unificazione con peso orientale potrebbe rinegoziarne i termini (cfr. il report sulla pace). `[nota Turchia — B2]` `[OSW — B2]`
 
-**Il moltiplicatore (potenziale): la ratifica dell'est.** L'copertura strategica turco verso Haftar non è simmetria fine a sé
+**Il moltiplicatore (potenziale): la ratifica dell'est.** La copertura strategica turca verso Haftar non è simmetria fine a sé
 stessa: **se e quando** l'**est ratificasse il MoU 2019** — l'est «si direbbe pronto ad approvarlo», svolta a
 sorpresa ma **non ancora avvenuta** —, Ankara ne guadagnerebbe **legittimità pan-libica e durata**: un MoU
 sostenuto da entrambe le Libie è politicamente più solido e difficile da disdire. **Attenzione a non

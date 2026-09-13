@@ -4,7 +4,7 @@ tags: ["#influenza", "#geopolitica"]
 date: 2026-09-08
 status: "critique"
 tipo: "adversarial-review"
-target: "30_reports/La presenza cinese in Libia e larga in economia ma sottile in politica influenza infrastrutturale in costruzione non ancora leva strategica.md"
+target: "30_reports/La presenza cinese in Libia e' rilevante in economia ma ridotta in politica influenza infrastrutturale in costruzione non ancora leva strategica.md"
 nota: "Stress-test inline; logica da .claude/agents/adversary.md. Focus extra: calibrazione dei codici Admiralty (erano la richiesta esplicita)."
 ---
 

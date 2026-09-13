@@ -4,7 +4,7 @@ tags: ["#geopolitica", "#influenza"]
 date: 2026-09-08
 status: "critique"
 tipo: "adversarial-review"
-target: "30_reports/Un accordo di pace intralibico entro le scadenze e improbabile i binari verosimili sono diluizione o congelamento non soluzione.md"
+target: "30_reports/In Libia la tregua regge ma la soluzione politica nei tempi e improbabile il congelamento resta l esito piu probabile.md"
 nota: "Stress-test inline; logica da .claude/agents/adversary.md. Focus: modi di fallimento del forecasting."
 ---
 
