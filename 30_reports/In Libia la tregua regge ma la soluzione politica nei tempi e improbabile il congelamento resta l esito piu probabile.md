@@ -28,8 +28,9 @@ Ginevra/LPDF 2021 furono entrambi firmati e **mai attuati**, le elezioni del dic
 - **4+4 firmato il 30 ago** all'UNSMIL; HoR e HCS hanno tempo **fino a fine settembre** per ratificare, altrimenti scatta il ripiego "documento costituzionale + avallo UNSC". `[UNSMIL — A2]` `[Libya Herald — B3]`
 - **11 set — segnale-guida "A vs B"**: invece di ratificare, HoR e HCS insistono che il processo segua la **Dichiarazione Costituzionale** e l'Accordo Politico, offrendosi di ospitare il **"Comitato 6+6"** per le leggi elettorali. Non una ratifica netta ma il riaffiorare di cornici concorrenti e veto-player → **scivolamento verso A/B (congelamento/diluizione)**, non verso la soluzione piena (D). `[Xinhua — B3]` `[Middle East Forum: "crepe interne minacciano il 4+4" — B2]`
 - **Indicatori Sc.C attivi**: scontri Zawiya/Surman (ago), strada costiera chiusa; ACLED conta **>30 scontri a Zawiya nel 2026** e avverte che gli **attacchi con droni rischiano di innescare uno shutdown petrolifero**. La violenza sotto-soglia persiste (come previsto: *pace negativa ≠ assenza di violenza*); il rischio C resta vivo ma **non ancora detonato** (nessuna crisi CBL *rilevata* a settembre — assenza di segnalazioni, non prova di assenza, N1). `[ACLED — B2]` `[Libya Herald — B3]`
-- **Nota di coerenza (col report sui mediatori)**: quel report legge la *diluizione-verso-le-urne* come **traiettoria attiva di breve**; qui il **congelamento** è l'**esito modale a 24 mesi** perché quella traiettoria tende ad arenarsi — *processo* (diluizione) vs *esito più probabile* (congelamento), non contraddizione.
-- **Verdetto**: tregua tiene, soluzione-nei-tempi senza progresso lineare, baricentro su congelamento/diluizione; "24 mesi" (≈metà 2028) confermato. **La chiamata centrale regge.**
+- **Nota di coerenza (col report sui mediatori)**: quel report legge la *diluizione-verso-le-urne* come **traiettoria attiva di breve**; qui il **congelamento** è l'**esito prevalente a 24 mesi** perché quella traiettoria tende ad arenarsi — *processo* (diluizione) vs *esito più probabile* (congelamento), non contraddizione.
+- **Contro-segnale da sorvegliare**: se HoR/HCS **ratificano** entro fine settembre, l'11 set si rivelerà *ratifica-in-arrivo* e non stallo — sposterebbe verso B/D e indebolirebbe la lettura del congelamento. Finora i segnali indicano però cornici concorrenti più che convergenza.
+- **Verdetto**: tregua tiene, soluzione-nei-tempi senza progresso lineare, baricentro su congelamento/diluizione; "24 mesi" (≈metà 2028) confermato. **La chiamata centrale regge, ma con questo contro-segnale dichiarato.**
 
 ## Le due scadenze in gioco
 - **Ratifica a 1 mese (near-term)**: se HoR e HCS non approvano il 4+4 entro fine settembre, scatta il piano alternativo di ripiego —
@@ -53,7 +54,7 @@ essere un automatismo. `[valutazione]`
 
 ## Scenari (esaustivi ed esclusivi; bande, non punti)
 
-### A · Congelamento / navigazione a vista — *~45-55%* `[modale]`
+### A · Congelamento / navigazione a vista — *~45-55%* `[prevalente]`
 Il 4+4 viene firmato ma **non attuato** (o attuato solo formalmente): HoR/HCS non ratificano davvero, il
 percorso "documento costituzionale + ONU" si arena, persistono **due governi** (Dbeibah a Tripoli, Hammad a
 Bengasi). **La tregua 2020 regge**: pace negativa senza soluzione al conflitto. Questo è considerato l'esito principale.
@@ -80,7 +81,8 @@ milizie e assenza di spoiler in contemporanea: una convergenza che il decennio l
 > negativa** (non-guerra nazionale) sopravvive in A+B+D, solo lo Sc. C la rompe → *pace negativa probabile,
 > soluzione politica nei tempi improbabile*; ma pace negativa **≠ assenza di violenza**.
 
-## Perché la pena della prova è alta
+## Perché è difficile credere a un esito pieno
+*In altre parole: perché il 4+4 porti davvero al voto servirebbero prove solide, che qui mancano — due dinamiche di fondo alzano l'ostacolo.*
 - **Domanda vs insider**: il 90% dei libici vuole elezioni (sondaggio UNSMIL), ma gli attori al potere temono
   un voto che li rimuova — la legittimità spinge, l'interesse frena. `[verificato: Elezioni — A2]`
 - **Legittimità dei nomi**: Saddam Haftar e Ibrahim Dbeibah sono segnalati dal Panel ONU per predazione della

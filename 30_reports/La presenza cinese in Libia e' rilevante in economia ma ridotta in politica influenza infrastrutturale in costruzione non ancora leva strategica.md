@@ -81,7 +81,7 @@ strutturata fosse ormai fattibile. `[Decode39 — B2]`
 
 ## 4 · Evoluzione — medio termine (2-5 anni, 2028-2031) `[MEDIUM-LOW confidence]`
 Tre traiettorie (bande indicative, non misure; si sovrappongono):
-- **Consolidamento economico a neutralità invariata** — *~50-60%* `[modale]`: con una stabilizzazione anche
+- **Consolidamento economico a neutralità invariata** — *~50-60%* `[prevalente]`: con una stabilizzazione anche
   parziale, la Cina diventa un attore rilevante di ricostruzione, energia e finanza (modello "Egitto-light"),
   **senza** scelta di campo — le rotaie del renminbi e i cantieri crescono, la leva politica no. `[Decode39 — B2]` `[ChinaMed — B2]`
 - **Ritrazione/stallo** — *~25-35%*: frammentazione persistente o escalation tengono la Cina a un impegno

@@ -165,3 +165,19 @@ correzione (V2-1, la più concreta)** e due rifiniture. Con la riga di scope su 
 Voti aggiornati: pace **7**, convergenza **6.5** (bloccata dalla V2-1 nel suo stesso file), Italia **7**, gas
 **7**, est-med **7**. Le correzioni **tengono nella sostanza**; manca l'ultimo passo su convergenza per chiudere
 T1 in modo pulito.
+
+---
+
+## ✅ Chiusure v2 applicate (13 set 2026)
+- **V2-1** — aggiunto «**nel breve**» a «la diluizione prevale» nel *corpo* della convergenza: ora corpo (breve)
+  e nota (24 mesi) concordano → **T1 chiusa** anche a livello intra-report. Convergenza sale a **7**.
+- **V2-2** — est-med: «Posizione decisiva **come operatore** (non come *hub*: gas cipriota esportato in UE **via
+  Egitto**, non transita dall'Italia)» → disambiguato operatore-vs-hub.
+- **V2-3** — pace: aggiunto un **contro-segnale dichiarato** (se HoR/HCS ratificano entro fine set, l'11 set era
+  *ratifica-in-arrivo* non stallo → verso B/D) → il pattern "regge" non è più cieco.
+- **Terminologia** — "modale" → **"prevalente"** (sinonimo di uso più corrente) in tutti i report; titolo
+  "Perché la pena della prova è alta" → **"Perché è difficile credere a un esito pieno"** con glossa in parole
+  piane (l'onere di prova richiesto è alto e qui manca).
+
+**Stato finale**: T1 chiusa (inter- e intra-report), V2-2/V2-3 risolte, terminologia ripulita. Tutti i 5 report
+a **7/10**, senza contraddizioni interne né inter-report residue.
