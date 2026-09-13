@@ -1,7 +1,7 @@
 ---
 title: "In Libia l'Italia asseconda una stabilizzazione senza urne più per vincolo operativo che per scelta strategica"
 tags: ["#influenza", "#geopolitica", "#italia"]
-date: 2026-07-08
+date: 2026-09-13
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"

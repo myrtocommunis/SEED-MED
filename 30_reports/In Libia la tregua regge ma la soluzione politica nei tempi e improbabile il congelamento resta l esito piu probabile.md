@@ -1,7 +1,7 @@
 ---
 title: "In Libia la tregua regge ma la soluzione politica entro le scadenze previste è improbabile: il congelamento resta l'esito più probabile"
 tags: ["#geopolitica", "#influenza", "#difesa"]
-date: 2026-09-08
+date: 2026-09-13
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"

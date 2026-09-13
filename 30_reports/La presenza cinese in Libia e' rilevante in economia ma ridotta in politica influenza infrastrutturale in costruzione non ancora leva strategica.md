@@ -1,7 +1,7 @@
 ---
 title: "La presenza cinese in Libia è rilevante in economia ma ridotta in politica: influenza infrastrutturale in costruzione, non (ancora) leva strategica"
 tags: ["#influenza", "#geopolitica", "#energia"]
-date: 2026-09-08
+date: 2026-09-13
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"

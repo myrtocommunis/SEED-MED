@@ -1,7 +1,7 @@
 ---
 title: "Sulla Libia la convergenza dei mediatori esterni è più sintomo di stallo che soluzione, e sbilancia il dossier verso Haftar"
 tags: ["#influenza", "#geopolitica", "#difesa"]
-date: 2026-07-14
+date: 2026-09-13
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"

@@ -1,7 +1,7 @@
 ---
 title: "Nel Mediterraneo orientale l'ambiguità italiana è hedging più che diluizione, ma va gestita come leva di ponte"
 tags: ["#dispute-zee", "#energia", "#difesa", "#italia"]
-date: 2026-07-07
+date: 2026-09-13
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"

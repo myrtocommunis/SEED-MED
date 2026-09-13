@@ -1,7 +1,7 @@
 ---
 title: "L'hub del gas italiano è meno esposto ai fornitori di quanto dica la retorica, ma più vulnerabile al calo della domanda europea"
 tags: ["#energia", "#italia", "#geopolitica"]
-date: 2026-07-07
+date: 2026-09-13
 status: "draft"
 tipo: "analysis"
 formato: "prose-as-title"
